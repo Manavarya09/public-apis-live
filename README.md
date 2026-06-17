@@ -16,7 +16,7 @@ npm i public-apis-live          # query the dataset in code (offline)
 ```
 As a Claude plugin (agents pick a working API for any task):
 ```
-/plugin marketplace add Manavarya09/public-apis-live
+/plugin marketplace add https://github.com/Manavarya09/public-apis-live.git
 /plugin install public-apis-live
 ```
 

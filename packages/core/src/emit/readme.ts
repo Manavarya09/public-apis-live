@@ -29,7 +29,7 @@ export function renderReadme(data: ApiEntry[], date: string): string {
     "```",
     "As a Claude plugin (agents pick a working API for any task):",
     "```",
-    "/plugin marketplace add Manavarya09/public-apis-live",
+    "/plugin marketplace add https://github.com/Manavarya09/public-apis-live.git",
     "/plugin install public-apis-live",
     "```",
     "",
