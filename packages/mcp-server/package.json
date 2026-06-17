@@ -1,0 +1,12 @@
+{
+  "name": "public-apis-live-mcp",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": { "public-apis-live-mcp": "./dist/index.js" },
+  "scripts": { "build": "tsc -p tsconfig.json" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "public-apis-live": "workspace:*",
+    "zod": "^3.23.8"
+  }
+}
