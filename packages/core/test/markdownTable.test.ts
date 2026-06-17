@@ -19,4 +19,11 @@ describe("parseMarkdownTable", () => {
     expect(rows.find((r) => r.name === "Dogs")!.auth).toBe("apiKey");
     expect(rows.find((r) => r.name === "Open Library")!.category).toBe("Books");
   });
+  it("strips inline markdown from name and description", () => {
+    const md =
+      "### X\n\n| API | Description | Auth | HTTPS | CORS |\n|---|---|---|---|---|\n| [**Bold Cat**](https://b.com) | A `code` and _italic_ desc | No | Yes | No |\n";
+    const r = parseMarkdownTable(md, "a/b")[0];
+    expect(r.name).toBe("Bold Cat");
+    expect(r.description).toBe("A code and italic desc");
+  });
 });

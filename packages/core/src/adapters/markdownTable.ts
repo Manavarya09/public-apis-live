@@ -10,6 +10,11 @@ function normAuth(raw: string): Auth {
 }
 const yes = (s: string) => s.replace(/`/g, "").trim().toLowerCase() === "yes";
 
+// Strip inline-markdown emphasis markers (**bold**, _italic_, `code`) and collapse whitespace.
+function clean(s: string): string {
+  return s.replace(/\*\*|__|`|\*|_/g, "").replace(/\s+/g, " ").trim();
+}
+
 export function parseMarkdownTable(md: string, sourceRepo: string): RawEntry[] {
   const out: RawEntry[] = [];
   let category = "Uncategorized";
@@ -25,9 +30,9 @@ export function parseMarkdownTable(md: string, sourceRepo: string): RawEntry[] {
     const link = cells[0].match(/\[([^\]]+)\]\(([^)]+)\)/);
     if (!link) continue; // skips header + separator rows
     out.push({
-      name: link[1].trim(),
+      name: clean(link[1]),
       url: link[2].trim(),
-      description: cells[1] ?? "",
+      description: clean(cells[1] ?? ""),
       category,
       auth: cells[2] !== undefined ? normAuth(cells[2]) : "unknown",
       https: cells[3] !== undefined ? yes(cells[3]) : false,
