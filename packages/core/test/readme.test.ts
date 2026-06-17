@@ -18,6 +18,15 @@ describe("emit", () => {
     expect(md).toContain("https://manavarya09.github.io/public-apis-live/");
     expect(md).toContain("img.shields.io/endpoint");
   });
+  it("lists working APIs before dead ones within a category", () => {
+    const downFirst: ApiEntry[] = [
+      { id: "z", name: "Zebra", description: "", category: "Animals", url: "https://z.com", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "down" },
+      { id: "a", name: "Aardvark", description: "", category: "Animals", url: "https://a.com", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "up" },
+    ];
+    const out = renderReadme(downFirst, "2026-06-17");
+    const catSection = out.slice(out.indexOf("### Animals"));
+    expect(catSection.indexOf("Aardvark")).toBeLessThan(catSection.indexOf("Zebra"));
+  });
   it("renders a Most reliable APIs section ranked by uptime", () => {
     expect(md).toContain("Most reliable APIs");
     const reliableIdx = md.indexOf("Most reliable APIs");

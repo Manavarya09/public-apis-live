@@ -5,6 +5,7 @@ import { filterApis, type WebApiEntry } from "../lib/filter";
 
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 const emoji: Record<WebApiEntry["status"], string> = { up: "✅", down: "❌", unknown: "❔" };
+const statusRank: Record<WebApiEntry["status"], number> = { up: 0, unknown: 1, down: 2 };
 
 export default function Page() {
   const [apis, setApis] = useState<WebApiEntry[]>([]);
@@ -35,10 +36,14 @@ export default function Page() {
     return dates.length ? dates.sort().at(-1)!.slice(0, 10) : "";
   }, [apis]);
 
-  const results = useMemo(
-    () => filterApis(apis, { search, category, auth, status }),
-    [apis, search, category, auth, status],
-  );
+  const results = useMemo(() => {
+    const r = filterApis(apis, { search, category, auth, status });
+    // Keep fuzzy relevance order while searching; otherwise show working APIs first.
+    if (search.trim()) return r;
+    return [...r].sort(
+      (a, b) => statusRank[a.status] - statusRank[b.status] || a.name.localeCompare(b.name),
+    );
+  }, [apis, search, category, auth, status]);
 
   return (
     <div className="wrap">

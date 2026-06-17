@@ -1,6 +1,7 @@
 import type { ApiEntry, Status } from "../types.js";
 
 const emoji: Record<Status, string> = { up: "✅", down: "❌", unknown: "❔" };
+const statusRank: Record<Status, number> = { up: 0, unknown: 1, down: 2 };
 
 export function renderReadme(data: ApiEntry[], date: string): string {
   const up = data.filter((a) => a.status === "up").length;
@@ -50,7 +51,10 @@ export function renderReadme(data: ApiEntry[], date: string): string {
 
   for (const cat of cats) {
     body.push(`### ${cat}`, "", "| API | Description | Auth | HTTPS | Status |", "|---|---|---|---|---|");
-    for (const a of data.filter((d) => d.category === cat)) {
+    const inCat = data
+      .filter((d) => d.category === cat)
+      .sort((a, b) => statusRank[a.status] - statusRank[b.status] || a.name.localeCompare(b.name));
+    for (const a of inCat) {
       body.push(`| [${a.name}](${a.url}) | ${a.description} | ${a.auth} | ${a.https ? "Yes" : "No"} | ${emoji[a.status]} |`);
     }
     body.push("");
