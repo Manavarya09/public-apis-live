@@ -1,6 +1,6 @@
 # public-apis-live
 
-**2235 public APIs · 1826 reachable · verified 2026-06-17**
+**2235 public APIs · 1888 reachable · verified 2026-06-17**
 
 The only public-API list where every entry is auto-checked for reachability and refreshed daily.
 
@@ -94,7 +94,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
-| [AniAPI](https://aniapi.com/docs/) | Anime discovery, streaming & syncing with trackers | OAuth | Yes | ✅ |
+| [AniAPI](https://aniapi.com/docs/) | Anime discovery, streaming & syncing with trackers | OAuth | Yes | ❔ |
 | [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database | apiKey | No | ✅ |
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) | Anime discovery & tracking | OAuth | Yes | ✅ |
 | [AnimeChan](https://github.com/RocktimSaikia/anime-chan) | Anime quotes (over 10k+) | none | Yes | ✅ |
@@ -102,10 +102,10 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news | none | Yes | ✅ |
 | [AOT quotes](https://attackontitanquotes.vercel.app/) | Attack on Titan Quotes API | none | Yes | ✅ |
 | [Catboy](https://catboys.com/api) | Neko images, funny GIFs & more | none | Yes | ✅ |
-| [Danbooru Anime](https://danbooru.donmai.us/wiki_pages/help:api) | Thousands of anime artist database to find good anime art | apiKey | Yes | ❔ |
+| [Danbooru Anime](https://danbooru.donmai.us/wiki_pages/help:api) | Thousands of anime artist database to find good anime art | apiKey | Yes | ✅ |
 | [Jikan](https://jikan.moe) | Unofficial MyAnimeList API | none | Yes | ✅ |
-| [Kitsu](https://kitsu.docs.apiary.io/) | Anime discovery platform | OAuth | Yes | ❌ |
-| [MangaDex](https://api.mangadex.org/docs.html) | ad-free manga reader offering high-quality images | apiKey | Yes | ❔ |
+| [Kitsu](https://kitsu.docs.apiary.io/) | Anime discovery platform | OAuth | Yes | ❔ |
+| [MangaDex](https://api.mangadex.org/docs.html) | ad-free manga reader offering high-quality images | apiKey | Yes | ❌ |
 | [Mangapi](https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/) | Translate manga pages from one language to another | apiKey | Yes | ✅ |
 | [MyAnimeList](https://myanimelist.net/clubs.php?cid=13727) | Anime and Manga Database and Community | OAuth | Yes | ✅ |
 | [NekosBest](https://docs.nekos.best) | Neko Images & Anime roleplaying GIFs | none | Yes | ✅ |
@@ -195,7 +195,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
-| [**Dynamic QR Code**](https://rapidapi.com/updeploy-tools/api/qr-code-dynamic-and-static1/details) | Generate dynamic and static QR Codes. | unknown | No | ❔ |
+| [**Dynamic QR Code**](https://rapidapi.com/updeploy-tools/api/qr-code-dynamic-and-static1/details) | Generate dynamic and static QR Codes. | unknown | No | ✅ |
 | [**EAN-Search**](https://www.ean-search.org/ean-database-api.html) | The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode. | unknown | No | ✅ |
 | [**Google Barcode**](https://developers.google.com/vision/barcodes-overview?hl=en) | The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once. | unknown | No | ✅ |
 | [**QR Code API**](https://fungenerators.com/api/qrcode/) | QR Code REST API. Can create QR code images or read existing images and return the contents. | unknown | No | ✅ |
@@ -246,7 +246,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Gutendex](https://gutendex.com/) | Web-API for fetching data from Project Gutenberg Books Library | none | Yes | ✅ |
 | [Harry Potter API](https://github.com/fedeperin/potterapi) | API to get data from Harry Potter books, movies, characters and spells | none | Yes | ✅ |
 | [KDP Intelligence](https://kdp-intelligence-api.vercel.app/docs) | KDP niche demand scores, competition analysis and revenue estimates | none | Yes | ✅ |
-| [Open Library](https://openlibrary.org/developers/api) | Books, book covers and related data | none | Yes | ❔ |
+| [Open Library](https://openlibrary.org/developers/api) | Books, book covers and related data | none | Yes | ✅ |
 | [Penguin Publishing](http://www.penguinrandomhouse.biz/webservices/rest/) | Books, book covers and related data | none | Yes | ✅ |
 | [PoetryDB](https://github.com/thundercomb/poetrydb#readme) | Enables you to get instant data from our vast poetry collection | none | Yes | ✅ |
 | [Quran](https://quran.api-docs.io/) | RESTful Quran API with multiple languages | none | Yes | ✅ |
@@ -272,8 +272,8 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Domainsdb.info](https://domainsdb.info/) | Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols. | none | Yes | ✅ |
 | [Favicon.im](https://favicon.im) | Instantly fetch and display the favicon for any website | none | Yes | ✅ |
 | [Freelancer](https://developers.freelancer.com) | Hire freelancers to get work done | OAuth | Yes | ✅ |
-| [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | OAuth | Yes | ❔ |
-| [Google Analytics](https://developers.google.com/analytics/) | Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content. | OAuth | Yes | ❔ |
+| [Gmail](https://developers.google.com/gmail/api/) | Flexible, RESTful access to the user's inbox | OAuth | Yes | ✅ |
+| [Google Analytics](https://developers.google.com/analytics/) | Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content. | OAuth | Yes | ✅ |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | apiKey | Yes | ✅ |
 | [Invovate](https://invovate.com/api) | Generate PDF, JSON & UBL invoices in 11 languages from one JSON POST | apiKey | Yes | ✅ |
 | [LogoKit](https://logokit.com) | Logo API for brands, stocks, and cryptocurrencies | apiKey | Yes | ✅ |
@@ -301,20 +301,20 @@ The only public-API list where every entry is auto-checked for reachability and 
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
-| [**CalendarIndex**](https://www.calendarindex.com) | Worldwide Holidays and Working Days API. | unknown | No | ❔ |
+| [**CalendarIndex**](https://www.calendarindex.com) | Worldwide Holidays and Working Days API. | unknown | No | ✅ |
 | [**DigiDates API**](https://digidates.de/en/) | Rest API for date and time calculations. | unknown | No | ✅ |
-| [**Holiday API**](https://holidayapi.pl/) | Public holiday API service for several supported countries. | unknown | No | ✅ |
+| [**Holiday API**](https://holidayapi.pl/) | Public holiday API service for several supported countries. | unknown | No | ❔ |
 | [Abstract's Holiday API](https://www.abstractapi.com/holidays-api) | National, regional, and religious holidays for 120+ countries & 100+ years | apiKey | Yes | ✅ |
 | [Byabbe](https://byabbe.se/on-this-day/#/default/get__month___day__events_json) | Seach histories from wikipedia for a particular day | none | Yes | ✅ |
 | [caldays](https://caldays.com/api) | Public holidays for 195+ countries | none | Yes | ✅ |
-| [Calendar Index](https://www.calendarindex.com/) | Worldwide Holidays and Working Days | apiKey | Yes | ❔ |
+| [Calendar Index](https://www.calendarindex.com/) | Worldwide Holidays and Working Days | apiKey | Yes | ✅ |
 | [Calendarific](https://calendarific.com/) | Worldwide Holidays | apiKey | Yes | ✅ |
 | [Checkiday - National Holiday](https://apilayer.com/marketplace/checkiday-api) | Industry-leading holiday data with over 5,000 holidays and thousands of descriptions | apiKey | Yes | ✅ |
 | [Church Calendar](http://calapi.inadiutorium.cz/) | Catholic liturgical calendar | none | No | ✅ |
 | [Czech Namedays Calendar](https://svatky.adresa.info) | Lookup for a name and returns nameday date | none | No | ❌ |
 | [Feriados API](https://feriadosapi.com) | Brazilian holidays API covering national, state, and municipal holidays for 5,570+ municipalities | apiKey | Yes | ✅ |
 | [Festivo Public Holidays](https://docs.getfestivo.com/docs/products/public-holidays-api/intro) | Fastest and most advanced public holiday and observance service on the market | apiKey | Yes | ❌ |
-| [Google Calendar](https://developers.google.com/google-apps/calendar/) | Display, create and modify Google calendar events | OAuth | Yes | ❔ |
+| [Google Calendar](https://developers.google.com/google-apps/calendar/) | Display, create and modify Google calendar events | OAuth | Yes | ✅ |
 | [Hebrew Calendar](https://www.hebcal.com/home/developer-apis) | Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc | none | No | ✅ |
 | [Holidays](https://holidayapi.com/) | Historical data regarding holidays | apiKey | Yes | ✅ |
 | [LectServe](http://www.lectserve.com) | Protestant liturgical calendar | none | No | ✅ |
@@ -354,8 +354,8 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Dropbox](https://www.dropbox.com/developers) | API for accessing stored files and pictures which is easy to use and free for small amounts of data. | OAuth | Yes | ✅ |
 | [File.io](https://www.file.io) | Super simple file sharing, convenient, anonymous and secure | none | Yes | ✅ |
 | [FileUp](https://github.com/RealSinaSnp/FileUp) | Temporary file hosting with upload API, expiration times, and view limits | none | Yes | ✅ |
-| [GoFile](https://gofile.io/api) | Unlimited size file uploads for free | apiKey | Yes | ❔ |
-| [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | OAuth | Yes | ❔ |
+| [GoFile](https://gofile.io/api) | Unlimited size file uploads for free | apiKey | Yes | ✅ |
+| [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | OAuth | Yes | ✅ |
 | [Gyazo](https://gyazo.com/api/docs) | Save & Share screen captures instantly | apiKey | Yes | ✅ |
 | [Imgbb](https://api.imgbb.com/) | Simple and quick private image sharing | apiKey | Yes | ✅ |
 | [Mega.nz](https://mega.io/developers) | File Sharing And Storage | none | Yes | ✅ |
@@ -404,7 +404,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [**Bible**](https://bible-api.com/) | JSON API for public domain and open bible translations. | unknown | No | ✅ |
 | [**Fruits API**](https://github.com/Franqsanz/fruits-api) | API GraphQL with information on fruit trees of the world. | unknown | No | ✅ |
 | [**Jokes**](https://jokes.one/api/joke/) | Full featured Jokes API | unknown | No | ✅ |
-| [**Perfect Tense API**](https://www.perfecttense.com/developers) | The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to correct all of your text automatically in one call. | unknown | No | ❔ |
+| [**Perfect Tense API**](https://www.perfecttense.com/developers) | The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to correct all of your text automatically in one call. | unknown | No | ✅ |
 | [**qKast Channel Content**](https://github.com/egfx/qKast) | Access live content collections sourced from any page around the web. | unknown | No | ✅ |
 | [**Random Data Generator**](https://randommer.io/randommer-api) | API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards. | unknown | No | ✅ |
 | [**Today in History**](https://history.muffinlabs.com/) | Daily historical events, births and deaths API. | unknown | No | ✅ |
@@ -455,7 +455,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [CoinDesk](https://old.coindesk.com/coindesk-api/) | CoinDesk's Bitcoin Price Index (BPI) in multiple currencies | none | Yes | ❔ |
 | [CoinDesk](http://www.coindesk.com/api/) | Bitcoin Price Index. | none | No | ✅ |
 | [CoinGecko](http://www.coingecko.com/api) | Free and Public Cryptocurrency API which you can use without an API key. | none | Yes | ✅ |
-| [Coinigy](https://coinigy.docs.apiary.io) | Interact with Coinigy Accounts and Exchange Accounts Directly. | apiKey | Yes | ❌ |
+| [Coinigy](https://coinigy.docs.apiary.io) | Interact with Coinigy Accounts and Exchange Accounts Directly. | apiKey | Yes | ❔ |
 | [Coinlayer](https://coinlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | Real-time Crypto Currency Exchange Rates | apiKey | Yes | ✅ |
 | [Coinlib](https://coinlib.io/apidocs) | Crypto Currency Prices | apiKey | Yes | ❌ |
 | [Coinlore](https://www.coinlore.com/cryptocurrency-data-api) | Cryptocurrencies prices, volume and more | none | Yes | ✅ |
@@ -466,7 +466,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Coinremitter](https://coinremitter.com/docs) | Cryptocurrencies Payment & Prices | apiKey | Yes | ✅ |
 | [CoinStats](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest) | Crypto Tracker | none | Yes | ✅ |
 | [CryptAPI](https://docs.cryptapi.io/) | Cryptocurrency Payment Processor | none | Yes | ✅ |
-| [CryptingUp](https://www.cryptingup.com/apidoc/#introduction) | Cryptocurrency data | none | Yes | ❔ |
+| [CryptingUp](https://www.cryptingup.com/apidoc/#introduction) | Cryptocurrency data | none | Yes | ❌ |
 | [CryptoCompare](https://www.cryptocompare.com/api#) | Cryptocurrencies Comparison. | none | Yes | ✅ |
 | [CryptoMarket](https://api.exchange.cryptomkt.com/) | Cryptocurrencies Trading platform | apiKey | Yes | ❔ |
 | [Cryptonator](https://www.cryptonator.com/api/) | Cryptocurrencies Exchange Rates. | none | Yes | ❔ |
@@ -478,7 +478,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Gateio](https://www.gate.io/api2) | API provides spot, margin and futures trading operations | apiKey | Yes | ✅ |
 | [Gates.io](https://www.gate.io/api2) | Blockchain Assets Exchange | none | Yes | ✅ |
 | [Gemini](https://docs.gemini.com/rest-api/) | Cryptocurrencies Exchange | none | Yes | ✅ |
-| [Hirak Exchange Rates](https://rates.hirak.site/) | Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits | apiKey | Yes | ✅ |
+| [Hirak Exchange Rates](https://rates.hirak.site/) | Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits | apiKey | Yes | ❔ |
 | [Huobi](https://huobiapi.github.io/docs/spot/v1/en/) | Seychelles based cryptocurrency exchange | apiKey | Yes | ✅ |
 | [Hyperliquid Market Data](https://rapidapi.com/theliminalguy/api/hyperliquid-market-data-oi-funding-open-interest) | Hyperliquid open interest, funding and cross-venue predicted rates per coin | apiKey | Yes | ✅ |
 | [icy.tools](https://developers.icy.tools/) | GraphQL based NFT API | apiKey | Yes | ✅ |
@@ -486,12 +486,12 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [INFURA Ethereum](https://infura.io/product/ethereum) | Interaction with the Ethereum mainnet and several testnets | apiKey | Yes | ✅ |
 | [Kraken](https://docs.kraken.com/rest/) | Cryptocurrencies Exchange | apiKey | Yes | ❌ |
 | [KuCoin](https://docs.kucoin.com/) | Cryptocurrency Trading Platform | apiKey | Yes | ✅ |
-| [Localbitcoins](https://localbitcoins.com/api-docs/) | P2P platform to buy and sell Bitcoins | none | Yes | ❔ |
+| [Localbitcoins](https://localbitcoins.com/api-docs/) | P2P platform to buy and sell Bitcoins | none | Yes | ✅ |
 | [Mempool](https://mempool.space/api) | Bitcoin API Service focusing on the transaction fee | none | Yes | ✅ |
-| [MercadoBitcoin](https://www.mercadobitcoin.com.br/api-doc/) | Brazilian Cryptocurrency Information | none | Yes | ❌ |
+| [MercadoBitcoin](https://www.mercadobitcoin.com.br/api-doc/) | Brazilian Cryptocurrency Information | none | Yes | ✅ |
 | [Messari](https://messari.io/api) | Provides API endpoints for thousands of crypto assets | none | Yes | ✅ |
 | [MEXC Global](https://www.mexc.com/mexc-api) | Crypto asset exchange for trading Marketplace | apiKey | Yes | ✅ |
-| [Nexchange](https://nexchange2.docs.apiary.io/) | Automated cryptocurrency exchange service | none | No | ❌ |
+| [Nexchange](https://nexchange2.docs.apiary.io/) | Automated cryptocurrency exchange service | none | No | ❔ |
 | [NiceHash](https://docs.nicehash.com/) | Largest Crypto Mining Marketplace | apiKey | Yes | ✅ |
 | [Nomics](https://nomics.com/docs/) | Historical and realtime cryptocurrency prices and market data | apiKey | Yes | ❔ |
 | [NovaDax](https://doc.novadax.com/en-US/#introduction) | NovaDAX API to access all market data, trading management endpoints | apiKey | Yes | ✅ |
@@ -511,10 +511,10 @@ The only public-API list where every entry is auto-checked for reachability and 
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
-| [**Bitcoin**](https://developer.bitcoin.org/) | Find useful resources, guides and reference material for developers. | unknown | No | ❔ |
+| [**Bitcoin**](https://developer.bitcoin.org/) | Find useful resources, guides and reference material for developers. | unknown | No | ✅ |
 | [**bitpay**](https://bitpay.com/developers) | A simple, RESTful API to the most powerful bitcoin infrastructure on the planet. | unknown | No | ✅ |
 | [**BlockCypher**](https://www.blockcypher.com/) | BlockCypher is the infrastructure fabric for blockchain applications. | unknown | No | ✅ |
-| [**BlockFacts.io**](https://blockfacts.io/) | Compliance-first digital asset data with REST and WebSocket API support. Real-time cryptocurrency data from multiple exchanges via a single unified API. SDKs for integration, rich historic tick data. | unknown | No | ✅ |
+| [**BlockFacts.io**](https://blockfacts.io/) | Compliance-first digital asset data with REST and WebSocket API support. Real-time cryptocurrency data from multiple exchanges via a single unified API. SDKs for integration, rich historic tick data. | unknown | No | ❔ |
 | [**Exchange Rates API**](https://blockchain.info/api/exchange_rates_api) | Market Prices and exchanges rates api. | unknown | No | ✅ |
 | [**PENDAX**](https://github.com/CompendiumFi/PENDAX-SDK) | Javascript SDK for Trading, Data, and Websockets for FTX, FTXUS, OKX, Bybit, & More. | unknown | No | ✅ |
 | [**Poloniex**](https://poloniex.com/support/api/) | US based digital asset exchange. | unknown | No | ✅ |
@@ -531,7 +531,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [**Ecb.europa.eu**](https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml) | Free currency exchange rates from european central bank(personal use). | unknown | No | ✅ |
 | [**ExchangeRate-API.com**](https://www.exchangerate-api.com/docs/overview) | Currency conversion API. | unknown | No | ✅ |
 | [**Frankfurter.app**](https://www.frankfurter.app/docs/) | Exchange rates and currency data API. | unknown | No | ✅ |
-| [**OpenRates.io**](http://www.openrates.io/) | Live exchange rates and currency conversion API. | unknown | No | ✅ |
+| [**OpenRates.io**](http://www.openrates.io/) | Live exchange rates and currency conversion API. | unknown | No | ❔ |
 | [**ratesapi.io**](https://ratesapi.io/) | Free foreign currency exchange rates and currency conversion. | unknown | No | ✅ |
 
 ### Currency Exchange
@@ -592,7 +592,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [addr.zone](https://addr.zone) | IP Classification and Intelligence API. Detect Proxies, Datacenter, Malicious IPs, ... | none | Yes | ❔ |
 | [AgentDeals](https://agentdeals.dev/api) | Search and compare developer free tiers, startup credits, and pricing changes | none | Yes | ✅ |
 | [Agify.io](https://agify.io) | Estimates the age from a first name | none | Yes | ✅ |
-| [Amazonscraperapi](https://amazonscraperapi.com) | Amazon product, search & batch scraping API with residential proxies (1000 free) | apiKey | Yes | ❔ |
+| [Amazonscraperapi](https://amazonscraperapi.com) | Amazon product, search & batch scraping API with residential proxies (1000 free) | apiKey | Yes | ✅ |
 | [API Grátis](https://apigratis.com.br/) | Multiples services and public APIs | none | Yes | ✅ |
 | [API Snap](https://api-snap.com) | Free utility API platform. QR codes, screenshots, PDFs, image resize, hashing, and more | apiKey | Yes | ❌ |
 | [API Status Check](https://apistatuscheck.com/api/status) | Real-time status monitoring for 270+ APIs and services | none | Yes | ✅ |
@@ -602,13 +602,13 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | none | Yes | ✅ |
 | [ArulJohn.com](https://api.aruljohn.com/ip/json) | A simple IP Address API in JSON | none | Yes | ✅ |
 | [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops) | The Azure DevOps basic components of a REST API request/response pair | apiKey | Yes | ✅ |
-| [Base](https://www.base-api.io/) | Building quick backends | apiKey | Yes | ❔ |
+| [Base](https://www.base-api.io/) | Building quick backends | apiKey | Yes | ✅ |
 | [Beeceptor](https://beeceptor.com/) | Build a mock Rest API endpoint in seconds | none | Yes | ✅ |
 | [BetterMeta](http://bettermeta.io) | Return a site's meta tags in JSON format | unknown | Yes | ✅ |
 | [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference/) | Access to Bitbucket's API. | OAuth | Yes | ✅ |
 | [Blague.xyz](https://blague.xyz/) | La plus grande API de Blagues FR/The biggest FR jokes API | apiKey | Yes | ✅ |
 | [Blitapp](https://blitapp.com/api/) | Schedule screenshots of web pages and sync them to your cloud | apiKey | Yes | ✅ |
-| [Blynk-Cloud](https://blynkapi.docs.apiary.io/#) | Control IoT Devices from Blynk IoT Cloud | apiKey | No | ❌ |
+| [Blynk-Cloud](https://blynkapi.docs.apiary.io/#) | Control IoT Devices from Blynk IoT Cloud | apiKey | No | ❔ |
 | [Bored](https://www.boredapi.com/) | Find random activities to fight boredom | none | Yes | ❔ |
 | [Brainshop.ai](https://brainshop.ai/) | Make A Free A.I Brain | apiKey | Yes | ❔ |
 | [BrewPage](https://brewpage.app) | Free hosting for HTML, JSON, key-value, files, multi-file sites with short URLs and TTL retention | none | Yes | ✅ |
@@ -659,7 +659,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Hipsum](https://hipsum.co) | Hipster-themed lorem ipsum generator for placeholder text | none | Yes | ✅ |
 | [host-t.com](https://host-t.com) | Basic DNS query via HTTP GET request | none | Yes | ✅ |
 | [Host.io](https://host.io) | Domains Data API for Developers | apiKey | Yes | ✅ |
-| [HTTP2.Pro](https://http2.pro/doc/api) | Test endpoints for client and server HTTP/2 protocol support | none | Yes | ❔ |
+| [HTTP2.Pro](https://http2.pro/doc/api) | Test endpoints for client and server HTTP/2 protocol support | none | Yes | ✅ |
 | [Httpbin](https://httpbin.org/) | A Simple HTTP Request & Response Service. | none | Yes | ✅ |
 | [Httpbin Cloudflare](https://cloudflare-quic.com/b/) | A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare. | none | Yes | ❌ |
 | [Hunter](https://hunter.io/api) | API for domain search, professional email finder, author finder and email verifier | apiKey | Yes | ✅ |
@@ -673,12 +673,12 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Image-Charts](https://documentation.image-charts.com/) | Generate charts, QR codes and graph images | none | Yes | ✅ |
 | [Image-Charts](https://www.image-charts.com/) | 1 URL = 1 Chart: Get a chart image in response to a URL GET or POST request. A drop-in-replacement for the deprecated Google Image Charts. | none | Yes | ✅ |
 | [import.io](http://api.docs.import.io/) | Retrieve structured data from a website or RSS feed | apiKey | Yes | ✅ |
-| [ip-fast.com](https://ip-fast.com/docs/) | IP address, country and city | none | Yes | ✅ |
+| [ip-fast.com](https://ip-fast.com/docs/) | IP address, country and city | none | Yes | ❔ |
 | [IP2WHOIS Hosted Domain Lookup](https://www.ip2whois.com) | WHOIS domain name and hosted domain lookup | apiKey | Yes | ✅ |
 | [IP2WHOIS Information Lookup](https://www.ip2whois.com/) | WHOIS domain name lookup | apiKey | Yes | ✅ |
 | [ipapi.is](https://ipapi.is/developers.html) | Public IP Address API with company, ASN and hosting detection support | none | Yes | ✅ |
 | [ipfind.io](https://ipfind.io) | Geographic location of an IP address or any domain name along with some other useful information | apiKey | Yes | ✅ |
-| [IPFinder](https://ipfinder.io/) | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API | apiKey | Yes | ❔ |
+| [IPFinder](https://ipfinder.io/) | Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API | apiKey | Yes | ✅ |
 | [IPify](https://www.ipify.org/) | A simple IP Address API | none | Yes | ✅ |
 | [IPinfo](https://ipinfo.io/developers) | Another simple IP Address API | none | Yes | ✅ |
 | [IPLocate.io](https://www.iplocate.io/docs) | Fast, free, accurate IP geolocation and threat data (proxy/VPN/hosting detection) API | none | Yes | ✅ |
@@ -715,7 +715,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Open Page Rank](https://www.domcop.com/openpagerank/) | API for calculating and comparing metrics of different websites using Page Rank algorithm | apiKey | Yes | ✅ |
 | [OpenAPIHub](https://hub.openapihub.com/) | The All-in-one API Platform | unknown | Yes | ✅ |
 | [OpenGraphr](https://opengraphr.com/docs/1.0/overview) | Really simple API to retrieve Open Graph data from an URL | apiKey | Yes | ✅ |
-| [OpenUnfurl](https://github.com/SolvoHQ/openunfurl) | No-signup link unfurl API returning Open Graph, Twitter Card and oEmbed metadata | none | Yes | ✅ |
+| [OpenUnfurl](https://github.com/SolvoHQ/openunfurl) | No-signup link unfurl API returning Open Graph, Twitter Card and oEmbed metadata | none | Yes | ❔ |
 | [oyyi](https://oyyi.xyz/docs/1.0) | API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation | none | Yes | ❔ |
 | [PageCDN](https://pagecdn.com/docs/public-api) | Public API for javascript, css and font libraries on PageCDN | apiKey | Yes | ✅ |
 | [PHPhub](https://phphub.net/linter/) | Validate PHP code | none | Yes | ✅ |
@@ -750,7 +750,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | none | Yes | ✅ |
 | [SerpApi](https://serpapi.com/) | Scrape Google and other search engines with a simple API. | apiKey | Yes | ✅ |
 | [serpstack](https://serpstack.com/) | Real-Time & Accurate Google Search Results API | apiKey | Yes | ✅ |
-| [Shadify](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles. | none | Yes | ❔ |
+| [Shadify](https://github.com/cheatsnake/shadify) | Service for generating data and executing logic to create various games and puzzles. | none | Yes | ✅ |
 | [Sheetsu](https://sheetsu.com/) | Easy google sheets integration | apiKey | Yes | ✅ |
 | [SHOUTCLOUD](http://shoutcloud.io/) | ALL-CAPS AS A SERVICE | none | No | ✅ |
 | [Sonar](https://github.com/Cgboal/SonarSearch) | Project Sonar DNS Enumeration API | none | Yes | ✅ |
@@ -908,12 +908,12 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [**Buffy the Vampire Slayer and Angel API**](https://github.com/Thatskat/btvs-angel-api) | Get episode, cast and crew data from Buffy the Vampire Slayer and Angel | unknown | No | ✅ |
 | [**Cat as a Service (CATAAS)**](https://cataas.com/#/) | Is a REST API to spread peace and love (or not) thanks to cats. | unknown | No | ❌ |
 | [**Comichron Data**](https://github.com/comichron-data/api) | API for comic sales data from comichron.com. | unknown | No | ✅ |
-| [**Danbooru**](https://danbooru.donmai.us/posts?tags=help%3Aapi) | Get images categorized by tags. | unknown | No | ❔ |
+| [**Danbooru**](https://danbooru.donmai.us/posts?tags=help%3Aapi) | Get images categorized by tags. | unknown | No | ✅ |
 | [**Final Space API**](https://finalspaceapi.com/docs/) | A RESTful API that provides information and images about the Final Space show. | unknown | No | ✅ |
 | [**Fun Translations API**](https://funtranslations.com/api/) | Translate to over 50+ languages from various TV Series and Movies. | unknown | No | ✅ |
 | [**Jandapress API**](https://github.com/sinkaroid/jandapress) | A doujinshi API with gather in mind. | unknown | No | ✅ |
 | [**Lord of the Rings API**](https://the-one-api.dev/documentation) | Get data about the books, the movie trilogy, many characters and quotes. | unknown | No | ✅ |
-| [**Lustpress API**](https://github.com/sinkaroid/lustpress) | Porn videos API that gather from popular adult sites. | unknown | No | ✅ |
+| [**Lustpress API**](https://github.com/sinkaroid/lustpress) | Porn videos API that gather from popular adult sites. | unknown | No | ❔ |
 | [**My Anime List API**](https://jikan.moe/) | Get data about any specific anime or anime genre of your choice. | unknown | No | ✅ |
 | [**Nick Cannon Baby API**](https://nick-cannon-baby-api.onrender.com/) | JSON API for entertainer Nick Cannon's many children and baby mamas. | unknown | No | ✅ |
 | [**Owen Wilson Wow API**](https://owen-wilson-wow-api.onrender.com/) | JSON API for actor Owen Wilson's "wow" exclamations in movies. | unknown | No | ✅ |
@@ -955,7 +955,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [National Grid ESO](https://data.nationalgrideso.com/) | Open data from Great Britain’s Electricity System Operator | none | Yes | ❔ |
 | [OpenAQ](https://docs.openaq.org/) | Open air quality data | apiKey | Yes | ✅ |
 | [PM2.5 Open Data Portal](https://pm25.lass-net.org/#apis) | Open low-cost PM2.5 sensor data | none | Yes | ✅ |
-| [PM25.in](http://www.pm25.in/api_doc) | Air quality of China | apiKey | No | ❌ |
+| [PM25.in](http://www.pm25.in/api_doc) | Air quality of China | apiKey | No | ❔ |
 | [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/) | Energy production photovoltaic (PV) energy systems | apiKey | Yes | ❔ |
 | [Srp Energy](https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html) | Hourly usage energy report for Srp customers | apiKey | Yes | ✅ |
 | [SustainMetrics](https://www.sustainmetrics.net/api) | 18,000+ GHG emission factors from DEFRA, EPA, ADEME, Ember | apiKey | Yes | ✅ |
@@ -1136,117 +1136,117 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Astroworld](https://api.astroworldmc.com) | Free Minecraft data: mobs, biomes, items, enchantments, structures, commands, versions, achievements, trades | none | Yes | ✅ |
 | [Autochess VNG](https://github.com/didadadida93/autochess-vng-api) | Rest Api for Autochess VNG | none | Yes | ✅ |
 | [Barter.VG](https://github.com/bartervg/barter.vg/wiki) | Provides information about Game, DLC, Bundles, Giveaways, Trading | none | Yes | ✅ |
-| [Battle.net](https://develop.battle.net/documentation/guides/getting-started) | Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs | OAuth | Yes | ❔ |
+| [Battle.net](https://develop.battle.net/documentation/guides/getting-started) | Diablo III, Hearthstone, StarCraft II and World of Warcraft game data APIs | OAuth | Yes | ✅ |
 | [Blue Archive](https://github.com/arufars/api-blue-archive) | Blue Archive Game data API Characters | none | Yes | ✅ |
-| [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) | Board games, RPG and videogames | none | Yes | ❔ |
-| [Brawl Stars](https://developer.brawlstars.com) | Brawl Stars Game Information | apiKey | Yes | ❔ |
+| [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) | Board games, RPG and videogames | none | Yes | ✅ |
+| [Brawl Stars](https://developer.brawlstars.com) | Brawl Stars Game Information | apiKey | Yes | ✅ |
 | [Bugsnax](https://www.bugsnaxapi.com/) | Get information about Bugsnax | none | Yes | ❔ |
 | [Call of Duty Mobile](https://callofdutymobile.vercel.app/) | Unofficial API for CODM player data and daily cache claiming | none | Yes | ✅ |
-| [CheapShark](https://www.cheapshark.com/api) | Steam/PC Game Prices and Deals | none | Yes | ❔ |
-| [Chess.com](https://www.chess.com/news/view/published-data-api) | Chess.com read-only REST API | none | Yes | ❔ |
+| [CheapShark](https://www.cheapshark.com/api) | Steam/PC Game Prices and Deals | none | Yes | ✅ |
+| [Chess.com](https://www.chess.com/news/view/published-data-api) | Chess.com read-only REST API | none | Yes | ✅ |
 | [Chuck Norris Database](http://www.icndb.com/api/) | Jokes | none | No | ✅ |
-| [Clash of Clans](https://developer.clashofclans.com) | An API for Clash of Clans to fetch all information about players, clans, wars, etc. | apiKey | Yes | ❔ |
-| [Clash Royale](https://developer.clashroyale.com) | Clash Royale Game Information | apiKey | Yes | ❔ |
-| [Comic Vine](https://comicvine.gamespot.com/api/documentation) | An extremely mature, well organized and continually updated resource of comic information. | none | Yes | ❔ |
+| [Clash of Clans](https://developer.clashofclans.com) | An API for Clash of Clans to fetch all information about players, clans, wars, etc. | apiKey | Yes | ✅ |
+| [Clash Royale](https://developer.clashroyale.com) | Clash Royale Game Information | apiKey | Yes | ✅ |
+| [Comic Vine](https://comicvine.gamespot.com/api/documentation) | An extremely mature, well organized and continually updated resource of comic information. | none | Yes | ✅ |
 | [Crafatar](https://crafatar.com) | API for Minecraft skins and faces | none | Yes | ❌ |
-| [Cross Universe](https://crossuniverse.psychpsyo.com/apiDocs.html) | Cross Universe Card Data | none | Yes | ❔ |
-| [Cross Universe](https://crossuniverse.net/apiDocs) | Cross Universe Card Data | none | Yes | ❔ |
+| [Cross Universe](https://crossuniverse.psychpsyo.com/apiDocs.html) | Cross Universe Card Data | none | Yes | ✅ |
+| [Cross Universe](https://crossuniverse.net/apiDocs) | Cross Universe Card Data | none | Yes | ✅ |
 | [Deck of Cards](http://deckofcardsapi.com/) | Deck of Cards | none | No | ✅ |
 | [Destiny The Game](https://bungie-net.github.io/multi/index.html) | Bungie Platform API | apiKey | Yes | ✅ |
 | [Destiny The Game](https://github.com/Bungie-net/api) | Bungie Platform API | apiKey | Yes | ✅ |
 | [Digimon Information](https://digimon-api.vercel.app/) | Provides information about digimon creatures | none | Yes | ✅ |
 | [Digimon TCG](https://documenter.getpostman.com/view/14059948/TzecB4fH) | Search for Digimon cards in digimoncard.io | none | Yes | ✅ |
 | [Disney](https://disneyapi.dev) | Information of Disney characters | none | Yes | ✅ |
-| [Dota 2](https://docs.opendota.com/) | Provides information about Player stats , Match stats, Rankings for Dota 2 | apiKey | Yes | ❔ |
+| [Dota 2](https://docs.opendota.com/) | Provides information about Player stats , Match stats, Rankings for Dota 2 | apiKey | Yes | ✅ |
 | [Dungeons and Dragons](https://www.dnd5eapi.co/docs/) | Reference for 5th edition spells, classes, monsters, and more | none | No | ✅ |
 | [Dungeons and Dragons (Alternate)](https://open5e.com/) | Includes all monsters and spells from the SRD (System Reference Document) as well as a search API | none | Yes | ✅ |
 | [Eight Ball API](https://eightballapi.com/) | Fortune-telling API with random, sentiment-biased, and multi-language responses | none | Yes | ✅ |
-| [Eve Online](https://esi.evetech.net/ui) | Third-Party Developer Documentation | OAuth | Yes | ❔ |
-| [FFXIV Collect](https://ffxivcollect.com/) | Final Fantasy XIV data on collectables | none | Yes | ❔ |
-| [FIFA Ultimate Team](https://www.easports.com/fifa/ultimate-team/api/fut/item) | FIFA Ultimate Team items API | none | Yes | ❔ |
+| [Eve Online](https://esi.evetech.net/ui) | Third-Party Developer Documentation | OAuth | Yes | ✅ |
+| [FFXIV Collect](https://ffxivcollect.com/) | Final Fantasy XIV data on collectables | none | Yes | ✅ |
+| [FIFA Ultimate Team](https://www.easports.com/fifa/ultimate-team/api/fut/item) | FIFA Ultimate Team items API | none | Yes | ❌ |
 | [Final Fantasy XIV](https://xivapi.com/) | Final Fantasy XIV Game data API | none | Yes | ✅ |
-| [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats | apiKey | Yes | ❔ |
+| [Fortnite](https://fortnitetracker.com/site-api) | Fortnite Stats | apiKey | Yes | ✅ |
 | [Fortnite](https://fortniteapi.com/) | Fortnite Stats & Cosmetics | apiKey | Yes | ✅ |
 | [Forza](https://docs.forza-api.tk) | Show random image of car from Forza | none | Yes | ❔ |
-| [FreeToGame](https://www.freetogame.com/api-doc) | Free-to-play games database API. | none | Yes | ❔ |
+| [FreeToGame](https://www.freetogame.com/api-doc) | Free-to-play games database API. | none | Yes | ✅ |
 | [Fun Facts](https://asli-fun-fact-api.herokuapp.com/) | Random Fun Facts | none | Yes | ❌ |
 | [FunTranslations](https://api.funtranslations.com/) | Translate Text into funny languages | none | Yes | ✅ |
-| [GamerPower](https://www.gamerpower.com/api-read) | Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more. | none | Yes | ❔ |
-| [GDBrowser](https://gdbrowser.com/api) | Easy way to use the Geometry Dash Servers | none | Yes | ❔ |
+| [GamerPower](https://www.gamerpower.com/api-read) | Access programmatically the best giveaways in gaming, from free games to beta keys to free in-game loot and more. | none | Yes | ✅ |
+| [GDBrowser](https://gdbrowser.com/api) | Easy way to use the Geometry Dash Servers | none | Yes | ✅ |
 | [Geek-Jokes](https://github.com/sameerkumar18/geek-joke-api) | Fetch a random geeky/programming related joke for use in all sorts of applications | none | Yes | ✅ |
-| [Genshin Impact](https://genshin.dev) | Genshin Impact game data | none | Yes | ❔ |
-| [Giant Bomb](https://www.giantbomb.com/api/documentation) | Video Games | apiKey | Yes | ❔ |
+| [Genshin Impact](https://genshin.dev) | Genshin Impact game data | none | Yes | ✅ |
+| [Giant Bomb](https://www.giantbomb.com/api/documentation) | Video Games | apiKey | Yes | ✅ |
 | [GraphQL Pokemon](https://github.com/favware/graphql-pokemon) | GraphQL powered Pokemon API. Supports generations 1 through 8 | none | Yes | ✅ |
-| [Guild Wars 2](https://wiki.guildwars2.com/wiki/API:Main) | Guild Wars 2 Game Information | apiKey | Yes | ❔ |
+| [Guild Wars 2](https://wiki.guildwars2.com/wiki/API:Main) | Guild Wars 2 Game Information | apiKey | Yes | ✅ |
 | [GW2Spidy](https://github.com/rubensayshi/gw2spidy/wiki) | GW2Spidy API, Items data on the Guild Wars 2 Trade Market | none | Yes | ✅ |
 | [Halo](https://developer.haloapi.com/) | Halo 5 and Halo Wars 2 Information | apiKey | Yes | ✅ |
 | [Hearthstone](http://hearthstoneapi.com/) | Hearthstone Cards Information | unknown | Yes | ✅ |
 | [Humble Bundle](https://rapidapi.com/Ziggoto/api/humble-bundle) | Humble Bundle's current bundles | apiKey | Yes | ✅ |
 | [Humor](https://humorapi.com) | Humor, Jokes, and Memes | apiKey | Yes | ✅ |
-| [Hypixel](https://api.hypixel.net/) | Hypixel player stats | apiKey | Yes | ❔ |
-| [Hyrule Compendium](https://github.com/gadhagod/Hyrule-Compendium-API) | API serving data on all interactive items in _The Legend of Zelda: Breath of the Wild_. | none | Yes | ✅ |
+| [Hypixel](https://api.hypixel.net/) | Hypixel player stats | apiKey | Yes | ✅ |
+| [Hyrule Compendium](https://github.com/gadhagod/Hyrule-Compendium-API) | API serving data on all interactive items in _The Legend of Zelda: Breath of the Wild_. | none | Yes | ❔ |
 | [Hytale](https://hytale-api.com/) | Hytale blog posts and jobs | none | Yes | ✅ |
-| [IGDB.com](https://api-docs.igdb.com) | Video Game Database | apiKey | Yes | ❔ |
+| [IGDB.com](https://api-docs.igdb.com) | Video Game Database | apiKey | Yes | ✅ |
 | [JokeAPI](https://sv443.net/jokeapi/v2/) | Programming, Miscellaneous and Dark Jokes | none | Yes | ✅ |
 | [Jokes](https://github.com/15Dkatz/official_joke_api) | Programming and general jokes | none | Yes | ✅ |
 | [Jokes One](https://jokes.one/api/joke/) | Joke of the day and large category of jokes accessible via REST API | apiKey | Yes | ✅ |
-| [Jservice](http://jservice.io) | Jeopardy Question Database | none | No | ❌ |
-| [Lichess](https://lichess.org/api) | Access to all data of users, games, puzzles and etc on Lichess | OAuth | Yes | ❔ |
+| [Jservice](http://jservice.io) | Jeopardy Question Database | none | No | ❔ |
+| [Lichess](https://lichess.org/api) | Access to all data of users, games, puzzles and etc on Lichess | OAuth | Yes | ✅ |
 | [LotteryData.io](https://lotterydata.io/) | Powerball, MegaMillions, and more results (live + historical) games | apiKey | Yes | ✅ |
 | [Magic The Gathering](http://magicthegathering.io/) | Magic The Gathering Game Information | none | No | ✅ |
 | [Mario Kart Tour](https://mario-kart-tour-api.herokuapp.com/) | API for Drivers, Karts, Gliders and Courses | OAuth | Yes | ❌ |
 | [Marvel](https://developer.marvel.com) | Access over 70 years of comic data with Marvel's official developer API. | apiKey | Yes | ✅ |
-| [Minecraft Server Status](https://api.mcsrvstat.us) | API to get Information about a Minecraft Server | none | Yes | ❔ |
-| [MMO Games](https://www.mmobomb.com/api) | MMO Games database, news and giveaways. | none | Yes | ❔ |
-| [mod.io](https://docs.mod.io) | Cross Platform Mod API | apiKey | Yes | ❔ |
+| [Minecraft Server Status](https://api.mcsrvstat.us) | API to get Information about a Minecraft Server | none | Yes | ✅ |
+| [MMO Games](https://www.mmobomb.com/api) | MMO Games database, news and giveaways. | none | Yes | ✅ |
+| [mod.io](https://docs.mod.io) | Cross Platform Mod API | apiKey | Yes | ✅ |
 | [Mojang](https://wiki.vg/Mojang_API) | Mojang / Minecraft API | apiKey | Yes | ❔ |
 | [Monster Hunter World](https://docs.mhw-db.com/) | Monster Hunter World data | none | Yes | ✅ |
 | [Open Trivia](https://opentdb.com/api_config.php) | Trivia Questions | none | Yes | ✅ |
 | [PandaScore](https://developers.pandascore.co/) | E-sports games and results | apiKey | Yes | ✅ |
 | [PandaScore](https://api.pandascore.co) | E-sports games and results | apiKey | Yes | ✅ |
-| [Path of Exile](https://www.pathofexile.com/developer/docs) | Path of Exile Game Information | OAuth | Yes | ❔ |
-| [PlayerDB](https://playerdb.co/) | Query Minecraft, Steam and XBox Accounts | none | Yes | ❔ |
-| [PlayerUnknown's Battlegrounds](https://tracker.gg/developers) | PUBG Stats | apiKey | Yes | ❔ |
-| [Pokéapi](https://pokeapi.co) | All the Pokémon data you'll ever need, in one place. | none | Yes | ❔ |
+| [Path of Exile](https://www.pathofexile.com/developer/docs) | Path of Exile Game Information | OAuth | Yes | ✅ |
+| [PlayerDB](https://playerdb.co/) | Query Minecraft, Steam and XBox Accounts | none | Yes | ✅ |
+| [PlayerUnknown's Battlegrounds](https://tracker.gg/developers) | PUBG Stats | apiKey | Yes | ✅ |
+| [Pokéapi](https://pokeapi.co) | All the Pokémon data you'll ever need, in one place. | none | Yes | ✅ |
 | [PokéAPI (GraphQL)](https://github.com/mazipan/graphql-pokeapi) | The Unofficial GraphQL for PokeAPI | none | Yes | ✅ |
-| [Pokemon Price Tracker](https://www.pokemonpricetracker.com/pokemon-card-price-api) | Real-time and historical Pokemon card pricing from TCGPlayer and eBay graded sales | apiKey | Yes | ❔ |
-| [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | none | Yes | ❔ |
+| [Pokemon Price Tracker](https://www.pokemonpricetracker.com/pokemon-card-price-api) | Real-time and historical Pokemon card pricing from TCGPlayer and eBay graded sales | apiKey | Yes | ✅ |
+| [Pokémon TCG](https://pokemontcg.io) | Pokémon TCG Information | none | Yes | ✅ |
 | [Pokémon-3D-api](https://documenter.getpostman.com/view/29725199/2sAYX8KMU8) | 3D Pokémon models for ThreeJS | none | Yes | ✅ |
 | [Psychonauts](https://psychonauts-api.netlify.app/) | Psychonauts World Characters Information and PSI Powers | none | Yes | ✅ |
-| [PUBG](https://developer.pubg.com/) | Access in-game PUBG data | apiKey | Yes | ❔ |
+| [PUBG](https://developer.pubg.com/) | Access in-game PUBG data | apiKey | Yes | ✅ |
 | [Puyo Nexus](https://github.com/deltadex7/puyodb-api-deno) | Puyo Puyo information from Puyo Nexus Wiki | none | Yes | ✅ |
 | [quizapi.io](https://quizapi.io/) | Access to various kind of quiz questions | apiKey | Yes | ✅ |
-| [Raider](https://raider.io/api) | Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft | none | Yes | ❔ |
+| [Raider](https://raider.io/api) | Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft | none | Yes | ✅ |
 | [Random Facts](https://fungenerators.com/api/facts/) | Random Facts from hundreds of categories | apiKey | Yes | ✅ |
-| [RAWG.io](https://rawg.io/apidocs) | 500,000+ games for 50 platforms including mobiles | apiKey | Yes | ❔ |
+| [RAWG.io](https://rawg.io/apidocs) | 500,000+ games for 50 platforms including mobiles | apiKey | Yes | ✅ |
 | [REG-Vault](https://regvault.org/docs/api) | Retro-gaming metadata catalog — 91k games across 99 systems (box art, manuals, screenshots, gameplay previews). MCP endpoint at `api.regvault.org/mcp` | none | Yes | ✅ |
 | [Rick and Morty](https://rickandmortyapi.com) | All the Rick and Morty information, including images. | none | Yes | ✅ |
-| [Riot Games](https://developer.riotgames.com/) | League of Legends Game Information | apiKey | Yes | ❔ |
+| [Riot Games](https://developer.riotgames.com/) | League of Legends Game Information | apiKey | Yes | ✅ |
 | [RPS 101](https://rps101.pythonanywhere.com/api) | Rock, Paper, Scissors with 101 objects | none | Yes | ❌ |
-| [RuneScape](https://runescape.wiki/w/Application_programming_interface) | RuneScape and OSRS RPGs information | none | Yes | ❔ |
+| [RuneScape](https://runescape.wiki/w/Application_programming_interface) | RuneScape and OSRS RPGs information | none | Yes | ✅ |
 | [Sakura CardCaptor](https://github.com/JessVel/sakura-card-captor-api) | Sakura CardCaptor Cards Information | none | Yes | ✅ |
-| [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | none | Yes | ❔ |
+| [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | none | Yes | ✅ |
 | [SpaceTradersAPI](https://spacetraders.io?rel=pub-apis) | A playable inter-galactic space trading MMOAPI | OAuth | Yes | ✅ |
 | [Steam](https://steamapi.xpaw.me/) | Steam Web API documentation | apiKey | Yes | ✅ |
 | [Steam](https://github.com/Revadike/InternalSteamWebAPI/wiki) | Internal Steam Web API documentation | none | Yes | ✅ |
 | [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API) | Steam Client Interaction | OAuth | Yes | ✅ |
 | [SuperHeroes](https://superheroapi.com) | All SuperHeroes and Villains data from all universes under a single API | apiKey | Yes | ✅ |
-| [TCG Price Lookup](https://tcgpricelookup.com/tcg-api) | Live trading card prices across Pokemon, MTG, Yu-Gi-Oh, Lorcana, One Piece, Star Wars Unlimited, Flesh and Blood | apiKey | Yes | ❔ |
-| [TCGApi](https://tcgapi.dev/introduction/) | Trading card game prices and historical data across 89+ games | apiKey | Yes | ❔ |
+| [TCG Price Lookup](https://tcgpricelookup.com/tcg-api) | Live trading card prices across Pokemon, MTG, Yu-Gi-Oh, Lorcana, One Piece, Star Wars Unlimited, Flesh and Blood | apiKey | Yes | ✅ |
+| [TCGApi](https://tcgapi.dev/introduction/) | Trading card game prices and historical data across 89+ games | apiKey | Yes | ✅ |
 | [TCGdex](https://www.tcgdex.net/docs) | Multi languages Pokémon TCG Information | none | Yes | ❌ |
-| [TCGdex](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards | none | Yes | ❔ |
-| [Tebex](https://docs.tebex.io/plugin/) | Tebex API for information about game purchases | unknown | Yes | ❔ |
-| [TETR.IO](https://tetr.io/about/api/) | TETR.IO Tetra Channel API | none | Yes | ❔ |
-| [TheGamestracker](https://thegamestracker.com/server-info-api) | Game servers informations in JSON format | apiKey | Yes | ❔ |
+| [TCGdex](https://www.tcgdex.dev/) | A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards | none | Yes | ✅ |
+| [Tebex](https://docs.tebex.io/plugin/) | Tebex API for information about game purchases | unknown | Yes | ✅ |
+| [TETR.IO](https://tetr.io/about/api/) | TETR.IO Tetra Channel API | none | Yes | ✅ |
+| [TheGamestracker](https://thegamestracker.com/server-info-api) | Game servers informations in JSON format | apiKey | Yes | ✅ |
 | [Traveller Map](https://travellermap.com/doc/api) | [Traveller TTRPG](https://www.mongoosepublishing.com/collections/traveller-rpgs) map world, sub sector and sector information in json, PDF and other formats | none | Yes | ✅ |
 | [Tronald Dump](https://www.tronalddump.io/) | The dumbest things Donald Trump has ever said | none | Yes | ✅ |
 | [Universalis](https://universalis.app/docs/index.html) | Final Fantasy XIV market board data | none | Yes | ✅ |
-| [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more | none | Yes | ❔ |
+| [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more | none | Yes | ✅ |
 | [Warface (non-official)](https://api.wfstats.cf) | Official API proxy with better data structure and more features | none | Yes | ✅ |
-| [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net info and stats | apiKey | Yes | ❔ |
+| [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net info and stats | apiKey | Yes | ✅ |
 | [When is next MCU film](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) | Upcoming MCU film information | none | Yes | ✅ |
 | [xkcd](https://xkcd.com/json.html) | Retrieve xkcd comics as JSON | none | Yes | ✅ |
-| [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide/) | Yu-Gi-Oh! TCG Information | none | Yes | ❔ |
+| [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide/) | Yu-Gi-Oh! TCG Information | none | Yes | ✅ |
 
 ### Geocoding
 
@@ -1292,7 +1292,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [HackMyIP](https://hackmyip.com/api) | IP geolocation, ISP and privacy/VPN scoring, email breach checks, DNS and WHOIS lookups | none | Yes | ✅ |
 | [HelloSalut](https://fourtonfish.com/project/hellosalut-api/) | Get hello translation following user language | none | Yes | ✅ |
 | [HERE Maps](https://developer.here.com) | Create/customize digital maps based on HERE Maps data | apiKey | Yes | ✅ |
-| [Hirak IP to Country](https://iplocation.hirak.site/) | Ip to location with country code, currency code & currency name, fast response, unlimited requests | apiKey | Yes | ✅ |
+| [Hirak IP to Country](https://iplocation.hirak.site/) | Ip to location with country code, currency code & currency name, fast response, unlimited requests | apiKey | Yes | ❔ |
 | [Hong Kong GeoData Store](https://geodata.gov.hk/gs/) | API for accessing geo-data of Hong Kong | none | Yes | ❌ |
 | [IBGE](https://servicodados.ibge.gov.br/api/docs/) | Aggregate services of IBGE (Brazilian Institute of Geography and Statistics) | none | Yes | ✅ |
 | [IP (LabStack)](http://labstack.com/ip) | Lookup country, region, city, time-zone, currency and language of an IP | apiKey | Yes | ✅ |
@@ -1331,7 +1331,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [MapQuest](https://developer.mapquest.com/) | To access tools and resources to map the world | apiKey | Yes | ✅ |
 | [Mexico](https://github.com/IcaliaLabs/sepomex) | Mexico RESTful zip codes API | none | Yes | ✅ |
 | [Nominatim](https://nominatim.org/release-docs/latest/api/Overview/) | Provides worldwide forward / reverse geocoding | none | Yes | ✅ |
-| [One Map, Singapore](https://www.onemap.gov.sg/docs/) | Singapore Land Authority REST API services for Singapore addresses | apiKey | Yes | ❔ |
+| [One Map, Singapore](https://www.onemap.gov.sg/docs/) | Singapore Land Authority REST API services for Singapore addresses | apiKey | Yes | ✅ |
 | [OnWater](https://onwater.io/) | Determine if a lat/lon is on water or land | none | Yes | ✅ |
 | [Open Topo Data](https://www.opentopodata.org) | Elevation and ocean depth for a latitude and longitude | none | Yes | ✅ |
 | [OpenCage](https://opencagedata.com) | Forward and reverse geocoding using open data | apiKey | Yes | ✅ |
@@ -1397,7 +1397,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [BCLaws](https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html) | Access to the laws of British Columbia | none | No | ✅ |
 | [BCLaws](http://www.bclaws.ca/civix/template/complete/api/index.html) | Access to the laws of British Columbia | none | No | ✅ |
 | [Brazil](https://brasilapi.com.br/) | Community driven API for Brazil Public Data | none | Yes | ✅ |
-| [Brazil Central Bank Open Data](https://dadosabertos.bcb.gov.br/) | Brazil Central Bank Open Data | none | Yes | ❔ |
+| [Brazil Central Bank Open Data](https://dadosabertos.bcb.gov.br/) | Brazil Central Bank Open Data | none | Yes | ✅ |
 | [Brazil Receita WS](https://www.receitaws.com.br/) | Consult companies by CNPJ for Brazilian companies | none | Yes | ✅ |
 | [Brazilian Chamber of Deputies Open Data](https://dadosabertos.camara.leg.br/swagger/api.html) | Provides legislative information in Apis XML and JSON, as well as files in various formats | none | Yes | ✅ |
 | [BuildData](https://builddata.ca) | Canadian construction and development data from 17 cities | apiKey | Yes | ✅ |
@@ -1437,13 +1437,13 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Indian Pincode](https://indianpincode.com/) | Free India PIN code lookup with GPS coordinates, 165k+ post offices, state & district data | none | Yes | ❌ |
 | [INEI](http://iinei.inei.gob.pe/microdatos/) | Peruvian Statistical Government Open Data | none | No | ❔ |
 | [Interpol Red Notices](https://interpol.api.bund.dev/) | Access and search Interpol Red Notices | none | Yes | ✅ |
-| [Istanbul (İBB) Open Data](https://data.ibb.gov.tr) | Data sets from the İstanbul Metropolitan Municipality (İBB) | none | Yes | ✅ |
+| [Istanbul (İBB) Open Data](https://data.ibb.gov.tr) | Data sets from the İstanbul Metropolitan Municipality (İBB) | none | Yes | ❔ |
 | [Japan Neighborhoods](https://japanneighborhoods.com/developers) | Tokyo neighborhood crime statistics, safety scores, and station data (5,078 areas, 2018-2024) | none | Yes | ✅ |
 | [LocalGov.jp](https://localgov.jp/) | Japan grants and subsidies (central J-Grants + 1,916 municipalities) | none | Yes | ✅ |
 | [National Park Service, US](https://www.nps.gov/subjects/developer/) | Data from the US National Park Service | apiKey | Yes | ✅ |
 | [Neotimo DGFiP Mirror](https://neotimo.com/annuaire-dgfip) | French DGFiP registry of certified e-invoicing platforms (Plateformes Agréées), searchable by SIRET | none | Yes | ❔ |
 | [Open Government, ACT](https://www.data.act.gov.au/) | Australian Capital Territory Open Data | none | Yes | ✅ |
-| [Open Government, Argentina](https://datos.gob.ar/) | Argentina Government Open Data | none | Yes | ✅ |
+| [Open Government, Argentina](https://datos.gob.ar/) | Argentina Government Open Data | none | Yes | ❔ |
 | [Open Government, Australia](https://www.data.gov.au/) | Australian Government Open Data | none | Yes | ✅ |
 | [Open Government, Austria](https://www.data.gv.at/) | Austria Government Open Data | none | Yes | ✅ |
 | [Open Government, Belgium](https://data.gov.be/) | Belgium Government Open Data | none | Yes | ✅ |
@@ -1457,11 +1457,11 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Open Government, France](https://www.data.gouv.fr/) | French Government Open Data | apiKey | Yes | ✅ |
 | [Open Government, Germany](https://www.govdata.de/daten/-/details/govdata-metadatenkatalog) | Germany Government Open Data | none | Yes | ✅ |
 | [Open Government, Greece](https://data.gov.gr/) | Greece Government Open Data | OAuth | Yes | ✅ |
-| [Open Government, India](https://data.gov.in/) | Indian Government Open Data | apiKey | Yes | ❌ |
+| [Open Government, India](https://data.gov.in/) | Indian Government Open Data | apiKey | Yes | ❔ |
 | [Open Government, Indonesia](https://data.go.id/) | Indonesian Government Open Data | none | Yes | ✅ |
 | [Open Government, Ireland](https://data.gov.ie/pages/developers) | Ireland Government Open Data | none | Yes | ✅ |
 | [Open Government, Italy](https://www.dati.gov.it/) | Italy Government Open Data | none | Yes | ✅ |
-| [Open Government, Korea](https://www.data.go.kr/) | Korea Government Open Data | apiKey | Yes | ✅ |
+| [Open Government, Korea](https://www.data.go.kr/) | Korea Government Open Data | apiKey | Yes | ❔ |
 | [Open Government, Lithuania](https://data.gov.lt/public/api/1) | Lithuania Government Open Data | none | Yes | ✅ |
 | [Open Government, Luxembourg](https://data.public.lu) | Luxembourgish Government Open Data | apiKey | Yes | ✅ |
 | [Open Government, Mexico](https://www.inegi.org.mx/datos/) | Mexican Statistical Government Open Data | none | Yes | ✅ |
@@ -1474,7 +1474,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Open Government, Poland](https://dane.gov.pl/en) | Poland Government Open Data | none | Yes | ✅ |
 | [Open Government, Portugal](https://dados.gov.pt/en/docapi/) | Portugal Government Open Data | none | Yes | ❌ |
 | [Open Government, Queensland Government](https://www.data.qld.gov.au/) | Queensland Government Open Data | none | Yes | ✅ |
-| [Open Government, Romania](http://data.gov.ro/) | Romania Government Open Data | none | No | ✅ |
+| [Open Government, Romania](http://data.gov.ro/) | Romania Government Open Data | none | No | ❔ |
 | [Open Government, Saudi Arabia](https://data.gov.sa) | Saudi Arabia Government Open Data | none | Yes | ❔ |
 | [Open Government, Singapore](https://data.gov.sg/developer) | Singapore Government Open Data | none | Yes | ❌ |
 | [Open Government, Slovakia](https://data.gov.sk/en/) | Slovakia Government Open Data | none | Yes | ❔ |
@@ -1514,10 +1514,10 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Covid-19](https://covid19api.com/) | Covid 19 spread, infection and recovery | none | Yes | ❔ |
 | [Covid-19](https://github.com/M-Media-Group/Covid-19-API) | Covid 19 cases, deaths and recovery per country | none | Yes | ✅ |
 | [Covid-19 Datenhub](https://npgeo-corona-npgeo-de.hub.arcgis.com) | Maps, datasets, applications and more in the context of COVID-19 | none | Yes | ✅ |
-| [Covid-19 Government Response](https://covidtracker.bsg.ox.ac.uk) | Government measures tracker to fight against the Covid-19 pandemic | none | Yes | ✅ |
+| [Covid-19 Government Response](https://covidtracker.bsg.ox.ac.uk) | Government measures tracker to fight against the Covid-19 pandemic | none | Yes | ❔ |
 | [Covid-19 India](https://data.covid19india.org/) | Covid 19 statistics state and district wise about cases, vaccinations, recovery within India | none | Yes | ✅ |
 | [Covid-19 JHU CSSE](https://nuttaphat.com/covid19-api/) | Open-source API for exploring Covid19 cases based on JHU CSSE | none | Yes | ✅ |
-| [Covid-19 Live Data](https://github.com/mathdroid/covid-19-api) | Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths | none | Yes | ✅ |
+| [Covid-19 Live Data](https://github.com/mathdroid/covid-19-api) | Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths | none | Yes | ❔ |
 | [Covid-19 Philippines](https://github.com/Simperfy/Covid-19-API-Philippines-DOH) | Unofficial Covid-19 Web API for Philippines from data collected by DOH | none | Yes | ✅ |
 | [COVID-19 Tracker Canada](https://api.covid19tracker.ca/docs/1.0/overview) | Details on Covid-19 cases across Canada | none | Yes | ✅ |
 | [COVID-19 Tracker Sri Lanka](https://www.hpb.health.gov.lk/en/api-documentation) | Provides situation of the COVID-19 patients reported in Sri Lanka | none | Yes | ❌ |
@@ -1532,11 +1532,11 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [ICD-10 Codes](https://clinicaltables.nlm.nih.gov/apidoc/icd10cm/v3/doc.html) | List of all healthcare diagnosis codes | none | Yes | ✅ |
 | [Infermedica](https://developer.infermedica.com/docs/) | NLP based symptom checker and patient triage API for health diagnosis from text | apiKey | Yes | ✅ |
 | [LAPIS](https://cov-spectrum.ethz.ch/public) | SARS-CoV-2 genomic sequences from public sources | none | Yes | ✅ |
-| [Lexigram](https://docs.lexigram.io/) | NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology | apiKey | Yes | ✅ |
+| [Lexigram](https://docs.lexigram.io/) | NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology | apiKey | Yes | ❔ |
 | [Longevity World Cup](https://longevityworldcup.com/api/data/athletes) | Public biological age competition data with biomarkers and rankings | none | Yes | ❌ |
-| [Makeup](http://makeup-api.herokuapp.com/) | Makeup Information | none | No | ✅ |
+| [Makeup](http://makeup-api.herokuapp.com/) | Makeup Information | none | No | ❔ |
 | [MedlinePlus Genetics](https://medlineplus.gov/about/developers/geneticsdatafilesapi/) | Genetic conditions, genes, chromosomes and mtDNA data | none | Yes | ✅ |
-| [MyVaccination](https://documenter.getpostman.com/view/16605343/Tzm8GG7u) | Vaccination data for Malaysia | none | Yes | ✅ |
+| [MyVaccination](https://documenter.getpostman.com/view/16605343/Tzm8GG7u) | Vaccination data for Malaysia | none | Yes | ❔ |
 | [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api) | National Plan & Provider Enumeration System, info on healthcare providers registered in US | none | Yes | ✅ |
 | [Nutritionix](https://developer.nutritionix.com/) | Worlds largest verified nutrition database | apiKey | Yes | ✅ |
 | [Open Data NHS Scotland](https://www.opendata.nhs.scot) | Medical reference data and statistics by Public Health Scotland | none | Yes | ✅ |
@@ -1580,7 +1580,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Adzuna](https://developer.adzuna.com/overview) | Job board aggregator | apiKey | Yes | ✅ |
 | [Agentic Engineering Jobs](https://agentic-engineering-jobs.com/api-reference) | Job board for engineers building agentic systems (LangChain, LlamaIndex, CrewAI) | none | Yes | ✅ |
 | [AI Dev Jobs](https://aidevboard.com/openapi.yaml) | AI/ML engineering job aggregator with REST, RSS, and MCP endpoints | none | Yes | ✅ |
-| [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh) | API for Job board aggregator in Europe / Remote | none | Yes | ✅ |
+| [Arbeitnow](https://documenter.getpostman.com/view/18545278/UVJbJdKh) | API for Job board aggregator in Europe / Remote | none | Yes | ❔ |
 | [Arbeitsamt](https://jobsuche.api.bund.dev/) | API for the "Arbeitsamt", which is a german Job board aggregator | OAuth | Yes | ✅ |
 | [Careerjet](https://www.careerjet.com/partners/api/) | Job search engine | apiKey | No | ✅ |
 | [DevITjobs](https://devitjobs.us/api/jobsLight) | Jobs for software developers | none | Yes | ✅ |
@@ -1639,7 +1639,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Dialogflow](https://cloud.google.com/dialogflow/docs/) | Natural Language Processing | apiKey | Yes | ✅ |
 | [EXUDE-API](http://uttesh.com/exude-api/) | Used for the primary ways for filtering the stopping, stemming words from the text data | none | Yes | ✅ |
 | [Groq](https://console.groq.com/docs/quickstart) | Fast AI inference API with free tier, supports Llama, Mixtral, Gemma models | apiKey | Yes | ✅ |
-| [Hirak FaceAPI](https://faceapi.hirak.site/) | Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits | apiKey | Yes | ✅ |
+| [Hirak FaceAPI](https://faceapi.hirak.site/) | Face detection, face recognition with age estimation/gender estimation, accurate, no quota limits | apiKey | Yes | ❔ |
 | [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Search and verify AI agents & MCP servers | apiKey | Yes | ✅ |
 | [Hugging Face](https://huggingface.co) | AI model hub with inference API for NLP, computer vision, and audio | apiKey | Yes | ✅ |
 | [Imagga](https://imagga.com/) | Image Recognition Solutions like Tagging, Visual Search, NSFW moderation | apiKey | Yes | ✅ |
@@ -1753,7 +1753,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [KKBOX](https://developer.kkbox.com) | Get music libraries, playlists, charts, and perform out of KKBOX's platform | OAuth | Yes | ✅ |
 | [KSoft.Si Lyrics](https://docs.ksoft.si/api/lyrics-api) | API to get lyrics for songs | apiKey | Yes | ❔ |
 | [LastFm](https://www.last.fm/api) | Music | apiKey | Yes | ✅ |
-| [Lyrics.ovh](https://lyricsovh.docs.apiary.io) | Simple API to retrieve the lyrics of a song | none | Yes | ❌ |
+| [Lyrics.ovh](https://lyricsovh.docs.apiary.io) | Simple API to retrieve the lyrics of a song | none | Yes | ✅ |
 | [Mixcloud](https://www.mixcloud.com/developers/) | Music | OAuth | Yes | ✅ |
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Music | none | Yes | ✅ |
 | [Musixmatch](https://developer.musixmatch.com/) | Power your music project by licensing access to the world’s most authoritative lyrics DB. | apiKey | Yes | ✅ |
@@ -1792,7 +1792,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [**ChartLyrics Lyrics API**](http://www.chartlyrics.com/api.aspx) | Allows users to search for lyrics using the artist name, song title, or lyric text. | unknown | No | ✅ |
-| [**Lololyrics API**](http://api.lololyrics.com/) | Given an artist and track name, obtains its lyrics and metadata such as the year released and album art. Specializes more in electronic dance music genres such as hardstyle. | unknown | No | ❌ |
+| [**Lololyrics API**](http://api.lololyrics.com/) | Given an artist and track name, obtains its lyrics and metadata such as the year released and album art. Specializes more in electronic dance music genres such as hardstyle. | unknown | No | ✅ |
 
 ### Music Stores
 
@@ -1813,7 +1813,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [**LUIS AI**](https://www.luis.ai/) | Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications. | unknown | No | ✅ |
 | [**MeaningCloud**](https://www.meaningcloud.com) | Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported. | unknown | No | ❔ |
 | [**OpenAI API**](https://platform.openai.com/docs/introduction) | OpenAI's API provides access to GPT-3, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. The API is designed to allow users to try it on virtually any task in the English language. | unknown | No | ✅ |
-| [**ParallelDots**](https://www.paralleldots.com/text-analysis-apis) | ParallelDots AI APIs are the most comprehensive set of document classification and NLP APIs for software developers that provide state-of-the-art accuracy on most common NLP use-cases such as sentiment analysis and emotion detection. | unknown | No | ❌ |
+| [**ParallelDots**](https://www.paralleldots.com/text-analysis-apis) | ParallelDots AI APIs are the most comprehensive set of document classification and NLP APIs for software developers that provide state-of-the-art accuracy on most common NLP use-cases such as sentiment analysis and emotion detection. | unknown | No | ✅ |
 | [**Semantria**](https://www.lexalytics.com/) | SAAS API based on Lexalytics engine. | unknown | No | ✅ |
 | [**Shakespeare Translator API**](https://funtranslations.com/api/shakespeare) | Shakespeare English Translation API. | unknown | No | ✅ |
 | [**SpeechText.AI API**](https://speechtext.ai/speech-recognition-api) | Cloud Speech Recognition API. Transform speech to text with high accuracy in multiple languages. Generate summaries with important highlights from audio and video files. | unknown | No | ✅ |
@@ -1865,7 +1865,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 |---|---|---|---|---|
 | [18F](http://18f.github.io/API-All-the-X/) | Unofficial US Federal Government API Development | none | No | ❌ |
 | [AcreLens](https://www.acrelens.com) | Land suitability scoring API for any US property: off-grid, rural, recreational, investment | apiKey | Yes | ✅ |
-| [API Setu](https://www.apisetu.gov.in/) | An Indian Government platform that provides a lot of APIS for KYC, business, education & employment | none | Yes | ✅ |
+| [API Setu](https://www.apisetu.gov.in/) | An Indian Government platform that provides a lot of APIS for KYC, business, education & employment | none | Yes | ❔ |
 | [Archive.org](https://archive.readme.io/docs) | The Internet Archive | none | Yes | ✅ |
 | [Black History Facts](https://www.blackhistoryapi.io/docs) | Contribute or search one of the largest black history fact databases on the web | apiKey | Yes | ✅ |
 | [BotsArchive](https://botsarchive.com/docs.html) | JSON formatted details about Telegram Bots available in database | none | Yes | ✅ |
@@ -1888,7 +1888,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [ModelPartFinder Error Codes](https://modelpartfinder.com/docs/api) | Lookup appliance and equipment error codes by brand and code, with recommended replacement parts | none | Yes | ✅ |
 | [Nasdaq Data Link](https://docs.data.nasdaq.com/) | Stock market data | apiKey | Yes | ✅ |
 | [Nobel Prize](https://www.nobelprize.org/about/developer-zone-2/) | Open data about nobel prizes and events | none | Yes | ✅ |
-| [Onyx Bazaar](https://onyx-actions.onrender.com/bazaar) | Free public leaderboard of x402 paid HTTP services indexed from Coinbase CDP discovery API | none | Yes | ❔ |
+| [Onyx Bazaar](https://onyx-actions.onrender.com/bazaar) | Free public leaderboard of x402 paid HTTP services indexed from Coinbase CDP discovery API | none | Yes | ✅ |
 | [Open Data Minneapolis](https://opendata.minneapolismn.gov/) | Spatial (GIS) and non-spatial city data for Minneapolis | none | Yes | ✅ |
 | [Open Scholarships](https://scholarships.grudged.io) | Free, openly-licensed directory of US scholarships and student aid from official sources | none | Yes | ✅ |
 | [openAFRICA](https://africaopendata.org/) | Large datasets repository of African open data | none | Yes | ✅ |
@@ -1927,7 +1927,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Creative Commons Catalog](https://api.creativecommons.engineering/) | Search among openly licensed and public domain works | OAuth | Yes | ✅ |
 | [Datamuse](https://www.datamuse.com/api/) | Word-finding query engine | none | Yes | ✅ |
 | [Drupal.org](https://www.drupal.org/drupalorg/docs/api) | Drupal.org | none | Yes | ✅ |
-| [Evil Insult Generator](https://evilinsult.com/api) | Offers the most evil insults. | none | Yes | ❔ |
+| [Evil Insult Generator](https://evilinsult.com/api) | Offers the most evil insults. | none | Yes | ✅ |
 | [GitHub Contribution Chart Generator](https://github-contributions.vercel.app) | Create an image of your GitHub contributions | none | Yes | ✅ |
 | [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats) | Add dynamically generated statistics to your GitHub profile ReadMe | none | Yes | ✅ |
 | [Metabase](https://www.metabase.com/) | An open source Business Intelligence server to share data and analytics inside your company | none | Yes | ✅ |
@@ -1949,10 +1949,10 @@ The only public-API list where every entry is auto-checked for reachability and 
 |---|---|---|---|---|
 | [Advice Slip](http://api.adviceslip.com/) | Generate random advice slips | none | Yes | ❔ |
 | [AstroWay](https://api.astroway.info/docs/) | Astrology, natal charts, Human Design, Vedic and horoscopes on the Swiss Ephemeris | apiKey | Yes | ✅ |
-| [Biriyani As A Service](https://biriyani.anoram.com/) | Biriyani images placeholder | none | Yes | ❌ |
+| [Biriyani As A Service](https://biriyani.anoram.com/) | Biriyani images placeholder | none | Yes | ✅ |
 | [Deckaura Horoscope](https://horoscope.deckaura.com) | Daily horoscope readings for all 12 zodiac signs (overview, love, career, lucky number) updated daily at 00:00 UTC | none | Yes | ✅ |
 | [Dev.to](https://developers.forem.com/api) | Access Forem articles, users and other resources via API | apiKey | Yes | ✅ |
-| [Dictum](https://github.com/fisenkodv/dictum) | API to get access to the collection of the most inspiring expressions of mankind | none | Yes | ✅ |
+| [Dictum](https://github.com/fisenkodv/dictum) | API to get access to the collection of the most inspiring expressions of mankind | none | Yes | ❔ |
 | [Echoes](https://echoes.soferity.com) | Quotes From Around The World | none | Yes | ✅ |
 | [FavQs.com](https://favqs.com/api) | FavQs allows you to collect, discover and share your favorite quotes | apiKey | Yes | ✅ |
 | [FOAAS](http://www.foaas.com/) | Fuck Off As A Service | none | No | ✅ |
@@ -2205,7 +2205,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [eBay](https://developer.ebay.com/) | Sell and Buy on eBay | OAuth | Yes | ❔ |
 | [eBay](https://go.developer.ebay.com/) | Sell and Buy on eBay | OAuth | Yes | ❔ |
 | [Etsy](https://www.etsy.com/developers/documentation/getting_started/api_basics) | Manage shop and interact with listings | OAuth | Yes | ✅ |
-| [Flipkart Marketplace](https://seller.flipkart.com/api-docs/FMSAPI.html) | Product listing management, Order Fulfilment in the Flipkart Marketplace | OAuth | Yes | ✅ |
+| [Flipkart Marketplace](https://seller.flipkart.com/api-docs/FMSAPI.html) | Product listing management, Order Fulfilment in the Flipkart Marketplace | OAuth | Yes | ❔ |
 | [Lazada](https://open.lazada.com/doc/doc.htm) | Retrieve product ratings and seller performance metrics | apiKey | Yes | ✅ |
 | [Mercadolibre](https://developers.mercadolibre.cl/es_ar/api-docs-es) | Manage sales, ads, products, services and Shops | apiKey | Yes | ✅ |
 | [Octopart](https://octopart.com/api/v4/reference) | Electronic part data for manufacturing, design, and sourcing | apiKey | Yes | ✅ |
@@ -2248,7 +2248,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [LinkedIn](https://docs.microsoft.com/en-us/linkedin/?context=linkedin/context) | The foundation of all digital integrations with LinkedIn | OAuth | Yes | ✅ |
 | [Meetup.com](https://www.meetup.com/api/guide) | Data about Meetups from Meetup.com | apiKey | Yes | ✅ |
 | [Microsoft Graph](https://docs.microsoft.com/en-us/graph/api/overview) | Access the data and intelligence in Microsoft 365, Windows 10, and Enterprise Mobility | OAuth | Yes | ✅ |
-| [MySocialApp](https://mysocialapp.io) | Seamless Social Networking features, API, SDK to any app | apiKey | Yes | ✅ |
+| [MySocialApp](https://mysocialapp.io) | Seamless Social Networking features, API, SDK to any app | apiKey | Yes | ❔ |
 | [NAVER](https://developers.naver.com/main/) | NAVER Login, Share on NAVER, Social Plugins and more | OAuth | Yes | ✅ |
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data | none | Yes | ✅ |
 | [Pinterest](https://developers.pinterest.com/) | The world's catalog of ideas | OAuth | Yes | ✅ |
@@ -2267,7 +2267,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [TikTok](https://developers.tiktok.com/doc/login-kit-web) | TikTok Display API allows you to display TikTok creator's videos and their profile information and many more features. | OAuth | Yes | ❌ |
 | [Trash Nothing](https://trashnothing.com/developer) | Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day. | OAuth | Yes | ✅ |
 | [Tumblr](https://www.tumblr.com/docs/en/api/v2) | Create new ways to use Tumblr with access to content, likes, followers, and drafts. | OAuth | Yes | ✅ |
-| [Twitch](https://dev.twitch.tv/docs) | The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides. | OAuth | Yes | ❔ |
+| [Twitch](https://dev.twitch.tv/docs) | The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides. | OAuth | Yes | ✅ |
 | [Twitter](https://developer.twitter.com/en/docs) | Enables an app to interact with many of Twitter’s functions. | OAuth | Yes | ✅ |
 | [TwitterApi](http://twitterapi.io/) | Mass Twitter data read API | apiKey | Yes | ✅ |
 | [vk](https://vk.com/dev/sites) | Access to VKontakte's API. This has a variety of features, such as authorization via VK, embedding VK comments for things like blogs, and taking payments via VK. Additionally, you may use the VK API to control much of the functionality on the website (for example, adjusting shop inventory in your VK community's market section). | OAuth | Yes | ❌ |
@@ -2280,7 +2280,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [**Ayrshare**](https://docs.ayrshare.com) | Social media APIs for scheduling, analytics, comments, and more. | unknown | No | ✅ |
 | [**Daily Motion**](https://developer.dailymotion.com/) | Build applications centered around DailyMotion. | unknown | No | ✅ |
 | [**Delicious**](https://github.com/domainersuitedev/delicious-api) | Access to Delicious’s API. | unknown | No | ✅ |
-| [**DeviantArt**](https://www.deviantart.com/developers/) | The largest social networking website for artists and art enthusiasts. | unknown | No | ❔ |
+| [**DeviantArt**](https://www.deviantart.com/developers/) | The largest social networking website for artists and art enthusiasts. | unknown | No | ✅ |
 | [**EventBrite**](https://github.com/eventbrite/eventbrite-sdk-python) | The Eventbrite Python SDK makes it trivial to interact with the Eventbrite API. | unknown | No | ✅ |
 | [**GoodReads**](https://www.goodreads.com/api) | Allows developers access to Goodreads data in order to help websites or applications that deal with books. | unknown | No | ✅ |
 | [**Gravatar**](https://en.gravatar.com/site/implement/) | Create profiles and avatars using this web service. | unknown | No | ✅ |
@@ -2332,7 +2332,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Canadian Football League (CFL)](http://api.cfl.ca/) | Official JSON API providing real-time league, team and player statistics about the CFL | apiKey | Yes | ❔ |
 | [Cartola FC](https://github.com/wgenial/cartrolandofc) | The Cartola FC API serves to check the partial points of your team | none | Yes | ✅ |
 | [City Bikes](https://api.citybik.es/v2/) | City Bikes around the world | none | Yes | ✅ |
-| [Cloudbet](https://www.cloudbet.com/api/) | Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically | apiKey | Yes | ❔ |
+| [Cloudbet](https://www.cloudbet.com/api/) | Official Cloudbet API provides real-time sports odds and betting API to place bets programmatically | apiKey | Yes | ✅ |
 | [CollegeFootballData.com](https://collegefootballdata.com) | Unofficial detailed American college football statistics, records, and results API | apiKey | Yes | ✅ |
 | [CricData](https://cricketdata.org/) | Ultimate Cricket data API - Score, Scorecard, Players data, Fantasy API | apiKey | Yes | ✅ |
 | [DiscGolf](https://discgolfapi.com/docs/) | Structured disc golf course data | none | Yes | ✅ |
@@ -2341,7 +2341,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [F1 Data API](https://github.com/Jacobbrewer1/f1-data) | Formula 1 data API that delivers data from the F1 Archive dating back to 1950 | none | Yes | ✅ |
 | [Fitbit](https://dev.fitbit.com/) | Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs. | OAuth | Yes | ✅ |
 | [Football](https://rapidapi.com/GiulianoCrescimbeni/api/football98/) | A simple Open Source Football API to get squads’ stats, best scorers and more | unknown | Yes | ✅ |
-| [Football (Soccer) Videos](https://www.scorebat.com/video-api/) | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more | none | Yes | ❔ |
+| [Football (Soccer) Videos](https://www.scorebat.com/video-api/) | Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more | none | Yes | ✅ |
 | [Football Prediction](https://boggio-analytics.com/fp-api/) | Predictions for upcoming football matches, odds, results and stats. | unknown | Yes | ✅ |
 | [Football Standings](https://github.com/azharimm/football-standings-api) | Display football standings e.g epl, la liga, serie a etc. The data is based on espn site | none | Yes | ✅ |
 | [Football-Data](https://www.football-data.org) | Football data with matches info, players, teams, and competitions | unknown | Yes | ✅ |
@@ -2352,7 +2352,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | All NBA Stats DATA, Games, Livescore, Standings, Statistics | apiKey | Yes | ✅ |
 | [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description) | Current and historical NBA Statistics | none | Yes | ✅ |
 | [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | NHL historical data and statistics | none | Yes | ✅ |
-| [Oddsmagnet](https://data.oddsmagnet.com) | Odds history from multiple UK bookmakers | none | Yes | ❔ |
+| [Oddsmagnet](https://data.oddsmagnet.com) | Odds history from multiple UK bookmakers | none | Yes | ✅ |
 | [OpenF1](https://openf1.org/) | Provides real-time and historical Formula 1 data (lap timings, car telemetry, radio communications, ...). | none | Yes | ✅ |
 | [OpenLigaDB](https://www.openligadb.de) | Crowd sourced sports league results | none | Yes | ✅ |
 | [Padel Snipe](https://padelsnipe.com/fr/world/api) | 4,000+ mapped padel clubs across 9 European countries with GPS and courts | none | Yes | ✅ |
@@ -2360,7 +2360,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [PropLine](https://prop-line.com) | Real-time player-props betting odds with graded prop resolution across 13 books incl. Pinnacle | apiKey | Yes | ✅ |
 | [RacingHub](https://racinghub.net/api/v1/docs#/) | Formula 1 historical data and statistics | none | Yes | ✅ |
 | [SharpAPI](https://docs.sharpapi.io) | Real-time sports betting odds from 20+ sportsbooks with +EV detection | apiKey | Yes | ✅ |
-| [Sport Data](https://sportdataapi.com) | Get sports data from all over the world | apiKey | Yes | ❔ |
+| [Sport Data](https://sportdataapi.com) | Get sports data from all over the world | apiKey | Yes | ❌ |
 | [Sport List & Data](https://developers.decathlon.com/products/sports) | List of and resources related to sports | none | Yes | ❔ |
 | [Sport Places](https://developers.decathlon.com/products/sport-places) | Crowd-source sports places around the world | none | Yes | ❔ |
 | [Sport Vision](https://developers.decathlon.com/products/sport-vision) | Identify sport, brands and gear in an image. Also does image sports captioning | apiKey | Yes | ❔ |
@@ -2385,7 +2385,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Beeceptor's CRUD APIs](https://beeceptor.com/crud-api/?ref=public-api-lists) | Free stateful CRUD APIs | none | Yes | ✅ |
 | [Dicebear Avatars](https://avatars.dicebear.com/) | Generate random pixel-art avatars | none | Yes | ✅ |
 | [DummyJSON](https://dummyjson.com/) | Fake REST API with products, users, posts, comments, todos and more | none | Yes | ✅ |
-| [English Random Words](https://random-words-api.vercel.app/word) | Generate English Random Words with Pronunciation | none | Yes | ✅ |
+| [English Random Words](https://random-words-api.vercel.app/word) | Generate English Random Words with Pronunciation | none | Yes | ❌ |
 | [FakeJSON](https://fakejson.com) | Service to generate test and fake data | apiKey | Yes | ❔ |
 | [FakerAPI](https://fakerapi.it/en) | APIs collection to get fake data | none | Yes | ✅ |
 | [FakeStoreAPI](https://fakestoreapi.com/) | Fake store rest API for your e-commerce or shopping website prototype | none | Yes | ✅ |
@@ -2405,7 +2405,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Random Profiles](https://random-profiles.com) | Fake user profiles and companies with 100+ fields each | apiKey | Yes | ✅ |
 | [Randommer](https://randommer.io/randommer-api) | Random data generator | apiKey | Yes | ✅ |
 | [RandomUser](https://randomuser.me) | Generates and list user data | none | Yes | ✅ |
-| [RoboHash](https://robohash.org/) | Generate random robot/alien avatars | none | Yes | ✅ |
+| [RoboHash](https://robohash.org/) | Generate random robot/alien avatars | none | Yes | ❔ |
 | [Short Id](https://github.com/aguedo/idgen) | Generate unique short Ids | none | Yes | ✅ |
 | [Softwium](https://softwium.com/fake-api/) | Test data for testing and prototyping | none | Yes | ✅ |
 | [Spanish random names](https://random-names-api.herokuapp.com/public) | Generate spanish names (with gender) randomly | none | Yes | ❌ |
@@ -2432,8 +2432,8 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Gawrshdarn](https://api.gawrshdarn.com) | Profanity detection, filtering, and playful word replacement | none | Yes | ✅ |
 | [GeoScore](https://geoscoreapi.com) | Score content for AI search citation readiness with a 0-100 GEO score and 8 structural metrics | apiKey | Yes | ✅ |
 | [Google Cloud Natural](https://cloud.google.com/natural-language/docs/) | Natural language understanding technology, including sentiment, entity and syntax analysis | apiKey | Yes | ✅ |
-| [Hirak OCR](https://ocr.hirak.site/) | Image to text -text recognition- from image more than 100 language, accurate, unlimited requests | apiKey | Yes | ✅ |
-| [Hirak Translation](https://translate.hirak.site/) | Translate between 21 of most used languages, accurate, unlimited requests | apiKey | Yes | ✅ |
+| [Hirak OCR](https://ocr.hirak.site/) | Image to text -text recognition- from image more than 100 language, accurate, unlimited requests | apiKey | Yes | ❔ |
+| [Hirak Translation](https://translate.hirak.site/) | Translate between 21 of most used languages, accurate, unlimited requests | apiKey | Yes | ❔ |
 | [Kiprio Translate](https://kiprio.com/v1/translate) | Free text translation with language detection, supports 50+ languages | apiKey | Yes | ❌ |
 | [Lecto Translation](https://rapidapi.com/lecto-lecto-default/api/lecto-translation/) | Translation API with free tier and reasonable prices | apiKey | Yes | ✅ |
 | [LibreTranslate](https://libretranslate.com/docs) | Translation tool with 17 available languages | none | Yes | ✅ |
@@ -2490,8 +2490,8 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [BlaBlaCar](https://dev.blablacar.com) | Search car sharing trips | apiKey | Yes | ❌ |
 | [Boston MBTA Transit](https://www.mbta.com/developers/v3-api) | Stations and predicted arrivals for MBTA | apiKey | Yes | ✅ |
 | [Community Transit](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints) | Transitland API | none | Yes | ✅ |
-| [Compare Flight Prices](https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/) | API for comparing flight prices across platforms | apiKey | Yes | ❔ |
-| [CTS](https://api.cts-strasbourg.eu/) | CTS Realtime API | apiKey | Yes | ❔ |
+| [Compare Flight Prices](https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/) | API for comparing flight prices across platforms | apiKey | Yes | ✅ |
+| [CTS](https://api.cts-strasbourg.eu/) | CTS Realtime API | apiKey | Yes | ✅ |
 | [FAA N-Number Registry](https://n-number.starfile.org/api) | Every FAA-registered civil aircraft in the United States, lookup by N-number or Mode S hex code | none | Yes | ❌ |
 | [Grab](https://developer.grab.com/docs/) | Track deliveries, ride fares, payments and loyalty points | OAuth | Yes | ✅ |
 | [GraphHopper](https://docs.graphhopper.com/) | A-to-B routing with turn-by-turn instructions | apiKey | Yes | ✅ |
@@ -2523,9 +2523,9 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Transport for Berlin, Germany](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md) | Third-party VBB API | none | Yes | ✅ |
 | [Transport for Bordeaux, France](https://opendata.bordeaux-metropole.fr/explore/) | Bordeaux Métropole public transport and more (France) | apiKey | Yes | ✅ |
 | [Transport for Boston, US](https://mbta.com/developers/v3-api) | MBTA API | none | No | ✅ |
-| [Transport for Budapest, Hungary](https://bkkfutar.docs.apiary.io) | Budapest public transport API | none | Yes | ❌ |
+| [Transport for Budapest, Hungary](https://bkkfutar.docs.apiary.io) | Budapest public transport API | none | Yes | ✅ |
 | [Transport for Chicago, US](http://www.transitchicago.com/developers/) | Chicago Transit Authority (CTA) | apiKey | No | ✅ |
-| [Transport for Czech Republic](https://www.chaps.cz/eng/products/idos-internet) | Czech transport API | none | Yes | ❔ |
+| [Transport for Czech Republic](https://www.chaps.cz/eng/products/idos-internet) | Czech transport API | none | Yes | ✅ |
 | [Transport for Denver, US](http://www.rtd-denver.com/gtfs-developer-guide.shtml) | RTD | none | No | ❌ |
 | [Transport for Finland](https://digitransit.fi/en/developers/) | Finnish transport API | none | Yes | ✅ |
 | [Transport for Germany](http://data.deutschebahn.com/dataset/api-fahrplan) | Deutsche Bahn (DB) API | apiKey | No | ❔ |
@@ -2533,7 +2533,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Transport for Grenoble, France](https://data.mobilites-m.fr/donnees) | Grenoble public transport | none | No | ✅ |
 | [Transport for Hessen, Germany](https://opendata.rmv.de/site/start.html) | RMV API (Public Transport in Hessen) | none | Yes | ✅ |
 | [Transport for Honolulu, US](http://hea.thebus.org/api_info.asp) | Honolulu Transportation Information | apiKey | No | ✅ |
-| [Transport for India](https://data.gov.in/sector/transport) | India Public Transport API | apiKey | Yes | ❌ |
+| [Transport for India](https://data.gov.in/sector/transport) | India Public Transport API | apiKey | Yes | ❔ |
 | [Transport for Lisbon, Portugal](https://emel.city-platform.com/opendata/) | Data about buses routes, parking and traffic | apiKey | Yes | ✅ |
 | [Transport for London, England](https://api.tfl.gov.uk) | TfL API | apiKey | Yes | ✅ |
 | [Transport for Los Angeles, US](https://developer.metro.net/api/) | Data about positions of Metro vehicles in real time and travel their routes | none | Yes | ✅ |
@@ -2549,7 +2549,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Transport for Switzerland](https://transport.opendata.ch/) | Swiss public transport API | none | Yes | ✅ |
 | [Transport for The Netherlands](http://www.ns.nl/reisinformatie/ns-api) | NS, only trains | apiKey | No | ✅ |
 | [Transport for The Netherlands](https://github.com/skywave/KV78Turbo-OVAPI/wiki) | OVAPI, country-wide public transport | none | Yes | ✅ |
-| [Transport for Toronto, Canada](https://myttc.ca/developers) | TTC | none | Yes | ❔ |
+| [Transport for Toronto, Canada](https://myttc.ca/developers) | TTC | none | Yes | ✅ |
 | [Transport for UK](https://developer.transportapi.com) | Transport API and dataset for UK | apiKey | Yes | ✅ |
 | [Transport for United States](https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf) | NextBus API | none | No | ✅ |
 | [Transport for United States](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) | NextBus API | none | No | ✅ |
@@ -2557,7 +2557,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Transport for Washington, US](https://developer.wmata.com/) | Washington Metro transport API | OAuth | Yes | ✅ |
 | [transport.rest](https://transport.rest) | Community maintained, developer-friendly public transport API | none | Yes | ✅ |
 | [Tripadvisor](https://developer-tripadvisor.com/home/) | Rating content for a hotel, restaurant, attraction or destination | apiKey | Yes | ❌ |
-| [Uber](https://developer.uber.com/products) | Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more. | OAuth | Yes | ❔ |
+| [Uber](https://developer.uber.com/products) | Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more. | OAuth | Yes | ❌ |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Velib Open Data API | none | Yes | ✅ |
 | [VOLO](https://www.flyvolo.ai/for-agents) | Private aviation charter search, quotes, fleet, and empty legs | apiKey | Yes | ✅ |
 
@@ -2577,13 +2577,13 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986) | Monitor, compare and optimize your marketing links | apiKey | Yes | ❔ |
 | [Clico](https://cli.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config) | URL shortener service | apiKey | Yes | ✅ |
 | [Cutt.ly](https://cutt.ly/api-documentation/cuttly-links-api) | URL shortener service | apiKey | Yes | ✅ |
-| [Drivet URL Shortener](https://wiki.drivet.xyz/en/url-shortener/add-links) | Shorten a long URL easily and fast | none | Yes | ✅ |
+| [Drivet URL Shortener](https://wiki.drivet.xyz/en/url-shortener/add-links) | Shorten a long URL easily and fast | none | Yes | ❔ |
 | [Free Url Shortener](https://ulvis.net/developer.html) | Free URL Shortener offers a powerful API to interact with other sites | none | Yes | ✅ |
 | [Git.io](https://github.blog/2011-11-10-git-io-github-url-shortener/) | Git.io URL shortener | none | Yes | ✅ |
 | [GoTiny](https://github.com/robvanbakel/gotiny-api) | Lightweight and easy to implement URL shortener. Supports custom links and offers JavaScript SDK. | none | Yes | ✅ |
 | [Kutt](https://docs.kutt.it/) | Free Modern URL Shortener | apiKey | Yes | ❔ |
 | [Mgnet.me](http://mgnet.me/api.html) | Torrent URL shorten API | none | Yes | ✅ |
-| [owo](https://owo.vc/api) | A simple link obfuscator/shortener | none | Yes | ❌ |
+| [owo](https://owo.vc/api) | A simple link obfuscator/shortener | none | Yes | ✅ |
 | [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | apiKey | Yes | ✅ |
 | [RedirHub](https://redirhub.com) | URL redirect management with custom domains, HTTPS, analytics, and REST API | apiKey | Yes | ✅ |
 | [Short Link](https://github.com/FayasNoushad/Short-Link-API) | Short URLs support so many domains | none | Yes | ❌ |
@@ -2592,7 +2592,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [T.LY](https://t.ly/docs/) | URL Shortener With Short Links | apiKey | Yes | ✅ |
 | [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | apiKey | Yes | ✅ |
 | [UrlBae](https://urlbae.com/developers) | Simple and efficient short link creation | apiKey | Yes | ✅ |
-| [urlfy](https://urlfy.org/api-doc) | A simple and fast URL shortening service | none | Yes | ❔ |
+| [urlfy](https://urlfy.org/api-doc) | A simple and fast URL shortening service | none | Yes | ✅ |
 | [Urlix](https://app.urlix.me/api) | Free URL Shortener with a powerful API | apiKey | Yes | ✅ |
 
 ### Vehicle
@@ -2648,7 +2648,7 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [Shoof Aflam](https://shoofaflam.tv/api-docs/) | Arabic streaming guide — search 14,000+ movies/series, get platform availability across 18 services in the Arab world | none | Yes | ✅ |
 | [Shotstack](https://shotstack.io/) | Develop video applications with cloud-based video editing API | apiKey | Yes | ✅ |
 | [Shrek Quotes](https://shrekofficial.com) | Shrek quotes and more, but mainly quotes | none | Yes | ✅ |
-| [Simkl](https://simkl.docs.apiary.io) | Movie, TV and Anime data | apiKey | Yes | ❌ |
+| [Simkl](https://simkl.docs.apiary.io) | Movie, TV and Anime data | apiKey | Yes | ✅ |
 | [South Park Quotes](https://github.com/Thatskat/southpark-quotes-api) | A pretty simple API to let you retrieve some of the best quotes from South Park, mmkay! | none | Yes | ✅ |
 | [STAPI](http://stapi.co) | Information on all things Star Trek | none | Yes | ✅ |
 | [Stranger Things Quotes](https://github.com/shadowoff09/strangerthings-quotes) | Returns Stranger Things quotes | none | Yes | ✅ |
@@ -2662,11 +2662,11 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [ThronesApi](https://thronesapi.com/) | Game Of Thrones Characters Data with imagery | none | Yes | ✅ |
 | [TMDb](https://www.themoviedb.org/documentation/api) | TMDb provides powerful searches as well as powerful movie discovery. | apiKey | Yes | ✅ |
 | [TrailerAddict](https://www.traileraddict.com/trailerapi) | Easily embed trailers from TrailerAddict | apiKey | No | ✅ |
-| [Trakt](https://trakt.docs.apiary.io/) | Trakt collects lots of information about what TV shows and movies everyone is watching. | apiKey | Yes | ❌ |
+| [Trakt](https://trakt.docs.apiary.io/) | Trakt collects lots of information about what TV shows and movies everyone is watching. | apiKey | Yes | ✅ |
 | [Trakt](https://trakt.tv/b/api-docs) | Movie and TV Data | apiKey | Yes | ✅ |
 | [TVDB](https://thetvdb.com/api-information) | Television data | apiKey | Yes | ✅ |
 | [TVMaze](http://www.tvmaze.com/api) | TV Show and web series database. Episode guide, cast, crew and character information. Recaps, reviews, episode trailers, celebrity photos and more. | none | No | ✅ |
-| [uNoGS](https://rapidapi.com/unogs/api/unogsng) | Unofficial Netflix Online Global Search, Search all netflix regions in one place | apiKey | Yes | ❌ |
+| [uNoGS](https://rapidapi.com/unogs/api/unogsng) | Unofficial Netflix Online Global Search, Search all netflix regions in one place | apiKey | Yes | ✅ |
 | [Vimeo](https://developer.vimeo.com/) | Access to Vimeo’s API. | OAuth | Yes | ✅ |
 | [Watchmode](https://api.watchmode.com/) | API for finding out the streaming availability of movies & shows | apiKey | Yes | ✅ |
 | [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes) | API generates various Web Series Quote Images | none | Yes | ✅ |
@@ -2680,8 +2680,8 @@ The only public-API list where every entry is auto-checked for reachability and 
 | [**Clash Royale**](https://github.com/martincarrera/clash-royale-api) | API that provides information about the Clash Royale game. | unknown | No | ✅ |
 | [**CSGO API**](https://bymykel.github.io/CSGO-API/) | An unofficial JSON API for Counter-Strike: Global Offensive. | unknown | No | ✅ |
 | [**GiantBomb**](http://www.giantbomb.com/api/) | API to query the GiantBomb database for videogames, characters, companies, genres and many more. | unknown | No | ✅ |
-| [**IGDB**](https://www.igdb.com/api) | Access the International Games Database and get information about video games, characters, companies, genres and many more. Commercial usage is allowed. | unknown | No | ❔ |
-| [**RAWG**](https://rawg.io/apidocs) | Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more. | unknown | No | ❔ |
+| [**IGDB**](https://www.igdb.com/api) | Access the International Games Database and get information about video games, characters, companies, genres and many more. Commercial usage is allowed. | unknown | No | ✅ |
+| [**RAWG**](https://rawg.io/apidocs) | Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more. | unknown | No | ✅ |
 
 ### Weather
 
