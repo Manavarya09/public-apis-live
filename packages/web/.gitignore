@@ -1,0 +1,4 @@
+.next/
+out/
+next-env.d.ts
+public/apis.json

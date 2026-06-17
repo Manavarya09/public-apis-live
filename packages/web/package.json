@@ -1,0 +1,23 @@
+{
+  "name": "public-apis-live-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "copy-data": "node -e \"const fs=require('fs');fs.mkdirSync('public',{recursive:true});fs.copyFileSync('../../data/apis.json','public/apis.json')\"",
+    "predev": "pnpm copy-data",
+    "dev": "next dev",
+    "prebuild": "pnpm copy-data",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.17.6",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0"
+  }
+}
