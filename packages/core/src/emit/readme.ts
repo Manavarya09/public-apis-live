@@ -22,10 +22,10 @@ export function renderReadme(data: ApiEntry[], date: string): string {
     "",
     "**[🔎 Search them all in the browser →](https://manavarya09.github.io/public-apis-live/)** · **[📊 See the benchmark →](./BENCHMARK.md)**",
     "",
-    "> **How verification works:** we only check *reachability* (no API keys). A listed API means its",
+    "> **How verification works:** we only check *reachability* (no API keys). A working API means its",
     "> URL returned a success response (2xx/3xx) today; we do **not** functionally test endpoints.",
     `> ${down} unreachable and ${unknown} unverified (timeouts, auth-walled, or bot-blocked) entries are`,
-    "> kept in [`data/apis.json`](./data/apis.json) and counted in the benchmark, but omitted from this list.",
+    "> listed at the bottom and counted in the benchmark.",
     "",
   ];
   const body: string[] = [];
@@ -65,5 +65,27 @@ export function renderReadme(data: ApiEntry[], date: string): string {
     }
     body.push("");
   }
+
+  // Everything that isn't confirmed working goes below, collapsed, so it never clutters the top.
+  const rest = data
+    .filter((a) => a.status !== "up")
+    .sort((a, b) => statusRank[a.status] - statusRank[b.status] || a.name.localeCompare(b.name));
+  if (rest.length) {
+    body.push(
+      `## ⚠️ Unverified & unreachable (${rest.length})`,
+      "",
+      "These responded with auth/blocked codes (❔) or failed today (❌). Kept for completeness and re-checked daily.",
+      "",
+      `<details><summary>Show ${rest.length} entries</summary>`,
+      "",
+      "| API | Category | Auth | Status |",
+      "|---|---|---|---|",
+    );
+    for (const a of rest) {
+      body.push(`| [${a.name}](${a.url}) | ${a.category} | ${a.auth} | ${emoji[a.status]} |`);
+    }
+    body.push("", "</details>", "");
+  }
+
   return [...head, ...body].join("\n");
 }

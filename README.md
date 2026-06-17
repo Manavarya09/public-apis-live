@@ -9,10 +9,10 @@ lists, deduped, and re-verified every day by CI.
 
 **[🔎 Search them all in the browser →](https://manavarya09.github.io/public-apis-live/)** · **[📊 See the benchmark →](./BENCHMARK.md)**
 
-> **How verification works:** we only check *reachability* (no API keys). A listed API means its
+> **How verification works:** we only check *reachability* (no API keys). A working API means its
 > URL returned a success response (2xx/3xx) today; we do **not** functionally test endpoints.
 > 474 unreachable and 1088 unverified (timeouts, auth-walled, or bot-blocked) entries are
-> kept in [`data/apis.json`](./data/apis.json) and counted in the benchmark, but omitted from this list.
+> listed at the bottom and counted in the benchmark.
 
 ## 🏆 Most reliable APIs
 
@@ -3360,3 +3360,1576 @@ _Ranked by uptime across daily reachability checks (ties broken by response time
 | [wttr.in](https://wttr.in/:help) | Weather in your terminal, supports JSON output | none | Yes | ✅ |
 | [Wunderground API](https://www.wunderground.com/weather/api/) | Reliable data, accurate forecast, & global coverage in 80 languages. | unknown | No | ✅ |
 | [Yandex.Weather](https://yandex.com/dev/weather/) | Assesses weather condition in specific locations | apiKey | Yes | ✅ |
+
+## ⚠️ Unverified & unreachable (1562)
+
+These responded with auth/blocked codes (❔) or failed today (❌). Kept for completeness and re-checked daily.
+
+<details><summary>Show 1562 entries</summary>
+
+| API | Category | Auth | Status |
+|---|---|---|---|
+| [1,000,000+ Recipe and Grocery List API (v2)](https://bigoven.com) | Enterprise | unknown | ❔ |
+| [1Password Connect](https://1password.local) | Security | unknown | ❔ |
+| [Aadhaar Bridge](https://www.aadhaarbridge.com/) | Miscellaneous | unknown | ❔ |
+| [Account and Transaction API Specification](https://openbanking.org.uk) | Financial | unknown | ❔ |
+| [Account API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Account API](https://vonage.com) | Enterprise | unknown | ❔ |
+| [Accounts API](https://whapi.com) | Entertainment | unknown | ❔ |
+| [AccuWeather](https://developer.accuweather.com/apis) | Weather | apiKey | ❔ |
+| [ACE Provisioning ManagementPartner](https://azure.com) | Cloud | unknown | ❔ |
+| [Active Documentation for /v1](https://idtbeyond.com) | Telecom | unknown | ❔ |
+| [addr.zone](https://addr.zone) | Development | none | ❔ |
+| [ADHybridHealthService](https://azure.com) | Cloud | unknown | ❔ |
+| [Adobe Experience Manager (AEM) API](https://adobe.com) | Marketing | unknown | ❔ |
+| [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html) | Animals | apiKey | ❔ |
+| [AdvisorManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Africa's Talking](https://africastalking.com/) | Communication | unknown | ❔ |
+| [Aftership](https://developers.aftership.com/reference/quick-start) | Tracking | apiKey | ❔ |
+| [AfterShip](https://www.aftership.com/docs/api/4/overview) | Transportation | unknown | ❔ |
+| [AGCO API](https://agco-ats.com) | Ecommerce | unknown | ❔ |
+| [agentOS Api V2, Customer Login Call Group](https://letmc.com) | Ecommerce | unknown | ❔ |
+| [agentOS API V3, Diary Call Group](https://letmc.com) | Ecommerce | unknown | ❔ |
+| [agentOS API V3, Maintenance Call Group](https://letmc.com) | Ecommerce | unknown | ❔ |
+| [Aggregators API Service](https://zeno.fm) | Media | unknown | ❔ |
+| [Airbyte Configuration API](https://airbyte.local) | Developer_tools | unknown | ❔ |
+| [Airports API v2](https://transavia.com) | Transport | unknown | ❔ |
+| [Airtel IP](https://sys.airtel.lv/ip2country/1.1.1.1/?full=true) | Geocoding | none | ❔ |
+| [AirVisual](https://airvisual.com/api) | Environment | apiKey | ❔ |
+| [Alerter System API](https://alertersystem.com) | Enterprise | unknown | ❔ |
+| [AltoroJ REST API](https://testfire.net) | Security | unknown | ❔ |
+| [Amazon Scraper API](https://docs.amazonscraperapi.com) | Shopping | apiKey | ❔ |
+| [Amazonscraperapi](https://amazonscraperapi.com) | Development | apiKey | ❔ |
+| [Améthyste](https://api.amethyste.moe/) | Art & Design | apiKey | ❔ |
+| [AmiiboAPI](https://amiiboapi.com/) | Games & Comics | none | ❔ |
+| [AniAPI](https://aniapi.com/docs/) | Anime | OAuth | ❔ |
+| [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime | apiKey | ❔ |
+| [Animal Crossing: New Horizons](http://acnhapi.com/) | Games & Comics | none | ❔ |
+| [Annunciator content API](https://parliament.uk) | Open_data | unknown | ❔ |
+| [Anomaly Detector Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Anomaly Finder Client](https://azure.com) | Cloud | unknown | ❔ |
+| [API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [API docs | logoraisr.com](https://logoraisr.com) | Media | unknown | ❔ |
+| [Api Documentation](https://faceidentity-beta.azurewebsites.net) | Security | unknown | ❔ |
+| [Api Documentation](https://uscann.net) | Security | unknown | ❔ |
+| [API for the COVID-19 Tracking QR Code Signin Server.](https://c19qrserver.local) | Open_data | unknown | ❔ |
+| [API for the Settlement Currency Rate converter](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [API Grátis](https://apigratis.com.br/) | Development | none | ❔ |
+| [API Reference: Billing](https://zuora.com) | Financial | unknown | ❔ |
+| [API v1](https://formapi.io) | Text | unknown | ❔ |
+| [API V1](https://versioneye.com) | Open_data | unknown | ❔ |
+| [API V1](https://change.local) | Payment | unknown | ❔ |
+| [API-FOOTBALL](https://www.api-football.com/documentation-v3) | Sports & Fitness | apiKey | ❔ |
+| [api.clarify.io](https://clarify.io) | Search | unknown | ❔ |
+| [api.datumbox.com](https://datumbox.com) | Machine_learning | unknown | ❔ |
+| [api.ecota.co v2](https://staging-ecotaco.com) | Location | unknown | ❔ |
+| [Apicurio Registry API [v2]](https://apicurio.local) | Developer_tools | unknown | ❔ |
+| [ApiDapp](https://apidapp.com) | Financial | unknown | ❔ |
+| [ApiManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [AppConfigurationManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Application API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Application Insights Data Plane](https://azure.com) | Cloud | unknown | ❔ |
+| [ApplicationClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ApplicationInsightsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [AppPlatformManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [AppServiceCertificateOrders API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [AppServiceEnvironments API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [AppServicePlans API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Arespass](https://arespass.net) | Enterprise | unknown | ❔ |
+| [Artifact](https://azure.com) | Cloud | unknown | ❔ |
+| [Asynchronous Speech-To-Text API Documentation](https://rev.ai) | Text | unknown | ❔ |
+| [AttestationClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Audit API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Australia](https://www.rba.gov.au/statistics/tables/) | Finance | unknown | ❔ |
+| [Authentication](https://personio.de) | Enterprise | unknown | ❔ |
+| [Authentiq Connect API](https://authentiq.io) | Security | unknown | ❔ |
+| [AuthorizationManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Automata Market Intelligence API](https://byautomata.io) | Enterprise | unknown | ❔ |
+| [AutomationManagement](https://azure.com) | Cloud | unknown | ❔ |
+| [AutomationManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [AutoSuggest Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [AviationAPI](https://docs.aviationapi.com) | Transportation | none | ❔ |
+| [AviationData.Systems Airports API V1](https://aviationdata.systems) | Transport | unknown | ❔ |
+| [AYLIEN](http://aylien.com/) | Machine Learning | unknown | ❔ |
+| [Aylien Text Analysis](https://docs.aylien.com/textapi/#getting-started) | Text Analysis | apiKey | ❔ |
+| [Azure Action Groups](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Activity Log Alerts](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Addons Resource Provider](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Alerts Management Service Resource Provider](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Bot Service](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure CDN WebApplicationFirewallManagement](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Container Registry](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Data Catalog Resource Provider](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Data Lake Storage](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Data Migration Service Resource Provider](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Dedicated HSM Resource Provider](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure DevOps](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Enterprise Knowledge Graph Service](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Location Based Services Resource Provider](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Log Analytics](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Log Analytics - Operations Management](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Log Analytics Query Packs](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Machine Learning Datastore Management Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Machine Learning Model Management Service](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Machine Learning Workspaces](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Maps Resource Provider](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Media Services](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Metrics](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Migrate](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Migrate Hub](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure ML Commitment Plans Management Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure ML Web Services Management Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Monitor Private Link Scopes](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Reservation](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Resource Graph](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Resource Graph Query](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure SQL Database](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure SQL Database Backup](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure SQL Database Backup Long Term Retention Policy](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure SQL Database Datamasking Policies and Rules](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure SQL Database disaster recovery configurations](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure SQL Database Import/Export spec](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure SQL Database replication links](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure SQL Server API spec](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure SQL Server Backup Long Term Retention Vault](https://azure.com) | Cloud | unknown | ❔ |
+| [Azure Stack Azure Bridge Client](https://azure.com) | Cloud | unknown | ❔ |
+| [azureactivedirectory](https://azure.com) | Cloud | unknown | ❔ |
+| [AzureAnalysisServices](https://azure.com) | Cloud | unknown | ❔ |
+| [AzureBridgeAdminClient](https://azure.com) | Cloud | unknown | ❔ |
+| [AzureDataManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [AzureDeploymentManager](https://azure.com) | Cloud | unknown | ❔ |
+| [AzureDigitalTwinsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [AzureStack Azure Bridge Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Background Removal API](https://remove.bg) | Developer_tools | unknown | ❔ |
+| [BackupManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Banco do Brasil](https://developers.bb.com.br/home) | Finance | OAuth | ❔ |
+| [Bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0) | Music | none | ❔ |
+| [Bandsintown API](https://bandsintown.com) | Social | unknown | ❔ |
+| [Base](https://www.base-api.io/) | Development | apiKey | ❔ |
+| [BatchAI](https://azure.com) | Cloud | unknown | ❔ |
+| [BatchManagement](https://azure.com) | Cloud | unknown | ❔ |
+| [BatchService](https://azure.com) | Cloud | unknown | ❔ |
+| [BatchService](https://windows.net) | Cloud | unknown | ❔ |
+| [Battle.net](https://develop.battle.net/documentation/guides/getting-started) | Games & Comics | OAuth | ❔ |
+| [BBC iPlayer Business Layer](https://bbci.co.uk) | Media | unknown | ❔ |
+| [Beanstream Payments](https://beanstream.com) | Payment | unknown | ❔ |
+| [Betfair: Exchange Streaming API](https://betfair.com) | Entertainment | unknown | ❔ |
+| [Betriebsstellen](https://deutschebahn.com) | Transport | unknown | ❔ |
+| [Bets API](https://whapi.com) | Entertainment | unknown | ❔ |
+| [Bill Payment Validator](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [BillingManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Bills API](https://parliament.uk) | Open_data | unknown | ❔ |
+| [BinaryEdge](https://docs.binaryedge.io/api-v2.html) | Security | apiKey | ❔ |
+| [Bing Maps](https://www.microsoft.com/maps/) | Geocoding | apiKey | ❔ |
+| [Bitcambio](https://nova.bitcambio.com.br/api/v3/docs#a-public) | Cryptocurrency | none | ❔ |
+| [Bitcoin](https://developer.bitcoin.org/) | Cryptocurrency/Crypto Wallets | unknown | ❔ |
+| [BitcoinAverage](https://apiv2.bitcoinaverage.com/) | Cryptocurrency | apiKey | ❔ |
+| [BitcoinCharts](https://bitcoincharts.com/about/exchanges/) | Cryptocurrency | none | ❔ |
+| [Block](https://block.io/docs/basic) | Cryptocurrency | apiKey | ❔ |
+| [BlockchainManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [BlockFacts](https://blockfacts.io/) | Cryptocurrency | apiKey | ❔ |
+| [BlockFacts.io](https://blockfacts.io/) | Cryptocurrency/Crypto Wallets | unknown | ❔ |
+| [BlueprintClient](https://azure.com) | Cloud | unknown | ❔ |
+| [BlueSky API](https://blueskyapi.io/docs/api) | Weather | unknown | ❔ |
+| [bng2latlong](https://www.getthedata.com/bng2latlong) | Geocoding | none | ❔ |
+| [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) | Games & Comics | none | ❔ |
+| [BoozeAPI](https://boozeapi.com/) | Food & Drink | apiKey | ❔ |
+| [Bored](https://www.boredapi.com/) | Development | none | ❔ |
+| [Bored API](https://www.boredapi.com/documentation) | Miscellaneous | unknown | ❔ |
+| [Brain Web API](https://intellifi.nl) | Iot | unknown | ❔ |
+| [brainbi](https://brainbi.net) | Ecommerce | unknown | ❔ |
+| [Brainshop.ai](https://brainshop.ai/) | Development | apiKey | ❔ |
+| [Brawl Stars](https://developer.brawlstars.com) | Games & Comics | apiKey | ❔ |
+| [Breaking Bad](https://breakingbadapi.com/documentation) | Video | none | ❔ |
+| [Breaking Bad & Better Call Saul API](https://breakingbadapi.com/documentation) | Entertainment | unknown | ❔ |
+| [bridgedb webservices](https://bridgedb.org) | Enterprise | unknown | ❔ |
+| [British National Bibliography](http://bnb.data.bl.uk/) | Books | none | ❔ |
+| [Browse API](https://ebay.com) | Ecommerce | unknown | ❔ |
+| [Bruzu](https://docs.bruzu.com) | Photography | apiKey | ❔ |
+| [Bufferapp](https://bufferapp.com) | Social | unknown | ❔ |
+| [Bugsnax](https://www.bugsnaxapi.com/) | Games & Comics | none | ❔ |
+| [Bulk WHOIS API](https://apispot.io) | Developer_tools | unknown | ❔ |
+| [BulkSMS JSON REST API](https://bulksms.com) | Telecom | unknown | ❔ |
+| [Bungie.Net API](https://bungie.net) | Media | unknown | ❔ |
+| [bunq API](https://bunq.com) | Financial | unknown | ❔ |
+| [Bus Route and Stop Methods](https://wmata.com) | Transport | unknown | ❔ |
+| [Business Registries](https://ato.gov.au) | Financial | unknown | ❔ |
+| [Buy Marketing API](https://ebay.com) | Ecommerce | unknown | ❔ |
+| [Calendar Index](https://www.calendarindex.com/) | Calendar | apiKey | ❔ |
+| [CalendarIndex](https://www.calendarindex.com) | Calendar | unknown | ❔ |
+| [Call Control API](https://callcontrol.com) | Telecom | unknown | ❔ |
+| [CallFire API Documentation](https://callfire.com) | Telecom | unknown | ❔ |
+| [Cambase.io](https://cambase.io) | Enterprise | unknown | ❔ |
+| [Canadian Football League (CFL)](http://api.cfl.ca/) | Sports & Fitness | apiKey | ❔ |
+| [Car Configurator](https://mercedes-benz.com) | Transport | unknown | ❔ |
+| [CarbonDoomsDay](https://carbondoomsday.com) | Open_data | unknown | ❔ |
+| [Catalog API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Catalog API - Seller Portal](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Catalogopolis](https://api.catalogopolis.xyz/docs/) | Video | none | ❔ |
+| [CdnManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Cenit IO - REST API Specification](https://cenit.io) | Enterprise | unknown | ❔ |
+| [Censys](https://search.censys.io/api) | Security | apiKey | ❔ |
+| [CertificateRegistrationProvider API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Certificates API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Channel 4 API](https://channel4.com) | Media | unknown | ❔ |
+| [ChannelShipper & Royal Mail Public API](https://royalmail.com) | Ecommerce | unknown | ❔ |
+| [CheapShark](https://www.cheapshark.com/api) | Games & Comics | none | ❔ |
+| [Checkout API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Chess.com](https://www.chess.com/news/view/published-data-api) | Games & Comics | none | ❔ |
+| [Chomp Food Database API Documentation](https://chompthis.com) | Tools | unknown | ❔ |
+| [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) | News | none | ❔ |
+| [CIS Automotive API](https://autodealerdata.com) | Ecommerce | unknown | ❔ |
+| [Cisco PSIRT openVuln API](https://cisco.com) | Security | unknown | ❔ |
+| [Citi](https://sandbox.developerhub.citi.com/api-catalog-list) | Finance | apiKey | ❔ |
+| [City Context](https://citycontext.com) | Open_data | unknown | ❔ |
+| [City of Surrey Open511 API](https://surrey.ca) | Open_data | unknown | ❔ |
+| [City of Surrey Traffic Loop Count API.](https://surrey.ca) | Open_data | unknown | ❔ |
+| [City, Berlin](https://daten.berlin.de/) | Government | none | ❔ |
+| [City, Lviv](https://opendata.city-adm.lviv.ua/) | Government | none | ❔ |
+| [Clash of Clans](https://developer.clashofclans.com) | Games & Comics | apiKey | ❔ |
+| [Clash Royale](https://developer.clashroyale.com) | Games & Comics | apiKey | ❔ |
+| [ClearBlade API](https://clearblade.com) | Iot | unknown | ❔ |
+| [Clever-Cloud API](https://clever-cloud.com) | Cloud | unknown | ❔ |
+| [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986) | URL Shorteners | apiKey | ❔ |
+| [ClickSend REST API v3](https://clicksend.com) | Email | unknown | ❔ |
+| [Climate FieldView Platform APIs](https://climate.com) | Open_data | unknown | ❔ |
+| [climateKuul live](https://climatekuul.com) | Backend | unknown | ❔ |
+| [Cloudbet](https://www.cloudbet.com/api/) | Sports & Fitness | apiKey | ❔ |
+| [Clubhouse API](https://clubhouseapi.com) | Social | unknown | ❔ |
+| [Co-WIN Certificate API](https://cowin.gov.cin) | Open_data | unknown | ❔ |
+| [Codeforces](https://codeforces.com/apiHelp) | Programming | apiKey | ❔ |
+| [CodeScan API](https://code-scan.com) | Developer_tools | unknown | ❔ |
+| [CognitiveServicesManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [CoinAPI](https://docs.coinapi.io/) | Cryptocurrency | apiKey | ❔ |
+| [Coinbase](https://developers.coinbase.com) | Cryptocurrency | apiKey | ❔ |
+| [CoinDesk](https://old.coindesk.com/coindesk-api/) | Cryptocurrency | none | ❔ |
+| [CoinGecko](http://www.coingecko.com/api) | Cryptocurrency | none | ❔ |
+| [Coingecko.com](https://www.coingecko.com/en/api) | Currency | unknown | ❔ |
+| [Collins](https://api.collinsdictionary.com/api/v1/documentation/html/) | Dictionaries | apiKey | ❔ |
+| [ColourLovers](http://www.colourlovers.com/api) | Art & Design | none | ❔ |
+| [Comic Vine](https://comicvine.gamespot.com/api/documentation) | Games & Comics | none | ❔ |
+| [CommerceManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Commons Votes API](https://parliament.uk) | Open_data | unknown | ❔ |
+| [CompanyAPI](https://roaring.io) | Customer_relation | unknown | ❔ |
+| [Compute Admin Client](https://azure.com) | Cloud | unknown | ❔ |
+| [ComputeDiskAdminManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ComputeManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ComputeManagementConvenienceClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Computer Vision](https://azure.com) | Cloud | unknown | ❔ |
+| [Computer Vision Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [Congress.gov API](https://api.congress.gov) | Miscellaneous | unknown | ❔ |
+| [Conjur](https://conjur.local) | Security | unknown | ❔ |
+| [ConsumptionManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ContainerInstanceManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ContainerRegistryManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ContainerServiceClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Content Moderator Client](https://azure.com) | Cloud | unknown | ❔ |
+| [ContentDepot](https://prss.org) | Media | unknown | ❔ |
+| [Contract.fit API](https://contract-p.fit) | Text | unknown | ❔ |
+| [Contribly](https://contribly.com) | Social | unknown | ❔ |
+| [Conversation API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Coronavirus API](https://quarantine.country) | Open_data | unknown | ❔ |
+| [Cosmos DB](https://azure.com) | Cloud | unknown | ❔ |
+| [CostManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [CountAPI](https://countapi.xyz) | Development | none | ❔ |
+| [Covid-19](https://covid19api.com/) | Health | none | ❔ |
+| [COVID-19 data API](https://covid19-api.com) | Open_data | unknown | ❔ |
+| [COVID-ID](https://data.covid19.go.id/public/api/prov.json) | Health | none | ❔ |
+| [Credas API](https://credas.co.uk) | Security | unknown | ❔ |
+| [Crediwatch's Covid APIs](https://crediwatch.com) | Open_data | unknown | ❔ |
+| [Cross Universe](https://crossuniverse.psychpsyo.com/apiDocs.html) | Games & Comics | none | ❔ |
+| [Cross Universe](https://crossuniverse.net/apiDocs) | Games & Comics | none | ❔ |
+| [Crossbrowsertesting.com Screenshot Comparisons API](https://crossbrowsertesting.com) | Developer_tools | unknown | ❔ |
+| [Crucible](https://crucible.local) | Developer_tools | unknown | ❔ |
+| [CRXcavator](https://crxcavator.io/apidocs) | Security | apiKey | ❔ |
+| [CryptAPI](https://docs.cryptapi.io/) | Cryptocurrency | none | ❔ |
+| [CryptoCompare](https://www.cryptocompare.com/api#) | Cryptocurrency | none | ❔ |
+| [CryptoMarket](https://api.exchange.cryptomkt.com/) | Cryptocurrency | apiKey | ❔ |
+| [Cryptonator](https://www.cryptonator.com/api/) | Cryptocurrency | none | ❔ |
+| [CSGO API](https://bymykel.github.io/CSGO-API/) | Videogames | unknown | ❔ |
+| [CTS](https://api.cts-strasbourg.eu/) | Transportation | apiKey | ❔ |
+| [Custom Image Search Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [Custom Search Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [Custom Vision Prediction Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [Custom Vision Training Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [Customer Credit API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Customer Lockbox](https://azure.com) | Cloud | unknown | ❔ |
+| [CustomerInsightsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [customproviders](https://azure.com) | Cloud | unknown | ❔ |
+| [Dados Abertos - API](https://inpe.br) | Location | unknown | ❔ |
+| [Danbooru](https://danbooru.donmai.us/posts?tags=help%3Aapi) | Entertainment | unknown | ❔ |
+| [Danbooru Anime](https://danbooru.donmai.us/wiki_pages/help:api) | Anime | apiKey | ❔ |
+| [Dangerous Discord Database](https://discord.riverside.rocks/docs/index.php) | Social | apiKey | ❔ |
+| [DaniWeb Connect API](https://daniweb.com) | Developer_tools | unknown | ❔ |
+| [Data2CRM.API](https://data2crm.com) | Enterprise | unknown | ❔ |
+| [DataBoxEdgeManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [DataBoxManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [DatabricksClient](https://azure.com) | Cloud | unknown | ❔ |
+| [DataFactoryManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [DataLakeAnalyticsAccountManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [DataLakeAnalyticsCatalogManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [DataLakeAnalyticsJobManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [DataLakeStoreAccountManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [DataLakeStoreFileSystemManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Datasette API](https://datasette.local) | Developer_tools | unknown | ❔ |
+| [DataShareManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Daymet Single Pixel Extraction Tool API](https://ornl.gov) | Location | unknown | ❔ |
+| [Dealer](https://mercedes-benz.com) | Transport | unknown | ❔ |
+| [Deed API](https://landregistry.gov.uk) | Open_data | unknown | ❔ |
+| [Deep Art Effects](https://deeparteffects.com) | Media | unknown | ❔ |
+| [DeletedWebApps API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [DeploymentAdminClient](https://azure.com) | Cloud | unknown | ❔ |
+| [DeploymentScriptsClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Developer documentation](https://journy.io) | Customer_relation | unknown | ❔ |
+| [DeviantArt](https://www.deviantart.com/developers/) | Social Media | unknown | ❔ |
+| [DeviceServices](https://azure.com) | Cloud | unknown | ❔ |
+| [DevSpacesManagement](https://azure.com) | Cloud | unknown | ❔ |
+| [DevTestLabsClient](https://azure.com) | Cloud | unknown | ❔ |
+| [DFlight API](https://ljaero.com) | Enterprise | unknown | ❔ |
+| [Diabetes](http://predictbgl.com/api/) | Health | none | ❔ |
+| [Diagnostics API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [DialogFlow](https://dialogflow.com/) | Natural Language Processing | unknown | ❔ |
+| [Digi-Key](https://www.digikey.com/en/resources/api-solutions) | Shopping | OAuth | ❔ |
+| [Discogs](https://www.discogs.com/developers/) | Music | OAuth | ❔ |
+| [Discourse API Documentation](https://discourse.local) | Social | unknown | ❔ |
+| [DiskResourceProviderClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Dispatch API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [DnsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Doc Converter](https://presalytics.io) | Analytics | unknown | ❔ |
+| [DocuSign REST API](https://docusign.net) | Ecommerce | unknown | ❔ |
+| [Doge-Meme](https://api.doge-meme.lol/docs) | Social | none | ❔ |
+| [Domain Services Resource Provider](https://azure.com) | Cloud | unknown | ❔ |
+| [DomainRegistrationProvider API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Domains API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Dota 2](https://docs.opendota.com/) | Games & Comics | apiKey | ❔ |
+| [Drivet URL Shortener](https://wiki.drivet.xyz/en/url-shortener/add-links) | URL Shorteners | none | ❔ |
+| [Dropbox](https://www.dropbox.com/developers) | Cloud Storage & File Sharing | OAuth | ❔ |
+| [dweet.io](https://dweet.io) | Iot | unknown | ❔ |
+| [Dynamics Telemetry](https://azure.com) | Cloud | unknown | ❔ |
+| [Earnings Feed](https://earningsfeed.com/api) | Finance | apiKey | ❔ |
+| [EasyPDFServer](https://easypdfserver.com) | Text | unknown | ❔ |
+| [eBay](https://go.developer.ebay.com/) | Shopping | OAuth | ❔ |
+| [ecwid](https://cloud-elements.com) | Ecommerce | unknown | ❔ |
+| [Einstein Vision and Einstein Language](https://salesforce.local) | Text | unknown | ❔ |
+| [Email Activity (beta)](https://sendgrid.com) | Email | unknown | ❔ |
+| [EmailRep](https://docs.emailrep.io/) | Security | none | ❔ |
+| [EmailVerify](https://paypi.dev) | Email | unknown | ❔ |
+| [emptychair.dev](https://emptychair.dev/api) | Development | none | ❔ |
+| [Endpoints](https://tokenmetrics.com) | Financial | unknown | ❔ |
+| [Engagement.ManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [EngagementFabric](https://azure.com) | Cloud | unknown | ❔ |
+| [English Random Words](https://random-words-api.vercel.app/word) | Test Data | none | ❔ |
+| [Enterobase-API](https://warwick.ac.uk) | Open_data | unknown | ❔ |
+| [Entertainment Express API](https://iva-api.com) | Media | unknown | ❔ |
+| [Entity Search Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [Ergast F1](http://ergast.com/mrd/) | Sports & Fitness | none | ❔ |
+| [Ergast Formula 1](http://ergast.com/mrd/) | Sport | unknown | ❔ |
+| [Erskine May API](https://parliament.uk) | Open_data | unknown | ❔ |
+| [ESG Rating Data](https://esgenterprise.com) | Open_data | unknown | ❔ |
+| [Etherpad API](https://etherpad.local) | Developer_tools | unknown | ❔ |
+| [ETSI GS MEC 010-2 - Part 2: Application lifecycle, rules and requirements management](https://etsi.local) | Telecom | unknown | ❔ |
+| [EU BON UTIS](https://cybertaxonomy.eu) | Open_data | unknown | ❔ |
+| [Europeana](https://pro.europeana.eu/resources/apis/search) | Art & Design | apiKey | ❔ |
+| [Europeana Search & Record API](https://europeana.eu) | Open_data | unknown | ❔ |
+| [EVA](https://eva.pingutil.com/) | Email | none | ❔ |
+| [Eve Online](https://esi.evetech.net/ui) | Games & Comics | OAuth | ❔ |
+| [EventGridManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [EventHub2018PreviewManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [EventHubManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Execution Service](https://azure.com) | Cloud | unknown | ❔ |
+| [ExpressRouteCrossConnection REST APIs](https://azure.com) | Cloud | unknown | ❔ |
+| [Extension API](https://vonage.com) | Enterprise | unknown | ❔ |
+| [External Accounts API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [FabricAdminClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Face Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Factual](https://developer.factual.com/docs/getting-started) | Places | unknown | ❔ |
+| [Fahrplan-Free](https://deutschebahn.com) | Transport | unknown | ❔ |
+| [FakeJSON](https://fakejson.com) | Test Data | apiKey | ❔ |
+| [FakeStoreAPI](https://fakestoreapi.com/) | Test Data | none | ❔ |
+| [Faretrotter Travel API](https://faretrotter.com) | Transport | unknown | ❔ |
+| [FaSta - Station Facilities Status](https://deutschebahn.com) | Transport | unknown | ❔ |
+| [FastAPI](https://botschaft.local) | Messaging | unknown | ❔ |
+| [Favicon.im](https://favicon.im) | Business | none | ❔ |
+| [FBI Wanted](https://www.fbi.gov/wanted/api) | Government | none | ❔ |
+| [FeatureClient](https://azure.com) | Cloud | unknown | ❔ |
+| [FFXIV Collect](https://ffxivcollect.com/) | Games & Comics | none | ❔ |
+| [FIFA Ultimate Team](https://www.easports.com/fifa/ultimate-team/api/fut/item) | Games & Comics | none | ❔ |
+| [FIFA women's world cup 2019](https://worldcup.sfg.io/) | Sport | unknown | ❔ |
+| [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs) | Finance | apiKey | ❔ |
+| [Finnhub](https://finnhub.io/docs/api) | Finance | apiKey | ❔ |
+| [Fire Financial Services Business API](https://fire.com) | Financial | unknown | ❔ |
+| [Firebase Cloud Messaging API](https://javatpoint.com) | Enterprise | unknown | ❔ |
+| [FireBrowse Beta API](https://firebrowse.org) | Open_data | unknown | ❔ |
+| [FishEye](https://fisheye.local) | Developer_tools | unknown | ❔ |
+| [Fisheye Crucible](https://fecru.local) | Developer_tools | unknown | ❔ |
+| [FishWatch](https://www.fishwatch.gov/developers) | Animals | none | ❔ |
+| [Fitbit Plus API](https://twinehealth.com) | Support | unknown | ❔ |
+| [Flinkster_API_NG](https://deutschebahn.com) | Transport | unknown | ❔ |
+| [Football (Soccer) Videos](https://www.scorebat.com/video-api/) | Sports & Fitness | none | ❔ |
+| [Form Recognizer Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Fortnite](https://fortnitetracker.com/site-api) | Games & Comics | apiKey | ❔ |
+| [Forza](https://docs.forza-api.tk) | Games & Comics | none | ❔ |
+| [Foursquare Venue](https://developer.foursquare.com/overview/venues) | Places | unknown | ❔ |
+| [Frankie Financial API](https://frankiefinancial.io) | Financial | unknown | ❔ |
+| [FraudLabs Pro Fraud Detection](https://fraudlabspro.com) | Ecommerce | unknown | ❔ |
+| [FraudLabs Pro SMS Verification](https://fraudlabspro.com) | Telecom | unknown | ❔ |
+| [FRC Events](https://firstinspires.org) | Open_data | unknown | ❔ |
+| [FRED](https://fred.stlouisfed.org/docs/api/fred/) | Finance | apiKey | ❔ |
+| [Free Url Shortener](https://ulvis.net/developer.html) | URL Shorteners | none | ❔ |
+| [FreeForexAPI](https://freeforexapi.com/Home/Api) | Currency Exchange | none | ❔ |
+| [Freepik](https://freepik.com/api) | Art & Design | apiKey | ❔ |
+| [FreeToGame](https://www.freetogame.com/api-doc) | Games & Comics | none | ❔ |
+| [FrontDoorManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Fruits](https://fruits-api.netlify.app/graphql) | Open Data | none | ❔ |
+| [Fulfillment.com APIv2](https://fulfillment.com) | Ecommerce | unknown | ❔ |
+| [Fun Fact](https://api.aakhilv.me) | Entertainment | none | ❔ |
+| [FunTranslations](https://api.funtranslations.com/) | Games & Comics | none | ❔ |
+| [GalleryManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [GamerPower](https://www.gamerpower.com/api-read) | Games & Comics | none | ❔ |
+| [GameSparks Game Details API](https://gamesparks.net) | Developer_tools | unknown | ❔ |
+| [Gateio](https://www.gate.io/api2) | Cryptocurrency | apiKey | ❔ |
+| [Gates.io](https://www.gate.io/api2) | Cryptocurrency | none | ❔ |
+| [Gateway](https://ndhm.gov.in) | Open_data | unknown | ❔ |
+| [Gateway REST API](https://tyk.com) | Enterprise | unknown | ❔ |
+| [GBIF](https://www.gbif.org/developer/summary) | Science & Math | none | ❔ |
+| [GDBrowser](https://gdbrowser.com/api) | Games & Comics | none | ❔ |
+| [Genshin Impact](https://genshin.dev) | Games & Comics | none | ❔ |
+| [Geodata.gov.gr](https://geodata.gov.gr/en/) | Geocoding | none | ❔ |
+| [geodesystems.com:443](https://geodesystems.com) | Enterprise | unknown | ❔ |
+| [Georg API](https://nrm.se) | Location | unknown | ❔ |
+| [GETPing](https://www.getping.info) | Development | apiKey | ❔ |
+| [Gfycat](https://developers.gfycat.com/api/) | Photography | OAuth | ❔ |
+| [Giant Bomb](https://www.giantbomb.com/api/documentation) | Games & Comics | apiKey | ❔ |
+| [GiantBomb](http://www.giantbomb.com/api/) | Videogames | unknown | ❔ |
+| [GiftCard API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [GiftCard Hub API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Gitter](https://developer.gitter.im/docs/welcome) | Development | OAuth | ❔ |
+| [GlobalWineScore API Documentation](https://globalwinescore.com) | Open_data | unknown | ❔ |
+| [GoFile](https://gofile.io/api) | Cloud Storage & File Sharing | apiKey | ❔ |
+| [goog.io | Unoffical Google Search API](https://goog.io) | Search | unknown | ❔ |
+| [Google Home](https://google.home) | Enterprise | unknown | ❔ |
+| [Google Pay Passes API](https://walletobjects.googleapis.com) | Enterprise | unknown | ❔ |
+| [GoToMeeting](https://citrixonline.com) | Collaboration | unknown | ❔ |
+| [GoToTraining](https://getgo.com) | Enterprise | unknown | ❔ |
+| [GoToWebinar](https://getgo.com) | Enterprise | unknown | ❔ |
+| [Gracenote](https://developer.gracenote.com/) | Music Identification | unknown | ❔ |
+| [GraphQL Jobs](https://graphql.jobs/docs/api/) | Jobs | none | ❔ |
+| [GraphRbacManagementClient](https://windows.net) | Cloud | unknown | ❔ |
+| [Graphs for Coronavirus](https://corona.dnsforfamily.com/api.txt) | News | none | ❔ |
+| [Growth Services](https://i-cue.solutions) | Analytics | unknown | ❔ |
+| [GSMTasks Project API](https://gsmtasks.com) | Enterprise | unknown | ❔ |
+| [Guest Diagnostic Settings](https://azure.com) | Cloud | unknown | ❔ |
+| [Guest Diagnostic Settings Association](https://azure.com) | Cloud | unknown | ❔ |
+| [GuestConfiguration](https://azure.com) | Cloud | unknown | ❔ |
+| [Guild Wars 2](https://wiki.guildwars2.com/wiki/API:Main) | Games & Comics | apiKey | ❔ |
+| [Gun Policy](https://www.gunpolicy.org/api) | Government | apiKey | ❔ |
+| [HanaManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Hardware Sentry TrueSight Presentation Server REST API](https://truesight.local) | Iot | unknown | ❔ |
+| [hashlookup CIRCL API](https://circl.lu) | Security | unknown | ❔ |
+| [HDInsightJobManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [HDInsightManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Health Data Consent Manager](https://ndhm.gov.in) | Open_data | unknown | ❔ |
+| [Health ID Service](https://ndhm.gov.in) | Open_data | unknown | ❔ |
+| [Health Repository Provider Specifications for HIP](https://ndhm.gov.in) | Open_data | unknown | ❔ |
+| [Health Repository Provider Specifications for HIU](https://ndhm.gov.in) | Open_data | unknown | ❔ |
+| [HealthcareApisClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Hearthstone](http://hearthstoneapi.com/) | Games & Comics | unknown | ❔ |
+| [Hermesforge Screenshot API](https://hermesforge.dev/api) | Development | apiKey | ❔ |
+| [hetras Booking API Version 0](https://hetras-certification.net) | Enterprise | unknown | ❔ |
+| [hetras Hotel API Version 0](https://hetras-certification.net) | Enterprise | unknown | ❔ |
+| [HHS Media Services API](https://hhs.gov) | Open_data | unknown | ❔ |
+| [High Performance Building Database](https://nrel.gov) | Open_data | unknown | ❔ |
+| [Hindi Quotes](https://hindi-quotes.vercel.app/) | Personality | none | ❔ |
+| [Hirak Exchange Rates](https://rates.hirak.site/) | Cryptocurrency | apiKey | ❔ |
+| [Hirak FaceAPI](https://faceapi.hirak.site/) | Machine Learning | apiKey | ❔ |
+| [Hirak IP to Country](https://iplocation.hirak.site/) | Geocoding | apiKey | ❔ |
+| [Hirak OCR](https://ocr.hirak.site/) | Text Analysis | apiKey | ❔ |
+| [Hirak Translation](https://translate.hirak.site/) | Text Analysis | apiKey | ❔ |
+| [HOL Registry Broker](https://hol.org/docs/registry-broker/) | Machine Learning | apiKey | ❔ |
+| [Holiday API](https://holidayapi.pl/) | Calendar | unknown | ❔ |
+| [House of Commons Oral and Written Questions API](https://parliament.uk) | Open_data | unknown | ❔ |
+| [HTTP2.Pro](https://http2.pro/doc/api) | Development | none | ❔ |
+| [HybridComputeManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [HybridDataManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [HyperDrive](https://azure.com) | Cloud | unknown | ❔ |
+| [Hypixel](https://api.hypixel.net/) | Games & Comics | apiKey | ❔ |
+| [Hytale](https://hytale-api.com/) | Games & Comics | none | ❔ |
+| [IBM Containers API](https://bluemix.net) | Developer_tools | unknown | ❔ |
+| [ID4i API](https://id4i.de) | Enterprise | unknown | ❔ |
+| [IEX Cloud](https://iexcloud.io/docs/api/) | Finance | apiKey | ❔ |
+| [IGDB](https://www.igdb.com/api) | Videogames | unknown | ❔ |
+| [IGDB.com](https://api-docs.igdb.com) | Games & Comics | apiKey | ❔ |
+| [Image Search Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [IMDb-API](https://imdb-api.com/) | Video | apiKey | ❔ |
+| [Impala Hotel Bookings](https://docs.impala.travel/docs/booking-api/) | Transportation | apiKey | ❔ |
+| [Incidents](https://wmata.com) | Transport | unknown | ❔ |
+| [Indeed](https://www.indeed.com/publisher) | Jobs | apiKey | ❔ |
+| [INEI](http://iinei.inei.gob.pe/microdatos/) | Government | none | ❔ |
+| [InfrastructureInsightsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Ink Recognizer Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Inspiration](https://inspiration.goprogram.ai/docs/) | Personality | none | ❔ |
+| [InstanceMetadataClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Intel Product Catalogue Service](https://intel.com) | Ecommerce | unknown | ❔ |
+| [Intelligent Search API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Interactive documentation for your Premium plan](https://meteosource.com) | Enterprise | unknown | ❔ |
+| [IntuneResourceManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Inventory Management](https://walmart.com) | Ecommerce | unknown | ❔ |
+| [IotCentralClient](https://azure.com) | Cloud | unknown | ❔ |
+| [iotDpsClient](https://azure.com) | Cloud | unknown | ❔ |
+| [iotHubClient](https://azure.com) | Cloud | unknown | ❔ |
+| [IoTSpacesClient](https://azure.com) | Cloud | unknown | ❔ |
+| [IoTVAS API](https://firmalyzer.com) | Iot | unknown | ❔ |
+| [ip-fast.com](https://ip-fast.com/docs/) | Development | none | ❔ |
+| [IP2Location IP Geolocation](https://ip2location.com) | Location | unknown | ❔ |
+| [IP2Location.io IP Geolocation API](https://ip2location.io) | Developer_tools | unknown | ❔ |
+| [IP2Proxy Proxy Detection](https://ip2proxy.com) | Location | unknown | ❔ |
+| [ipapi.co IP Location](https://ipapi.co/) | Geocoding | none | ❔ |
+| [ipfind.io](https://ipfind.io) | Development | apiKey | ❔ |
+| [ipgeolocation](https://ipgeolocation.com/) | Geocoding | apiKey | ❔ |
+| [IPInfoDB](https://www.ipinfodb.com/api) | Geocoding | apiKey | ❔ |
+| [IPLogs](https://iplogs.com/docs) | Security | none | ❔ |
+| [IPS Online](https://docs.identity.ps/docs) | Machine Learning | apiKey | ❔ |
+| [ipTwist](https://iptwist.com) | Developer_tools | unknown | ❔ |
+| [IQAir](https://www.iqair.com/air-pollution-data-api) | Environment | apiKey | ❔ |
+| [iQualify Management API](https://iqualify.com) | Education | unknown | ❔ |
+| [ISBNdb API](https://isbndb.com) | Open_data | unknown | ❔ |
+| [Item API](https://walmart.com) | Ecommerce | unknown | ❔ |
+| [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) | Music | none | ❔ |
+| [IUCN](http://apiv3.iucnredlist.org/api/v3/docs) | Animals | apiKey | ❔ |
+| [Jellyfin API](https://jellyfin.local) | Media | unknown | ❔ |
+| [JIRA 7.6.1](https://jira.local) | Developer_tools | unknown | ❔ |
+| [Jooble](https://jooble.org/api/about) | Jobs | apiKey | ❔ |
+| [Judge0 API](https://api.judge0.com/) | Miscellaneous | unknown | ❔ |
+| [Just Eat UK](https://just-eat.co.uk) | Ecommerce | unknown | ❔ |
+| [Keycloak Admin REST API](https://keycloak.local) | Developer_tools | unknown | ❔ |
+| [KeyServ](https://keyserv.solutions) | Iot | unknown | ❔ |
+| [KeyVaultClient](https://azure.com) | Cloud | unknown | ❔ |
+| [KeyVaultManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Klarna Payments API V1](https://klarna.com) | Financial | unknown | ❔ |
+| [KONTESTS](https://kontests.net/api) | Programming | none | ❔ |
+| [koomalooma](http://business.koomalooma.com) | Commerce | unknown | ❔ |
+| [koomalooma Partner API](https://koomalooma.com) | Ecommerce | unknown | ❔ |
+| [KSoft.Si Lyrics](https://docs.ksoft.si/api/lyrics-api) | Music | apiKey | ❔ |
+| [KumpeApps API](https://kumpeapps.com) | Enterprise | unknown | ❔ |
+| [KustoManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Kutt](https://docs.kutt.it/) | URL Shorteners | apiKey | ❔ |
+| [KYC API Documentation](https://brex.io) | Financial | unknown | ❔ |
+| [LambdaTest Screenshots API Documentation](https://lambdatest.com) | Developer_tools | unknown | ❔ |
+| [Land Transport Authority DataMall, Singapore](https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf) | Transportation | apiKey | ❔ |
+| [Language Understanding Intelligent Service (LUIS) Endpoint API for running predictions and extracting user intentions and entities from utterances.](https://azure.com) | Cloud | unknown | ❔ |
+| [LCBO](https://lcboapi.com/) | Food & Drink | apiKey | ❔ |
+| [Learnifier](https://learnifier.com) | Education | unknown | ❔ |
+| [Legacy Search API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [LetMC Api V2, Basic (Tier 2)](https://letmc.com) | Ecommerce | unknown | ❔ |
+| [LetMC Api V2, Free (Tier 1)](https://letmc.com) | Ecommerce | unknown | ❔ |
+| [LetMC Api V3, reporting](https://letmc.com) | Ecommerce | unknown | ❔ |
+| [LGTM API specification](https://lgtm.com) | Developer_tools | unknown | ❔ |
+| [LH Partner API](https://lufthansa.com) | Transport | unknown | ❔ |
+| [LH Public API](https://lufthansa.com) | Transport | unknown | ❔ |
+| [LibreTranslate](https://libretranslate.local) | Text | unknown | ❔ |
+| [LibreTranslate](https://libretranslate.com/docs) | Text Analysis | none | ❔ |
+| [License Manager API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Lichess](https://lichess.org/api) | Games & Comics | OAuth | ❔ |
+| [Linode API](https://linode.com) | Cloud | unknown | ❔ |
+| [Listen API: Podcast Search, Directory, and Insights API](https://listennotes.com) | Entertainment | unknown | ❔ |
+| [Local Search Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [Localbitcoins](https://localbitcoins.com/api-docs/) | Cryptocurrency | none | ❔ |
+| [Localytics](http://docs.localytics.com/dev/query-api.html#query-api) | Analytics | unknown | ❔ |
+| [Locations](https://whapi.com) | Entertainment | unknown | ❔ |
+| [Locations API](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [LogicAppsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [LogicManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Logistics API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Lords Votes API](https://parliament.uk) | Open_data | unknown | ❔ |
+| [Loripsum](http://loripsum.net/) | Test Data | none | ❔ |
+| [LotaData](https://lotadata.com) | Location | unknown | ❔ |
+| [Lua Decompiler](https://lua-decompiler.ferib.dev/) | Development | none | ❔ |
+| [Luchtmeetnet](https://api-docs.luchtmeetnet.nl/) | Environment | none | ❔ |
+| [Lucidtech API](https://webflow.com) | Enterprise | unknown | ❔ |
+| [LUIS Authoring Client](https://azure.com) | Cloud | unknown | ❔ |
+| [LUIS Programmatic](https://azure.com) | Cloud | unknown | ❔ |
+| [Lumminary API](https://lumminary.com) | Open_data | unknown | ❔ |
+| [M-Bus HTTPD API](https://mbus.local) | Iot | unknown | ❔ |
+| [Machine Learning Compute Management Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Machine Learning Workspaces Management Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Magento B2B](https://magento.com) | Ecommerce | unknown | ❔ |
+| [Mailscript](https://mailscript.com) | Email | unknown | ❔ |
+| [Mailsquad](https://inboxroute.com) | Email | unknown | ❔ |
+| [MaintenanceManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ManagedLabsClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ManagedNetworkManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ManagedServiceIdentityClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ManagedServicesClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Management Groups](https://azure.com) | Cloud | unknown | ❔ |
+| [ManagementLinkClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ManagementLockClient](https://azure.com) | Cloud | unknown | ❔ |
+| [MangaDex](https://api.mangadex.org/docs.html) | Anime | apiKey | ❔ |
+| [MariaDBManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Marketcheck APIs](https://apigee.net) | Ecommerce | unknown | ❔ |
+| [Marketplace API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Marketplace Protocol](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Marketplace RP Service](https://azure.com) | Cloud | unknown | ❔ |
+| [MarketplaceOrdering.Agreements](https://azure.com) | Cloud | unknown | ❔ |
+| [Marvel](https://developer.marvel.com) | Games & Comics | apiKey | ❔ |
+| [Master Data API - v2](https://vtex.local) | Enterprise | unknown | ❔ |
+| [MasterCard ABU API](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [MasterCard Bin Table Listing](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [MasterData API - v1](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Mastodon API Specification (https://github.com/mastodon/mastodon)](https://mastodon.local) | Social | unknown | ❔ |
+| [MATCH API](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [MDES Customer Service](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [MeaningCloud](https://www.meaningcloud.com) | Natural Language Processing | unknown | ❔ |
+| [Media API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [MediaServicesManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Medium API](https://medium.com) | Media | unknown | ❔ |
+| [Meilisearch v1.0](https://meilisearch.com) | Enterprise | unknown | ❔ |
+| [Members API](https://parliament.uk) | Open_data | unknown | ❔ |
+| [Meraki Dashboard API](https://meraki.com) | Iot | unknown | ❔ |
+| [Mercadolibre](https://developers.mercadolibre.cl/es_ar/api-docs-es) | Shopping | apiKey | ❔ |
+| [Merchant Identifier API V2](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [Mercury](https://mercury.postlight.com/web-parser/) | Documents & Productivity | apiKey | ❔ |
+| [Meshery API.](https://meshery.local) | Cloud | unknown | ❔ |
+| [Message Center API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Messages API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Messari](https://messari.io/api) | Cryptocurrency | none | ❔ |
+| [Metadata](https://haloapi.com) | Entertainment | unknown | ❔ |
+| [Metro Lisboa](http://app.metrolisboa.pt/status/getLinhas.php) | Transportation | none | ❔ |
+| [MEXC Global](https://www.mexc.com/mexc-api) | Cryptocurrency | apiKey | ❔ |
+| [Micro DB](https://m3o.com/db) | Development | apiKey | ❔ |
+| [Micro User Service](https://m3o.com/user) | Authentication & Authorization | apiKey | ❔ |
+| [Micro Weather](https://m3o.com/weather/api) | Weather | apiKey | ❔ |
+| [Microcks API v1.7](https://microcks.local) | Developer_tools | unknown | ❔ |
+| [MicroENV](https://microenv.com/) | Development | none | ❔ |
+| [Microsoft Azure Machine Learning API](https://azure.microsoft.com/en-us/services/cognitive-services/) | Machine Learning | unknown | ❔ |
+| [Microsoft Insights](https://azure.com) | Cloud | unknown | ❔ |
+| [Microsoft NetApp](https://azure.com) | Cloud | unknown | ❔ |
+| [Microsoft Storage Sync](https://azure.com) | Cloud | unknown | ❔ |
+| [Microsoft.ResourceHealth](https://azure.com) | Cloud | unknown | ❔ |
+| [Microsoft.Support](https://azure.com) | Cloud | unknown | ❔ |
+| [MicrosoftSerialConsoleClient](https://azure.com) | Cloud | unknown | ❔ |
+| [MIMIC REST API](https://gambitcomm.local) | Iot | unknown | ❔ |
+| [Minecraft Server Status](https://api.mcsrvstat.us) | Games & Comics | none | ❔ |
+| [Mixed Reality](https://azure.com) | Cloud | unknown | ❔ |
+| [ML Team Account Management Client](https://azure.com) | Cloud | unknown | ❔ |
+| [MMO Games](https://www.mmobomb.com/api) | Games & Comics | none | ❔ |
+| [Mocky](https://designer.mocky.io/) | Development | none | ❔ |
+| [mod.io](https://docs.mod.io) | Games & Comics | apiKey | ❔ |
+| [Mojang](https://wiki.vg/Mojang_API) | Games & Comics | apiKey | ❔ |
+| [Mon-voyage-pas-cher.com Public API](https://mon-voyage-pas-cher.com) | Transport | unknown | ❔ |
+| [Monday](https://api.developer.monday.com/docs) | Documents & Productivity | apiKey | ❔ |
+| [MonitorManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Moon by Ai Weiwei & Olafur Eliasson](https://moonmoonmoonmoon.com) | Enterprise | unknown | ❔ |
+| [Myanmar](http://forex.cbm.gov.mm/api/) | Finance | unknown | ❔ |
+| [MySQLManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [MyVaccination](https://documenter.getpostman.com/view/16605343/Tzm8GG7u) | Health | none | ❔ |
+| [Napster](https://developer.napster.com/api/v2.2) | Music | apiKey | ❔ |
+| [National Grid ESO](https://data.nationalgrideso.com/) | Environment | none | ❔ |
+| [NBA GraphQL](https://nbaapi.com/graphql/) | Sport | unknown | ❔ |
+| [NBA REST API](http://rest.nbaapi.com/index.html) | Sport | unknown | ❔ |
+| [Neblio REST API Suite](https://nebl.io) | Enterprise | unknown | ❔ |
+| [Neotimo DGFiP Mirror](https://neotimo.com/annuaire-dgfip) | Government | none | ❔ |
+| [NeoWs - (Near Earth Object Web Service)](https://neowsapp.com) | Open_data | unknown | ❔ |
+| [Net API](https://eos.local) | Hosting | unknown | ❔ |
+| [Netatmo](https://netatmo.net) | Iot | unknown | ❔ |
+| [NetBox API](https://netboxdemo.com) | Cloud | unknown | ❔ |
+| [NetworkAdminManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [NetworkExperiments](https://azure.com) | Cloud | unknown | ❔ |
+| [NetworkManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [New York Times](https://developer.nytimes.com/) | News | apiKey | ❔ |
+| [New Zealand](https://www.rbnz.govt.nz/statistics) | Finance | unknown | ❔ |
+| [News Plugin](https://freetv-app.com) | Media | unknown | ❔ |
+| [News Search Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [Nexmo Application API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Nexmo Conversion API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [NLP Cloud](https://nlpcloud.io) | Machine Learning | apiKey | ❔ |
+| [NLPCloud](https://nlpcloud.io) | Text | unknown | ❔ |
+| [Nomics](https://nomics.com/docs/) | Cryptocurrency | apiKey | ❔ |
+| [Nookipedia](https://dodo.ac) | Enterprise | unknown | ❔ |
+| [Nordigen](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/) | Finance | apiKey | ❔ |
+| [Nordigen Account Information Services API](https://nordigen.com) | Financial | unknown | ❔ |
+| [NotificationHubsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [NPR API](https://dev.npr.org/) | Music | unknown | ❔ |
+| [NPR One](http://dev.npr.org/api/) | News | OAuth | ❔ |
+| [Ntropy Transaction API v1](https://ntropy.network) | Financial | unknown | ❔ |
+| [Number Insight API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Numbers API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Numbers API](https://whapi.com) | Entertainment | unknown | ❔ |
+| [Octopart](https://octopart.com/api/v4/reference) | Shopping | apiKey | ❔ |
+| [Oddsmagnet](https://data.oddsmagnet.com) | Sports & Fitness | none | ❔ |
+| [ODN API](https://opendatanetwork.com) | Open_data | unknown | ❔ |
+| [ODWeather](https://oceandrivers.com) | Open_data | unknown | ❔ |
+| [OKEx](https://www.okex.com/docs/) | Cryptocurrency | apiKey | ❔ |
+| [OOXML Automation](https://presalytics.io) | Analytics | unknown | ❔ |
+| [Open AI Klarna product Api](https://klarna.com) | Ecommerce | unknown | ❔ |
+| [Open Banking - Payments initiation service](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [Open Build Service API](https://opensuse.org) | Developer_tools | unknown | ❔ |
+| [Open Charge Map](https://openchargemap.org/site/develop/api) | Transportation | apiKey | ❔ |
+| [Open Government, Argentina](https://datos.gob.ar/) | Government | none | ❔ |
+| [Open Government, Denmark](https://www.opendata.dk/) | Government | none | ❔ |
+| [Open Government, Estonia](https://avaandmed.eesti.ee/instructions/opendata-dataset-api) | Government | apiKey | ❔ |
+| [Open Government, Mexico](https://datos.gob.mx/) | Government | none | ❔ |
+| [Open Government, Peru](https://www.datosabiertos.gob.pe/) | Government | none | ❔ |
+| [Open Government, Saudi Arabia](https://data.gov.sa) | Government | none | ❔ |
+| [Open Government, Slovakia](https://data.gov.sk/en/) | Government | none | ❔ |
+| [Open Government, Thailand](https://data.go.th/) | Government | apiKey | ❔ |
+| [Open Library](https://openlibrary.org/developers/api) | Books | none | ❔ |
+| [Open Policy Agent (OPA) REST API](https://openpolicy.local) | Open_data | unknown | ❔ |
+| [Open States API v3](https://openstates.org) | Open_data | unknown | ❔ |
+| [Open Targets Platform REST API](https://opentargets.io) | Open_data | unknown | ❔ |
+| [openAFRICA](https://africaopendata.org/) | Open Data | none | ❔ |
+| [OpenAI API](https://openai.com) | Machine_learning | unknown | ❔ |
+| [OpenAPI definition](https://peoplegeneratorapi.live) | Tools | unknown | ❔ |
+| [OpenAQ](https://openaq.local) | Location | unknown | ❔ |
+| [OpenChannel Market API](https://openchannel.io) | Enterprise | unknown | ❔ |
+| [opendatasoft](https://opendatasoft.com) | Open_data | unknown | ❔ |
+| [OpenFEC](https://fec.gov) | Open_data | unknown | ❔ |
+| [OpenFIGI API](https://openfigi.com) | Open_data | unknown | ❔ |
+| [OpenFinTech.io](https://openfintech.io) | Financial | unknown | ❔ |
+| [OpenIndex Retrieval Plugin API](https://openindex.ai) | Machine_learning | unknown | ❔ |
+| [OpenTrials API](https://opentrials.local) | Open_data | unknown | ❔ |
+| [OpenUV - Global Real-Time UV Index Forecast API](https://openuv.io) | Enterprise | unknown | ❔ |
+| [OpenVisionAPI](https://openvisionapi.com) | Machine Learning | none | ❔ |
+| [OPTIMADE API](https://optimade.local) | Open_data | unknown | ❔ |
+| [Orders API](https://walmart.com) | Ecommerce | unknown | ❔ |
+| [Orders API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Orders API (PII version)](https://vtex.local) | Enterprise | unknown | ❔ |
+| [OrgHunter](https://orghunter.com) | Enterprise | unknown | ❔ |
+| [Otoroshi Admin API](https://maif.local) | Developer_tools | unknown | ❔ |
+| [Owler](https://owler.com) | Search | unknown | ❔ |
+| [Oxford Dictionaries](https://oxforddictionaries.com) | Text | unknown | ❔ |
+| [oyyi](https://oyyi.xyz/docs/1.0) | Development | none | ❔ |
+| [PandaScore REST API for All Videogames](https://pandascore.co) | Entertainment | unknown | ❔ |
+| [papiNet API](https://papinet.io) | Ecommerce | unknown | ❔ |
+| [PasswordUtility.Web](https://passwordutility.net) | Security | unknown | ❔ |
+| [Patchman-engine API](https://redhat.local) | Developer_tools | unknown | ❔ |
+| [Path of Exile](https://www.pathofexile.com/developer/docs) | Games & Comics | OAuth | ❔ |
+| [PatientView](https://patientview.org) | Enterprise | unknown | ❔ |
+| [Payment Account Reference Inquiry API](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [Payments Gateway API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [PAYONE Link API](https://pay1.de) | Payment | unknown | ❔ |
+| [PayRun.IO](https://payrun.io) | Financial | unknown | ❔ |
+| [PDF from URL](https://api.stakdek.de/blog?id=1070) | Miscellaneous | unknown | ❔ |
+| [Peel Tune-in API](https://peel-ci.com) | Media | unknown | ❔ |
+| [PeeringManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [PeerTube](https://cpy.re) | Social | unknown | ❔ |
+| [perfectpdf api](https://scideas.net) | Enterprise | unknown | ❔ |
+| [Personalized Offers](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [Personalizer Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Personnel Data](https://personio.de) | Enterprise | unknown | ❔ |
+| [Petfinder](https://www.petfinder.com/developers/) | Animals | apiKey | ❔ |
+| [Pets Api](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Pexels](https://www.pexels.com/api/) | Photography | apiKey | ❔ |
+| [PhantAuth](https://www.phantauth.net/) | Miscellaneous | unknown | ❔ |
+| [Phisherman](https://phisherman.gg/) | Anti-Malware | apiKey | ❔ |
+| [PI Web API 2018 SP1 Swagger Spec](https://osisoft.com) | Enterprise | unknown | ❔ |
+| [Picatic](http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=abhishekbanthia) | Events | unknown | ❔ |
+| [Pinecone API](https://pinecone.io) | Backend | unknown | ❔ |
+| [Pixabay](https://pixabay.com/sk/service/about/api/) | Photography | apiKey | ❔ |
+| [Pixel Encounter](https://pixelencounter.com/api) | Art & Design | none | ❔ |
+| [PlayerDB](https://playerdb.co/) | Games & Comics | none | ❔ |
+| [PlayerUnknown's Battlegrounds](https://tracker.gg/developers) | Games & Comics | apiKey | ❔ |
+| [PocketSmith](https://pocketsmith.com) | Financial | unknown | ❔ |
+| [Poemist API](https://poemist.com) | Text | unknown | ❔ |
+| [Pokéapi](https://pokeapi.co) | Games & Comics | none | ❔ |
+| [Pokemon Price Tracker](https://www.pokemonpricetracker.com/pokemon-card-price-api) | Games & Comics | apiKey | ❔ |
+| [Pokémon TCG](https://pokemontcg.io) | Games & Comics | none | ❔ |
+| [Policies System API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [PolicyClient](https://azure.com) | Cloud | unknown | ❔ |
+| [PolicyEventsClient](https://azure.com) | Cloud | unknown | ❔ |
+| [PolicyMetadataClient](https://azure.com) | Cloud | unknown | ❔ |
+| [PolicyStatesClient](https://azure.com) | Cloud | unknown | ❔ |
+| [PolicyTrackedResourcesClient](https://azure.com) | Cloud | unknown | ❔ |
+| [portal](https://azure.com) | Cloud | unknown | ❔ |
+| [PostgreSQLManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Postmen](https://docs.postmen.com/) | Transportation | unknown | ❔ |
+| [Power BI Embedded Management Client](https://azure.com) | Cloud | unknown | ❔ |
+| [PowerBIDedicated](https://azure.com) | Cloud | unknown | ❔ |
+| [PowerDNS Authoritative HTTP API](https://powerdns.local) | Developer_tools | unknown | ❔ |
+| [PRC Exam Schedule](https://api.whenisthenextboardexam.com/docs/) | Government | none | ❔ |
+| [Price Management](https://walmart.com) | Ecommerce | unknown | ❔ |
+| [Price Simulations API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Pricing API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Pricing API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Pricing Hub](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Prime ReportStream](https://cdcgov.local) | Open_data | unknown | ❔ |
+| [PrivateDnsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Probely Developers](https://probely.com) | Monitoring | unknown | ❔ |
+| [Product Library API](https://izettle.com) | Ecommerce | unknown | ❔ |
+| [Profile](https://haloapi.com) | Entertainment | unknown | ❔ |
+| [Profile System](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Programming Quotes](https://programming-quotesapi.vercel.app/) | Personality | none | ❔ |
+| [Promotions & Taxes API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Provider API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [ProxyCrawl](https://proxycrawl.com) | Development | apiKey | ❔ |
+| [Psycholinguistic Text Analytics](https://symanto.net) | Text | unknown | ❔ |
+| [PsyQuiz](https://psy.oneroad.com/api) | Personality | none | ❔ |
+| [PTV Timetable API - Version 3](https://ptv.vic.gov.au) | Transport | unknown | ❔ |
+| [PUBG](https://developer.pubg.com/) | Games & Comics | apiKey | ❔ |
+| [Public Api](https://combell.com) | Hosting | unknown | ❔ |
+| [PunkAPI](https://punkapi.com/) | Food & Drink | none | ❔ |
+| [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/v6/) | Environment | apiKey | ❔ |
+| [QnAMaker Client](https://azure.com) | Cloud | unknown | ❔ |
+| [QnAMaker Runtime Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Quarantine](https://quarantine.country/coronavirus/api/) | Health | none | ❔ |
+| [QuickMocker](https://quickmocker.com) | Test Data | none | ❔ |
+| [Quicksold REST API](https://quicksold.co.uk) | Location | unknown | ❔ |
+| [Quote Garden](https://pprathameshmore.github.io/QuoteGarden/) | Personality | none | ❔ |
+| [Raider](https://raider.io/api) | Games & Comics | none | ❔ |
+| [Rail Station Information](https://wmata.com) | Transport | unknown | ❔ |
+| [Random Data](https://random-data-api.com) | Test Data | none | ❔ |
+| [Random Stuff](https://api-docs.pgamerx.com/) | Development | apiKey | ❔ |
+| [Rat Genome Database REST API](https://mcw.edu) | Open_data | unknown | ❔ |
+| [RAWG](https://rawg.io/apidocs) | Videogames | unknown | ❔ |
+| [RAWG Video Games Database API](https://rawg.io) | Entertainment | unknown | ❔ |
+| [RAWG.io](https://rawg.io/apidocs) | Games & Comics | apiKey | ❔ |
+| [Real-Time Bus Predictions](https://wmata.com) | Transport | unknown | ❔ |
+| [Real-Time Rail Predictions](https://wmata.com) | Transport | unknown | ❔ |
+| [Recommendation API](https://ebay.com) | Ecommerce | unknown | ❔ |
+| [Recommendations API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [RecoveryServicesBackupClient](https://azure.com) | Cloud | unknown | ❔ |
+| [RecoveryServicesClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Redact API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Redeal Analytics API](https://redeal.io) | Analytics | unknown | ❔ |
+| [RedisManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Registry API](https://apigee.local) | Developer_tools | unknown | ❔ |
+| [Reimbursements API](https://linuxfoundation.org) | Financial | unknown | ❔ |
+| [Reisezentren-API](https://deutschebahn.com) | Transport | unknown | ❔ |
+| [Rejax](https://rejax.io/) | Development | apiKey | ❔ |
+| [Relay](https://azure.com) | Cloud | unknown | ❔ |
+| [RemediationsClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Remote Diagnostic Support](https://mercedes-benz.com) | Transport | unknown | ❔ |
+| [RenderPDF.io](https://renderpdf.io/) | Documents & Productivity | apiKey | ❔ |
+| [Repetiti](https://developers.repetiti.com) | Commerce | unknown | ❔ |
+| [Reports API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Reports API](https://vonage.com) | Enterprise | unknown | ❔ |
+| [rePower](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [Request Baskets API](https://rbaskets.in) | Developer_tools | unknown | ❔ |
+| [ReSmush.it](https://resmush.it/api) | Photography | none | ❔ |
+| [ResourceHealthMetadata API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [ResourceManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [REST API Version 2](https://circuitsandbox.net) | Messaging | unknown | ❔ |
+| [RESTful4Up](https://restful4up.local) | Developer_tools | unknown | ❔ |
+| [reverb](https://reverb.com) | Ecommerce | unknown | ❔ |
+| [Reviews and Ratings API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Rhapsody](https://developer.rhapsody.com/) | Music | unknown | ❔ |
+| [Riddles API](https://riddles-api.vercel.app/) | Personality | none | ❔ |
+| [Riot Games](https://developer.riotgames.com/) | Games & Comics | apiKey | ❔ |
+| [Ritc](https://ritc.io) | Cloud | unknown | ❔ |
+| [RoadGoat Cities](https://www.roadgoat.com/business/cities-api) | Geocoding | apiKey | ❔ |
+| [Roboflow Universe](https://universe.roboflow.com) | Machine Learning | apiKey | ❔ |
+| [RoboHash](https://robohash.org/) | Test Data | none | ❔ |
+| [Rocket Services](https://britbox.co.uk) | Entertainment | unknown | ❔ |
+| [Rotten Tomatoes](https://rottentomatoes.com) | Media | unknown | ❔ |
+| [Rudder API](https://rudder.example.local) | Developer_tools | unknown | ❔ |
+| [Rumble API (deprecated)](https://rumble.run) | Monitoring | unknown | ❔ |
+| [Run History APIs](https://azure.com) | Cloud | unknown | ❔ |
+| [RunCommandsClient](https://azure.com) | Cloud | unknown | ❔ |
+| [RuneScape](https://runescape.wiki/w/Application_programming_interface) | Games & Comics | none | ❔ |
+| [Saidit](https://www.saidit.net/dev/api) | Social | OAuth | ❔ |
+| [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm) | Login Authentication | unknown | ❔ |
+| [SalesLoft Platform](https://salesloft.com) | Customer_relation | unknown | ❔ |
+| [SavePage.io](https://docs.savepage.io) | Screenshots | unknown | ❔ |
+| [SAWO Labs](https://sawolabs.com) | Authentication & Authorization | apiKey | ❔ |
+| [SchedulerManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [SchoolDigger API V1](https://schooldigger.com) | Open_data | unknown | ❔ |
+| [SCIM](https://citrixonline.com) | Enterprise | unknown | ❔ |
+| [Scryfall](https://scryfall.com/docs/api) | Games & Comics | none | ❔ |
+| [SeaBreezeManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [SearchIndexClient](https://azure.com) | Cloud | unknown | ❔ |
+| [SearchManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [SearchServiceClient](https://azure.com) | Cloud | unknown | ❔ |
+| [SEC EDGAR Data](https://www.sec.gov/edgar/sec-api-documentation) | Finance | none | ❔ |
+| [Security Center](https://azure.com) | Cloud | unknown | ❔ |
+| [Security Insights](https://azure.com) | Cloud | unknown | ❔ |
+| [SecurityTrails](https://securitytrails.com/corp/apidocs) | Security | apiKey | ❔ |
+| [Seldon External API](https://seldon.local) | Machine_learning | unknown | ❔ |
+| [Self Service Developer API](https://peoplefinderspro.com) | Marketing | unknown | ❔ |
+| [Semantria](https://semantria.com) | Social | unknown | ❔ |
+| [Send Person to Merchant](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [Sentiment Analysis](https://www.meaningcloud.com/developer/sentiment-analysis) | Text Analysis | apiKey | ❔ |
+| [ServerManagement](https://azure.com) | Cloud | unknown | ❔ |
+| [Service Fabric Client APIs](https://azure.com) | Cloud | unknown | ❔ |
+| [Service Map](https://azure.com) | Cloud | unknown | ❔ |
+| [ServiceBusManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [ServiceFabricManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Session Manager API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Sessions API](https://whapi.com) | Entertainment | unknown | ❔ |
+| [setlist.fm API](https://setlist.fm) | Media | unknown | ❔ |
+| [ShapeShift.io](https://shapeshift.io/) | Cryptocurrency/Crypto Wallets | unknown | ❔ |
+| [SharedImageGalleryServiceClient](https://azure.com) | Cloud | unknown | ❔ |
+| [SheerSEO API](https://sheerseo.com) | Hosting | unknown | ❔ |
+| [Shibe.Online](http://shibe.online/) | Animals | none | ❔ |
+| [shinobiapi](https://hillbillysoftware.com) | Media | unknown | ❔ |
+| [ShipEngine API](https://shipengine.com) | Transport | unknown | ❔ |
+| [shipstation](https://shipstation.com) | Ecommerce | unknown | ❔ |
+| [Shop](https://shop.app) | Ecommerce | unknown | ❔ |
+| [SHOUTCLOUD](http://shoutcloud.io/) | Development | none | ❔ |
+| [Shutterstock API Explorer](https://shutterstock.com) | Media | unknown | ❔ |
+| [SignalRManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [SIGNL4 API](https://signl4.com) | Messaging | unknown | ❔ |
+| [Sinao API](https://sinao.app) | Financial | unknown | ❔ |
+| [SiteRecoveryManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [SKU Bindings API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Slicebox API](https://slicebox.local) | Collaboration | unknown | ❔ |
+| [SlideRoom API V2](https://slideroom.com) | Enterprise | unknown | ❔ |
+| [smart-me](https://smart-me.com) | Iot | unknown | ❔ |
+| [SMS API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [sms77.io API](https://sms77.io) | Telecom | unknown | ❔ |
+| [Software Plan RP](https://azure.com) | Cloud | unknown | ❔ |
+| [Spell Check Client](https://microsoft.com) | Developer_tools | unknown | ❔ |
+| [Spending Pulse](https://mastercard.com) | Enterprise | unknown | ❔ |
+| [Sport Data](https://sportdataapi.com) | Sports & Fitness | apiKey | ❔ |
+| [Sport List & Data](https://developers.decathlon.com/products/sports) | Sports & Fitness | none | ❔ |
+| [Sport Places](https://developers.decathlon.com/products/sport-places) | Sports & Fitness | none | ❔ |
+| [Sport Vision](https://developers.decathlon.com/products/sport-vision) | Sports & Fitness | apiKey | ❔ |
+| [Sports Data API Providers](https://sportsapi.com/api-directory/) | Sport | unknown | ❔ |
+| [SportsData API](https://whapi.com) | Entertainment | unknown | ❔ |
+| [SpotSense](https://spotsense.io/) | Geocoding | apiKey | ❔ |
+| [SqlManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [SqlVirtualMachineManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Stakdek's QR Generator API](https://api.stakdek.de/blog?id=1006) | BarCode | unknown | ❔ |
+| [Stationsdatenbereitstellung](https://deutschebahn.com) | Transport | unknown | ❔ |
+| [Stats](https://haloapi.com) | Entertainment | unknown | ❔ |
+| [Statutory Instruments API](https://parliament.uk) | Open_data | unknown | ❔ |
+| [StockX API](https://stockx.vlour.me/) | Entertainment | unknown | ❔ |
+| [Storage Cache Mgmt Client](https://azure.com) | Cloud | unknown | ❔ |
+| [StorageImportExport](https://azure.com) | Cloud | unknown | ❔ |
+| [StorageManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [StorSimple8000SeriesManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [StorSimpleManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Story](https://presalytics.io) | Analytics | unknown | ❔ |
+| [Stream Chat API](https://stream-io-api.com) | Enterprise | unknown | ❔ |
+| [StreamAnalyticsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Subaccounts API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Subscription (v1 - deprecated)](https://vtex.local) | Enterprise | unknown | ❔ |
+| [SubscriptionClient](https://azure.com) | Cloud | unknown | ❔ |
+| [SubscriptionDefinitionsClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Subscriptions API (v2 - DEPRECATED)](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Subscriptions API (v3)](https://vtex.local) | Enterprise | unknown | ❔ |
+| [SubscriptionsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Suggestions](https://vtex.local) | Enterprise | unknown | ❔ |
+| [Superset](https://superset.apache.local) | Enterprise | unknown | ❔ |
+| [Supportivekoala](https://developers.supportivekoala.com/) | Development | apiKey | ❔ |
+| [SuredBits](https://suredbits.com/api/) | Sports & Fitness | none | ❔ |
+| [Swagger API-REST for Patrowl Engines](https://patrowl.local) | Security | unknown | ❔ |
+| [Swagger2OpenAPI Converter](https://mermade.org.uk) | Developer_tools | unknown | ❔ |
+| [SwaggerHub Registry API](https://swaggerhub.com) | Developer_tools | unknown | ❔ |
+| [SWAPI](https://swapi.dev/) | Video | none | ❔ |
+| [SwiftKanban](https://www.digite.com/knowledge-base/swiftkanban/article/api-for-swift-kanban-web-services/#restapi) | Business | apiKey | ❔ |
+| [Swiss NextGen Banking API-Framework](https://openbankingproject.ch) | Financial | unknown | ❔ |
+| [SYNQ Video](https://synq.fm) | Media | unknown | ❔ |
+| [Systembolaget](https://api-portal.systembolaget.se) | Food & Drink | apiKey | ❔ |
+| [T.LY](https://t.ly/docs/) | URL Shorteners | apiKey | ❔ |
+| [Taxrates.io API](https://taxrates.io) | Financial | unknown | ❔ |
+| [TCG Price Lookup](https://tcgpricelookup.com/tcg-api) | Games & Comics | apiKey | ❔ |
+| [TCGApi](https://tcgapi.dev/introduction/) | Games & Comics | apiKey | ❔ |
+| [TCGdex](https://www.tcgdex.dev/) | Games & Comics | none | ❔ |
+| [Tebex](https://docs.tebex.io/plugin/) | Games & Comics | unknown | ❔ |
+| [Technical Analysis](https://technical-analysis-api.com) | Cryptocurrency | apiKey | ❔ |
+| [Teleport](https://developers.teleport.org/) | Open Data | none | ❔ |
+| [Tenders in Hungary](https://tenders.guru/hu/api) | Business | none | ❔ |
+| [Tenders in Poland](https://tenders.guru/pl/api) | Business | none | ❔ |
+| [Tenders in Romania](https://tenders.guru/ro/api) | Business | none | ❔ |
+| [Tenders in Spain](https://tenders.guru/es/api) | Business | none | ❔ |
+| [Tenders in Ukraine](https://tenders.guru/ua/api) | Business | none | ❔ |
+| [TETR.IO](https://tetr.io/about/api/) | Games & Comics | none | ❔ |
+| [Text Analytics & Sentiment Analysis API | api.text2data.com](https://text2data.org) | Text | unknown | ❔ |
+| [Text Analytics Client](https://azure.com) | Cloud | unknown | ❔ |
+| [The Consumer Financial Protection Bureau](https://consumerfinance.gov) | Financial | unknown | ❔ |
+| [The Mercure protocol](https://mercure.local) | Messaging | unknown | ❔ |
+| [The Water Linked Underwater GPS API](https://waterlinked.com) | Location | unknown | ❔ |
+| [TheGamestracker](https://thegamestracker.com/server-info-api) | Games & Comics | apiKey | ❔ |
+| [TheRundown](https://therundown.io/) | Sports & Fitness | apiKey | ❔ |
+| [They Said So](http://quotes.rest/qod.json?category=inspire) | Quotes | unknown | ❔ |
+| [Threat Jammer](https://threatjammer.com/docs/index) | Security | apiKey | ❔ |
+| [ThreatJammer.com User API](https://threatjammer.com) | S | unknown | ❔ |
+| [Ticksel](https://ticksel.com) | Analytics | unknown | ❔ |
+| [TimeSeriesInsightsClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Toolcarton](https://testimonialapi.toolcarton.com/) | Test Data | none | ❔ |
+| [TopLevelDomains API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Tradeworks](https://magick.nu) | Financial | unknown | ❔ |
+| [TrafficManagerManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [TrailerAddict](https://www.traileraddict.com/trailerapi) | Video | apiKey | ❔ |
+| [Trakt](https://trakt.tv/b/api-docs) | Video | apiKey | ❔ |
+| [Trakt API](https://trakt.tv) | Enterprise | unknown | ❔ |
+| [Transform](https://wso2apistore.com) | Developer_tools | unknown | ❔ |
+| [TransitFeeds API](https://transitfeeds.com) | Location | unknown | ❔ |
+| [Transport for Chicago, US](http://www.transitchicago.com/developers/) | Transportation | apiKey | ❔ |
+| [Transport for Czech Republic](https://www.chaps.cz/eng/products/idos-internet) | Transportation | none | ❔ |
+| [Transport for Finland](https://digitransit.fi/en/developers/) | Transportation | none | ❔ |
+| [Transport for Germany](http://data.deutschebahn.com/dataset/api-fahrplan) | Transportation | apiKey | ❔ |
+| [Transport for Philadelphia, US](http://www3.septa.org/hackathon/) | Transportation | none | ❔ |
+| [Transportation Laws and Incentives](https://nrel.gov) | Open_data | unknown | ❔ |
+| [Treaties API](https://parliament.uk) | Open_data | unknown | ❔ |
+| [TuneFind](http://www.tunefind.com/api) | Music Discovery | unknown | ❔ |
+| [TV API](https://pressassociation.io) | Media | unknown | ❔ |
+| [Twitch](https://dev.twitch.tv/docs) | Social | OAuth | ❔ |
+| [Twitter API](https://twitter.com) | Social | unknown | ❔ |
+| [Twitter API v2](https://twitter.com) | Social | unknown | ❔ |
+| [Twitter Sign-in]([https://developer.twitter.com/web/sign-in](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter) | Login Authentication | unknown | ❔ |
+| [Uber](https://developer.uber.com/products) | Transportation | OAuth | ❔ |
+| [Udemy(instructor)](https://www.udemy.com/developers/instructor/) | Personality | apiKey | ❔ |
+| [UGC](https://haloapi.com) | Entertainment | unknown | ❔ |
+| [UK Parliament Search Service](https://parliament.uk) | Open_data | unknown | ❔ |
+| [Update Management](https://azure.com) | Cloud | unknown | ❔ |
+| [UpdateAdminClient](https://azure.com) | Cloud | unknown | ❔ |
+| [UPS](https://www.ups.com/upsdeveloperkit) | Tracking | apiKey | ❔ |
+| [Upwork](https://developers.upwork.com/) | Jobs | OAuth | ❔ |
+| [urlfy](https://urlfy.org/api-doc) | URL Shorteners | none | ❔ |
+| [UsageManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [User API](https://vonage.com) | Enterprise | unknown | ❔ |
+| [Users (Okta API)](https://okta.local) | Security | unknown | ❔ |
+| [Vadivelu HTTP Codes](https://vadivelu.anoram.com/) | Personality | none | ❔ |
+| [Valorant (non-official)](https://valorant-api.com) | Games & Comics | none | ❔ |
+| [Vectara REST API](https://vectara.io) | Enterprise | unknown | ❔ |
+| [Vehicle Image](https://mercedes-benz.com) | Transport | unknown | ❔ |
+| [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Transportation | none | ❔ |
+| [Verifier](https://verifier.meetchopra.com/docs#/) | Email | apiKey | ❔ |
+| [Verify API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Verizon Cloud](http://www.verizon.com/cloudstorageapi) | File Storage and Manipulation | unknown | ❔ |
+| [Viator API Documentation &amp; Specification – Merchant Partners](https://viator.com) | Location | unknown | ❔ |
+| [VirtualMachineImageTemplate](https://azure.com) | Cloud | unknown | ❔ |
+| [VirtualWANAsAServiceManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Virushee](https://api.virushee.com/) | Security | none | ❔ |
+| [VisageCloud](https://visagecloud.com) | Search | unknown | ❔ |
+| [Visual Studio Projects Resource Provider Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Visual Studio Resource Provider Client](https://azure.com) | Cloud | unknown | ❔ |
+| [VM Insights Onboarding](https://azure.com) | Cloud | unknown | ❔ |
+| [VMwareCloudSimple](https://azure.com) | Cloud | unknown | ❔ |
+| [Voice API](https://nexmo.com) | Enterprise | unknown | ❔ |
+| [Vonage Integration Suite](https://vonage.com) | Enterprise | unknown | ❔ |
+| [Voodoo Manufacturing 3D Print API](https://voodoomfg.com) | Tools | unknown | ❔ |
+| [vRealize Network Insight API Reference](https://vmware.local) | Developer_tools | unknown | ❔ |
+| [VSOnline](https://visualstudio.com) | Developer_tools | unknown | ❔ |
+| [VTEX Do API](https://vtex.local) | Enterprise | unknown | ❔ |
+| [VTEX Headless CMS](https://vtex.local) | Enterprise | unknown | ❔ |
+| [VulDB](https://vuldb.com/?doc.api) | Security | apiKey | ❔ |
+| [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | Finance | none | ❔ |
+| [Walltime](https://walltime.info/api.html) | Blockchain | none | ❔ |
+| [Wargaming.net](https://developers.wargaming.net/) | Games & Comics | apiKey | ❔ |
+| [watchful.li](https://watchful.li) | Hosting | unknown | ❔ |
+| [Wealth Reader API](https://wealthreader.com) | Enterprise | unknown | ❔ |
+| [Weatherbit - Interactive Swagger UI Documentation](https://weatherbit.io) | Location | unknown | ❔ |
+| [Web of Trust](https://support.mywot.com/hc/en-us/sections/360004477734-API-) | Anti-Malware | apiKey | ❔ |
+| [WebApplicationFirewallManagement](https://azure.com) | Cloud | unknown | ❔ |
+| [WebApps API Client](https://azure.com) | Cloud | unknown | ❔ |
+| [Webdam](https://www.damsuccess.com/hc/en-us/articles/202134055-REST-API) | Photography | OAuth | ❔ |
+| [WebPurify](https://www.webpurify.com/image-moderation/) | Image Moderation | unknown | ❔ |
+| [WebSite Management Client](https://azure.com) | Cloud | unknown | ❔ |
+| [WeGA API](https://weber-gesamtausgabe.de) | Open_data | unknown | ❔ |
+| [Wellknown](https://wellknown.ai) | Open_data | unknown | ❔ |
+| [WhatJobs](https://www.whatjobs.com/affiliates) | Jobs | apiKey | ❔ |
+| [WhatsApp Business API](https://whatsapp.local) | Messaging | unknown | ❔ |
+| [Where to Credit API](https://wheretocredit.com) | Transport | unknown | ❔ |
+| [Who Hosts This API](https://who-hosts-this.com) | Hosting | unknown | ❔ |
+| [Wikimedia](https://wikimedia.org) | Media | unknown | ❔ |
+| [WikiPathways Webservices](https://wikipathways.org) | Enterprise | unknown | ❔ |
+| [windowsesu](https://azure.com) | Cloud | unknown | ❔ |
+| [WINSMS](https://winsms.co.za) | Messaging | unknown | ❔ |
+| [WireMock](https://wiremock.org) | Developer_tools | unknown | ❔ |
+| [Wolfram](https://wolframalpha.com) | Machine_learning | unknown | ❔ |
+| [Wordnik](https://wordnik.com) | Text | unknown | ❔ |
+| [WorkbookClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Workload Monitor](https://azure.com) | Cloud | unknown | ❔ |
+| [World Time API](https://worldtimeapi.org) | Location | unknown | ❔ |
+| [Wowza Streaming Cloud REST API Reference Documentation](https://wowza.com) | Media | unknown | ❔ |
+| [Written Questions Service API](https://parliament.uk) | Open_data | unknown | ❔ |
+| [www.zoomconnect.com](https://zoomconnect.com) | Messaging | unknown | ❔ |
+| [Xero Accounting API](https://xero.com) | Financial | unknown | ❔ |
+| [Xero Assets API](https://xero.com) | Financial | unknown | ❔ |
+| [Xero Bank Feeds API](https://xero.com) | Financial | unknown | ❔ |
+| [Xero Files API](https://xero.com) | Financial | unknown | ❔ |
+| [Xero OAuth 2 Identity Service API](https://xero.com) | Financial | unknown | ❔ |
+| [Xero Payroll AU API](https://xero.com) | Financial | unknown | ❔ |
+| [Xively](https://developer.xively.com/reference) | IoT | unknown | ❔ |
+| [XTRF Home Portal API](https://xtrf.eu) | Enterprise | unknown | ❔ |
+| [Yahoo Finance](https://www.yahoofinanceapi.com/) | Finance | apiKey | ❔ |
+| [YNAB API Endpoints](https://youneedabudget.com) | Financial | unknown | ❔ |
+| [Yodlee Core APIs](https://yodlee.com) | Financial | unknown | ❔ |
+| [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide/) | Games & Comics | none | ❔ |
+| [Zalando Shop](https://zalando.com) | Ecommerce | unknown | ❔ |
+| [Zapier Natural Language Actions (NLA) API - Beta](https://zapier.com) | Developer_tools | unknown | ❔ |
+| [Zappiti Player API](https://zappiti.com) | Media | unknown | ❔ |
+| [ZEIT API](https://zeit.co) | Hosting | unknown | ❔ |
+| [Zenoti API](https://zenoti.com) | Customer_relation | unknown | ❔ |
+| [ZenRows](https://www.zenrows.com/) | Development | apiKey | ❔ |
+| [ZipCheckup](https://api.zipcheckup.com/v1) | Environment | none | ❔ |
+| [ZipCodeAndCounty.com](https://zipcodeandcounty.com) | Geocoding | apiKey | ❔ |
+| [ZipRecruiter](https://www.ziprecruiter.com/publishers) | Jobs | apiKey | ❔ |
+| [Zoom API](https://zoom.us) | Telecom | unknown | ❔ |
+| [0x](https://0x.org/api) | Cryptocurrency | none | ❌ |
+| [18F](http://18f.github.io/API-All-the-X/) | Open Data | none | ❌ |
+| [Abusive Experience Report API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Accelerated Mobile Pages (AMP) URL API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Access Approval API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Access Context Manager API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Account API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [ACME DNS API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Actinia Grass GIS](https://actinia.mundialis.de/api_docs/) | Geocoding | apiKey | ❌ |
+| [Ad Exchange Buyer API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Ad Exchange Buyer API II](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Ad Experience Report API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Admin SDK API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [AdMob API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [AdSense Host API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [AdSense Management API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Advisory Notifications API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Aero Key, India](https://aerokey-api.vercel.app/) | Transportation | none | ❌ |
+| [Agent Hustle](https://agent.stakewatch.dev/api) | Machine Learning | apiKey | ❌ |
+| [AI Platform Training & Prediction API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Alchemy Ethereum](https://docs.alchemy.com/alchemy/) | Cryptocurrency | apiKey | ❌ |
+| [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/api) | Anti-Malware | apiKey | ❌ |
+| [Alpaca](https://alpaca.markets/docs/api-documentation/api-v2/market-data/alpaca-data-api-v2/) | Finance | apiKey | ❌ |
+| [Amadeus Travel Innovation Sandbox](https://sandbox.amadeus.com/) | Transportation | apiKey | ❌ |
+| [Amazon Maps API v2](https://developer.amazon.com/maps) | Maps | unknown | ❌ |
+| [Amazon Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) | Retail | unknown | ❌ |
+| [Analytics API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Analytics Hub API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Analytics Reporting API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Android Device Provisioning Partner API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Android Management API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [API](https://tl-api.azurewebsites.net) | Enterprise | unknown | ❌ |
+| [API Discovery Service](https://googleapis.com) | Analytics | unknown | ❌ |
+| [API Gateway API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [API Keys API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [API Snap](https://api-snap.com) | Development | apiKey | ❌ |
+| [Apigee API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Apigee Registry API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [ApiMedic](https://apimedic.com/) | Sports & Fitness | apiKey | ❌ |
+| [Apimetro](https://apimetro.dev/swagger/index.html) | Transportation | none | ❌ |
+| [App Engine Admin API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Application Integration API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Apps Script API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Area120 Tables API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Artifact Registry API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [arXiv](https://arxiv.org/help/api/user-manual) | Science & Math | none | ❌ |
+| [Assured Workloads API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Authentiq API](https://6-dot-authentiqio.appspot.com) | Security | unknown | ❌ |
+| [Authorized Buyers Marketplace API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Auto Body Shop Directory](https://autobodyshopnear.com/developers/body-shop-api) | Vehicle | none | ❌ |
+| [aztro](https://aztro.sameerkumar.website/) | Social | none | ❌ |
+| [Backup for GKE API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Bare Metal Solution API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Batch API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Behance](https://www.behance.net/dev) | Art & Design | apiKey | ❌ |
+| [BeyondCorp API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Bhagavad Gita](https://docs.bhagavadgitaapi.in) | Books | apiKey | ❌ |
+| [BigDataCloud](https://www.bigdatacloud.com/ip-geolocation-apis) | Geocoding | apiKey | ❌ |
+| [BigQuery API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [BigQuery Connection API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [BigQuery Data Transfer API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [BigQuery Reservation API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Binary Authorization API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Biriyani As A Service](https://biriyani.anoram.com/) | Personality | none | ❌ |
+| [Bittrex](https://bittrex.github.io/api/v3) | Cryptocurrency | apiKey | ❌ |
+| [BlaBlaCar](https://dev.blablacar.com) | Transportation | apiKey | ❌ |
+| [Blogger API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Bob's Burgers](https://bobs-burgers-api-ui.herokuapp.com) | Video | none | ❌ |
+| [Books API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Budgea API Documentation](https://biapi.pro) | Financial | unknown | ❌ |
+| [Business Profile Performance API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Bybit](https://bybit-exchange.github.io/docs/linear/#t-introduction) | Cryptocurrency | apiKey | ❌ |
+| [Calendar API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Campaign Manager 360 API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cat as a Service (CATAAS)](https://cataas.com/#/) | Entertainment | unknown | ❌ |
+| [Cataas](https://cataas.com/) | Animals | none | ❌ |
+| [Catalog API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Catch The Show](https://catchtheshow.herokuapp.com/api/documentation) | Video | none | ❌ |
+| [Certificate Authority API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Certificate Manager API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Charity API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Chrome Management API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Chrome Policy API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Chrome UX Report API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Chrome Verified Access API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [CircleCI](https://circleci.com/docs/api/v1-reference/) | Continuous Integration | apiKey | ❌ |
+| [Classify](https://classify-web.herokuapp.com/#/api) | Security | none | ❌ |
+| [Clinical Trials Directory](https://trials.starfile.org/api) | Health | none | ❌ |
+| [Cloud Asset API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud AutoML API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Bigtable Admin API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Billing API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Billing Budget API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Build API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Channel API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Composer API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Data Fusion API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Data Loss Prevention (DLP) API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Dataplex API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Dataproc API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Datastore API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Debugger API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Deployment Manager V2 API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud DNS API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Document AI API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Domains API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Filestore API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Firestore API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Functions API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Healthcare API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Identity API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Identity-Aware Proxy API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud IDS API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud IoT API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Key Management Service (KMS) API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Life Sciences API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Logging API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/docs/) | Machine Learning | unknown | ❌ |
+| [Cloud Memorystore for Memcached API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Monitoring API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Natural Language API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud OS Login API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Private Catalog](https://googleapis.com) | Enterprise | unknown | ❌ |
+| [Cloud Private Catalog Producer](https://googleapis.com) | Enterprise | unknown | ❌ |
+| [Cloud Profiler API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Pub/Sub API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Resource Manager API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Run Admin API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Runtime Configuration API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Scheduler API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Search API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Shell API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Source Repositories API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Spanner API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Speech-to-Text API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud SQL Admin API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Storage for Firebase API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Storage JSON API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Talent Solution API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Tasks API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Testing API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Text-to-Speech API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Tool Results API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud TPU API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Trace API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Translation API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Video Intelligence API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Vision API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloud Workstations API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Cloudflare Trace](https://www.cloudflare.com/cdn-cgi/trace) | Miscellaneous | unknown | ❌ |
+| [Cloverly](https://www.cloverly.com/carbon-offset-documentation) | Environment | apiKey | ❌ |
+| [Cnab Online](https://cnab-online.herokuapp.com) | Financial | unknown | ❌ |
+| [Codex](https://github.com/Jaagrav/CodeX) | Development | none | ❌ |
+| [Coinlib](https://coinlib.io/apidocs) | Cryptocurrency | apiKey | ❌ |
+| [Companies taking action](https://ditchcarbon.com/free-sbti-api-access/) | Analytics | unknown | ❌ |
+| [Compliance API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Compute Engine API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Connectors API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Contact Center AI Insights API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Contact Center AI Platform API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Container Analysis API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Content API for Shopping](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Covalent](https://www.covalenthq.com/docs/api/) | Blockchain | apiKey | ❌ |
+| [COVID-19 Tracker Sri Lanka](https://www.hpb.health.gov.lk/en/api-documentation) | Health | none | ❌ |
+| [Crafatar](https://crafatar.com) | Games & Comics | none | ❌ |
+| [CryptingUp](https://www.cryptingup.com/apidoc/#introduction) | Cryptocurrency | none | ❌ |
+| [Custom Search API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Czech Namedays Calendar](https://svatky.adresa.info) | Calendar | none | ❌ |
+| [Danish data service Energi](https://www.energidataservice.dk/) | Environment | none | ❌ |
+| [Data Labeling API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Data Lineage API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Data pipelines API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Database Migration API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Dataflow API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Dataform API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Dataproc Metastore API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Datastream API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Deal API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Dehash.lt](https://github.com/Dehash-lt/api) | Security | none | ❌ |
+| [Dialogflow API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Digital Asset Links API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Discovery Engine API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Display & Video 360 API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Document AI Warehouse API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Domains RDAP API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [DoubleClick Bid Manager API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Drive Activity API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Drive API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Drive Labels API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Dummy Products](https://dummyproducts-api.herokuapp.com/) | Shopping | apiKey | ❌ |
+| [Duply](https://duply.co/docs#getting-started-api) | Photography | apiKey | ❌ |
+| [eBay](https://developer.ebay.com/) | Shopping | OAuth | ❌ |
+| [eBay Finances API](https://apiz.ebay.com) | Ecommerce | unknown | ❌ |
+| [Enterprise License Manager API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [EPA](https://developer.epa.gov/category/apis/) | Government | none | ❌ |
+| [Error Reporting API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Essential Contacts API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [EVEMarketer Marketstat API](https://evemarketer.com) | Entertainment | unknown | ❌ |
+| [Eventarc API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Excuser](https://excuser.herokuapp.com/) | Entertainment | none | ❌ |
+| [Exude API Service](https://exude-api.herokuapp.com) | Text | unknown | ❌ |
+| [FAA N-Number Registry](https://n-number.starfile.org/api) | Transportation | none | ❌ |
+| [Fact Check Tools API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Faroo](http://www.faroo.com/hp/api/api.html) | News Services | unknown | ❌ |
+| [Feed API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Festivo Public Holidays](https://docs.getfestivo.com/docs/products/public-holidays-api/intro) | Calendar | apiKey | ❌ |
+| [Firebase App Check API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Firebase App Distribution API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Firebase Cloud Messaging API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Firebase Cloud Messaging Data API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Firebase Dynamic Links API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Firebase Hosting API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Firebase Management API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Firebase ML API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Firebase Realtime Database API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Firebase Rules API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Fitness API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Food Standards Agency](http://ratings.food.gov.uk/open-data/en-GB) | Government | none | ❌ |
+| [Forismatic](http://forismatic.com/en/api/) | Personality | none | ❌ |
+| [Forismatic](http://api.forismatic.com/api/1.0/) | Quotes | unknown | ❌ |
+| [FORTNITE REST API](https://skynewz-api-fortnite.herokuapp.com) | Entertainment | unknown | ❌ |
+| [Foursquare Check-In](https://developer.foursquare.com/reference/v2-checkins-add) | Check-In | unknown | ❌ |
+| [Fulfillment API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Fun Facts](https://asli-fun-fact-api.herokuapp.com/) | Games & Comics | none | ❌ |
+| [Game Services API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Ganjoor](https://api.ganjoor.net) | Books | OAuth | ❌ |
+| [Genomics API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [GitGuardian](https://api.gitguardian.com/doc) | Security | apiKey | ❌ |
+| [GitHub Authentication](https://developer.github.com/guides/basics-of-authentication/) | Login Authentication | unknown | ❌ |
+| [GKE Hub API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Glitterly](https://developers.glitterly.app) | Development | apiKey | ❌ |
+| [Gmail API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Gmail Postmaster Tools API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Analytics Admin API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Analytics API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Analytics Data API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Chat API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Civic Information API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Classroom API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Cloud Data Catalog API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Cloud Deploy API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Cloud Memorystore for Redis API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Cloud Support API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Docs API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Forms API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Genomics API](https://cloud.google.com/genomics/reference/rest/) | Google | unknown | ❌ |
+| [Google Keep API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Mirror](https://googleapis.com) | Enterprise | unknown | ❌ |
+| [Google My Business API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google OAuth2 API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Play Android Developer API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Play Custom App Publishing API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Play Developer Reporting API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Play EMM API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Play Game Management](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Play Game Services](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Play Game Services Publishing API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Play Integrity API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Search Console API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Sheets API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Site Verification API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Slides API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Tasks API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Vault API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Workspace Alert Center API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google Workspace Reseller API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Google+ API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [GreyNoise](https://docs.greynoise.io/reference/get_v3-community-ip) | Security | apiKey | ❌ |
+| [Groups Migration API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Groups Settings API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [GurbaniNow](https://github.com/GurbaniNow/api) | Books | none | ❌ |
+| [HackathonWatch](https://hackathonwatch.com) | Social | unknown | ❌ |
+| [Harry Potter Charactes](https://hp-api.herokuapp.com/) | Video | none | ❌ |
+| [Hashable](https://hashable.space/pages/api/) | Security | none | ❌ |
+| [HomeGraph API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Hong Kong GeoData Store](https://geodata.gov.hk/gs/) | Geocoding | none | ❌ |
+| [Httpbin Cloudflare](https://cloudflare-quic.com/b/) | Development | none | ❌ |
+| [httpbin.org](https://httpbin.org) | Developer_tools | unknown | ❌ |
+| [Hydra Movies](https://hydramovies.com) | Entertainment | unknown | ❌ |
+| [IAM Service Account Credentials API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Idea Hub API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Identity and Access Management (IAM) API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Identity API](https://apiz.ebay.com) | Ecommerce | unknown | ❌ |
+| [Identity Toolkit API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Imsea](https://imsea.herokuapp.com/) | Photography | none | ❌ |
+| [Indexing API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Indian Pincode](https://indianpincode.com/) | Government | none | ❌ |
+| [Indonesia Dictionary](https://new-kbbi-api.herokuapp.com/) | Dictionaries | none | ❌ |
+| [IPFinder](https://ipfinder.io/) | Development | apiKey | ❌ |
+| [IPGeolocationAPI.com](https://ipgeolocationapi.com/) | Geocoding | none | ❌ |
+| [Item Feed Service](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Jservice](http://jservice.io) | Games & Comics | none | ❌ |
+| [Kaggle](https://www.kaggle.com/docs/api) | Open Data | apiKey | ❌ |
+| [Kelly Intelligence](https://api.thedailylesson.com) | Machine Learning | apiKey | ❌ |
+| [kimiquotes](https://kimiquotes.herokuapp.com/doc) | Personality | none | ❌ |
+| [Kiprio Email Validate](https://kiprio.com/v1/email-validate) | Email | apiKey | ❌ |
+| [Kiprio Translate](https://kiprio.com/v1/translate) | Text Analysis | apiKey | ❌ |
+| [Kiprio UK Postcode](https://kiprio.com/v1/postcode) | Geocoding | apiKey | ❌ |
+| [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/) | Finance | apiKey | ❌ |
+| [KMS Inventory API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Knowledge Graph Search API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Kraken](https://docs.kraken.com/rest/) | Cryptocurrency | apiKey | ❌ |
+| [Kubernetes Engine API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Library Agent API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin) | Login Authentication | unknown | ❌ |
+| [Listing API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Local Services API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Logistics API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Lololyrics API](http://api.lololyrics.com/) | Music Lyrics | unknown | ❌ |
+| [Longevity World Cup](https://longevityworldcup.com/api/data/athletes) | Health | none | ❌ |
+| [Machinetutors](https://www.machinetutors.com/portfolio/MT_api.html) | Machine Learning | apiKey | ❌ |
+| [Mailtrap](https://mailtrap.docs.apiary.io/#) | Email | apiKey | ❌ |
+| [Managed Service for Microsoft Active Directory API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Manufacturer Center API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Mario Kart Tour](https://mario-kart-tour-api.herokuapp.com/) | Games & Comics | OAuth | ❌ |
+| [Marketing API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [MercadoBitcoin](https://www.mercadobitcoin.com.br/api-doc/) | Cryptocurrency | none | ❌ |
+| [Meta Generator](https://meta-api.fzr.ai) | Development | apiKey | ❌ |
+| [Metadata API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Micro-Jaymock](https://micro-jaymock.now.sh/) | Test Data | none | ❌ |
+| [Migration Center API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Mockae](https://mockae.com/) | Test Data | none | ❌ |
+| [Motivational Quotes](https://nodejs-quoteapp.herokuapp.com/) | Video | none | ❌ |
+| [Mtaa API Documentation](https://mtaa-api.herokuapp.com) | Open_data | unknown | ❌ |
+| [My Business Account Management API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [My Business Business Calls API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [My Business Business Information API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [My Business Lodging API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [My Business Notifications API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [My Business Place Actions API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [My Business Q&A API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [My Business Verifications API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [NationNode](https://nationnode.vercel.app) | Education | none | ❌ |
+| [Negotiation API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Network Connectivity API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Network Management API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Network Security API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Network Services API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Nexmo](https://developer.nexmo.com) | Communication | unknown | ❌ |
+| [Notebooks API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Ocean Facts](https://oceanfacts.herokuapp.com/) | Science & Math | none | ❌ |
+| [Ola](https://developers.olacabs.com/) | Transportation | unknown | ❌ |
+| [On-Demand Scanning API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [OneSignal](https://documentation.onesignal.com/docs/onesignal-api) | Development | apiKey | ❌ |
+| [Open Government, India](https://data.gov.in/) | Government | apiKey | ❌ |
+| [Open Government, Portugal](https://dados.gov.pt/en/docapi/) | Government | none | ❌ |
+| [Open Government, Singapore](https://data.gov.sg/developer) | Government | none | ❌ |
+| [OpenSky Network](https://opensky-network.org/apidoc/index.html) | Transportation | none | ❌ |
+| [ORB Intelligence](https://api.orb-intelligence.com/docs/) | Business | apiKey | ❌ |
+| [Orbit API](https://orbit.love) | Customer_relation | unknown | ❌ |
+| [Organization Policy API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [OS Config API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Owen Wilson Wow](https://owen-wilson-wow-api.herokuapp.com) | Video | none | ❌ |
+| [OwlBot](https://owlbot.info/) | Dictionaries | apiKey | ❌ |
+| [owo](https://owo.vc/api) | URL Shorteners | none | ❌ |
+| [PageSpeed Insights API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [ParallelDots](https://www.paralleldots.com/text-analysis-apis) | Natural Language Processing | unknown | ❌ |
+| [Payments Reseller Subscription API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [People API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Perspective Comment Analyzer API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [phish.directory](https://phish.directory/) | Security | apiKey | ❌ |
+| [PlaceKitten](https://placekitten.com/) | Animals | none | ❌ |
+| [Playable Locations API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [PM25.in](http://www.pm25.in/api_doc) | Environment | apiKey | ❌ |
+| [Pocket](https://getpocket.com/developer/) | Documents & Productivity | OAuth | ❌ |
+| [Policy Analyzer API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Policy Simulator API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Policy Troubleshooter API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Poly API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Portscan](https://api.portscan.com/docs) | Security | none | ❌ |
+| [Proximity Beacon API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Pub/Sub Lite API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Public Certificate Authority API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [QR & Barcode](https://solsigs.com/qrapi/) | Development | none | ❌ |
+| [Queimadas INPE](https://queimadas.dgi.inpe.br/queimadas/dados-abertos/) | Geocoding | none | ❌ |
+| [quoteclear](https://quoteclear.web.app/) | Personality | none | ❌ |
+| [Railway Transport for France](https://www.digital.sncf.com/startup/api) | Transportation | apiKey | ❌ |
+| [Reader Revenue Subscription Linking API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Real-time Bidding API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [reCAPTCHA Enterprise API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Recommendations AI (Beta)](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Recommender API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Remote Build Execution API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Replica Pool](https://googleapis.com) | Backend | unknown | ❌ |
+| [Resource Settings API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Retail API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Revolt](https://developers.revolt.chat/api/) | Social | apiKey | ❌ |
+| [Rig Veda](https://aninditabasu.github.io/indica/html/rv.html) | Books | none | ❌ |
+| [Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/) | Art & Design | apiKey | ❌ |
+| [RPS 101](https://rps101.pythonanywhere.com/api) | Games & Comics | none | ❌ |
+| [Rustybeer](https://rustybeer.herokuapp.com/) | Food & Drink | none | ❌ |
+| [Sabre for Developers](https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel) | Transportation | apiKey | ❌ |
+| [Safe Browsing API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [SAS Portal API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [SAS Portal API (Testing)](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Search Ads 360 API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Search Ads 360 Reporting API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Search Console API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Secret Manager API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Security Command Center API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Security Token Service API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Seller Service Metrics API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Semantic Tile API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Sendinblue](https://developers.sendinblue.com/docs) | Email | apiKey | ❌ |
+| [Serverless VPC Access API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Service Broker](https://googleapis.com) | Enterprise | unknown | ❌ |
+| [Service Consumer Management API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Service Control API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Service Directory API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Service Management API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Service Networking API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Service Usage API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Short Link](https://github.com/FayasNoushad/Short-Link-API) | URL Shorteners | none | ❌ |
+| [Shrtlnk](https://shrtlnk.dev/developer) | URL Shorteners | apiKey | ❌ |
+| [ShrtURI](https://shrturi.com/docs) | URL Shorteners | unknown | ❌ |
+| [Smart Device Management API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Songsterr](https://www.songsterr.com/a/wa/api/) | Music | none | ❌ |
+| [Spam Hunter](https://spam-hunter.ru) | Text Analysis | apiKey | ❌ |
+| [Spanish random names](https://random-names-api.herokuapp.com/public) | Test Data | none | ❌ |
+| [Spanish random words](https://palabras-aleatorias-public-api.herokuapp.com) | Test Data | none | ❌ |
+| [Square](https://developer.squareup.com/reference/square) | Business | OAuth | ❌ |
+| [Star Wars API (SWAPI)](https://www.swapi.tech/) | Entertainment | unknown | ❌ |
+| [Storage Transfer API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Stream](https://api.stream.cz/graphiql) | Video | none | ❌ |
+| [Street View Publish API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Studio Ghibli](https://ghibliapi.herokuapp.com) | Anime | none | ❌ |
+| [Styvio](https://www.Styvio.com) | Finance | apiKey | ❌ |
+| [SWAPI](https://www.swapi.tech) | Video | none | ❌ |
+| [Switzerland](https://data.snb.ch/en) | Finance | unknown | ❌ |
+| [Tafqit](https://tafqit.herokuapp.com) | Text | unknown | ❌ |
+| [Tag Manager API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Taxonomy API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [TCGdex](https://www.tcgdex.net/docs) | Games & Comics | none | ❌ |
+| [Techy](https://techy-api.vercel.app/) | Entertainment | none | ❌ |
+| [TheAudioDB](https://www.theaudiodb.com/api_guide.php) | Music | apiKey | ❌ |
+| [TikTok](https://developers.tiktok.com/doc/login-kit-web) | Social | OAuth | ❌ |
+| [ToSDR Terms Of Service API](https://tosdr.org/api.html) | Open Licenses | unknown | ❌ |
+| [Traffic Director API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Transcoder API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Translation API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Transport for Denver, US](http://www.rtd-denver.com/gtfs-developer-guide.shtml) | Transportation | none | ❌ |
+| [Transport for India](https://data.gov.in/sector/transport) | Transportation | apiKey | ❌ |
+| [Transport for Vancouver, Canada](https://developer.translink.ca/) | Transportation | OAuth | ❌ |
+| [Travel Impact Model API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Tripadvisor](https://developer-tripadvisor.com/home/) | Transportation | apiKey | ❌ |
+| [Tyk](https://tyk.io/open-source/) | Development | apiKey | ❌ |
+| [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) | Finance | unknown | ❌ |
+| [US Presidential Election Data by TogaTech](https://uselection.togatech.org/api/) | Government | none | ❌ |
+| [USA.gov](https://www.usa.gov/developer) | Government | apiKey | ❌ |
+| [Vagalume](https://api.vagalume.com.br/docs/) | Music | apiKey | ❌ |
+| [VATComply.com](https://www.vatcomply.com/documentation) | Currency Exchange | none | ❌ |
+| [Vedic Society](https://aninditabasu.github.io/indica/html/vs.html) | Books | none | ❌ |
+| [versionhistory.googleapis.com API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [vk](https://vk.com/dev/sites) | Social | OAuth | ❌ |
+| [VM Migration API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst) | Development | none | ❌ |
+| [Web Fonts Developer API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Web Risk API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Web Security Scanner API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [WeTransfer](https://developers.wetransfer.com) | Cloud Storage & File Sharing | apiKey | ❌ |
+| [Wikitude](http://www.wikitude.com/download/) | Augmented Reality | unknown | ❌ |
+| [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html) | Books | none | ❌ |
+| [WolframAlpha](https://products.wolframalpha.com/api/) | Machine Learning | apiKey | ❌ |
+| [Workflow Executions API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Workflows API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Workload Manager API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [xColors](https://x-colors.herokuapp.com/) | Art & Design | none | ❌ |
+| [xMath](https://x-math.herokuapp.com/) | Science & Math | none | ❌ |
+| [Yahoo Gemini API](https://developer.yahoo.com/gemini/) | Advertising | unknown | ❌ |
+| [Yelp](https://www.yelp.com/developers/documentation/v3) | Open Data | OAuth | ❌ |
+| [YouTube Analytics API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [YouTube Data API v3](https://googleapis.com) | Analytics | unknown | ❌ |
+| [YouTube Reporting API](https://googleapis.com) | Analytics | unknown | ❌ |
+| [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) | Analytics | unknown | ❌ |
+
+</details>
