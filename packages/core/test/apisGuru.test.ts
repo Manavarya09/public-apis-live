@@ -34,9 +34,9 @@ const sample = JSON.stringify({
 describe("parseApisGuru", () => {
   const rows = parseApisGuru(sample, "APIs.guru");
   it("parses one entry per API key", () => expect(rows).toHaveLength(2));
-  it("maps title, single-line description, provider URL", () => {
+  it("maps title, single-line description, and prefers the docs URL", () => {
     const f = rows.find((r) => r.name === "1Forge Finance APIs")!;
-    expect(f.url).toBe("https://1forge.com");
+    expect(f.url).toBe("https://1forge.com/forex-data-api");
     expect(f.description).toBe("Stock and Forex Data and Realtime Quotes Second line.");
     expect(f.category).toBe("Financial");
     expect(f.auth).toBe("unknown");
