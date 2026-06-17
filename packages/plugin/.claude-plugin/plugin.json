@@ -1,0 +1,8 @@
+{
+  "name": "public-apis-live",
+  "version": "0.1.0",
+  "description": "Discover working public APIs for any task. Auto-verified, refreshed daily.",
+  "mcpServers": {
+    "public-apis-live": { "command": "node", "args": ["${CLAUDE_PLUGIN_ROOT}/../mcp-server/dist/index.js"] }
+  }
+}
