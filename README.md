@@ -25,6 +25,10 @@ As a Claude plugin (agents pick a working API for any task):
 > 474 unreachable and 1088 unverified (timeouts, auth-walled, or bot-blocked) entries are
 > listed at the bottom and counted in the benchmark.
 
+## Categories (119)
+
+[APILayer APIs](#apilayer-apis) (11) · [Advertising](#advertising) (6) · [Analytics](#analytics) (10) · [Animals](#animals) (25) · [Anime](#anime) (17) · [Anti-Malware](#anti-malware) (16) · [Art & Design](#art--design) (18) · [Augmented Reality](#augmented-reality) (1) · [Authentication & Authorization](#authentication--authorization) (5) · [BarCode](#barcode) (5) · [Big Data and Analytics](#big-data-and-analytics) (3) · [Blockchain](#blockchain) (11) · [Books](#books) (20) · [Business](#business) (22) · [Calendar](#calendar) (23) · [Captcha](#captcha) (2) · [Check-In](#check-in) (2) · [Cloud](#cloud) (277) · [Cloud Storage & File Sharing](#cloud-storage--file-sharing) (17) · [Collaboration](#collaboration) (12) · [Commerce](#commerce) (6) · [Communication](#communication) (6) · [Content](#content) (9) · [Continuous Integration](#continuous-integration) (6) · [Cryptocurrency](#cryptocurrency) (50) · [Cryptocurrency/Crypto Wallets](#cryptocurrencycrypto-wallets) (5) · [Currency](#currency) (8) · [Currency Exchange](#currency-exchange) (19) · [Customer_relation](#customer_relation) (1) · [Data Validation](#data-validation) (17) · [Developer_tools](#developer_tools) (91) · [Development](#development) (154) · [Dictionaries](#dictionaries) (10) · [Dictionary](#dictionary) (9) · [Disasters](#disasters) (4) · [Documents & Productivity](#documents--productivity) (41) · [Ecommerce](#ecommerce) (19) · [Education](#education) (3) · [Email](#email) (22) · [Enterprise](#enterprise) (75) · [Entertainment](#entertainment) (69) · [Environment](#environment) (11) · [Events](#events) (3) · [Face Recognition](#face-recognition) (1) · [File Storage and Manipulation](#file-storage-and-manipulation) (8) · [Finance](#finance) (63) · [Financial](#financial) (36) · [Fitness](#fitness) (4) · [Food & Drink](#food--drink) (22) · [Forms](#forms) (2) · [Fraud Prevention](#fraud-prevention) (2) · [Games & Comics](#games--comics) (53) · [Geocoding](#geocoding) (100) · [Google](#google) (11) · [Government](#government) (87) · [Health](#health) (30) · [Hosting](#hosting) (5) · [Identity Verification](#identity-verification) (3) · [IoT](#iot) (8) · [Iot](#iot) (6) · [Jobs](#jobs) (20) · [Location](#location) (28) · [Login Authentication](#login-authentication) (5) · [Machine Learning](#machine-learning) (29) · [Machine_learning](#machine_learning) (3) · [Maps](#maps) (9) · [Marketing](#marketing) (5) · [Media](#media) (37) · [Medical](#medical) (1) · [Messaging](#messaging) (7) · [Miscellaneous](#miscellaneous) (24) · [Movies](#movies) (1) · [Music](#music) (29) · [Music Discovery](#music-discovery) (1) · [Music Identification](#music-identification) (2) · [Music Lyrics](#music-lyrics) (1) · [Music Stores](#music-stores) (2) · [Natural Language Processing](#natural-language-processing) (13) · [News](#news) (19) · [News Services](#news-services) (3) · [Open Data](#open-data) (42) · [Open Licenses](#open-licenses) (1) · [Open Source Projects](#open-source-projects) (10) · [Open_data](#open_data) (232) · [Patent](#patent) (4) · [Payment](#payment) (28) · [Personality](#personality) (23) · [Phone](#phone) (5) · [Photography](#photography) (21) · [Placeholder Images](#placeholder-images) (1) · [Places](#places) (5) · [Programming](#programming) (3) · [Quotes](#quotes) (4) · [Resources For Design and Discovery of APIs](#resources-for-design-and-discovery-of-apis) (4) · [Science](#science) (4) · [Science & Math](#science--math) (35) · [Search](#search) (2) · [Security](#security) (37) · [Shopping](#shopping) (11) · [Social](#social) (49) · [Social Media](#social-media) (21) · [Source Control](#source-control) (4) · [Sport](#sport) (3) · [Sports & Fitness](#sports--fitness) (36) · [Storage](#storage) (1) · [Telecom](#telecom) (43) · [Test Data](#test-data) (25) · [Text](#text) (36) · [Text Analysis](#text-analysis) (16) · [Time_management](#time_management) (1) · [Tools](#tools) (3) · [Tracking](#tracking) (10) · [Transport](#transport) (3) · [Transportation](#transportation) (65) · [URL Shorteners](#url-shorteners) (19) · [Vehicle](#vehicle) (12) · [Video](#video) (41) · [Videogames](#videogames) (2) · [Weather](#weather) (42)
+
 ### APILayer APIs
 
 | API | Description | Auth | HTTPS | Status |
@@ -41,6 +45,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Weatherstack](https://weatherstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | Retrieve instant, accurate weather information for any location in the world in lightweight JSON format | apiKey | Yes | ✅ |
 | [Zenserp](https://zenserp.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | Fast, Accurate Google Search Data Built for Developers | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Advertising
 
 | API | Description | Auth | HTTPS | Status |
@@ -51,6 +57,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start) | Manage Google AdWords campaigns programmatically. | unknown | No | ✅ |
 | [Kevel Ad APIs](https://dev.kevel.co) | Build your own ad server with Kevel's ad APIs. | unknown | No | ✅ |
 | [Microsoft Advertising Platform - Bing Ads API](https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx) | Provides programmatic access to various advertising technologies. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Analytics
 
@@ -66,6 +74,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Open Web Analytics](https://github.com/padams/Open-Web-Analytics/wiki/Data-Access-API) | Provides a way to request and work with your data outside of the OWA reporting interface. | unknown | No | ✅ |
 | [TSAPI](https://tsapi.net) |  | unknown | Yes | ✅ |
 | [Woopra](https://www.woopra.com/docs/developer/analytics-api/) | Real-time website analysis tool that targets customer engagement. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Animals
 
@@ -97,6 +107,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [The Dog](https://thedogapi.com/) | A public service all about Dogs, free to use when making your fancy new App, Website or Service | apiKey | Yes | ✅ |
 | [xeno-canto](https://xeno-canto.org/explore/api) | Bird recordings | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Anime
 
 | API | Description | Auth | HTTPS | Status |
@@ -119,6 +131,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Waifu.pics](https://waifu.pics/docs) | Image sharing platform for anime images | none | Yes | ✅ |
 | [What Anime](https://soruly.github.io/trace.moe-api/#/) | Scan anime image to get specific detail | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Anti-Malware
 
 | API | Description | Auth | HTTPS | Status |
@@ -139,6 +153,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [VirusTotal](https://docs.virustotal.com/reference/overview) | VirusTotal File/URL Analysis | apiKey | Yes | ✅ |
 | [VirusTotal](https://www.virustotal.com/en/documentation/public-api/) | VirusTotal File/URL Analysis | apiKey | Yes | ✅ |
 | [Web Of Trust (WOT)](https://www.mywot.com/developers/) | Website reputation | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Art & Design
 
@@ -163,11 +179,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [UpRes](https://upres.ai/docs/api) | AI image upscaling to 8K with 18 models (Real-ESRGAN, SeedVR2, AuraSR) | apiKey | Yes | ✅ |
 | [Word Cloud](https://wordcloudapi.com/) | Easily create word clouds | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Augmented Reality
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [Vuforia](https://library.vuforia.com/) | Solid SDK with robust development options. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Authentication & Authorization
 
@@ -179,6 +199,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Stytch](https://stytch.com/) | User infrastructure for modern applications | apiKey | Yes | ✅ |
 | [Warrant](https://warrant.dev/) | APIs for authorization and access control | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### BarCode
 
 | API | Description | Auth | HTTPS | Status |
@@ -189,6 +211,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [QR Code API](https://fungenerators.com/api/qrcode/) | QR Code REST API. Can create QR code images or read existing images and return the contents. | unknown | No | ✅ |
 | [QR Code Generator API](https://docs.openqr.io/) | Static and Dynamic QR code generator API | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Big Data and Analytics
 
 | API | Description | Auth | HTTPS | Status |
@@ -196,6 +220,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Google Charts](https://developers.google.com/chart/interactive/docs/) | Free tool with a wide range of capabilities for visualizing data from a website. | unknown | No | ✅ |
 | [LinkedData.Center](http://linkeddata.center/home/gdaas) | a RDF graph database as a service with W3C SPARQL query and SPARQL update apis. | unknown | No | ✅ |
 | [Mongo DB](https://github.com/mongodb) | mongoDB is ideal for developers who want precise control over the final results and processes for handling Big Data. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Blockchain
 
@@ -212,6 +238,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [The Graph](https://thegraph.com) | Indexing protocol for querying networks like Ethereum with GraphQL | apiKey | Yes | ✅ |
 | [TWZRD Agent Intel](https://intel.twzrd.xyz) | Solana on-chain agent trust scoring via MCP; 4 free tools to score, resolve and verify AI agent wallets | none | Yes | ✅ |
 | [Watchdata](https://docs.watchdata.io) | Provide simple and reliable API access to Ethereum blockchain | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Books
 
@@ -237,6 +265,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Thirukkural](https://api-thirukkural.web.app/) | 1330 Thirukkural poems and explanation in Tamil and English | none | Yes | ✅ |
 | [Urantia Papers](https://urantia.dev) | Full-text and semantic search across the Urantia Papers, with audio narration, entities and translations | none | Yes | ✅ |
 | [Wolne Lektury](https://wolnelektury.pl/api/) | API for obtaining information about e-books available on the WolneLektury.pl website | none | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Business
 
@@ -264,6 +294,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Smartsheet](https://smartsheet.redoc.ly/) | Allows you to programmatically access and Smartsheet data and account information | OAuth | Yes | ✅ |
 | [Tomba email finder](https://tomba.io/api) | Email Finder for B2B sales and email marketing and email verifier | apiKey | Yes | ✅ |
 | [Trello](https://developers.trello.com/) | Boards, lists and cards to help you organize and prioritize your projects | OAuth | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Calendar
 
@@ -293,6 +325,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [TimeZones iCal Library](https://tz.add-to-calendar-technology.com/) | Database of official time zones and corresponding iCal VTIMEZONE blocks | none | Yes | ✅ |
 | [UK Bank Holidays](https://www.gov.uk/bank-holidays.json) | Bank holidays in England and Wales, Scotland and Northern Ireland | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Captcha
 
 | API | Description | Auth | HTTPS | Status |
@@ -300,12 +334,16 @@ As a Claude plugin (agents pick a working API for any task):
 | [Anti-Captcha](https://anti-captcha.com/apidoc) | Access to Anti-Captcha’s API. | unknown | No | ✅ |
 | [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) | ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Check-In
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [Facebook Check-In](https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin) | A check-in made to a location-based Page. | unknown | No | ✅ |
 | [Google Places](https://developers.google.com/places/?hl=en) | Access to Google Places’ API. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Cloud
 
@@ -589,6 +627,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Synthetics](https://amazonaws.com) | <fullname>Amazon CloudWatch Synthetics</fullname> <p>You can use Amazon CloudWatch Synthetics to continually monitor your services. You can create and manage <i | unknown | Yes | ✅ |
 | [Turbine Labs API](https://turbinelabs.io) | The Turbine Labs API provides CRUD operations for core object types, and is mostly RESTy. The easiest way to interact with the API is with [tbnctl](https://docs | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Cloud Storage & File Sharing
 
 | API | Description | Auth | HTTPS | Status |
@@ -611,6 +651,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [The Null Pointer](https://0x0.st) | No-bullshit file hosting and URL shortening service | none | Yes | ✅ |
 | [Web3 Storage](https://web3.storage/) | File Sharing and Storage for Free with 1TB Space | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Collaboration
 
 | API | Description | Auth | HTTPS | Status |
@@ -628,6 +670,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [StackExchange](https://stackexchange.com) | Stack Exchange is a network of 130+ Q&A communities including Stack Overflow. | unknown | Yes | ✅ |
 | [Trello](https://trello.com) | This document describes the REST API of Trello as published by Trello.com. - <a href='https://trello.com/docs/index.html' target='_blank'>Official Documentation | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Commerce
 
 | API | Description | Auth | HTTPS | Status |
@@ -639,6 +683,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Stripe](https://stripe.com/docs/api) | Allows both private individuals and businesses to accept payments over the Internet. | unknown | No | ✅ |
 | [Yellow Pages API](https://github.com/Hrushi11/Yellow-Pages-End-API) | Get data for all categories of businesses in any city of the US. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Communication
 
 | API | Description | Auth | HTTPS | Status |
@@ -649,6 +695,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Telnyx](https://developers.telnyx.com/) | Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, purpose-built global communications network. | unknown | No | ✅ |
 | [The SMS Works](https://thesmsworks.co.uk/sms-api) | The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded. | unknown | No | ✅ |
 | [Twilio](https://www.twilio.com/solutions) | APIs for SMS, Voice, Video and more. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Content
 
@@ -664,6 +712,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Today in History](https://history.muffinlabs.com/) | Daily historical events, births and deaths API. | unknown | No | ✅ |
 | [Wikipedia](https://en.wikipedia.org/w/api.php) | Free multilingual Encyclopedia. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Continuous Integration
 
 | API | Description | Auth | HTTPS | Status |
@@ -674,6 +724,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Codeship](https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/) | Codeship is a Continuous Integration Platform in the cloud | apiKey | Yes | ✅ |
 | [Codeship](https://apidocs.codeship.com/) | Codeship is a Continuous Integration Platform in the cloud | apiKey | Yes | ✅ |
 | [Travis CI](https://docs.travis-ci.com/api/) | Sync your GitHub projects with Travis CI to test your code in minutes | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Cryptocurrency
 
@@ -730,6 +782,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [WorldCoinIndex](https://www.worldcoinindex.com/apiservice) | Cryptocurrencies Prices | apiKey | Yes | ✅ |
 | [ZMOK](https://zmok.io) | Ethereum JSON RPC API and Web3 provider | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Cryptocurrency/Crypto Wallets
 
 | API | Description | Auth | HTTPS | Status |
@@ -739,6 +793,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) | Market Prices and exchanges rates api. | unknown | No | ✅ |
 | [PENDAX](https://github.com/CompendiumFi/PENDAX-SDK) | Javascript SDK for Trading, Data, and Websockets for FTX, FTXUS, OKX, Bybit, & More. | unknown | No | ✅ |
 | [Poloniex](https://poloniex.com/support/api/) | US based digital asset exchange. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Currency
 
@@ -752,6 +808,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Frankfurter.app](https://www.frankfurter.app/docs/) | Exchange rates and currency data API. | unknown | No | ✅ |
 | [OpenRates.io](http://www.openrates.io/) | Live exchange rates and currency conversion API. | unknown | No | ✅ |
 | [ratesapi.io](https://ratesapi.io/) | Free foreign currency exchange rates and currency conversion. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Currency Exchange
 
@@ -777,11 +835,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [paralelo.bo](https://paralelo.bo/api) | Bolivia parallel-market USD/BOB exchange rate, aggregated from P2P sources every 60s | none | Yes | ✅ |
 | [ratesapi](https://ratesapi.io) | Free exchange rates and historical rates | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Customer_relation
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [Webhooks API](https://hubapi.com) | Provides a way for apps to subscribe to certain change events in HubSpot. Once configured, apps will receive event payloads containing details about the changes | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Data Validation
 
@@ -804,6 +866,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [US Street Address](https://smartystreets.com/docs/cloud/us-street-api) | Validate and append data for any US postal address | apiKey | Yes | ✅ |
 | [VATlayer](https://vatlayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | VAT number validation | apiKey | Yes | ✅ |
 | [VerifyEd](https://verifyed.org/docs) | Verify academic credentials — 912K+ schools, 2,592 diploma mills | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Developer_tools
 
@@ -900,6 +964,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Visual Search Client](https://microsoft.com) | Visual Search API lets you discover insights about an image such as visually similar images, shopping sources, and related searches. The API can also perform te | unknown | Yes | ✅ |
 | [Web Search Client](https://microsoft.com) | The Web Search API lets you send a search query to Bing and get back search results that include links to webpages, images, and more. | unknown | Yes | ✅ |
 | [Webhook API](https://apideck.com) | Welcome to the Webhook API. You can use this API to access all Webhook API endpoints. ## Base URL The base URL for all API requests is `https://unify.apideck.co | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Development
 
@@ -1060,6 +1126,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Yamline](https://yamline.com/k8s/) | Validate Kubernetes manifests | none | Yes | ✅ |
 | [Zuplo](https://zuplo.com/) | API platform for Development, Deployment, and Docs - add auth, rate-limiting, and monetization fast | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Dictionaries
 
 | API | Description | Auth | HTTPS | Status |
@@ -1075,6 +1143,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Wordnik](https://developer.wordnik.com) | Dictionary functions. | apiKey | Yes | ✅ |
 | [Words](https://www.wordsapi.com/docs/) | Definitions and synonyms for more than 150,000 words | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Dictionary
 
 | API | Description | Auth | HTTPS | Status |
@@ -1089,6 +1159,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Wiktionary API](https://en.wiktionary.org/w/api.php) | Collaborative, free-content multilingual dictionary. | unknown | No | ✅ |
 | [Words API](https://www.wordsapi.com/) | Use it to find definitions for more than 150,000 words. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Disasters
 
 | API | Description | Auth | HTTPS | Status |
@@ -1097,6 +1169,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [PredictHQ](https://docs.predicthq.com/) | Events and natural disasters data | OAuth | Yes | ✅ |
 | [RWLabs](https://apidoc.rwlabs.org/#api-use) | All types of disaster data | apiKey | Yes | ✅ |
 | [USGS](https://earthquake.usgs.gov/fdsnws/event/1/) | Earthquake Data | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Documents & Productivity
 
@@ -1144,6 +1218,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Zero Retention PDF](https://xeropdf.com) | Zero-retention HTML to PDF conversion | apiKey | Yes | ✅ |
 | [Zube](https://zube.io/docs/api) | Full stack project management | OAuth | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Ecommerce
 
 | API | Description | Auth | HTTPS | Status |
@@ -1168,6 +1244,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Velo Payments APIs](https://velopayments.com) | ## Terms and Definitions Throughout this document and the Velo platform the following terms are used: * **Payor.** An entity (typically a corporation) which wis | unknown | Yes | ✅ |
 | [カラーミーショップアプリストア API](https://shop-pro.jp) | # カラーミーショップアプリストア API [アプリストア](https://app.shop-pro.jp/)にて公開するアプリに対して、一般公開している[カラーミーショップAPI](https://developer.shop-pro.jp/docs/colorme-api)に加えて、カラーミーショップアプリストア | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Education
 
 | API | Description | Auth | HTTPS | Status |
@@ -1175,6 +1253,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Current Affairs](https://rapidapi.com/malaithiru370/api/current-affairs-of-india) | Current International Affairs, quizzes and more | apiKey | Yes | ✅ |
 | [Data API](https://clever.com) | Serves the Clever Data API | unknown | Yes | ✅ |
 | [Secrets-APi](https://secrets-api.appbrewery.com/) | Used For Learning purpose Learn all security types with this api | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Email
 
@@ -1202,6 +1282,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [PostStack](https://poststack.dev/docs) | EU-hosted email API for transactional and marketing email, with contacts, broadcasts, and analytics | apiKey | Yes | ✅ |
 | [Scrape Website Email API](https://scrapewebsite.email) | ScrapeWebsiteEmail is a service that exposes an api to fetch e-mails from a website. | unknown | Yes | ✅ |
 | [Sendgrid](https://docs.sendgrid.com/api-reference/) | A cloud-based SMTP provider that allows you to send emails without having to maintain email servers | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Enterprise
 
@@ -1283,6 +1365,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Trip Purpose Prediction](https://amadeus.com) | Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for m | unknown | Yes | ✅ |
 | [Visitor Identification](https://hubapi.com) | The Visitor Identification API allows you to pass identification information to the HubSpot chat widget for otherwise unknown visitors that were verified by you | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Entertainment
 
 | API | Description | Auth | HTTPS | Status |
@@ -1357,6 +1441,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Vimeo](https://vimeo.com) |  | unknown | Yes | ✅ |
 | [Yo Momma Jokes](https://github.com/beanboi7/yomomma-apiv2) | REST API for Yo Momma Jokes | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Environment
 
 | API | Description | Auth | HTTPS | Status |
@@ -1373,6 +1459,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid | none | Yes | ✅ |
 | [Website Carbon](https://api.websitecarbon.com/) | API to estimate the carbon footprint of loading web pages | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Events
 
 | API | Description | Auth | HTTPS | Status |
@@ -1381,11 +1469,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [SeatGeek](https://platform.seatgeek.com/) | Search events, venues and performers | apiKey | Yes | ✅ |
 | [Ticketmaster](http://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Search events, attractions, or venues | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Face Recognition
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [Kairos](https://www.kairos.com/) | Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application. 30 Day Trial | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### File Storage and Manipulation
 
@@ -1399,6 +1491,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [SignNow API – eSign API by airSlate](https://docs.signnow.com/docs/signnow/welcome) | Embed branded eSignature workflows in your app and quickly customize them to your user needs. | unknown | No | ✅ |
 | [Smash](https://api.fromsmash.com/) | Smash API & SDK to upload large files on websites, mobile apps, SaaS solutions and custom workflows. | unknown | No | ✅ |
 | [Vector Express](https://github.com/smidyo/vectorexpress-api) | API for converting, processing and analyzing vector files. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Finance
 
@@ -1468,6 +1562,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | OAuth | Yes | ✅ |
 | [Zoho Books](https://www.zoho.com/books/api/v3/) | Online accounting software, built for your business | OAuth | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Financial
 
 | API | Description | Auth | HTTPS | Status |
@@ -1509,6 +1605,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Up API](https://up.com.au) | The Up API gives you programmatic access to your balances and transaction data. You can request past transactions or set up webhooks to receive real-time events | unknown | Yes | ✅ |
 | [VAT API](https://vatapi.com) | A developer friendly API to help your business achieve VAT compliance | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Fitness
 
 | API | Description | Auth | HTTPS | Status |
@@ -1517,6 +1615,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Open Food Facts](https://en.wiki.openfoodfacts.org/API) | Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels. | unknown | No | ✅ |
 | [VeganCheck](https://jokenetwork.de/vegancheck-api) | API that provides a couple of information about a food or non-food product based on its EAN/UPC code. | unknown | No | ✅ |
 | [Withings](http://oauth.withings.com/api) | Access to data from Withings activity trackers and body measures. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Food & Drink
 
@@ -1545,6 +1645,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [WhiskyHunter](https://whiskyhunter.net/api/) | Past online whisky auctions statistical data | none | Yes | ✅ |
 | [Zestful](https://zestfuldata.com/) | Parse recipe ingredients | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Forms
 
 | API | Description | Auth | HTTPS | Status |
@@ -1552,12 +1654,16 @@ As a Claude plugin (agents pick a working API for any task):
 | [Qualtrics API](https://qualtrics.com) | Work with Qualtrics surveys, distributions and response events | unknown | Yes | ✅ |
 | [VA Forms](https://va.gov) | Use the VA Forms API to search for VA forms, get the form's PDF link and metadata, and check for new versions. Visit our VA Lighthouse [Contact Us page](https:/ | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Fraud Prevention
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [IPASIS](https://ipasis.com/docs) | Real-time bot detection and fraud prevention API combining IP reputation, proxy/VPN detection, and email validation in a single call | apiKey | Yes | ✅ |
 | [Jumio](https://www.jumio.com/developer/) | Provides identity verification, KYC (Know Your Customer), and AML (Anti-Money Laundering) solutions, including document verification and biometric authentication. | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Games & Comics
 
@@ -1616,6 +1722,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Warface (non-official)](https://api.wfstats.cf) | Official API proxy with better data structure and more features | none | Yes | ✅ |
 | [When is next MCU film](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) | Upcoming MCU film information | none | Yes | ✅ |
 | [xkcd](https://xkcd.com/json.html) | Webcomic of romance, sarcasm, math, and language. | none | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Geocoding
 
@@ -1722,6 +1830,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Zippopotam.us](http://www.zippopotam.us) | Get information about place such as country, city, state, etc | none | No | ✅ |
 | [Ziptastic](https://ziptasticapi.com/) | Get the country, state, and city of any US zip-code | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Google
 
 | API | Description | Auth | HTTPS | Status |
@@ -1737,6 +1847,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Google Identity Toolkit API.](https://developers.google.com/identity/) | Helps third party sites implement federated login. v1 | unknown | No | ✅ |
 | [Google Monitoring API](https://cloud.google.com/monitoring/api/v3/) | API for accessing Google Cloud and API monitoring data. v2beta2 | unknown | No | ✅ |
 | [The Google Fonts Developer API.](https://developers.google.com/fonts/?hl=en) | The Google Fonts API helps you add fonts to any web page. v1 | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Government
 
@@ -1830,6 +1942,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [US Federal Contracts & Grants](https://government-data-api.onrender.com/docs) | US federal contracts, grants, and agency spending data updated daily | none | Yes | ✅ |
 | [USAspending.gov](https://api.usaspending.gov/) | US federal spending data | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Health
 
 | API | Description | Auth | HTTPS | Status |
@@ -1865,6 +1979,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [openFDA](https://open.fda.gov) | Public FDA data about drugs, devices and foods | apiKey | Yes | ✅ |
 | [Orion Health](https://developer.orionhealth.io/) | Medical platform which allows the development of applications for different healthcare scenarios | OAuth | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Hosting
 
 | API | Description | Auth | HTTPS | Status |
@@ -1875,6 +1991,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [redirection.io](https://redirection.io) | API documentation for redirection.io | unknown | Yes | ✅ |
 | [Vercel API](https://vercel.com) | Vercel combines the best developer experience with an obsessive focus on end-user performance. Our platform enables frontend teams to do their best work. | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Identity Verification
 
 | API | Description | Auth | HTTPS | Status |
@@ -1882,6 +2000,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [BlockScore](https://docs.blockscore.com/) | A real-time API for verifying an identity by name, address, date of birth, and social security number. | unknown | No | ✅ |
 | [Cognito](https://cognitohq.com/docs) | A powerful API for verifying and retrieving identity information. Can take a customer's cellphone number and return name, address history, full SSN, and date of birth. | unknown | No | ✅ |
 | [Whitepages Pro](https://pro.whitepages.com/) | Global Identity Verification API. Get a clearer picture of your customer. Instantly know if a name, address, phone number, email, and IP all belong to the same person. Every country in the world is supported. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### IoT
 
@@ -1896,6 +2016,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [ThingSpeak](https://github.com/iobridge/ThingSpeak) | “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. | unknown | No | ✅ |
 | [Zetta](https://github.com/zettajs/zetta/wiki) | An open source platform built on Node.js for creating IoT servers that run across geo-distributed computers and the cloud. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Iot
 
 | API | Description | Auth | HTTPS | Status |
@@ -1906,6 +2028,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [IoE² IoT API - to create end-user applications](https://ijenko.net) |  | unknown | Yes | ✅ |
 | [PAC Control REST API](https://opto22.com) | #### Revised: 6/15/2018 ### Overview This API provides secure access to a SNAP-PAC-R or -S series controller's variable and I/O tags. Confidentiality for API tr | unknown | Yes | ✅ |
 | [Quick start - Telematics SDK](https://telematicssdk.com) | # Introduction We have prepared a set of APIs for quick start to integrate telematics SDK that powers mobile telematics inside 3rd party mobile applications. *  | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Jobs
 
@@ -1931,6 +2055,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Search.gov Jobs](https://search.gov/developer/jobs.html) | Tap into a list of current jobs openings with the United States government | none | Yes | ✅ |
 | [The Muse](https://www.themuse.com/developers/api/v2) | Job board and company profiles | apiKey | Yes | ✅ |
 | [USAJOBS](https://developer.usajobs.gov/) | US government job board | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Location
 
@@ -1965,6 +2091,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [VA Facilities](https://va.gov) | ## Background This RESTful API provides information about physical VA facilities. Information available includes geographic location, address, phone, hours of o | unknown | Yes | ✅ |
 | [Visual Crossing Weather API](https://visualcrossing.com) | Weather Forecast and Historical Weather Data via RESTful API. | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Login Authentication
 
 | API | Description | Auth | HTTPS | Status |
@@ -1974,6 +2102,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Instagram](https://developers.facebook.com/docs/instagram-api/overview) | Access to Instagram’s OAuth API. | unknown | No | ✅ |
 | [PayPal](https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/) | Enables your customers to sign in to your website quickly and securely using their PayPal login credentials. | unknown | No | ✅ |
 | [WorkOS](https://workos.com/docs) | Support Single Sign-On for common Enterprise Identity Providers (Okta, Azure, OneLogin). | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Machine Learning
 
@@ -2009,6 +2139,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Unplugg](https://unplu.gg/test_api.html) | Automated Forecasting API for timeseries data which can be used to forecast energy consumption, temperature, or any other timeseries data which has some seasonality effect. | apiKey | Yes | ✅ |
 | [Wit.ai](https://wit.ai/) | Provides an intent-based NLP API to easily build text and audio based chat bots. | OAuth | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Machine_learning
 
 | API | Description | Auth | HTTPS | Status |
@@ -2016,6 +2148,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [AIception Interactive](https://aiception.com) | Here you can play & test & prototype all the endpoints using just your browser! Go ahead! | unknown | Yes | ✅ |
 | [ElevenLabs API Documentation](https://elevenlabs.io) | This is the documentation for the ElevenLabs API. You can use this API to use our service programmatically, this is done by using your xi-api-key. <br/> You can | unknown | Yes | ✅ |
 | [Pandorabots AIaaS](https://pandorabots.com) | AIaaS provides API access to our bot hosting platform and SDKs, allowing developers to easily integrate conversational interfaces into applications. | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Maps
 
@@ -2031,6 +2165,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Yahoo Maps](https://developer.yahoo.com/maps/) | Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform. | unknown | No | ✅ |
 | [Yandex](https://tech.yandex.com/maps/) | API for installing Yandex.Maps and the necessary tools for working it on your web app or site. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Marketing
 
 | API | Description | Auth | HTTPS | Status |
@@ -2040,6 +2176,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Jirafe Events](https://jirafe.com) | API endpoins for sending Jirafe events | unknown | Yes | ✅ |
 | [Native Ads Publisher API](https://nativeads.com) | This is a Native Ads Publisher API it provides same functionality as Native Ads Publisher Account GUI. | unknown | Yes | ✅ |
 | [Vestorly API](https://vestorly.com) | Vestorly Developers API | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Media
 
@@ -2083,11 +2221,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [Use a [New Version](https://icons8.github.io/icons8-docs/) Instead](https://icons8.com) | # Icons8 API Icons8 API allows us to search and obtain [our icons](https://icons8.com/web-app). You're welcome to use our icons to extend the functionality of y | unknown | Yes | ✅ |
 | [VocaDbWeb](https://vocadb.net) |  | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Medical
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [COVID-19 Data](https://github.com/M-Media-Group/Covid-19-API) | Get live and historical data regarding Coronavirus cases per country. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Messaging
 
@@ -2100,6 +2242,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Sakari](https://sakari.io) | # Introduction Welcome to the documentation for the Sakari Messaging REST API. Sakari provides an advanced platform to drive large scale customized SMS communic | unknown | Yes | ✅ |
 | [Telegram Bot API](https://telegram.org) | Auto-generated OpenAPI schema | unknown | Yes | ✅ |
 | [The SMS Works API](https://thesmsworks.co.uk) | The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded. | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Miscellaneous
 
@@ -2130,11 +2274,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [Typeform](https://developer.typeform.com/) | Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. | unknown | No | ✅ |
 | [Who Hosts This](https://www.who-hosts-this.com/API) | Detect the hosting provider powering any website. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Movies
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [OMDB](https://www.omdbapi.com/) | The Open Movie Database. The OMDb API is a free web service to obtain movie information, all content and images on the site are contributed and maintained by ou | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Music
 
@@ -2170,11 +2318,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [Sunor](https://docs.sunor.cc) | AI music generation API via Suno, with pay-as-you-go credits | apiKey | Yes | ✅ |
 | [Verome](https://github.com/Kirazul/Verome-API) | Music API for searching, streaming and exploring music data from YouTube Music, YouTube, and Last.fm | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Music Discovery
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [Setlist.fm](https://api.setlist.fm/docs/1.0/index.html) | The setlist.fm API has been designed to give you easy access to setlist data in order to build fancy websites and other applications. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Music Identification
 
@@ -2183,11 +2335,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [Acoustid](https://acoustid.org/webservice) | Supports searching through their fingerprint database. | unknown | No | ✅ |
 | [AudD](https://docs.audd.io/) | Recognize music in microphone recordings, audio files and UGC. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Music Lyrics
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [ChartLyrics Lyrics API](http://www.chartlyrics.com/api.aspx) | Allows users to search for lyrics using the artist name, song title, or lyric text. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Music Stores
 
@@ -2195,6 +2351,8 @@ As a Claude plugin (agents pick a working API for any task):
 |---|---|---|---|---|
 | [iTunes Search](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1) | The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store. | unknown | No | ✅ |
 | [Reverb](https://dev.reverb.com/) | Sell and buy music related merchandise. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Natural Language Processing
 
@@ -2213,6 +2371,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [TextRazor](https://www.textrazor.com/plans) | Helps you extract and understand the Who, What, Why, and How from your supplied text. | unknown | No | ✅ |
 | [VoiceRSS](http://www.voicerss.org/) | An API to convert Text to Speech, supporting 15+ major languages. | unknown | No | ✅ |
 | [Word Associations API](https://wordassociations.net/en/api) | The Word Associations Network API allows developers to embed the ability to find associations for a word or phrase into their mobile apps or web services. Words | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### News
 
@@ -2238,6 +2398,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [TheNews](https://www.thenewsapi.com/) | Aggregated headlines, top story and live news JSON API | apiKey | Yes | ✅ |
 | [Trove](https://trove.nla.gov.au/about/create-something/using-api) | Search through the National Library of Australia collection of 1000s of digitised newspapers | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### News Services
 
 | API | Description | Auth | HTTPS | Status |
@@ -2245,6 +2407,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [NewsAPI](https://newsapi.org/) | 70+ news sources and their headlines, one API. | unknown | No | ✅ |
 | [NewsCatcherAPI](https://newscatcherapi.com/news-api) | News API to find news articles by any topic, country, language, website or keyword. | unknown | No | ✅ |
 | [RSS API](https://docs.rssapi.net) | API to parse and subscribe to RSS Feeds to get webhooks when new items are published. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Open Data
 
@@ -2293,11 +2457,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [Wikidata](https://www.wikidata.org/w/api.php?action=help) | Collaboratively edited knowledge base operated by the Wikimedia Foundation | OAuth | Yes | ✅ |
 | [Wikipedia](https://www.mediawiki.org/wiki/API:Main_page) | Mediawiki Encyclopedia | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Open Licenses
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [GitHub Licenses API](https://developer.github.com/v3/licenses/) | N/A | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Open Source Projects
 
@@ -2313,6 +2481,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Metabase](https://www.metabase.com/) | An open source Business Intelligence server to share data and analytics inside your company | none | Yes | ✅ |
 | [Shields](https://shields.io/) | Concise, consistent, and legible badges in SVG and raster format | none | Yes | ✅ |
 | [The Odin Project](https://github.com/theodinproject) | theodinproject.com | none | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Open_data
 
@@ -2551,6 +2721,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [vs API](https://sheetlabs.com) | # Introduction This API returns data regarding almost all nouns in vedic literature. The results are JSON objects that contain the word transliterated to the Ro | unknown | Yes | ✅ |
 | [WorkBC Job Posting API](https://gov.bc.ca) | This API allows you to receive a feed of jobs from WorkBC's Job Board. Please see our <a href="https://github.com/bcgov/api-specs/blob/master/COLLECTION_NOTICE. | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Patent
 
 | API | Description | Auth | HTTPS | Status |
@@ -2559,6 +2731,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [PatentsView](https://patentsview.org/apis/purpose) | API is intended to explore and visualize trends/patterns across the US innovation landscape | none | Yes | ✅ |
 | [TIPO](https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00) | Taiwan patent search system api | apiKey | Yes | ✅ |
 | [USPTO](https://www.uspto.gov/learning-and-resources/open-data-and-mobility) | USA patent api services | none | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Payment
 
@@ -2593,6 +2767,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Transfer webhooks](https://adyen.com) | Adyen sends notifications through webhooks to inform your system about incoming and outgoing transfers in your platform. You can use these webhooks to build you | unknown | Yes | ✅ |
 | [Transfers API](https://adyen.com) | The Transfers API provides endpoints that you can use to get information about all your transactions, move funds within your balance platform or send funds from | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Personality
 
 | API | Description | Auth | HTTPS | Status |
@@ -2621,6 +2797,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Vedika](https://vedika.io) | AI-powered Vedic astrology API with birth charts, compatibility, doshas, muhurtha, numerology in 22 languages | apiKey | Yes | ✅ |
 | [Zen Quotes](https://zenquotes.io/) | Large collection of Zen quotes for inspiration | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Phone
 
 | API | Description | Auth | HTTPS | Status |
@@ -2630,6 +2808,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Phone Validation](https://www.abstractapi.com/phone-validation-api) | Validate phone numbers globally | apiKey | Yes | ✅ |
 | [Veriphone](https://veriphone.io) | Phone number validation & carrier lookup | apiKey | Yes | ✅ |
 | [VeriRoute Intel](https://verirouteintel.com) | CNAM caller ID, carrier/LRN lookup and spam scoring for North American phone numbers | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Photography
 
@@ -2657,11 +2837,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [Unsplash](https://unsplash.com/developers) | Photography | OAuth | Yes | ✅ |
 | [Wallhaven](https://wallhaven.cc/help/api) | A huge wallpaper library. | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Placeholder Images
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [SingleColorImage](https://singlecolorimage.com/api.html) | Free API for generating single color images with dimensions up to 5000x5000. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Places
 
@@ -2673,6 +2857,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [World Wonders API](https://github.com/Rolv-Apneseth/world-wonders-api) | Provides information about famous wonders from around the world. | unknown | No | ✅ |
 | [Yelp](https://docs.developer.yelp.com/docs/getting-started) | You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Programming
 
 | API | Description | Auth | HTTPS | Status |
@@ -2680,6 +2866,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Hackerearth](https://www.hackerearth.com/docs/wiki/developers/v4/) | For compiling and running code in several languages | apiKey | Yes | ✅ |
 | [Judge0 CE](https://ce.judge0.com/) | Online code execution system | apiKey | Yes | ✅ |
 | [Mintlify](https://docs.mintlify.com) | For programmatically generating documentation for code | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Quotes
 
@@ -2690,6 +2878,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Quotable](https://github.com/lukePeavey/quotable) | Fetch quotes based on your query parameters, which includes random quotes by author, ID, tags and more. | unknown | No | ✅ |
 | [South Park](https://github.com/Thatskat/southpark-quotes-api) | Get and search quotes from South Park, mmkay! | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Resources For Design and Discovery of APIs
 
 | API | Description | Auth | HTTPS | Status |
@@ -2699,6 +2889,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [OpenAPI](https://www.openapis.org) | Standard, language-agnostic interface to REST APIs (based on [Swagger](http://swagger.io/)). | unknown | No | ✅ |
 | [Swagger](http://swagger.io/) | Tools for designing, building, and documenting RESTful APIs. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Science
 
 | API | Description | Auth | HTTPS | Status |
@@ -2707,6 +2899,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Open Access Button](https://openaccessbutton.org/api) | Free, legal research articles delivered instantly or automatically requested from authors. | unknown | No | ✅ |
 | [Open Science Framework](https://osf.io/y9jdt/wiki/home/) | A free, open source workflow/project management system for storing, collaborating on, and sharing research across the scholarly life cycle. | unknown | No | ✅ |
 | [SHARE](http://share-research.readthedocs.io/en/latest/) | A free, open dataset of scholarly research activity across the scholarly lifecycle. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Science & Math
 
@@ -2748,12 +2942,16 @@ As a Claude plugin (agents pick a working API for any task):
 | [USGS Water Services](https://waterservices.usgs.gov/) | Water quality and level info for rivers and lakes | none | Yes | ✅ |
 | [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) | World Data | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Search
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [Search Services](https://archive.org) | API for Internet Archive's Search-related services | unknown | Yes | ✅ |
 | [Wayback API](https://archive.org) | API for Internet Archive's Wayback Machine | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Security
 
@@ -2797,6 +2995,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Whoisfreaks](https://whoisfreaks.com/) | Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security | apiKey | Yes | ✅ |
 | [WhoisJSONApi](https://whoisjsonapi.com/) | Domain WHOIS information to detect and prevent online threats, enhancing overall online safety for individuals and organizations | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Shopping
 
 | API | Description | Auth | HTTPS | Status |
@@ -2812,6 +3012,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [ShopSavvy](https://shopsavvy.com/data) | Product pricing and price history across thousands of retailers | apiKey | Yes | ✅ |
 | [Tokopedia](https://developer.tokopedia.com/openapi/guide/#/) | Tokopedia's Official API for integration of various services from Tokopedia | OAuth | Yes | ✅ |
 | [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs/) | WooCommerce REST APIS to create, read, update, and delete data on wordpress website in JSON format | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Social
 
@@ -2867,6 +3069,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [TwitterApi](http://twitterapi.io/) | Mass Twitter data read API | apiKey | Yes | ✅ |
 | [xfetch](https://xfetch.io) | Read API for X/Twitter search, profiles, tweets, and social graph | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Social Media
 
 | API | Description | Auth | HTTPS | Status |
@@ -2893,6 +3097,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Wordpress](https://codex.wordpress.org/WordPress_APIs) | Access to Wordpress’ API. | unknown | No | ✅ |
 | [Zomato](https://developers.zomato.com/api) | Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Source Control
 
 | API | Description | Auth | HTTPS | Status |
@@ -2902,6 +3108,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [SVN](https://subversion.apache.org/docs/api/1.8/) | Collection of modular libraries written in the C programming language. | unknown | No | ✅ |
 | [Team Foundation Server](https://docs.microsoft.com/en-us/azure/devops/integrate/?view=azure-devops) | TFS APIs are based on REST, OAuth, Json and service hooks. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Sport
 
 | API | Description | Auth | HTTPS | Status |
@@ -2909,6 +3117,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [LIVE-SCORE API](https://live-score-api.com/documentation/reference/) | Football API for live-scores, fixtures, group standings, history data and match events. | unknown | No | ✅ |
 | [OpenLigaDB API](https://www.openligadb.de/) | Provides sports data, especially football (soccer) league information. | unknown | No | ✅ |
 | [Roanuz Cricket API](https://www.cricketapi.com/v5/docs/) | Provides cricket-related data, including scores and player information. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Sports & Fitness
 
@@ -2951,11 +3161,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [Tredict](https://www.tredict.com/blog/oauth_docs/) | Get and set activities, health data and more | OAuth | Yes | ✅ |
 | [Wger](https://wger.de/en/software/api) | Workout manager data as exercises, muscles or equipment | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Storage
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [ExaVault](https://exavault.com) | ExaVaults API allows you to incorporate ExaVaults suite of file transfer and user management tools into your own application.\nExaVault supports both POST (reco | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Telecom
 
@@ -3005,6 +3219,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Twilio - Voice](https://twilio.com) | This is the public Twilio REST API. | unknown | Yes | ✅ |
 | [Twilio - Wireless](https://twilio.com) | This is the public Twilio REST API. | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Test Data
 
 | API | Description | Auth | HTTPS | Status |
@@ -3034,6 +3250,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [UUID Generator](https://www.uuidtools.com/docs) | Generate UUIDs | none | Yes | ✅ |
 | [What The Commit](http://whatthecommit.com/index.txt) | Random commit message generator | none | No | ✅ |
 | [Yes No](https://yesno.wtf/api) | Generate yes or no randomly | none | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Text
 
@@ -3076,6 +3294,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [UUID Generation API](https://fungenerators.com) | A full featured, REST based UUID generator with json/xml/jsonp result support. You can try them out right here. [Click here to subscribe](http://fungenerators.c | unknown | Yes | ✅ |
 | [VisibleThread API](https://visiblethread.com) | ## Introduction The VisibleThread b API provides services for analyzing/searching documents and web pages. To use the service you need an API key. **Contact us  | unknown | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Text Analysis
 
 | API | Description | Auth | HTTPS | Status |
@@ -3097,11 +3317,15 @@ As a Claude plugin (agents pick a working API for any task):
 | [Watson Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) | Natural language processing for advanced text analysis | OAuth | Yes | ✅ |
 | [Yomi](https://github.com/ookii-tsuki/yomi) | Japanese tokenizer and morphological analysis web API | none | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Time_management
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [Apacta](https://apacta.com) | API for a tool to craftsmen used to register working hours, material usage and quality assurance. # Endpoint The endpoint `https://app.apacta.com/api/v1` should | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Tools
 
@@ -3110,6 +3334,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [Browshot API](https://browshot.com) | Take screenshots of any website in real time | unknown | Yes | ✅ |
 | [Datto|Autotask PSA Rest API](https://autotask.net) |  | unknown | Yes | ✅ |
 | [import.io](https://import.io) |  | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Tracking
 
@@ -3126,6 +3352,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [WhatPulse](https://developer.whatpulse.org/#web-api) | Small application that measures your keyboard/mouse usage | none | Yes | ✅ |
 | [WhereParcel](https://whereparcel.com/docs) | Unified parcel tracking API across 60+ carriers worldwide (USPS, FedEx, UPS, DHL, etc.) | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Transport
 
 | API | Description | Auth | HTTPS | Status |
@@ -3133,6 +3361,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [departureboard.io API](https://departureboard.io) | The departureboard.io is a high performance API written in Golang. Its goal is to provide to main functions:<br><br> (1): A JSON API interface to the legacy Nat | unknown | Yes | ✅ |
 | [paccurate.io](https://paccurate.io) |  | unknown | Yes | ✅ |
 | [Transport for London Unified API](https://tfl.gov.uk) | Our unified API brings together data across all modes of transport into a single RESTful API. This API provides access to the most highly requested realtime and | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Transportation
 
@@ -3204,6 +3434,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [transport.rest](https://transport.rest) | Community maintained, developer-friendly public transport API | none | Yes | ✅ |
 | [VOLO](https://www.flyvolo.ai/for-agents) | Private aviation charter search, quotes, fleet, and empty legs | apiKey | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### URL Shorteners
 
 | API | Description | Auth | HTTPS | Status |
@@ -3228,6 +3460,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [V.gd](https://v.gd/developers.php) | Simple URL shortener. Supports custom short link ending. | unknown | No | ✅ |
 | [Yourls](https://yourls.org/#API) | Generate or get existing short URLs, with sequential or custom keywords. | unknown | No | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Vehicle
 
 | API | Description | Auth | HTTPS | Status |
@@ -3244,6 +3478,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [ProblemsByVin](https://problemsbyvin.com/data/) | Owner complaints, recalls and failure-mileage statistics by vehicle make, model and year | none | Yes | ✅ |
 | [RevCarData](https://revcardata.com) | 86,000+ global vehicle specifications and EV metrics | apiKey | Yes | ✅ |
 | [Smartcar](https://smartcar.com/docs/) | Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars | OAuth | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Video
 
@@ -3291,12 +3527,16 @@ As a Claude plugin (agents pick a working API for any task):
 | [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes) | API generates various Web Series Quote Images | none | Yes | ✅ |
 | [YouTube](https://developers.google.com/youtube/) | Add YouTube functionality to your sites and apps. | OAuth | Yes | ✅ |
 
+[↑ Back to top](#public-apis-live)
+
 ### Videogames
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [Autochess VNG API](https://github.com/didadadida93/autochess-vng-api) | API that provides data about Autochess VNG. | unknown | No | ✅ |
 | [Clash Royale](https://github.com/martincarrera/clash-royale-api) | API that provides information about the Clash Royale game. | unknown | No | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ### Weather
 
@@ -3344,6 +3584,8 @@ As a Claude plugin (agents pick a working API for any task):
 | [wttr.in](https://wttr.in/:help) | Weather in your terminal, supports JSON output | none | Yes | ✅ |
 | [Wunderground API](https://www.wunderground.com/weather/api/) | Reliable data, accurate forecast, & global coverage in 80 languages. | unknown | No | ✅ |
 | [Yandex.Weather](https://yandex.com/dev/weather/) | Assesses weather condition in specific locations | apiKey | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
 
 ## ⚠️ Unverified & unreachable (1562)
 

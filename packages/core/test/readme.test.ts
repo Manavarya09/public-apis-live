@@ -22,6 +22,11 @@ describe("emit", () => {
     expect(md).toContain("npm i public-apis-live");
     expect(md).toContain("/plugin install public-apis-live");
   });
+  it("has a clickable category index with counts and back-to-top links", () => {
+    expect(md).toContain("## Categories");
+    expect(md).toContain("[Animals](#animals)");
+    expect(md).toContain("[↑ Back to top](#public-apis-live)");
+  });
   it("lists reachable APIs up top and dead/unverified ones in the section below", () => {
     const mixed: ApiEntry[] = [
       { id: "z", name: "Zebra", description: "", category: "Animals", url: "https://z.com", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "down" },

@@ -3,6 +3,11 @@ import type { ApiEntry, Status } from "../types.js";
 const emoji: Record<Status, string> = { up: "✅", down: "❌", unknown: "❔" };
 const statusRank: Record<Status, number> = { up: 0, unknown: 1, down: 2 };
 
+// GitHub heading-anchor slug (matches github-slugger): lowercase, trim, drop punctuation
+// (keep word chars/space/hyphen), then replace EACH whitespace char with "-" (no collapsing,
+// so "Art & Design" -> "art--design", same as GitHub).
+const anchor = (s: string) => s.toLowerCase().trim().replace(/[^\w\s-]/g, "").replace(/\s/g, "-");
+
 export function renderReadme(data: ApiEntry[], date: string): string {
   const up = data.filter((a) => a.status === "up").length;
   const down = data.filter((a) => a.status === "down").length;
@@ -41,6 +46,18 @@ export function renderReadme(data: ApiEntry[], date: string): string {
   ];
   const body: string[] = [];
 
+  // Category index (table of contents) with per-category working-API counts.
+  const countByCat = new Map<string, number>();
+  for (const a of reachable) countByCat.set(a.category, (countByCat.get(a.category) ?? 0) + 1);
+  if (cats.length) {
+    body.push(
+      `## Categories (${cats.length})`,
+      "",
+      cats.map((c) => `[${c}](#${anchor(c)}) (${countByCat.get(c)})`).join(" · "),
+      "",
+    );
+  }
+
   // Most reliable APIs: only meaningful once there's real history, so require a week of checks.
   // Until then (e.g. day 1) the section is skipped entirely and the directory leads the README.
   const MIN_CHECKS = 7;
@@ -76,7 +93,7 @@ export function renderReadme(data: ApiEntry[], date: string): string {
     for (const a of inCat) {
       body.push(`| [${a.name}](${a.url}) | ${a.description} | ${a.auth} | ${a.https ? "Yes" : "No"} | ${emoji[a.status]} |`);
     }
-    body.push("");
+    body.push("", "[↑ Back to top](#public-apis-live)", "");
   }
 
   // Everything that isn't confirmed working goes below, collapsed, so it never clutters the top.
