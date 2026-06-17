@@ -22,6 +22,32 @@ export function renderReadme(data: ApiEntry[], date: string): string {
     "",
   ];
   const body: string[] = [];
+
+  // Most reliable APIs: highest uptime over the tracked window, ties broken by more checks then speed.
+  const ranked = data
+    .filter((a) => a.uptimePct !== undefined && (a.checks ?? 0) > 0)
+    .sort(
+      (a, b) =>
+        b.uptimePct! - a.uptimePct! ||
+        (b.checks ?? 0) - (a.checks ?? 0) ||
+        (a.responseMs ?? 1e9) - (b.responseMs ?? 1e9),
+    )
+    .slice(0, 20);
+  if (ranked.length) {
+    body.push(
+      "## 🏆 Most reliable APIs",
+      "",
+      "_Ranked by uptime across daily reachability checks (ties broken by response time)._",
+      "",
+      "| API | Uptime | Checks | Latency |",
+      "|---|---|---|---|",
+    );
+    for (const a of ranked) {
+      body.push(`| [${a.name}](${a.url}) | ${a.uptimePct}% | ${a.checks} | ${a.responseMs ?? "—"}ms |`);
+    }
+    body.push("");
+  }
+
   for (const cat of cats) {
     body.push(`### ${cat}`, "", "| API | Description | Auth | HTTPS | Status |", "|---|---|---|---|---|");
     for (const a of data.filter((d) => d.category === cat)) {

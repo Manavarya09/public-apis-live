@@ -4,8 +4,8 @@ import { renderBadge } from "../src/emit/badge.js";
 import type { ApiEntry } from "../src/types.js";
 
 const data: ApiEntry[] = [
-  { id: "cat", name: "Cat Facts", description: "cats", category: "Animals", url: "https://catfact.ninja", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "up", httpCode: 200 },
-  { id: "dog", name: "Dogs", description: "dogs", category: "Animals", url: "https://dog.ceo", auth: "apiKey", https: true, cors: "yes", sourceRepos: ["a/b"], status: "down", httpCode: 503 },
+  { id: "cat", name: "Cat Facts", description: "cats", category: "Animals", url: "https://catfact.ninja", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "up", httpCode: 200, uptimePct: 100, checks: 5, responseMs: 120 },
+  { id: "dog", name: "Dogs", description: "dogs", category: "Animals", url: "https://dog.ceo", auth: "apiKey", https: true, cors: "yes", sourceRepos: ["a/b"], status: "down", httpCode: 503, uptimePct: 40, checks: 5, responseMs: 90 },
 ];
 
 describe("emit", () => {
@@ -17,6 +17,14 @@ describe("emit", () => {
   it("links to the live site and badge", () => {
     expect(md).toContain("https://manavarya09.github.io/public-apis-live/");
     expect(md).toContain("img.shields.io/endpoint");
+  });
+  it("renders a Most reliable APIs section ranked by uptime", () => {
+    expect(md).toContain("Most reliable APIs");
+    const reliableIdx = md.indexOf("Most reliable APIs");
+    const catIdx = md.indexOf("Cat Facts", reliableIdx);
+    const dogIdx = md.indexOf("Dogs", reliableIdx);
+    expect(catIdx).toBeGreaterThan(-1);
+    expect(catIdx).toBeLessThan(dogIdx); // 100% ranks above 40%
   });
   it("shows status emoji", () => {
     expect(md).toContain("✅");

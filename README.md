@@ -12,6 +12,33 @@ The only public-API list where every entry is auto-checked for reachability and 
 > responded (incl. auth/rate-limit codes), ❌ = DNS/connection failure, 5xx, or 404, ❔ = timeout.
 > We do **not** functionally test endpoints.
 
+## 🏆 Most reliable APIs
+
+_Ranked by uptime across daily reachability checks (ties broken by response time)._
+
+| API | Uptime | Checks | Latency |
+|---|---|---|---|
+| [South Park](https://github.com/Thatskat/southpark-quotes-api) | 100% | 1 | 56ms |
+| [Tours and Activities](https://amadeus.com) | 100% | 1 | 76ms |
+| [Veer Surendra Sai University Of Technology](https://apisetu.gov.in) | 100% | 1 | 77ms |
+| [Food and Supplies Department, Haryana](https://apisetu.gov.in) | 100% | 1 | 80ms |
+| [Transport Department, Rajasthan](https://apisetu.gov.in) | 100% | 1 | 80ms |
+| [Trip Purpose Prediction](https://amadeus.com) | 100% | 1 | 86ms |
+| [Flight Price Analysis API](https://amadeus.com) | 100% | 1 | 87ms |
+| [Trip Parser](https://amadeus.com) | 100% | 1 | 88ms |
+| [Safe Place](https://amadeus.com) | 100% | 1 | 90ms |
+| [Life Insurance Corporation of India](https://apisetu.gov.in) | 100% | 1 | 91ms |
+| [Ministry of Road Transport and Highways](https://apisetu.gov.in) | 100% | 1 | 91ms |
+| [Hotel Name Autocomplete](https://amadeus.com) | 100% | 1 | 92ms |
+| [Future Generali Total Insurance Solutions](https://apisetu.gov.in) | 100% | 1 | 92ms |
+| [Transport Department, Puducherry](https://apisetu.gov.in) | 100% | 1 | 92ms |
+| [The Oriental Insurance Co. Ltd.](https://apisetu.gov.in) | 100% | 1 | 93ms |
+| [Points of Interest](https://amadeus.com) | 100% | 1 | 94ms |
+| [Maharashtra Council of Indian Medicine](https://apisetu.gov.in) | 100% | 1 | 96ms |
+| [Flight Order Management](https://amadeus.com) | 100% | 1 | 98ms |
+| [Flight Offers Price](https://amadeus.com) | 100% | 1 | 99ms |
+| [Paramedical Council, Madhya Pradesh](https://apisetu.gov.in) | 100% | 1 | 100ms |
+
 ### APILayer APIs
 
 | API | Description | Auth | HTTPS | Status |

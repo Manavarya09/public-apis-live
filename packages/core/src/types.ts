@@ -27,4 +27,6 @@ export interface ApiEntry {
   httpCode?: number;
   responseMs?: number;
   lastChecked?: string;
+  uptimePct?: number; // % of "up" checks over the tracked window
+  checks?: number; // number of daily checks recorded
 }
