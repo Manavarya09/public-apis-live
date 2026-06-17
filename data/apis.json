@@ -3848,12 +3848,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 401,
     "responseMs": 1548,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "homegraph-api",
@@ -5686,12 +5686,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1140,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "amazing-endemic-species",
@@ -6012,12 +6012,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2945,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "meowfacts",
@@ -6090,12 +6090,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 922,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "placebear",
@@ -6302,12 +6302,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 3544,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "anidb",
@@ -6321,12 +6321,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1968,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "anilist",
@@ -7045,12 +7045,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 701,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "web-of-trust-wot",
@@ -7374,12 +7374,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 748,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "cooper-hewitt",
@@ -7474,12 +7474,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 995,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "freepik",
@@ -7493,12 +7493,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 3342,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "harvard-art-museums",
@@ -7879,12 +7879,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 3370,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "mojoauth",
@@ -9082,12 +9082,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 871,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "freelancer",
@@ -9431,12 +9431,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2264,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "tenders-in-hungary",
@@ -18094,12 +18094,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 6751,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "logicappsmanagementclient",
@@ -20252,12 +20252,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 1938,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "file-io",
@@ -21012,12 +21012,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 704,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "eqivo",
@@ -21566,12 +21566,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1438,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "bitcoinaverage",
@@ -21720,12 +21720,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1893,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "blockchain",
@@ -21872,12 +21872,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2212,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "coinbase",
@@ -21893,12 +21893,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 574,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "coinbase-pro",
@@ -22010,12 +22010,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1616,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "coinigy",
@@ -22228,12 +22228,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1180,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "cryptingup",
@@ -22268,12 +22268,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 401,
     "responseMs": 1945,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "cryptomarket",
@@ -22419,12 +22419,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 801,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "gates-io",
@@ -22438,12 +22438,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 593,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "gemini",
@@ -22477,12 +22477,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2370,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "huobi",
@@ -22685,12 +22685,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 788,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "mexc-global",
@@ -22704,12 +22704,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 528,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "nexchange",
@@ -23175,12 +23175,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 397,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "currencylayer-com",
@@ -24786,12 +24786,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 6171,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "dataflow-kit-web-scraper",
@@ -26488,12 +26488,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 7380,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "the-jira-cloud-platform-rest-api",
@@ -26901,12 +26901,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 1674,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "api-snap",
@@ -28435,12 +28435,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2091,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "ip2whois-hosted-domain-lookup",
@@ -28511,12 +28511,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 887,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "ipfinder",
@@ -28937,12 +28937,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1505,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "microenv",
@@ -29951,12 +29951,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1306,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "sonar",
@@ -30353,12 +30353,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1091,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "zuplo",
@@ -30429,12 +30429,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1198,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "free-dictionary",
@@ -32047,12 +32047,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1406,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "commerce-api",
@@ -32328,12 +32328,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2420,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "inventory-management",
@@ -32826,12 +32826,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 5425,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "seller-service-metrics-api",
@@ -32882,12 +32882,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 6386,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "spectrocoin-merchant",
@@ -33786,12 +33786,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2029,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "account-api-nexmo",
@@ -33805,12 +33805,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1325,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "account-api-vonage",
@@ -33824,12 +33824,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 5798,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "airline-code-lookup-api",
@@ -33993,12 +33993,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1081,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "arespass",
@@ -34049,12 +34049,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1038,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "authentication",
@@ -34068,12 +34068,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 2872,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "automata-market-intelligence-api",
@@ -34402,12 +34402,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1004,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "crm-cards",
@@ -34551,12 +34551,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 870,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "domains",
@@ -34608,12 +34608,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 5729,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "external-accounts-api",
@@ -34627,12 +34627,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 590,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "facial-recognition-reverse-image-face-search-api",
@@ -34967,12 +34967,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 401,
     "responseMs": 3287,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "gerermesaffaires-rest-api",
@@ -35560,12 +35560,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 7961,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "logistics-api-vtex",
@@ -35707,12 +35707,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 7282,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "mastercard-bin-table-listing",
@@ -35762,12 +35762,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 7498,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "mdes-customer-service",
@@ -35781,12 +35781,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 7313,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "media-api",
@@ -35800,12 +35800,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 579,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "meilisearch-v1-0",
@@ -35837,12 +35837,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 7219,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "message-center-api",
@@ -35874,12 +35874,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 575,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "mineskin-api",
@@ -35986,12 +35986,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1146,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "nexmo-conversion-api",
@@ -36005,12 +36005,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 985,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "nookipedia",
@@ -36042,12 +36042,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 979,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "numbers-api-nexmo",
@@ -36061,12 +36061,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 963,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "on-demand-flight-status",
@@ -36099,12 +36099,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 6214,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "openchannel-market-api",
@@ -36226,12 +36226,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 7119,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "payments-gateway-api",
@@ -36281,12 +36281,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 6859,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "personnel-data",
@@ -36300,12 +36300,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 2929,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "pets-api",
@@ -36410,12 +36410,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 830,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "pricing-api-vtex",
@@ -36501,12 +36501,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 821,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "regression-analysis-api",
@@ -36558,12 +36558,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 819,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "reports-api-vonage",
@@ -36595,12 +36595,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 6240,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "reviews-and-ratings-api",
@@ -36707,12 +36707,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 6240,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "service-broker",
@@ -36837,12 +36837,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 810,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "solar-vps",
@@ -36875,12 +36875,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 6252,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "stellastra",
@@ -36931,12 +36931,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 811,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "subscription-v1-deprecated",
@@ -37135,12 +37135,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 564,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "travel-partner-api",
@@ -37266,12 +37266,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 814,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "visitor-identification",
@@ -37304,12 +37304,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 768,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "vonage-integration-suite",
@@ -39222,12 +39222,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 3296,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "breezometer-pollen",
@@ -39374,12 +39374,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 910,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "luchtmeetnet",
@@ -39583,12 +39583,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1028,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "eventbrite",
@@ -39947,12 +39947,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1160,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "banco-do-brasil",
@@ -39966,12 +39966,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 5068,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "bank-data",
@@ -40193,12 +40193,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 1001,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "econdb",
@@ -40326,12 +40326,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2431,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "finnhub",
@@ -40761,12 +40761,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1243,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "nigeria",
@@ -41087,12 +41087,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 997,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "smartapi",
@@ -41336,12 +41336,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2345,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "world-trading-data",
@@ -41788,12 +41788,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2136,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "chaingateway-io",
@@ -41883,12 +41883,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1908,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "event-notification-api-specification-tpp-endpoints",
@@ -42402,12 +42402,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 6103,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "the-plaid-api",
@@ -42773,12 +42773,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1641,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "chomp",
@@ -44086,12 +44086,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1556,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "gamerpower",
@@ -44275,12 +44275,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1198,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "humble-bundle",
@@ -44371,12 +44371,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2241,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "igdb-com",
@@ -44564,12 +44564,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2507,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "minecraft-server-status",
@@ -45603,12 +45603,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1475,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "airtel-ip-aether",
@@ -45761,12 +45761,12 @@
       "n0shake/Public-APIs",
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1350,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "cartes-io",
@@ -46326,12 +46326,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2254,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "hong-kong-geodata-store",
@@ -46654,12 +46654,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 1725,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "ipapi-com",
@@ -46769,12 +46769,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 865,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "isitwater",
@@ -48263,12 +48263,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1811,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "city-bologna-opendata",
@@ -48358,12 +48358,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2013,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "city-nantes-open-data",
@@ -48742,12 +48742,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1254,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "fec",
@@ -48839,12 +48839,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 401,
     "responseMs": 3346,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "indian-pincode",
@@ -49199,12 +49199,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2615,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "open-government-finland",
@@ -49544,12 +49544,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2703,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "open-government-poland",
@@ -49811,12 +49811,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 549,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "open-government-uk",
@@ -50476,12 +50476,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2096,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "edamam",
@@ -51120,12 +51120,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 631,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "adafruit-io-rest-api",
@@ -51851,12 +51851,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 407,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "jobdatalake",
@@ -51929,12 +51929,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 760,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "juju",
@@ -52048,12 +52048,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1443,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "usajobs",
@@ -52106,12 +52106,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 739,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "api-reference-ideal-postcodes",
@@ -52519,12 +52519,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 590,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "lotadata",
@@ -52762,12 +52762,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1310,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "trapstreet-api",
@@ -52838,12 +52838,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2418,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "visual-crossing-weather-api",
@@ -53026,12 +53026,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 369,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "twitter-sign-in",
@@ -53367,12 +53367,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2176,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "hol-registry-broker",
@@ -53386,12 +53386,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1150,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "hugging-face",
@@ -53652,12 +53652,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2469,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "openvisionapi",
@@ -53746,12 +53746,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 831,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "skybiometry",
@@ -53940,12 +53940,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 902,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "openindex-retrieval-plugin-api",
@@ -54838,12 +54838,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2156,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "most-popular-api",
@@ -55825,12 +55825,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2067,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "data-science-toolkit",
@@ -56298,12 +56298,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 4486,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "rumble-api-deprecated",
@@ -56475,12 +56475,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 557,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "freesound",
@@ -57138,12 +57138,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 858,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "acoustid",
@@ -57613,12 +57613,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2869,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "currents",
@@ -57807,12 +57807,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1600,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "news",
@@ -58366,12 +58366,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2180,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "genesis",
@@ -58654,12 +58654,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2427,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "opencorporates",
@@ -60027,12 +60027,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 840,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "city-of-surrey-traffic-loop-count-api",
@@ -60046,12 +60046,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 838,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "civil-supplies-department-kerala",
@@ -60232,12 +60232,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 7596,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "cpct-mapit-madhya-pradesh",
@@ -61528,12 +61528,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1404,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "high-performance-building-database",
@@ -61830,12 +61830,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 952,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "jawaharlal-nehru-rajkeeya-mahavidyalaya",
@@ -62758,12 +62758,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 401,
     "responseMs": 2558,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "new-india-assurance-co-ltd",
@@ -65020,12 +65020,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 3376,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "classic-platforms-notifications",
@@ -65574,12 +65574,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1064,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "icanhazdadjoke",
@@ -65747,12 +65747,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 1034,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "psyquiz",
@@ -65880,12 +65880,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 813,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "stoicism-quote",
@@ -65976,12 +65976,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 587,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "vadivelu-http-codes",
@@ -66481,12 +66481,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 506,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "photoroom",
@@ -66521,12 +66521,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 452,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "placekeanu",
@@ -66694,12 +66694,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 961,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "singlecolorimage",
@@ -66863,12 +66863,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 977,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "hackerearth",
@@ -67052,12 +67052,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 401,
     "responseMs": 1365,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "abstract",
@@ -67338,12 +67338,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 422,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "gbif-api",
@@ -68108,12 +68108,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2041,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "wayback-api",
@@ -68256,12 +68256,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 401,
     "responseMs": 1559,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "binaryedge",
@@ -68275,12 +68275,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1672,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "bitwarden",
@@ -68370,12 +68370,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 819,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "cisco-psirt-openvuln-api",
@@ -68556,12 +68556,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 2402,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "escape",
@@ -69146,12 +69146,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 455,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "shodan",
@@ -69334,12 +69334,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 602,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "whoisfreaks",
@@ -69448,12 +69448,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 383,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "dummy-products",
@@ -69580,12 +69580,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1392,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "octopart",
@@ -69599,12 +69599,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1716,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "olx-poland",
@@ -69789,12 +69789,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1138,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "blogger",
@@ -70629,12 +70629,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 1194,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "semantria-semantria",
@@ -70944,12 +70944,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 613,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "twitter-api-v2",
@@ -70963,12 +70963,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 608,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "twitterapi",
@@ -71663,12 +71663,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 861,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "api-football",
@@ -71682,12 +71682,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 987,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "apimedic",
@@ -73696,12 +73696,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 429,
     "responseMs": 1327,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "fakejson",
@@ -73772,12 +73772,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1226,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "generadordni",
@@ -74831,12 +74831,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2006,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "ocrapi",
@@ -75455,12 +75455,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2470,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "hirak-translation",
@@ -75474,12 +75474,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2430,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "kiprio-translate",
@@ -75830,12 +75830,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1514,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "correios",
@@ -76058,12 +76058,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2461,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "aviationdata-systems-airports-api-v1",
@@ -76131,12 +76131,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2076,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "dealer",
@@ -76150,12 +76150,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1828,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "departureboard-io-api",
@@ -76206,12 +76206,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1988,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "fasta-station-facilities-status",
@@ -76352,12 +76352,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 5663,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "rail-station-information",
@@ -76443,12 +76443,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1730,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "shipengine-api",
@@ -76517,12 +76517,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1495,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "where-to-credit-api",
@@ -76594,12 +76594,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 262,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "airportsapi",
@@ -77109,12 +77109,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1911,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "lyft",
@@ -77149,12 +77149,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2804,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "navitia",
@@ -77339,12 +77339,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1255,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "railway-transport-for-france",
@@ -77648,12 +77648,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1308,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "transport-for-czech-republic",
@@ -77706,12 +77706,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1421,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "transport-for-germany",
@@ -77977,12 +77977,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1326,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "transport-for-sao-paulo-brazil",
@@ -78305,12 +78305,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1866,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "volo",
@@ -78458,12 +78458,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2698,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "free-url-shortener",
@@ -78477,12 +78477,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 939,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "git-io",
@@ -78725,12 +78725,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 741,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "tiny-cc",
@@ -80031,12 +80031,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 607,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "tvdb",
@@ -80227,12 +80227,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 1561,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "giantbomb",
@@ -80246,12 +80246,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 302,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "igdb",
@@ -80322,12 +80322,12 @@
       "public-apis/public-apis",
       "n0shake/Public-APIs"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 812,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "aemet",
@@ -80628,12 +80628,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "up",
+    "status": "unknown",
     "httpCode": 403,
     "responseMs": 2428,
     "lastChecked": "2026-06-17T07:36:15.396Z",
     "checks": 1,
-    "uptimePct": 100
+    "uptimePct": 0
   },
   {
     "id": "national-weather-service-api",

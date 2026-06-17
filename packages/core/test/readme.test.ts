@@ -18,14 +18,16 @@ describe("emit", () => {
     expect(md).toContain("https://manavarya09.github.io/public-apis-live/");
     expect(md).toContain("img.shields.io/endpoint");
   });
-  it("lists working APIs before dead ones within a category", () => {
-    const downFirst: ApiEntry[] = [
+  it("lists only reachable APIs, omitting dead/unverified ones", () => {
+    const mixed: ApiEntry[] = [
       { id: "z", name: "Zebra", description: "", category: "Animals", url: "https://z.com", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "down" },
       { id: "a", name: "Aardvark", description: "", category: "Animals", url: "https://a.com", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "up" },
+      { id: "b", name: "Buffalo", description: "", category: "Animals", url: "https://b.com", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "unknown" },
     ];
-    const out = renderReadme(downFirst, "2026-06-17");
-    const catSection = out.slice(out.indexOf("### Animals"));
-    expect(catSection.indexOf("Aardvark")).toBeLessThan(catSection.indexOf("Zebra"));
+    const out = renderReadme(mixed, "2026-06-17");
+    expect(out).toContain("Aardvark");
+    expect(out).not.toContain("Zebra");
+    expect(out).not.toContain("Buffalo");
   });
   it("renders a Most reliable APIs section ranked by uptime", () => {
     expect(md).toContain("Most reliable APIs");
@@ -35,9 +37,9 @@ describe("emit", () => {
     expect(catIdx).toBeGreaterThan(-1);
     expect(catIdx).toBeLessThan(dogIdx); // 100% ranks above 40%
   });
-  it("shows status emoji", () => {
+  it("marks listed APIs as working and shows no dead markers", () => {
     expect(md).toContain("✅");
-    expect(md).toContain("❌");
+    expect(md).not.toContain("❌");
   });
   it("badge json reports reachable count", () => {
     const badge = JSON.parse(renderBadge(data));

@@ -5,21 +5,27 @@ const statusRank: Record<Status, number> = { up: 0, unknown: 1, down: 2 };
 
 export function renderReadme(data: ApiEntry[], date: string): string {
   const up = data.filter((a) => a.status === "up").length;
-  const cats = [...new Set(data.map((a) => a.category))].sort();
+  const down = data.filter((a) => a.status === "down").length;
+  const unknown = data.filter((a) => a.status === "unknown").length;
+  // The directory shows only reachable APIs — the whole point is that every listed link works.
+  const reachable = data.filter((a) => a.status === "up");
+  const cats = [...new Set(reachable.map((a) => a.category))].sort();
   const head = [
     "# public-apis-live",
     "",
     "[![public APIs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Manavarya09/public-apis-live/main/data/badge.json)](https://manavarya09.github.io/public-apis-live/)",
     "",
-    `**${data.length} public APIs · ${up} reachable · verified ${date}**`,
+    `**${up} working public APIs · verified ${date} · refreshed daily**`,
     "",
-    "The only public-API list where every entry is auto-checked for reachability and refreshed daily.",
+    "Every API listed below responded to a reachability check today. Aggregated from the top public-API",
+    "lists, deduped, and re-verified every day by CI.",
     "",
     "**[🔎 Search them all in the browser →](https://manavarya09.github.io/public-apis-live/)** · **[📊 See the benchmark →](./BENCHMARK.md)**",
     "",
-    "> **How verification works:** we only check *reachability* (no API keys). ✅ = the server",
-    "> responded (incl. auth/rate-limit codes), ❌ = DNS/connection failure, 5xx, or 404, ❔ = timeout.",
-    "> We do **not** functionally test endpoints.",
+    "> **How verification works:** we only check *reachability* (no API keys). A listed API means its",
+    "> URL returned a success response (2xx/3xx) today; we do **not** functionally test endpoints.",
+    `> ${down} unreachable and ${unknown} unverified (timeouts, auth-walled, or bot-blocked) entries are`,
+    "> kept in [`data/apis.json`](./data/apis.json) and counted in the benchmark, but omitted from this list.",
     "",
   ];
   const body: string[] = [];
@@ -51,7 +57,7 @@ export function renderReadme(data: ApiEntry[], date: string): string {
 
   for (const cat of cats) {
     body.push(`### ${cat}`, "", "| API | Description | Auth | HTTPS | Status |", "|---|---|---|---|---|");
-    const inCat = data
+    const inCat = reachable
       .filter((d) => d.category === cat)
       .sort((a, b) => statusRank[a.status] - statusRank[b.status] || a.name.localeCompare(b.name));
     for (const a of inCat) {

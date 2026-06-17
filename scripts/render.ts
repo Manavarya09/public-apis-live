@@ -5,9 +5,12 @@ import { renderBadge } from "../packages/core/src/emit/badge.js";
 import { renderBenchmark } from "../packages/core/src/emit/benchmark.js";
 import { computeBenchmark } from "../packages/core/src/benchmark.js";
 import { updateHistory, reliabilityPct, type History } from "../packages/core/src/history.js";
+import { classify } from "../packages/core/src/verify.js";
 import type { ApiEntry } from "../packages/core/src/types.js";
 
 const entries = JSON.parse(readFileSync("data/apis.json", "utf8")) as ApiEntry[];
+// Re-derive status from the stored HTTP code so classifier changes apply without a network re-probe.
+for (const e of entries) e.status = classify(e.httpCode ?? null).status;
 const dates = entries.map((e) => e.lastChecked).filter(Boolean) as string[];
 const date = dates.length ? dates.sort().at(-1)!.slice(0, 10) : new Date().toISOString().slice(0, 10);
 

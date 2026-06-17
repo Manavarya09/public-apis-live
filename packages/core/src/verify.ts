@@ -3,8 +3,10 @@ import type { ApiEntry, Status } from "./types.js";
 
 export function classify(code: number | null): { status: Status; httpCode?: number } {
   if (code === null) return { status: "unknown" };
-  if (code === 401 || code === 403 || code === 429) return { status: "up", httpCode: code };
   if (code >= 200 && code < 400) return { status: "up", httpCode: code };
+  // Server responded but the URL isn't usable as-is: auth-walled, rate-limited, or bot-blocked.
+  // Not "working" for a showcase, but not provably dead either → unverified.
+  if (code === 401 || code === 403 || code === 429) return { status: "unknown", httpCode: code };
   return { status: "down", httpCode: code };
 }
 

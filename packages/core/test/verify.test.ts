@@ -7,9 +7,10 @@ describe("classify", () => {
     expect(classify(200).status).toBe("up");
     expect(classify(301).status).toBe("up");
   });
-  it("401/403/429 → up (server alive)", () => {
-    expect(classify(401).status).toBe("up");
-    expect(classify(429).status).toBe("up");
+  it("401/403/429 → unknown (responded but not usable as-is)", () => {
+    expect(classify(401).status).toBe("unknown");
+    expect(classify(403).status).toBe("unknown");
+    expect(classify(429).status).toBe("unknown");
   });
   it("404/5xx → down", () => {
     expect(classify(404).status).toBe("down");
