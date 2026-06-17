@@ -8,6 +8,9 @@
   "files": ["dist", "apis.json"],
   "keywords": ["public-apis", "api", "directory", "free-apis", "live"],
   "license": "MIT",
+  "homepage": "https://manavarya09.github.io/public-apis-live/",
+  "repository": { "type": "git", "url": "git+https://github.com/Manavarya09/public-apis-live.git", "directory": "packages/core" },
+  "bugs": { "url": "https://github.com/Manavarya09/public-apis-live/issues" },
   "scripts": { "build": "tsc -p tsconfig.json" },
   "dependencies": { "p-limit": "^6.1.0" }
 }
