@@ -8,9 +8,13 @@ export function renderReadme(data: ApiEntry[], date: string): string {
   const head = [
     "# public-apis-live",
     "",
+    "[![public APIs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Manavarya09/public-apis-live/main/data/badge.json)](https://manavarya09.github.io/public-apis-live/)",
+    "",
     `**${data.length} public APIs · ${up} reachable · verified ${date}**`,
     "",
     "The only public-API list where every entry is auto-checked for reachability and refreshed daily.",
+    "",
+    "**[🔎 Search them all in the browser →](https://manavarya09.github.io/public-apis-live/)**",
     "",
     "> **How verification works:** we only check *reachability* (no API keys). ✅ = the server",
     "> responded (incl. auth/rate-limit codes), ❌ = DNS/connection failure, 5xx, or 404, ❔ = timeout.",

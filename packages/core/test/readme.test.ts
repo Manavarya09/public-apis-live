@@ -14,6 +14,10 @@ describe("emit", () => {
     expect(md).toContain("### Animals");
     expect(md).toContain("[Cat Facts](https://catfact.ninja)");
   });
+  it("links to the live site and badge", () => {
+    expect(md).toContain("https://manavarya09.github.io/public-apis-live/");
+    expect(md).toContain("img.shields.io/endpoint");
+  });
   it("shows status emoji", () => {
     expect(md).toContain("✅");
     expect(md).toContain("❌");
