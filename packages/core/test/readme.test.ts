@@ -18,6 +18,10 @@ describe("emit", () => {
     expect(md).toContain("https://manavarya09.github.io/public-apis-live/");
     expect(md).toContain("img.shields.io/endpoint");
   });
+  it("has a small install section (npm + Claude plugin)", () => {
+    expect(md).toContain("npm i public-apis-live");
+    expect(md).toContain("/plugin install public-apis-live");
+  });
   it("lists reachable APIs up top and dead/unverified ones in the section below", () => {
     const mixed: ApiEntry[] = [
       { id: "z", name: "Zebra", description: "", category: "Animals", url: "https://z.com", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "down" },

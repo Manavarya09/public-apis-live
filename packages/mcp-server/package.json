@@ -1,12 +1,18 @@
 {
   "name": "public-apis-live-mcp",
   "version": "0.1.0",
+  "description": "MCP server for public-apis-live — let agents find a working public API for any task.",
   "type": "module",
   "bin": { "public-apis-live-mcp": "./dist/index.js" },
+  "files": ["dist"],
+  "keywords": ["mcp", "model-context-protocol", "public-apis", "api", "claude"],
+  "license": "MIT",
+  "homepage": "https://github.com/Manavarya09/public-apis-live",
+  "repository": { "type": "git", "url": "git+https://github.com/Manavarya09/public-apis-live.git", "directory": "packages/mcp-server" },
   "scripts": { "build": "tsc -p tsconfig.json" },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",
-    "public-apis-live": "workspace:*",
+    "public-apis-live": "^0.1.0",
     "zod": "^3.23.8"
   }
 }

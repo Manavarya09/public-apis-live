@@ -1,0 +1,11 @@
+{
+  "name": "public-apis-live",
+  "owner": { "name": "Manavarya09" },
+  "plugins": [
+    {
+      "name": "public-apis-live",
+      "source": "./packages/plugin",
+      "description": "Discover working public APIs for any task — auto-verified for reachability and refreshed daily. Adds search_apis / get_api / list_categories tools and a skill that tells the agent to pick a working API."
+    }
+  ]
+}

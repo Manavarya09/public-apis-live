@@ -33,8 +33,8 @@ importers:
         specifier: ^1.0.0
         version: 1.29.0(zod@3.25.76)
       public-apis-live:
-        specifier: workspace:*
-        version: link:../core
+        specifier: ^0.1.0
+        version: 0.1.0
       zod:
         specifier: ^3.23.8
         version: 3.25.76
@@ -1116,6 +1116,9 @@ packages:
   proxy-addr@2.0.7:
     resolution: {integrity: sha512-llQsMLSUDUPT44jdrU/O37qlnifitDP+ZwrmmZcoSKyLKvtZxpyV0n2/bD/N4tBAAZ/gJEdZU7KMraoK1+XYAg==}
     engines: {node: '>= 0.10'}
+
+  public-apis-live@0.1.0:
+    resolution: {integrity: sha512-fLQIZn3H/kOMFNO6sFwpqgN271Yfe5Aeu9KSbIWygQAm2pqzLOeXT8Xk9r2ghRvuHnQSr+sJzSeIneMtBXis/Q==}
 
   qs@6.15.2:
     resolution: {integrity: sha512-Rzq0KEyX/w/tEybncDgdkZrJgVUsUMk3xjh3t5bv3S1HTAtg+uOYt72+ZfwiQwKdysThkTBdL/rTi6HDmX9Ddw==}
@@ -2203,6 +2206,11 @@ snapshots:
     dependencies:
       forwarded: 0.2.0
       ipaddr.js: 1.9.1
+
+  public-apis-live@0.1.0:
+    dependencies:
+      fuse.js: 7.4.2
+      p-limit: 6.2.0
 
   qs@6.15.2:
     dependencies:

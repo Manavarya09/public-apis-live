@@ -2,7 +2,9 @@
   "name": "public-apis-live",
   "version": "0.1.0",
   "description": "Discover working public APIs for any task. Auto-verified, refreshed daily.",
+  "author": { "name": "Manavarya09" },
+  "homepage": "https://github.com/Manavarya09/public-apis-live",
   "mcpServers": {
-    "public-apis-live": { "command": "node", "args": ["${CLAUDE_PLUGIN_ROOT}/../mcp-server/dist/index.js"] }
+    "public-apis-live": { "command": "npx", "args": ["-y", "public-apis-live-mcp"] }
   }
 }
