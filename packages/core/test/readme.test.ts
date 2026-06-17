@@ -4,8 +4,8 @@ import { renderBadge } from "../src/emit/badge.js";
 import type { ApiEntry } from "../src/types.js";
 
 const data: ApiEntry[] = [
-  { id: "cat", name: "Cat Facts", description: "cats", category: "Animals", url: "https://catfact.ninja", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "up", httpCode: 200, uptimePct: 100, checks: 5, responseMs: 120 },
-  { id: "dog", name: "Dogs", description: "dogs", category: "Animals", url: "https://dog.ceo", auth: "apiKey", https: true, cors: "yes", sourceRepos: ["a/b"], status: "down", httpCode: 503, uptimePct: 40, checks: 5, responseMs: 90 },
+  { id: "cat", name: "Cat Facts", description: "cats", category: "Animals", url: "https://catfact.ninja", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "up", httpCode: 200, uptimePct: 100, checks: 8, responseMs: 120 },
+  { id: "dog", name: "Dogs", description: "dogs", category: "Animals", url: "https://dog.ceo", auth: "apiKey", https: true, cors: "yes", sourceRepos: ["a/b"], status: "down", httpCode: 503, uptimePct: 40, checks: 8, responseMs: 90 },
 ];
 
 describe("emit", () => {
@@ -31,13 +31,14 @@ describe("emit", () => {
     expect(out.indexOf("Aardvark")).toBeLessThan(out.indexOf("Zebra"));
     expect(out.indexOf("Aardvark")).toBeLessThan(out.indexOf("Buffalo"));
   });
-  it("renders a Most reliable APIs section ranked by uptime", () => {
-    expect(md).toContain("Most reliable APIs");
+  it("renders Most reliable APIs only for entries with enough history", () => {
+    expect(md).toContain("Most reliable APIs"); // cat has 8 checks
     const reliableIdx = md.indexOf("Most reliable APIs");
-    const catIdx = md.indexOf("Cat Facts", reliableIdx);
-    const dogIdx = md.indexOf("Dogs", reliableIdx);
-    expect(catIdx).toBeGreaterThan(-1);
-    expect(catIdx).toBeLessThan(dogIdx); // 100% ranks above 40%
+    expect(md.indexOf("Cat Facts", reliableIdx)).toBeGreaterThan(-1);
+  });
+  it("omits the Most reliable section on day 1 (only 1 check)", () => {
+    const dayOne = data.map((d) => ({ ...d, checks: 1 }));
+    expect(renderReadme(dayOne, "2026-06-17")).not.toContain("Most reliable APIs");
   });
   it("shows working markers up top and dead markers in the section below", () => {
     expect(md).toContain("✅");

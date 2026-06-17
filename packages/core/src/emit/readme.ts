@@ -30,9 +30,11 @@ export function renderReadme(data: ApiEntry[], date: string): string {
   ];
   const body: string[] = [];
 
-  // Most reliable APIs: highest uptime over the tracked window, ties broken by more checks then speed.
+  // Most reliable APIs: only meaningful once there's real history, so require a week of checks.
+  // Until then (e.g. day 1) the section is skipped entirely and the directory leads the README.
+  const MIN_CHECKS = 7;
   const ranked = data
-    .filter((a) => a.uptimePct !== undefined && (a.checks ?? 0) > 0)
+    .filter((a) => a.status === "up" && (a.checks ?? 0) >= MIN_CHECKS)
     .sort(
       (a, b) =>
         b.uptimePct! - a.uptimePct! ||
@@ -44,7 +46,7 @@ export function renderReadme(data: ApiEntry[], date: string): string {
     body.push(
       "## 🏆 Most reliable APIs",
       "",
-      "_Ranked by uptime across daily reachability checks (ties broken by response time)._",
+      `_Highest uptime across at least ${MIN_CHECKS} daily reachability checks (ties broken by response time)._`,
       "",
       "| API | Uptime | Checks | Latency |",
       "|---|---|---|---|",
