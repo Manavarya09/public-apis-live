@@ -5,6 +5,6 @@
   "author": { "name": "Manavarya09" },
   "homepage": "https://github.com/Manavarya09/public-apis-live",
   "mcpServers": {
-    "public-apis-live": { "command": "npx", "args": ["-y", "public-apis-live-mcp"] }
+    "public-apis-live": { "command": "npx", "args": ["-y", "public-apis-live-mcp@0.1.0"] }
   }
 }
