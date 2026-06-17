@@ -17,7 +17,13 @@ describe("query", () => {
     expect(q.findApis({ auth: "none" })).toHaveLength(2);
     expect(q.findApis({ status: "up" })).toHaveLength(2);
   });
-  it("free-text search over name + description", () => {
-    expect(q.findApis({ search: "dog" }).map((a) => a.id)).toEqual(["dog"]);
+  it("fuzzy search ranks the matching api first", () => {
+    expect(q.findApis({ search: "dog" })[0].id).toBe("dog");
+  });
+  it("fuzzy search tolerates typos", () => {
+    expect(q.findApis({ search: "catt" })[0].id).toBe("cat");
+  });
+  it("search combines with other filters", () => {
+    expect(q.findApis({ category: "Animals", search: "cat" }).map((a) => a.id)).toEqual(["cat"]);
   });
 });

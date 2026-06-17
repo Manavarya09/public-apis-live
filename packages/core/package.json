@@ -12,5 +12,5 @@
   "repository": { "type": "git", "url": "git+https://github.com/Manavarya09/public-apis-live.git", "directory": "packages/core" },
   "bugs": { "url": "https://github.com/Manavarya09/public-apis-live/issues" },
   "scripts": { "build": "tsc -p tsconfig.json" },
-  "dependencies": { "p-limit": "^6.1.0" }
+  "dependencies": { "fuse.js": "^7.0.0", "p-limit": "^6.1.0" }
 }
