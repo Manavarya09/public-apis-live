@@ -97,6 +97,7 @@ export default function Page() {
             <th>Auth</th>
             <th>HTTPS</th>
             <th>Status</th>
+            <th>Uptime</th>
           </tr>
         </thead>
         <tbody>
@@ -112,6 +113,7 @@ export default function Page() {
               <td>{a.auth}</td>
               <td>{a.https ? "Yes" : "No"}</td>
               <td>{emoji[a.status]}</td>
+              <td>{a.uptimePct !== undefined ? `${a.uptimePct}%` : "—"}</td>
             </tr>
           ))}
         </tbody>

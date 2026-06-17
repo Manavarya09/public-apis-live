@@ -9,6 +9,7 @@ export interface WebApiEntry {
   auth: string;
   https: boolean;
   status: "up" | "down" | "unknown";
+  uptimePct?: number;
 }
 
 export interface Criteria {
