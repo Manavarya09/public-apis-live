@@ -1,0 +1,13 @@
+{
+  "name": "public-apis-live",
+  "version": "0.1.0",
+  "description": "Aggregated, deduped, auto-reachability-checked list of public APIs. Refreshed daily.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": ["dist", "apis.json"],
+  "keywords": ["public-apis", "api", "directory", "free-apis", "live"],
+  "license": "MIT",
+  "scripts": { "build": "tsc -p tsconfig.json" },
+  "dependencies": { "p-limit": "^6.1.0" }
+}
