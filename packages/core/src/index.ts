@@ -12,3 +12,5 @@ export * from "./types.js";
 export { runPipeline } from "./pipeline.js";
 export { makeQuery } from "./query.js";
 export { fuzzySearch, FUSE_OPTIONS } from "./search.js";
+export { computeBenchmark } from "./benchmark.js";
+export type { Benchmark, Stat } from "./benchmark.js";

@@ -14,7 +14,7 @@ export function renderReadme(data: ApiEntry[], date: string): string {
     "",
     "The only public-API list where every entry is auto-checked for reachability and refreshed daily.",
     "",
-    "**[🔎 Search them all in the browser →](https://manavarya09.github.io/public-apis-live/)**",
+    "**[🔎 Search them all in the browser →](https://manavarya09.github.io/public-apis-live/)** · **[📊 See the benchmark →](./BENCHMARK.md)**",
     "",
     "> **How verification works:** we only check *reachability* (no API keys). ✅ = the server",
     "> responded (incl. auth/rate-limit codes), ❌ = DNS/connection failure, 5xx, or 404, ❔ = timeout.",
