@@ -12,6 +12,7 @@ export function renderReadme(data: ApiEntry[], date: string): string {
   const up = data.filter((a) => a.status === "up").length;
   const down = data.filter((a) => a.status === "down").length;
   const unknown = data.filter((a) => a.status === "unknown").length;
+  const dataVerified = data.filter((a) => a.returnsData).length;
   // The directory shows only reachable APIs — the whole point is that every listed link works.
   const reachable = data.filter((a) => a.status === "up");
   const cats = [...new Set(reachable.map((a) => a.category))].sort();
@@ -38,8 +39,9 @@ export function renderReadme(data: ApiEntry[], date: string): string {
     "/plugin install public-apis-live",
     "```",
     "",
-    "> **How verification works:** we only check *reachability* (no API keys). A working API means its",
-    "> URL returned a success response (2xx/3xx) today; we do **not** functionally test endpoints.",
+    "> **How verification works:** we check *reachability* (no API keys) daily. A working API means its",
+    `> URL returned a success response (2xx/3xx) today. 📦 marks the ${dataVerified} no-auth APIs that also`,
+    "> returned real data when called. We do **not** test auth-gated endpoints.",
     `> ${down} unreachable and ${unknown} unverified (timeouts, auth-walled, or bot-blocked) entries are`,
     "> listed at the bottom and counted in the benchmark.",
     "",
@@ -91,7 +93,8 @@ export function renderReadme(data: ApiEntry[], date: string): string {
       .filter((d) => d.category === cat)
       .sort((a, b) => statusRank[a.status] - statusRank[b.status] || a.name.localeCompare(b.name));
     for (const a of inCat) {
-      body.push(`| [${a.name}](${a.url}) | ${a.description} | ${a.auth} | ${a.https ? "Yes" : "No"} | ${emoji[a.status]} |`);
+      const status = `${emoji[a.status]}${a.returnsData ? " 📦" : ""}`;
+      body.push(`| [${a.name}](${a.url}) | ${a.description} | ${a.auth} | ${a.https ? "Yes" : "No"} | ${status} |`);
     }
     body.push("", "[↑ Back to top](#public-apis-live)", "");
   }

@@ -26,6 +26,47 @@ async function probe(url: string, timeoutMs = 8000): Promise<number | null> {
   }
 }
 
+// A no-auth GET "returns data" when the response is 2xx and the body is non-empty and not an
+// HTML page (so JSON/text/CSV count, landing pages don't). Honest functional signal, no keys.
+export function isDataResponse(code: number | null, body: string | null): boolean {
+  if (code === null || code < 200 || code >= 300) return false;
+  const t = (body ?? "").trim();
+  return t.length > 0 && !t.startsWith("<");
+}
+
+async function dataProbe(url: string, timeoutMs = 8000): Promise<{ code: number | null; body: string | null }> {
+  const ac = new AbortController();
+  const t = setTimeout(() => ac.abort(), timeoutMs);
+  try {
+    const res = await fetch(url, { method: "GET", redirect: "follow", signal: ac.signal });
+    const body = await res.text();
+    return { code: res.status, body: body.slice(0, 4096) };
+  } catch {
+    return { code: null, body: null };
+  } finally {
+    clearTimeout(t);
+  }
+}
+
+// Deeper check for the no-auth, currently-reachable subset: GET the URL and flag returnsData.
+export async function verifyFunctional(
+  entries: ApiEntry[],
+  concurrency = 20,
+  probeFn: (url: string) => Promise<{ code: number | null; body: string | null }> = dataProbe,
+): Promise<ApiEntry[]> {
+  const limit = pLimit(concurrency);
+  const targets = entries.filter((e) => e.status === "up" && e.auth === "none");
+  await Promise.all(
+    targets.map((e) =>
+      limit(async () => {
+        const { code, body } = await probeFn(e.url);
+        e.returnsData = isDataResponse(code, body);
+      }),
+    ),
+  );
+  return entries;
+}
+
 export async function verifyReachability(
   entries: ApiEntry[],
   concurrency = 20,

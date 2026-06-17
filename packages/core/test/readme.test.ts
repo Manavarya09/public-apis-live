@@ -4,7 +4,7 @@ import { renderBadge } from "../src/emit/badge.js";
 import type { ApiEntry } from "../src/types.js";
 
 const data: ApiEntry[] = [
-  { id: "cat", name: "Cat Facts", description: "cats", category: "Animals", url: "https://catfact.ninja", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "up", httpCode: 200, uptimePct: 100, checks: 8, responseMs: 120 },
+  { id: "cat", name: "Cat Facts", description: "cats", category: "Animals", url: "https://catfact.ninja", auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "up", httpCode: 200, uptimePct: 100, checks: 8, responseMs: 120, returnsData: true },
   { id: "dog", name: "Dogs", description: "dogs", category: "Animals", url: "https://dog.ceo", auth: "apiKey", https: true, cors: "yes", sourceRepos: ["a/b"], status: "down", httpCode: 503, uptimePct: 40, checks: 8, responseMs: 90 },
 ];
 
@@ -21,6 +21,9 @@ describe("emit", () => {
   it("has a small install section (npm + Claude plugin)", () => {
     expect(md).toContain("npm i public-apis-live");
     expect(md).toContain("/plugin install public-apis-live");
+  });
+  it("marks no-auth data-verified APIs with the data badge", () => {
+    expect(md).toContain("📦");
   });
   it("has a clickable category index with counts and back-to-top links", () => {
     expect(md).toContain("## Categories");

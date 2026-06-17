@@ -29,4 +29,5 @@ export interface ApiEntry {
   lastChecked?: string;
   uptimePct?: number; // % of "up" checks over the tracked window
   checks?: number; // number of daily checks recorded
+  returnsData?: boolean; // no-auth GET returned a real (non-HTML) body
 }
