@@ -1,6 +1,8 @@
 import pLimit from "p-limit";
 import type { ApiEntry, Status } from "./types.js";
 
+export interface ProbeResult { code: number | null; url?: string; redirected?: boolean }
+
 export function classify(code: number | null): { status: Status; httpCode?: number } {
   if (code === null) return { status: "unknown" };
   if (code >= 200 && code < 400) return { status: "up", httpCode: code };
@@ -10,7 +12,30 @@ export function classify(code: number | null): { status: Status; httpCode?: numb
   return { status: "down", httpCode: code };
 }
 
-async function probe(url: string, timeoutMs = 8000): Promise<number | null> {
+// True when a request was redirected to a DIFFERENT domain's bare homepage — the classic signature
+// of a sunset/moved API (e.g. an old NYT endpoint that 3xx-redirects to nytimes.com/).
+export function isHomepageRedirect(originalUrl: string, finalUrl?: string, redirected?: boolean): boolean {
+  if (!redirected || !finalUrl) return false;
+  try {
+    const oHost = new URL(originalUrl).host.replace(/^www\./, "");
+    const f = new URL(finalUrl);
+    const fHost = f.host.replace(/^www\./, "");
+    const rootPath = f.pathname === "/" || f.pathname === "";
+    return oHost !== fHost && rootPath;
+  } catch {
+    return false;
+  }
+}
+
+export function classifyResult(originalUrl: string, r: ProbeResult): { status: Status; httpCode?: number } {
+  const base = classify(r.code);
+  if (base.status === "up" && isHomepageRedirect(originalUrl, r.url, r.redirected)) {
+    return { status: "unknown", httpCode: r.code }; // moved/gone, landed on a generic homepage
+  }
+  return base;
+}
+
+async function probe(url: string, timeoutMs = 8000): Promise<ProbeResult> {
   const ac = new AbortController();
   const t = setTimeout(() => ac.abort(), timeoutMs);
   try {
@@ -18,9 +43,9 @@ async function probe(url: string, timeoutMs = 8000): Promise<number | null> {
     if (res.status === 405 || res.status === 501) {
       res = await fetch(url, { method: "GET", redirect: "follow", signal: ac.signal });
     }
-    return res.status;
+    return { code: res.status, url: res.url, redirected: res.redirected };
   } catch {
-    return null;
+    return { code: null };
   } finally {
     clearTimeout(t);
   }
@@ -70,7 +95,7 @@ export async function verifyFunctional(
 export async function verifyReachability(
   entries: ApiEntry[],
   concurrency = 20,
-  fetchFn: (url: string) => Promise<number | null> = probe,
+  fetchFn: (url: string) => Promise<ProbeResult> = probe,
 ): Promise<ApiEntry[]> {
   const limit = pLimit(concurrency);
   const stamp = new Date().toISOString();
@@ -78,8 +103,8 @@ export async function verifyReachability(
     entries.map((e) =>
       limit(async () => {
         const start = Date.now();
-        const code = await fetchFn(e.url);
-        const { status, httpCode } = classify(code);
+        const r = await fetchFn(e.url);
+        const { status, httpCode } = classifyResult(e.url, r);
         e.status = status;
         e.httpCode = httpCode;
         e.responseMs = Date.now() - start;

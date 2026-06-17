@@ -8,7 +8,7 @@ describe("runPipeline", () => {
     const result = await runPipeline({
       sources: [{ repo: "a/b", rawUrl: "x", adapter: "markdownTable" }],
       fetchFn: async () => md,
-      probeFn: async () => 200,
+      probeFn: async () => ({ code: 200 }),
       dataProbeFn: async () => ({ code: 200, body: '{"fact":"cats"}' }),
     });
     expect(result.entries).toHaveLength(1);

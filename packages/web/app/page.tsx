@@ -103,6 +103,7 @@ export default function Page() {
             <th>HTTPS</th>
             <th>Status</th>
             <th>Uptime</th>
+            <th>License</th>
           </tr>
         </thead>
         <tbody>
@@ -119,6 +120,7 @@ export default function Page() {
               <td>{a.https ? "Yes" : "No"}</td>
               <td>{emoji[a.status]}</td>
               <td>{a.uptimePct !== undefined ? `${a.uptimePct}%` : "—"}</td>
+              <td>{a.license ?? "—"}</td>
             </tr>
           ))}
         </tbody>

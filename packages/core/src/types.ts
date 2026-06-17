@@ -9,6 +9,7 @@ export interface RawEntry {
   auth?: Auth;
   https?: boolean;
   cors?: "yes" | "no" | "unknown";
+  license?: string;
   sourceRepo: string;
 }
 
@@ -23,6 +24,7 @@ export interface ApiEntry {
   https: boolean;
   cors: "yes" | "no" | "unknown";
   sourceRepos: string[];
+  license?: string; // e.g. "MIT", "apache-2.0" — present mainly for APIs.guru entries
   status: Status;
   httpCode?: number;
   responseMs?: number;

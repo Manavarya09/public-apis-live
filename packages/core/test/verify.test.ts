@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { classify, verifyReachability, isDataResponse, verifyFunctional } from "../src/verify.js";
+import { classify, classifyResult, isHomepageRedirect, verifyReachability, isDataResponse, verifyFunctional } from "../src/verify.js";
 import type { ApiEntry } from "../src/types.js";
 
 describe("classify", () => {
@@ -25,9 +25,34 @@ describe("verifyReachability", () => {
       id: "x", name: "X", description: "", category: "c", url: "https://x.com",
       auth: "none", https: true, cors: "unknown", sourceRepos: ["a/b"], status: "unknown",
     };
-    await verifyReachability([e], 5, async () => 200);
+    await verifyReachability([e], 5, async () => ({ code: 200 }));
     expect(e.status).toBe("up");
     expect(e.httpCode).toBe(200);
+  });
+});
+
+describe("isHomepageRedirect", () => {
+  it("flags redirect to a different domain's homepage", () => {
+    expect(isHomepageRedirect("https://api.nytimes.com/svc/movies", "https://www.nytimes.com/", true)).toBe(true);
+  });
+  it("does not flag same-host or http->https redirects", () => {
+    expect(isHomepageRedirect("http://catfact.ninja", "https://catfact.ninja/", true)).toBe(false);
+  });
+  it("does not flag redirect to a real path on another domain", () => {
+    expect(isHomepageRedirect("https://a.com", "https://b.com/docs/api", true)).toBe(false);
+  });
+  it("ignores when not redirected", () => {
+    expect(isHomepageRedirect("https://a.com", "https://b.com/", false)).toBe(false);
+  });
+});
+
+describe("classifyResult", () => {
+  it("downgrades a homepage-redirect from up to unknown", () => {
+    const r = classifyResult("https://api.nytimes.com/svc/movies", { code: 200, url: "https://www.nytimes.com/", redirected: true });
+    expect(r.status).toBe("unknown");
+  });
+  it("keeps a normal 200 as up", () => {
+    expect(classifyResult("https://a.com", { code: 200, url: "https://a.com/", redirected: false }).status).toBe("up");
   });
 });
 

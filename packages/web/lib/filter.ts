@@ -10,6 +10,7 @@ export interface WebApiEntry {
   https: boolean;
   status: "up" | "down" | "unknown";
   uptimePct?: number;
+  license?: string;
 }
 
 export interface Criteria {

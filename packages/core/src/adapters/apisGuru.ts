@@ -6,6 +6,7 @@ interface GuruVersion {
     description?: string;
     "x-providerName"?: string;
     "x-apisguru-categories"?: string[];
+    license?: { name?: string };
   };
   externalDocs?: { url?: string };
 }
@@ -36,6 +37,7 @@ export function parseApisGuru(content: string, sourceRepo: string): RawEntry[] {
       auth: "unknown",
       https: true,
       cors: "unknown",
+      license: info.license?.name,
       sourceRepo,
     });
   }

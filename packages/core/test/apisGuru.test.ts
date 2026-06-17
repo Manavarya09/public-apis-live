@@ -11,6 +11,7 @@ const sample = JSON.stringify({
           description: "Stock and Forex Data and Realtime Quotes\nSecond line.",
           "x-providerName": "1forge.com",
           "x-apisguru-categories": ["financial"],
+          license: { name: "MIT" },
         },
         externalDocs: { url: "https://1forge.com/forex-data-api" },
       },
@@ -40,6 +41,7 @@ describe("parseApisGuru", () => {
     expect(f.category).toBe("Financial");
     expect(f.auth).toBe("unknown");
     expect(f.https).toBe(true);
+    expect(f.license).toBe("MIT");
     expect(f.sourceRepo).toBe("APIs.guru");
   });
   it("falls back to Enterprise category when none given", () => {
