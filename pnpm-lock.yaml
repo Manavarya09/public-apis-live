@@ -41,6 +41,9 @@ importers:
 
   packages/web:
     dependencies:
+      fuse.js:
+        specifier: ^7.0.0
+        version: 7.4.2
       next:
         specifier: ^15.1.0
         version: 15.5.19(react-dom@19.2.7(react@19.2.7))(react@19.2.7)

@@ -12,8 +12,10 @@ describe("filterApis", () => {
   it("filters by category", () => expect(filterApis(data, { category: "Animals" })).toHaveLength(2));
   it("filters by auth", () => expect(filterApis(data, { auth: "none" })).toHaveLength(2));
   it("filters by status", () => expect(filterApis(data, { status: "up" })).toHaveLength(2));
-  it("free-text search over name + description", () =>
-    expect(filterApis(data, { search: "dog" }).map((a) => a.id)).toEqual(["dog"]));
+  it("fuzzy search ranks the match first", () =>
+    expect(filterApis(data, { search: "dog" })[0].id).toBe("dog"));
+  it("fuzzy search tolerates typos", () =>
+    expect(filterApis(data, { search: "catt" })[0].id).toBe("cat"));
   it("combines criteria", () =>
     expect(filterApis(data, { category: "Animals", status: "up" }).map((a) => a.id)).toEqual(["cat"]));
 });
