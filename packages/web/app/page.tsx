@@ -126,6 +126,7 @@ export default function Page() {
 
       <p className="count">{results.length.toLocaleString()} shown</p>
 
+      <div className="table-wrap">
       <table>
         <thead>
           <tr>
@@ -158,6 +159,7 @@ export default function Page() {
           ))}
         </tbody>
       </table>
+      </div>
 
       <footer>
         Data aggregated from public API lists, deduped and reachability-checked daily ·{" "}
