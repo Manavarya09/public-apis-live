@@ -1,6 +1,6 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
-html, body { max-width: 100%; overflow-x: hidden; }
+html, body { overflow-x: hidden; }
 
 :root {
   --bg: #0d1117;
@@ -18,88 +18,9 @@ body {
   padding: 2rem 1rem 4rem;
 }
 
-.wrap { max-width: 1100px; margin: 0 auto; width: 100%; }
-
-.table-wrap { width: 100%; overflow-x: auto; }
+.wrap { max-width: 1100px; margin: 0 auto; }
 
 h1 { font-size: 1.9rem; letter-spacing: -0.02em; }
-
-.topbar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-
-.gh-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  background: linear-gradient(180deg, #21262d, #161b22);
-  color: var(--text);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 0.5rem 0.85rem;
-  font-size: 0.9rem;
-  font-weight: 600;
-  text-decoration: none;
-  white-space: nowrap;
-  transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
-}
-
-.gh-btn:hover {
-  border-color: #8b949e;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
-}
-
-.gh-btn svg { flex-shrink: 0; }
-
-.gh-count {
-  margin-left: 0.2rem;
-  padding-left: 0.6rem;
-  border-left: 1px solid var(--border);
-  color: var(--accent);
-  font-variant-numeric: tabular-nums;
-}
-
-.actions { display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; }
-
-.npm-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.55rem;
-  background: var(--panel);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 0.45rem 0.7rem;
-  text-decoration: none;
-  white-space: nowrap;
-  transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
-}
-
-.npm-btn:hover {
-  border-color: #cb3837;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
-}
-
-.npm-mark {
-  background: #cb3837;
-  color: #fff;
-  font-weight: 700;
-  font-size: 0.72rem;
-  letter-spacing: 0.02em;
-  padding: 0.12rem 0.4rem;
-  border-radius: 4px;
-}
-
-.npm-btn code {
-  color: var(--text);
-  font-size: 0.85rem;
-  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-}
 
 .stat { color: var(--accent); font-weight: 600; margin: 0.4rem 0; }
 
@@ -131,7 +52,9 @@ h1 { font-size: 1.9rem; letter-spacing: -0.02em; }
 
 .count { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.75rem; }
 
-table { width: 100%; min-width: 860px; border-collapse: collapse; }
+.table-wrap { width: 100%; overflow-x: auto; }
+
+table { width: 100%; border-collapse: collapse; }
 
 th, td {
   text-align: left;
@@ -141,22 +64,66 @@ th, td {
   vertical-align: top;
 }
 
-th {
-  color: var(--muted);
-  font-weight: 600;
-  white-space: nowrap;
-  position: sticky;
-  top: 0;
-  background: var(--bg);
-}
-
-/* only the description column wraps long content; everything else stays on one line */
-td:not(.desc) { white-space: nowrap; }
+th { color: var(--muted); font-weight: 600; position: sticky; top: 0; background: var(--bg); }
 
 td a { color: var(--accent); text-decoration: none; font-weight: 600; }
 td a:hover { text-decoration: underline; }
 
-.desc { color: var(--muted); max-width: 420px; white-space: normal; overflow-wrap: anywhere; }
+.desc { color: var(--muted); max-width: 420px; }
 
 footer { margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
 footer a { color: var(--accent); }
+
+/* top bar with the GitHub + npm buttons */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.actions { display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; }
+
+.gh-btn, .npm-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--panel);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.5rem 0.85rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.gh-btn:hover { border-color: var(--accent); }
+.gh-btn svg { flex-shrink: 0; }
+
+.gh-count {
+  margin-left: 0.2rem;
+  padding-left: 0.6rem;
+  border-left: 1px solid var(--border);
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.npm-btn:hover { border-color: #cb3837; }
+
+.npm-mark {
+  background: #cb3837;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.72rem;
+  padding: 0.12rem 0.4rem;
+  border-radius: 4px;
+}
+
+.npm-btn code {
+  color: var(--text);
+  font-size: 0.85rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
