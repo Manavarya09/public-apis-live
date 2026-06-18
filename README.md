@@ -2,34 +2,25 @@
 
 [![public APIs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Manavarya09/public-apis-live/main/data/badge.json)](https://manavarya09.github.io/public-apis-live/)
 
-**2901 working public APIs · verified 2026-06-18 · refreshed daily**
+**2901 working public APIs · verified 2026-06-18 · refreshed daily** — [🔎 Search](https://manavarya09.github.io/public-apis-live/) · [📊 Benchmark](./BENCHMARK.md)
 
-Every API listed below responded to a reachability check today. Aggregated from the top public-API
-lists, deduped, and re-verified every day by CI.
+Aggregated from the top public-API lists, deduped, and reachability-checked every day. Only working APIs are listed below; dead/unverified ones are collapsed at the bottom.
 
-**[🔎 Search them all in the browser →](https://manavarya09.github.io/public-apis-live/)** · **[📊 See the benchmark →](./BENCHMARK.md)**
+**Try it:** `npx public-apis-live weather` · `npm i public-apis-live`
 
-### Use it
+<details><summary>Use it in Claude (plugin)</summary>
 
-Search working APIs from your terminal, no install:
-```bash
-npx public-apis-live weather
-```
-Or use the dataset in code (bundled, offline):
-```bash
-npm i public-apis-live
-```
-As a Claude plugin (agents pick a working API for any task):
 ```
 /plugin marketplace add https://github.com/Manavarya09/public-apis-live.git
 /plugin install public-apis-live
 ```
+Then ask the agent to pick a working API for any task.
+</details>
 
-> **How verification works:** we check *reachability* (no API keys) daily. A working API means its
-> URL returned a success response (2xx/3xx) today. 📦 marks the 17 no-auth APIs that also
-> returned real data when called. We do **not** test auth-gated endpoints.
-> 352 unreachable and 1028 unverified (timeouts, auth-walled, or bot-blocked) entries are
-> listed at the bottom and counted in the benchmark.
+<details><summary>How verification works (reachability only)</summary>
+
+We check reachability daily (no API keys). A working API means its URL returned a success response (2xx/3xx) today; 📦 marks the 17 no-auth APIs that also returned real data. We do not test auth-gated endpoints. 352 unreachable and 1028 unverified entries are listed at the bottom.
+</details>
 
 ## Categories (119)
 
