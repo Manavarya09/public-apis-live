@@ -94,6 +94,10 @@ export default function Page() {
         5xx, or 404, ❔ = timeout. We do <strong>not</strong> functionally test endpoints.
       </p>
 
+      <p className="cli-hint">
+        Try it in your terminal: <code>npx public-apis-live weather</code>
+      </p>
+
       <div className="controls">
         <input
           placeholder="Search by name or description…"

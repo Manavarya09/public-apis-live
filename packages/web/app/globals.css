@@ -52,6 +52,16 @@ h1 { font-size: 1.9rem; letter-spacing: -0.02em; }
 
 .count { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.75rem; }
 
+.cli-hint { color: var(--muted); font-size: 0.85rem; margin-bottom: 1.25rem; }
+.cli-hint code {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.15rem 0.45rem;
+  color: var(--text);
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
 .table-wrap { width: 100%; overflow-x: auto; }
 
 table { width: 100%; border-collapse: collapse; }
