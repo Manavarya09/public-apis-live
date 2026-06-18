@@ -131,7 +131,7 @@ h1 { font-size: 1.9rem; letter-spacing: -0.02em; }
 
 .count { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.75rem; }
 
-table { width: 100%; border-collapse: collapse; }
+table { width: 100%; min-width: 860px; border-collapse: collapse; }
 
 th, td {
   text-align: left;
@@ -139,15 +139,24 @@ th, td {
   border-bottom: 1px solid var(--border);
   font-size: 0.9rem;
   vertical-align: top;
-  overflow-wrap: anywhere;
 }
 
-th { color: var(--muted); font-weight: 600; position: sticky; top: 0; background: var(--bg); }
+th {
+  color: var(--muted);
+  font-weight: 600;
+  white-space: nowrap;
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+}
+
+/* only the description column wraps long content; everything else stays on one line */
+td:not(.desc) { white-space: nowrap; }
 
 td a { color: var(--accent); text-decoration: none; font-weight: 600; }
 td a:hover { text-decoration: underline; }
 
-.desc { color: var(--muted); max-width: 420px; }
+.desc { color: var(--muted); max-width: 420px; white-space: normal; overflow-wrap: anywhere; }
 
 footer { margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
 footer a { color: var(--accent); }
