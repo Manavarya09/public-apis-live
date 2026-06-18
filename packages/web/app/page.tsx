@@ -57,6 +57,7 @@ export default function Page() {
     <div className="wrap">
       <div className="topbar">
         <h1>public-apis-live</h1>
+        <div className="actions">
         <a
           className="gh-btn"
           href="https://github.com/Manavarya09/public-apis-live"
@@ -69,6 +70,16 @@ export default function Page() {
           <span>Star</span>
           {stars !== null && <span className="gh-count">{stars.toLocaleString()}</span>}
         </a>
+        <a
+          className="npm-btn"
+          href="https://www.npmjs.com/package/public-apis-live"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span className="npm-mark">npm</span>
+          <code>npm i public-apis-live</code>
+        </a>
+        </div>
       </div>
       <p className="stat">
         {loading

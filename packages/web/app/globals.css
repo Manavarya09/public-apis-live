@@ -60,6 +60,43 @@ h1 { font-size: 1.9rem; letter-spacing: -0.02em; }
   font-variant-numeric: tabular-nums;
 }
 
+.actions { display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; }
+
+.npm-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.45rem 0.7rem;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+}
+
+.npm-btn:hover {
+  border-color: #cb3837;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+}
+
+.npm-mark {
+  background: #cb3837;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  padding: 0.12rem 0.4rem;
+  border-radius: 4px;
+}
+
+.npm-btn code {
+  color: var(--text);
+  font-size: 0.85rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
 .stat { color: var(--accent); font-weight: 600; margin: 0.4rem 0; }
 
 .note {
