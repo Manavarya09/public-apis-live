@@ -47,7 +47,17 @@ export default function Page() {
 
   return (
     <div className="wrap">
-      <h1>public-apis-live</h1>
+      <div className="topbar">
+        <h1>public-apis-live</h1>
+        <a
+          className="gh-btn"
+          href="https://github.com/Manavarya09/public-apis-live"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          ★ Star on GitHub
+        </a>
+      </div>
       <p className="stat">
         {loading
           ? "Loading…"
