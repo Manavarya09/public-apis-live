@@ -25,7 +25,7 @@ export function renderReadme(data: ApiEntry[], date: string): string {
     "",
     "Aggregated from the top public-API lists, deduped, and reachability-checked every day. Only working APIs are listed below; dead/unverified ones are collapsed at the bottom.",
     "",
-    "**Try it:** `npx public-apis-live weather` · `npm i public-apis-live`",
+    "**Try it:** `npx public-apis-live weather` (search) · `npx public-apis-live endpoints stripe-com` (real endpoints from the OpenAPI spec) · `npm i public-apis-live`",
     "",
     "<details><summary>Use it in Claude (plugin)</summary>",
     "",
