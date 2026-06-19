@@ -230,12 +230,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 378,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "ad-exchange-buyer-api",
@@ -2951,12 +2951,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 211,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "doubleclick-bid-manager-api",
@@ -6320,12 +6320,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 668,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "dog-api",
@@ -7231,12 +7231,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1082,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "what-anime",
@@ -8763,12 +8763,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1564,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "blockscout",
@@ -8801,12 +8801,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 925,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "chainpoint",
@@ -9348,12 +9348,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 919,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "quran-cloud",
@@ -9586,12 +9586,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1913,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "clearbit-logo",
@@ -10228,12 +10228,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 390,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "calendarific",
@@ -10266,12 +10266,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 780,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "checkiday-national-holiday",
@@ -10442,12 +10442,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1025,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "holidays",
@@ -17761,12 +17761,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1986,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "codeartifact",
@@ -18030,12 +18030,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 754,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "cosmos-db",
@@ -20638,12 +20638,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1872,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "run-history-apis",
@@ -21968,12 +21968,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3459,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "the-null-pointer",
@@ -22007,12 +22007,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2844,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "wetransfer",
@@ -22362,12 +22362,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 509,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "repetiti",
@@ -23205,12 +23205,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1613,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "blockfrost-cardano",
@@ -23564,12 +23564,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 772,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "coinranking",
@@ -23797,12 +23797,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 746,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "ethplorer",
@@ -23969,12 +23969,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1176,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "indodax",
@@ -24274,12 +24274,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2965,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "poloniex-api-docs",
@@ -24656,12 +24656,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 748,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "ecb-europa-eu",
@@ -24713,12 +24713,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 190,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "openrates-io",
@@ -24732,12 +24732,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 559,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "ratesapi-io",
@@ -25032,12 +25032,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3814,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "freeforexapi",
@@ -25266,12 +25266,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 183,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "zenoti-api",
@@ -25658,12 +25658,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 955,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "anchore-engine-api-server",
@@ -25679,12 +25679,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 591,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "api-endpoints",
@@ -25699,12 +25699,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 582,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "api2pdf-pdf-generation-powered-by-aws-lambda",
@@ -25987,12 +25987,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 532,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "catalog-inventory",
@@ -26655,12 +26655,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2254,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "gitea-api",
@@ -26676,12 +26676,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 313,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "gitlab-gitlab",
@@ -26696,12 +26696,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 345,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "hris-api",
@@ -27735,12 +27735,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1073,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "powerdns-authoritative-http-api",
@@ -28238,12 +28238,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3531,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "vault-api",
@@ -28358,12 +28358,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 830,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "web-search-client",
@@ -29026,12 +29026,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 4969,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "ciprand",
@@ -29839,12 +29839,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1061,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "host-io",
@@ -29878,12 +29878,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 4908,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "httpbin",
@@ -30966,12 +30966,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1546,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "openunfurl",
@@ -31102,12 +31102,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1626,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "proxykingdom",
@@ -31475,12 +31475,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2390,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "scrapestack",
@@ -31689,12 +31689,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1970,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "shoutcloud",
@@ -32629,12 +32629,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1309,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "usgs",
@@ -32762,12 +32762,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1211,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "clockify",
@@ -32781,12 +32781,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1566,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "cloudconvert",
@@ -32976,12 +32976,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1517,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "jira",
@@ -33356,12 +33356,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 984,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "staffsign",
@@ -35431,12 +35431,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 568,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "mailscript",
@@ -36104,12 +36104,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 694,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "cambase-io",
@@ -36124,12 +36124,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 681,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "car-registration-api",
@@ -36364,12 +36364,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 603,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "custom-behavioral-events-api",
@@ -36384,12 +36384,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 757,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "custom-workflow-actions",
@@ -36404,12 +36404,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 576,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "customer-credit-api",
@@ -36523,12 +36523,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 582,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "doqs-dev-pdf-filling-api",
@@ -36623,12 +36623,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 232,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "flight-availibilities-search",
@@ -37081,12 +37081,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 689,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "gotowebinar",
@@ -37101,12 +37101,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 628,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "greip-api",
@@ -37300,12 +37300,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 268,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "id4i-api",
@@ -37634,12 +37634,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 250,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "marketplace-api",
@@ -38383,12 +38383,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1652,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "points-of-interest",
@@ -39051,12 +39051,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 596,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "subscriptions-api-v2-deprecated",
@@ -39390,12 +39390,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 633,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "voice-api",
@@ -41815,12 +41815,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3568,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "ticketmaster",
@@ -43118,12 +43118,12 @@
       "public-apis/public-apis",
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2361,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "polygon-io",
@@ -43543,12 +43543,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 811,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "yahoo-finance",
@@ -43701,12 +43701,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3479,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "afterbanks-api",
@@ -44283,12 +44283,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3440,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "nfusion-solutions-market-data-api",
@@ -44363,12 +44363,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2943,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "open-data-api",
@@ -44403,12 +44403,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2173,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "paylocity-api",
@@ -44565,12 +44565,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2597,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "sonar-trading",
@@ -44948,12 +44948,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1967,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "yodlee-core-apis",
@@ -45654,12 +45654,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3342,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "amiiboapi",
@@ -45885,12 +45885,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1929,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "chess-com",
@@ -46327,12 +46327,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1436,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "fortnite",
@@ -47827,12 +47827,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 4319,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "valorant-non-official",
@@ -47866,12 +47866,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3148,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "wargaming-net",
@@ -48350,12 +48350,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 536,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "geoapi",
@@ -49183,12 +49183,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 4029,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "ipgeolocationapi-com",
@@ -49202,12 +49202,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 4985,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "ipinfodb",
@@ -49378,12 +49378,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1189,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "longdo-map",
@@ -49553,12 +49553,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 443,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "open-topo-data",
@@ -51284,12 +51284,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3238,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "food-standards-agency",
@@ -52732,12 +52732,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 682,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "covid-tracking-project",
@@ -54013,12 +54013,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 4400,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "smart-me",
@@ -54033,12 +54033,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3612,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "ably",
@@ -54776,12 +54776,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 680,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "aviation-radiation-api",
@@ -54796,12 +54796,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 667,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "checks-api",
@@ -54876,12 +54876,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1153,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "flight-offers-search",
@@ -54956,12 +54956,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 697,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "georg-api",
@@ -55037,12 +55037,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 590,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "here-network-positioning-api-v2",
@@ -55119,12 +55119,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 188,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "ip2location-ip-geolocation",
@@ -55317,12 +55317,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3556,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "search",
@@ -55337,12 +55337,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3534,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "space-radiation-api",
@@ -55357,12 +55357,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 595,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "storm-glass-marine-weather",
@@ -55458,12 +55458,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1199,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "uebermaps-api-endpoints",
@@ -56652,12 +56652,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1406,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "pandorabots-aiaas",
@@ -56750,12 +56750,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1032,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "daum-maps-api",
@@ -56962,12 +56962,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 5038,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "jirafe-events",
@@ -57041,12 +57041,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3892,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "aggregators-api-service",
@@ -57338,12 +57338,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1568,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "deep-art-effects",
@@ -57910,12 +57910,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3116,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "spotify-web-api-with-fixes-and-improvements-from-sonallux",
@@ -58750,12 +58750,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 365,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "letsvalidate",
@@ -58788,12 +58788,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 740,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "lottery-number-generation",
@@ -59113,12 +59113,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1465,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "omdb",
@@ -60083,12 +60083,12 @@
       "n0shake/Public-APIs",
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 679,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "cloudmersive-nlp-apis",
@@ -61149,12 +61149,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3127,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "french-address-search",
@@ -61484,12 +61484,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1138,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "opencorporates",
@@ -61562,12 +61562,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1374,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "recreation-information-database",
@@ -62401,12 +62401,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 4192,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "bajaj-allianz-general-insurance-company-ltd-bagic",
@@ -62462,12 +62462,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 440,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "bc-geographical-names-web-service-rest-api",
@@ -62585,12 +62585,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 267,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "bharti-axa-general-insurance-company-ltd",
@@ -62946,12 +62946,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2730,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "city-of-surrey-traffic-loop-count-api",
@@ -62967,12 +62967,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2698,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "civil-supplies-department-kerala",
@@ -63869,12 +63869,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 4132,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "enterobase-api",
@@ -63970,12 +63970,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 5630,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "europeana-search-record-api",
@@ -64588,12 +64588,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3317,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "himachal-pradesh-board-of-school-education-himachal-pradesh",
@@ -64768,12 +64768,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3618,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "importer-exporter-details-api",
@@ -66066,12 +66066,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2714,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "openfec",
@@ -68095,12 +68095,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 237,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "adyen-data-protection-api",
@@ -68575,12 +68575,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 5603,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "transfer-webhooks",
@@ -70755,12 +70755,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2109,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "launch-library-2",
@@ -70896,12 +70896,12 @@
       "public-api-lists/public-api-lists",
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1766,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "noctua",
@@ -71036,12 +71036,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1096,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "purple-air",
@@ -71786,12 +71786,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2991,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "crxcavator",
@@ -72470,12 +72470,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 985,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "securitytrails",
@@ -73200,12 +73200,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2802,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "bufferapp",
@@ -73220,12 +73220,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 527,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "bulkpublish",
@@ -73258,12 +73258,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 994,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "clubhouse-api",
@@ -73532,12 +73532,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1650,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "getxapi",
@@ -74043,12 +74043,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1126,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "socialdata-api",
@@ -74326,12 +74326,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 361,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "twitter-api-v2",
@@ -74539,12 +74539,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 897,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "hacker-news",
@@ -74596,12 +74596,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 339,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "mastodon",
@@ -75543,12 +75543,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1964,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "nhl-records-and-stats",
@@ -77112,12 +77112,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1924,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "bacon-ipsum",
@@ -77173,12 +77173,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 2143,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "dummyjson",
@@ -77859,12 +77859,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1514,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "asynchronous-speech-to-text-api-documentation",
@@ -78420,12 +78420,12 @@
     "sourceRepos": [
       "APIs.guru"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1397,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 0
+    "uptimePct": 33.3
   },
   {
     "id": "pdf-blocks-api",
@@ -81480,12 +81480,12 @@
     "sourceRepos": [
       "public-apis/public-apis"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3289,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "transport-for-los-angeles-us",
@@ -81721,12 +81721,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 3269,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "transport-for-the-netherlands-github",
@@ -84031,12 +84031,12 @@
     "sourceRepos": [
       "n0shake/Public-APIs"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 340,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "apixu",
@@ -84051,12 +84051,12 @@
       "public-apis/public-apis",
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 1683,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "aqicn",
@@ -84697,12 +84697,12 @@
     "sourceRepos": [
       "public-api-lists/public-api-lists"
     ],
-    "status": "unknown",
+    "status": "up",
     "httpCode": 200,
     "responseMs": 739,
     "lastChecked": "2026-06-19T10:45:43.178Z",
     "checks": 3,
-    "uptimePct": 33.3
+    "uptimePct": 66.7
   },
   {
     "id": "weather-source",
