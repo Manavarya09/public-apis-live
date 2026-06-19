@@ -2,7 +2,7 @@
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { z } from "zod";
-import { findApis, getApi, listCategories } from "public-apis-live";
+import { findApis, getApi, listCategories, fetchEndpoints } from "public-apis-live";
 
 const server = new McpServer({ name: "public-apis-live", version: "0.1.0" });
 
@@ -30,6 +30,24 @@ server.tool(
   "List all API categories.",
   {},
   async () => ({ content: [{ type: "text", text: JSON.stringify(listCategories(), null, 2) }] }),
+);
+
+server.tool(
+  "get_endpoints",
+  "Get an API's actual endpoints (HTTP method + path) by id, fetched live from its OpenAPI spec. Use this after get_api to learn exactly how to call it.",
+  { id: z.string() },
+  async ({ id }) => {
+    const api = getApi(id);
+    if (!api) return { content: [{ type: "text", text: `No API with id "${id}".` }] };
+    if (!api.specUrl)
+      return { content: [{ type: "text", text: `${api.name} has no OpenAPI spec on file. Base URL: ${api.url}` }] };
+    const endpoints = await fetchEndpoints(api.specUrl);
+    return {
+      content: [
+        { type: "text", text: JSON.stringify({ api: api.name, specUrl: api.specUrl, endpoints: endpoints.slice(0, 200) }, null, 2) },
+      ],
+    };
+  },
 );
 
 await server.connect(new StdioServerTransport());

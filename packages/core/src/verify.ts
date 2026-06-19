@@ -30,7 +30,7 @@ export function isHomepageRedirect(originalUrl: string, finalUrl?: string, redir
 export function classifyResult(originalUrl: string, r: ProbeResult): { status: Status; httpCode?: number } {
   const base = classify(r.code);
   if (base.status === "up" && isHomepageRedirect(originalUrl, r.url, r.redirected)) {
-    return { status: "unknown", httpCode: r.code }; // moved/gone, landed on a generic homepage
+    return { status: "unknown", httpCode: r.code ?? undefined }; // moved/gone, landed on a generic homepage
   }
   return base;
 }

@@ -30,6 +30,7 @@ export function mergeAndDedupe(raws: RawEntry[]): ApiEntry[] {
         https: r.https ?? false,
         cors: r.cors ?? "unknown",
         license: r.license,
+        specUrl: r.specUrl,
         sourceRepos: [r.sourceRepo],
         status: "unknown",
       });
@@ -40,6 +41,7 @@ export function mergeAndDedupe(raws: RawEntry[]): ApiEntry[] {
       if (existing.auth === "unknown" && r.auth) existing.auth = r.auth;
       if (existing.cors === "unknown" && r.cors && r.cors !== "unknown") existing.cors = r.cors;
       if (!existing.license && r.license) existing.license = r.license;
+      if (!existing.specUrl && r.specUrl) existing.specUrl = r.specUrl;
     }
   }
   // de-collide duplicate ids by appending host

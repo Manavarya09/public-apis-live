@@ -1,10 +1,10 @@
 {
   "name": "public-apis-live",
-  "version": "0.1.0",
-  "description": "Discover working public APIs for any task. Auto-verified, refreshed daily.",
+  "version": "0.2.0",
+  "description": "Discover working public APIs for any task, with their real endpoints. Auto-verified, refreshed daily.",
   "author": { "name": "Manavarya09" },
   "homepage": "https://github.com/Manavarya09/public-apis-live",
   "mcpServers": {
-    "public-apis-live": { "command": "npx", "args": ["-y", "public-apis-live-mcp@0.1.0"] }
+    "public-apis-live": { "command": "npx", "args": ["-y", "public-apis-live-mcp@0.2.0"] }
   }
 }

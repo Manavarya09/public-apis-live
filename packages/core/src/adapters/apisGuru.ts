@@ -10,6 +10,7 @@ interface GuruVersion {
     contact?: { url?: string };
   };
   externalDocs?: { url?: string };
+  swaggerUrl?: string;
 }
 interface GuruApi {
   preferred?: string;
@@ -42,6 +43,7 @@ export function parseApisGuru(content: string, sourceRepo: string): RawEntry[] {
       https: true,
       cors: "unknown",
       license: info.license?.name,
+      specUrl: v?.swaggerUrl,
       sourceRepo,
     });
   }

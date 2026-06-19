@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import readline from "node:readline";
-import { apis, findApis, listCategories } from "./index.js";
+import { apis, findApis, getApi, listCategories, fetchEndpoints } from "./index.js";
 import { renderCliLines, C } from "./cliFormat.js";
 import type { Auth } from "./types.js";
 
@@ -55,8 +55,22 @@ if (argv.includes("--help") || argv.includes("-h")) {
   console.log("  usage:");
   console.log("    npx public-apis-live                 interactive search");
   console.log("    npx public-apis-live <query>         one-shot search");
-  console.log("    npx public-apis-live <query> --json  machine-readable\n");
+  console.log("    npx public-apis-live <query> --json  machine-readable");
+  console.log("    npx public-apis-live endpoints <id>  list an API's real endpoints (OpenAPI)\n");
   console.log("  flags: --category <name>  --auth <none|apiKey|OAuth|token>  --all  --limit <n>\n");
+} else if (argv[0] === "endpoints") {
+  const id = argv[1] ?? "";
+  const api = getApi(id) ?? findApis({ search: id }).filter((a) => a.specUrl)[0] ?? findApis({ search: id })[0];
+  if (!api) console.log(`\nno API found for "${id}". try: npx public-apis-live ${id || "<query>"}\n`);
+  else if (!api.specUrl) console.log(`\n${api.name} has no OpenAPI spec on file. base url: ${api.url}\n`);
+  else {
+    const eps = await fetchEndpoints(api.specUrl);
+    console.log(paint(C.bold, `\n${api.name} — ${eps.length} endpoints`) + paint(C.dim, ` (${api.specUrl})\n`));
+    for (const e of eps.slice(0, 60)) {
+      console.log(`  ${paint(C.green, e.method.padEnd(6))} ${e.path}${e.summary ? paint(C.dim, "  " + e.summary) : ""}`);
+    }
+    console.log("");
+  }
 } else if (argv.includes("--json")) {
   console.log(JSON.stringify(search(query, { category: flag("--category"), auth: flag("--auth"), all: argv.includes("--all"), limit: Number(flag("--limit") ?? 20) }), null, 2));
 } else if (query || flag("--category")) {

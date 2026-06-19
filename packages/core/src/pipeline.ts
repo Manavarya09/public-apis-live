@@ -1,13 +1,13 @@
 import { adapters } from "./adapters/index.js";
 import { mergeAndDedupe } from "./normalize.js";
-import { verifyReachability, verifyFunctional } from "./verify.js";
+import { verifyReachability, verifyFunctional, type ProbeResult } from "./verify.js";
 import type { ApiEntry, RawEntry } from "./types.js";
 import { sources as defaultSources, type Source } from "./sources.config.js";
 
 export interface PipelineOpts {
   sources?: Source[];
   fetchFn?: (url: string) => Promise<string>;
-  probeFn?: (url: string) => Promise<number | null>;
+  probeFn?: (url: string) => Promise<ProbeResult>;
   dataProbeFn?: (url: string) => Promise<{ code: number | null; body: string | null }>;
 }
 

@@ -1,6 +1,6 @@
 {
   "name": "public-apis-live",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Aggregated, deduped, auto-reachability-checked list of public APIs. Refreshed daily.",
   "type": "module",
   "main": "./dist/index.js",
@@ -13,5 +13,6 @@
   "repository": { "type": "git", "url": "git+https://github.com/Manavarya09/public-apis-live.git", "directory": "packages/core" },
   "bugs": { "url": "https://github.com/Manavarya09/public-apis-live/issues" },
   "scripts": { "build": "tsc -p tsconfig.json" },
-  "dependencies": { "fuse.js": "^7.0.0", "p-limit": "^6.1.0" }
+  "dependencies": { "fuse.js": "^7.0.0", "p-limit": "^6.1.0" },
+  "devDependencies": { "@types/node": "^20.17.6" }
 }

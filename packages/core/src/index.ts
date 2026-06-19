@@ -14,3 +14,5 @@ export { makeQuery } from "./query.js";
 export { fuzzySearch, FUSE_OPTIONS } from "./search.js";
 export { computeBenchmark } from "./benchmark.js";
 export type { Benchmark, Stat } from "./benchmark.js";
+export { parseOpenApiEndpoints, fetchEndpoints } from "./endpoints.js";
+export type { Endpoint } from "./endpoints.js";
