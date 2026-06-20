@@ -17,17 +17,60 @@ export function parseOpenApiEndpoints(spec: unknown): Endpoint[] {
   return out;
 }
 
-// Fetches an OpenAPI spec URL and returns its endpoints. Returns [] on any failure.
-export async function fetchEndpoints(specUrl: string, timeoutMs = 10000): Promise<Endpoint[]> {
+// Resolves the base server URL of a spec: OpenAPI 3 `servers[0].url`, else Swagger 2
+// `schemes[0]://host + basePath`. Returns null when the base can't be made absolute.
+function baseUrl(spec: Record<string, unknown>): string | null {
+  const servers = spec.servers as { url?: string }[] | undefined;
+  const s = servers?.[0]?.url;
+  if (s && /^https?:\/\//.test(s)) return s.replace(/\/$/, "");
+  const host = spec.host as string | undefined;
+  if (host) {
+    const scheme = (spec.schemes as string[] | undefined)?.[0] ?? "https";
+    const base = (spec.basePath as string | undefined) ?? "";
+    return `${scheme}://${host}${base}`.replace(/\/$/, "");
+  }
+  return null;
+}
+
+// Picks one safely-callable endpoint from a spec: a GET on a non-templated path with no required
+// parameters, combined with the base server URL. Returns null when none qualifies. Used to probe
+// whether an API actually returns data (instead of GETting its homepage).
+export function pickCallableEndpoint(spec: unknown): string | null {
+  if (!spec || typeof spec !== "object") return null;
+  const s = spec as Record<string, unknown>;
+  const base = baseUrl(s);
+  if (!base) return null;
+  const paths = s.paths as Record<string, Record<string, unknown>> | undefined;
+  if (!paths || typeof paths !== "object") return null;
+  const candidates = Object.entries(paths)
+    .filter(([path]) => !path.includes("{"))
+    .filter(([, ops]) => {
+      const get = ops?.get as { parameters?: { required?: boolean }[] } | undefined;
+      if (!get) return false;
+      return !(get.parameters ?? []).some((p) => p.required);
+    })
+    .map(([path]) => path)
+    .sort((a, b) => a.length - b.length); // prefer the simplest path
+  return candidates.length ? `${base}${candidates[0]}` : null;
+}
+
+// Fetches and parses an OpenAPI spec URL. Returns null on any failure.
+export async function fetchSpec(specUrl: string, timeoutMs = 10000): Promise<unknown> {
   const ac = new AbortController();
   const t = setTimeout(() => ac.abort(), timeoutMs);
   try {
     const res = await fetch(specUrl, { signal: ac.signal });
-    if (!res.ok) return [];
-    return parseOpenApiEndpoints(await res.json());
+    if (!res.ok) return null;
+    return await res.json();
   } catch {
-    return [];
+    return null;
   } finally {
     clearTimeout(t);
   }
+}
+
+// Fetches an OpenAPI spec URL and returns its endpoints. Returns [] on any failure.
+export async function fetchEndpoints(specUrl: string, timeoutMs = 10000): Promise<Endpoint[]> {
+  const spec = await fetchSpec(specUrl, timeoutMs);
+  return spec ? parseOpenApiEndpoints(spec) : [];
 }

@@ -11,6 +11,9 @@ export interface WebApiEntry {
   status: "up" | "down" | "unknown";
   uptimePct?: number;
   license?: string;
+  returnsData?: boolean;
+  sampleEndpoint?: string;
+  sampleResponse?: string;
 }
 
 export interface Criteria {

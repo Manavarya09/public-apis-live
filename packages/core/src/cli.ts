@@ -66,6 +66,10 @@ if (argv.includes("--help") || argv.includes("-h")) {
   else {
     const eps = await fetchEndpoints(api.specUrl);
     console.log(paint(C.bold, `\n${api.name} — ${eps.length} endpoints`) + paint(C.dim, ` (${api.specUrl})\n`));
+    if (api.returnsData && api.sampleEndpoint) {
+      console.log(paint(C.green, "  ✓ verified call: ") + api.sampleEndpoint);
+      console.log(paint(C.dim, "  → " + (api.sampleResponse ?? "").replace(/\s+/g, " ").slice(0, 120)) + "\n");
+    }
     for (const e of eps.slice(0, 60)) {
       console.log(`  ${paint(C.green, e.method.padEnd(6))} ${e.path}${e.summary ? paint(C.dim, "  " + e.summary) : ""}`);
     }

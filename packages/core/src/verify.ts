@@ -1,5 +1,8 @@
 import pLimit from "p-limit";
 import type { ApiEntry, Status } from "./types.js";
+import { pickCallableEndpoint } from "./endpoints.js";
+
+const SAMPLE_MAX = 500;
 
 export interface ProbeResult { code: number | null; url?: string; redirected?: boolean }
 
@@ -74,18 +77,40 @@ async function dataProbe(url: string, timeoutMs = 8000): Promise<{ code: number 
 }
 
 // Deeper check for the no-auth, currently-reachable subset: GET the URL and flag returnsData.
+// When the base URL serves HTML (a docs/landing page) but the API has an OpenAPI spec, fall back to
+// a spec-derived parameter-less GET so we probe a real data endpoint. On success we keep a truncated
+// sample of the body and the exact endpoint that produced it.
 export async function verifyFunctional(
   entries: ApiEntry[],
   concurrency = 20,
   probeFn: (url: string) => Promise<{ code: number | null; body: string | null }> = dataProbe,
+  specFetchFn?: (specUrl: string) => Promise<unknown>,
 ): Promise<ApiEntry[]> {
   const limit = pLimit(concurrency);
   const targets = entries.filter((e) => e.status === "up" && e.auth === "none");
   await Promise.all(
     targets.map((e) =>
       limit(async () => {
-        const { code, body } = await probeFn(e.url);
-        e.returnsData = isDataResponse(code, body);
+        const base = await probeFn(e.url);
+        if (isDataResponse(base.code, base.body)) {
+          e.returnsData = true;
+          e.sampleResponse = base.body!.trim().slice(0, SAMPLE_MAX);
+          e.sampleEndpoint = e.url;
+          return;
+        }
+        if (e.specUrl && specFetchFn) {
+          const endpoint = pickCallableEndpoint(await specFetchFn(e.specUrl));
+          if (endpoint) {
+            const r = await probeFn(endpoint);
+            if (isDataResponse(r.code, r.body)) {
+              e.returnsData = true;
+              e.sampleResponse = r.body!.trim().slice(0, SAMPLE_MAX);
+              e.sampleEndpoint = endpoint;
+              return;
+            }
+          }
+        }
+        e.returnsData = false;
       }),
     ),
   );

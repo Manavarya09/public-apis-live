@@ -156,7 +156,14 @@ export default function Page() {
               <td>{a.category}</td>
               <td>{a.auth}</td>
               <td>{a.https ? "Yes" : "No"}</td>
-              <td>{emoji[a.status]}</td>
+              <td>
+                {emoji[a.status]}
+                {a.returnsData && (
+                  <span title={a.sampleEndpoint ? `Verified call: ${a.sampleEndpoint}\n${a.sampleResponse ?? ""}` : "Returns real data (no auth)"}>
+                    {" "}📦
+                  </span>
+                )}
+              </td>
               <td>{a.uptimePct !== undefined ? `${a.uptimePct}%` : "—"}</td>
               <td>{a.license ?? "—"}</td>
             </tr>

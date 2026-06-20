@@ -1,6 +1,7 @@
 import { adapters } from "./adapters/index.js";
 import { mergeAndDedupe } from "./normalize.js";
 import { verifyReachability, verifyFunctional, type ProbeResult } from "./verify.js";
+import { fetchSpec } from "./endpoints.js";
 import type { ApiEntry, RawEntry } from "./types.js";
 import { sources as defaultSources, type Source } from "./sources.config.js";
 
@@ -9,6 +10,7 @@ export interface PipelineOpts {
   fetchFn?: (url: string) => Promise<string>;
   probeFn?: (url: string) => Promise<ProbeResult>;
   dataProbeFn?: (url: string) => Promise<{ code: number | null; body: string | null }>;
+  specFetchFn?: (specUrl: string) => Promise<unknown>;
 }
 
 export async function runPipeline(opts: PipelineOpts = {}): Promise<{ entries: ApiEntry[] }> {
@@ -25,6 +27,6 @@ export async function runPipeline(opts: PipelineOpts = {}): Promise<{ entries: A
   }
   const entries = mergeAndDedupe(raws);
   await verifyReachability(entries, 20, opts.probeFn);
-  await verifyFunctional(entries, 20, opts.dataProbeFn);
+  await verifyFunctional(entries, 20, opts.dataProbeFn, opts.specFetchFn ?? fetchSpec);
   return { entries };
 }

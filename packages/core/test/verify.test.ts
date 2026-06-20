@@ -79,4 +79,31 @@ describe("verifyFunctional", () => {
     expect(keyed.returnsData).toBeUndefined(); // auth required, skipped
     expect(down.returnsData).toBeUndefined(); // not reachable, skipped
   });
+
+  it("captures a truncated sampleResponse and the endpoint that produced it", async () => {
+    const e: ApiEntry = { id: "a", name: "A", description: "", category: "c", url: "https://a.com", auth: "none", https: true, cors: "unknown", sourceRepos: ["x"], status: "up" };
+    const big = "x".repeat(5000);
+    await verifyFunctional([e], 5, async () => ({ code: 200, body: big }));
+    expect(e.returnsData).toBe(true);
+    expect(e.sampleEndpoint).toBe("https://a.com");
+    expect(e.sampleResponse!.length).toBeLessThanOrEqual(500);
+  });
+
+  it("falls back to a spec-derived endpoint when the base URL returns HTML", async () => {
+    const e: ApiEntry = { id: "a", name: "A", description: "", category: "c", url: "https://a.com", auth: "none", https: true, cors: "unknown", sourceRepos: ["x"], status: "up", specUrl: "https://a.com/openapi.json" };
+    const probe = async (url: string) =>
+      url === "https://a.com" ? { code: 200, body: "<!doctype html><html>" } : { code: 200, body: '{"data":1}' };
+    const specFetch = async () => ({ servers: [{ url: "https://a.com" }], paths: { "/ping": { get: {} } } });
+    await verifyFunctional([e], 5, probe, specFetch);
+    expect(e.returnsData).toBe(true);
+    expect(e.sampleEndpoint).toBe("https://a.com/ping");
+    expect(e.sampleResponse).toBe('{"data":1}');
+  });
+
+  it("leaves returnsData false when neither the base URL nor a spec endpoint returns data", async () => {
+    const e: ApiEntry = { id: "a", name: "A", description: "", category: "c", url: "https://a.com", auth: "none", https: true, cors: "unknown", sourceRepos: ["x"], status: "up", specUrl: "https://a.com/openapi.json" };
+    await verifyFunctional([e], 5, async () => ({ code: 200, body: "<!doctype html>" }), async () => null);
+    expect(e.returnsData).toBe(false);
+    expect(e.sampleResponse).toBeUndefined();
+  });
 });

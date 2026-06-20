@@ -20,7 +20,7 @@ server.tool(
 
 server.tool(
   "get_api",
-  "Get one API by its id.",
+  "Get one API by its id. Includes a verified example call (sampleEndpoint) and a real sample response (sampleResponse) when the API was confirmed to return data without auth.",
   { id: z.string() },
   async ({ id }) => ({ content: [{ type: "text", text: JSON.stringify(getApi(id), null, 2) }] }),
 );
@@ -42,9 +42,12 @@ server.tool(
     if (!api.specUrl)
       return { content: [{ type: "text", text: `${api.name} has no OpenAPI spec on file. Base URL: ${api.url}` }] };
     const endpoints = await fetchEndpoints(api.specUrl);
+    const verifiedCall = api.returnsData && api.sampleEndpoint
+      ? { verifiedCall: api.sampleEndpoint, sampleResponse: api.sampleResponse }
+      : undefined;
     return {
       content: [
-        { type: "text", text: JSON.stringify({ api: api.name, specUrl: api.specUrl, endpoints: endpoints.slice(0, 200) }, null, 2) },
+        { type: "text", text: JSON.stringify({ api: api.name, specUrl: api.specUrl, ...verifiedCall, endpoints: endpoints.slice(0, 200) }, null, 2) },
       ],
     };
   },

@@ -15,5 +15,7 @@ describe("runPipeline", () => {
     expect(result.entries[0].status).toBe("up");
     expect(result.entries[0].sourceRepos).toEqual(["a/b"]);
     expect(result.entries[0].returnsData).toBe(true);
+    expect(result.entries[0].sampleResponse).toBe('{"fact":"cats"}');
+    expect(result.entries[0].sampleEndpoint).toBe("https://catfact.ninja");
   });
 });
