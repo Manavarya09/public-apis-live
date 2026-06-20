@@ -63,6 +63,22 @@ describe("pickCallableEndpoint", () => {
     expect(pickCallableEndpoint(spec)).toBe("https://api.example.com/v2/ping");
   });
 
+  it("skips a templated server URL and uses the next absolute one", () => {
+    const spec = {
+      servers: [{ url: "https://{region}.api.example.com" }, { url: "https://api.example.com" }],
+      paths: { "/ping": { get: {} } },
+    };
+    expect(pickCallableEndpoint(spec)).toBe("https://api.example.com/ping");
+  });
+
+  it("returns null when the only server URL is templated (won't emit an uncallable URL)", () => {
+    const spec = {
+      servers: [{ url: "https://{region}.api.example.com" }],
+      paths: { "/ping": { get: {} } },
+    };
+    expect(pickCallableEndpoint(spec)).toBeNull();
+  });
+
   it("returns null with no server info, no param-less GET, or empty spec", () => {
     expect(pickCallableEndpoint({ paths: { "/x": { get: {} } } })).toBeNull();
     expect(

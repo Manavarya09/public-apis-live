@@ -21,8 +21,9 @@ export function parseOpenApiEndpoints(spec: unknown): Endpoint[] {
 // `schemes[0]://host + basePath`. Returns null when the base can't be made absolute.
 function baseUrl(spec: Record<string, unknown>): string | null {
   const servers = spec.servers as { url?: string }[] | undefined;
-  const s = servers?.[0]?.url;
-  if (s && /^https?:\/\//.test(s)) return s.replace(/\/$/, "");
+  // Use the first absolute server URL that has no `{var}` template — a templated URL isn't callable.
+  const s = servers?.map((x) => x?.url).find((u) => u && /^https?:\/\//.test(u) && !u.includes("{"));
+  if (s) return s.replace(/\/$/, "");
   const host = spec.host as string | undefined;
   if (host) {
     const scheme = (spec.schemes as string[] | undefined)?.[0] ?? "https";
