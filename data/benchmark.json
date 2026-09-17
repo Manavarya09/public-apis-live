@@ -2,9 +2,9 @@
   "overall": {
     "label": "public-apis-live (merged, deduped)",
     "total": 4575,
-    "up": 3128,
+    "up": 3129,
     "down": 364,
-    "unknown": 1083,
+    "unknown": 1082,
     "workingRate": 68.4,
     "deadRate": 8
   },
@@ -12,38 +12,38 @@
     {
       "label": "APIs.guru",
       "total": 2069,
-      "up": 1215,
-      "down": 200,
-      "unknown": 654,
-      "workingRate": 58.7,
-      "deadRate": 9.7
+      "up": 1220,
+      "down": 197,
+      "unknown": 652,
+      "workingRate": 59,
+      "deadRate": 9.5
     },
     {
       "label": "n0shake/Public-APIs",
       "total": 480,
-      "up": 355,
-      "down": 28,
-      "unknown": 97,
-      "workingRate": 74,
-      "deadRate": 5.8
+      "up": 357,
+      "down": 30,
+      "unknown": 93,
+      "workingRate": 74.4,
+      "deadRate": 6.3
     },
     {
       "label": "public-api-lists/public-api-lists",
       "total": 837,
-      "up": 711,
-      "down": 25,
-      "unknown": 101,
-      "workingRate": 84.9,
-      "deadRate": 3
+      "up": 708,
+      "down": 26,
+      "unknown": 103,
+      "workingRate": 84.6,
+      "deadRate": 3.1
     },
     {
       "label": "public-apis/public-apis",
       "total": 1812,
-      "up": 1364,
-      "down": 131,
-      "unknown": 317,
-      "workingRate": 75.3,
-      "deadRate": 7.2
+      "up": 1360,
+      "down": 134,
+      "unknown": 318,
+      "workingRate": 75.1,
+      "deadRate": 7.4
     }
   ]
 }
