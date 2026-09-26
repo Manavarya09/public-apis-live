@@ -3791,6 +3791,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [ToHuman](https://tohuman.io/ai-humanizer-api) | Rewrite AI-assisted drafts into natural, human-sounding text that reads like you wrote it | apiKey | Yes | ✅ |
 | [Watson Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) | Natural language processing for advanced text analysis | OAuth | Yes | ✅ |
 | [Yomi](https://github.com/ookii-tsuki/yomi) | Japanese tokenizer and morphological analysis web API | none | Yes | ✅ |
+| [Vend](https://extract.paypercall.dev) | Pay-per-call web-data API for AI agents: extract any URL to clean text or markdown, plus web search, link check, geolocation and PDF-to-text; settled on-chain in Nano (XNO) per call. | x402 | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
