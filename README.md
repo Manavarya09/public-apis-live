@@ -2,7 +2,7 @@
 
 [![public APIs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Manavarya09/public-apis-live/main/data/badge.json)](https://manavarya09.github.io/public-apis-live/)
 
-**3252 working public APIs · verified 2026-10-07 · refreshed daily** — [🔎 Search](https://manavarya09.github.io/public-apis-live/) · [📊 Benchmark](./BENCHMARK.md)
+**3314 working public APIs · verified 2026-10-08 · refreshed daily** — [🔎 Search](https://manavarya09.github.io/public-apis-live/) · [📊 Benchmark](./BENCHMARK.md)
 
 Aggregated from the top public-API lists, deduped, and reachability-checked every day. Only working APIs are listed below; dead/unverified ones are collapsed at the bottom.
 
@@ -19,12 +19,12 @@ Then ask the agent to pick a working API for any task.
 
 <details><summary>How verification works (reachability only)</summary>
 
-We check reachability daily (no API keys). A working API means its URL returned a success response (2xx/3xx) today; 📦 marks the 37 no-auth APIs that also returned real data. We do not test auth-gated endpoints. 353 unreachable and 1196 unverified entries are listed at the bottom.
+We check reachability daily (no API keys). A working API means its URL returned a success response (2xx/3xx) today; 📦 marks the 61 no-auth APIs that also returned real data. We do not test auth-gated endpoints. 361 unreachable and 1126 unverified entries are listed at the bottom.
 </details>
 
-## Categories (120)
+## Categories (121)
 
-[APILayer APIs](#apilayer-apis) (11) · [Advertising](#advertising) (6) · [Analytics](#analytics) (266) · [Animals](#animals) (25) · [Anime](#anime) (16) · [Anti-Malware](#anti-malware) (18) · [Art & Design](#art--design) (23) · [Augmented Reality](#augmented-reality) (1) · [Authentication & Authorization](#authentication--authorization) (5) · [Backend](#backend) (2) · [BarCode](#barcode) (5) · [Big Data and Analytics](#big-data-and-analytics) (3) · [Blockchain](#blockchain) (12) · [Books](#books) (22) · [Business](#business) (36) · [Calendar](#calendar) (23) · [Captcha](#captcha) (2) · [Check-In](#check-in) (2) · [Cloud](#cloud) (144) · [Cloud Storage & File Sharing](#cloud-storage--file-sharing) (17) · [Collaboration](#collaboration) (11) · [Commerce](#commerce) (5) · [Communication](#communication) (6) · [Content](#content) (9) · [Continuous Integration](#continuous-integration) (6) · [Cryptocurrency](#cryptocurrency) (68) · [Cryptocurrency/Crypto Wallets](#cryptocurrencycrypto-wallets) (6) · [Currency](#currency) (5) · [Currency Exchange](#currency-exchange) (28) · [Customer_relation](#customer_relation) (3) · [Data Validation](#data-validation) (21) · [Developer_tools](#developer_tools) (105) · [Development](#development) (207) · [Dictionaries](#dictionaries) (9) · [Dictionary](#dictionary) (8) · [Disasters](#disasters) (3) · [Documents & Productivity](#documents--productivity) (48) · [Ecommerce](#ecommerce) (23) · [Education](#education) (5) · [Email](#email) (35) · [Enterprise](#enterprise) (96) · [Entertainment](#entertainment) (66) · [Environment](#environment) (21) · [Events](#events) (3) · [Face Recognition](#face-recognition) (1) · [File Storage and Manipulation](#file-storage-and-manipulation) (8) · [Finance](#finance) (103) · [Financial](#financial) (41) · [Food & Drink](#food--drink) (29) · [Forms](#forms) (2) · [Fraud Prevention](#fraud-prevention) (1) · [Games & Comics](#games--comics) (97) · [Geocoding](#geocoding) (104) · [Google](#google) (10) · [Government](#government) (105) · [Health](#health) (33) · [Hosting](#hosting) (6) · [Identity Verification](#identity-verification) (2) · [IoT](#iot) (8) · [Iot](#iot) (8) · [Jobs](#jobs) (32) · [Location](#location) (22) · [Login Authentication](#login-authentication) (4) · [MCP Servers](#mcp-servers) (10) · [Machine Learning](#machine-learning) (45) · [Machine_learning](#machine_learning) (6) · [Maps](#maps) (7) · [Marketing](#marketing) (3) · [Media](#media) (27) · [Medical](#medical) (1) · [Messaging](#messaging) (9) · [Miscellaneous](#miscellaneous) (20) · [Movies](#movies) (1) · [Music](#music) (26) · [Music Discovery](#music-discovery) (1) · [Music Identification](#music-identification) (2) · [Music Lyrics](#music-lyrics) (1) · [Music Stores](#music-stores) (1) · [Natural Language Processing](#natural-language-processing) (12) · [News](#news) (24) · [News Services](#news-services) (3) · [Open Data](#open-data) (65) · [Open Licenses](#open-licenses) (1) · [Open Source Projects](#open-source-projects) (11) · [Open_data](#open_data) (227) · [Patent](#patent) (4) · [Payment](#payment) (25) · [Personality](#personality) (26) · [Phone](#phone) (6) · [Photography](#photography) (27) · [Placeholder Images](#placeholder-images) (1) · [Places](#places) (5) · [Programming](#programming) (2) · [Quotes](#quotes) (3) · [Resources For Design and Discovery of APIs](#resources-for-design-and-discovery-of-apis) (4) · [Science](#science) (4) · [Science & Math](#science--math) (42) · [Search](#search) (3) · [Security](#security) (57) · [Shopping](#shopping) (24) · [Social](#social) (61) · [Social Media](#social-media) (18) · [Source Control](#source-control) (4) · [Sport](#sport) (4) · [Sports & Fitness](#sports--fitness) (56) · [Support](#support) (1) · [Telecom](#telecom) (12) · [Test Data](#test-data) (29) · [Text](#text) (36) · [Text Analysis](#text-analysis) (11) · [Time_management](#time_management) (1) · [Tools](#tools) (3) · [Tracking](#tracking) (10) · [Transport](#transport) (9) · [Transportation](#transportation) (79) · [URL Shorteners](#url-shorteners) (18) · [Vehicle](#vehicle) (16) · [Video](#video) (48) · [Videogames](#videogames) (4) · [Weather](#weather) (44)
+[APILayer APIs](#apilayer-apis) (11) · [Advertising](#advertising) (6) · [Analytics](#analytics) (266) · [Animals](#animals) (26) · [Anime](#anime) (16) · [Anti-Malware](#anti-malware) (18) · [Art & Design](#art--design) (23) · [Augmented Reality](#augmented-reality) (1) · [Authentication & Authorization](#authentication--authorization) (5) · [Backend](#backend) (2) · [BarCode](#barcode) (5) · [Big Data and Analytics](#big-data-and-analytics) (3) · [Blockchain](#blockchain) (12) · [Books](#books) (22) · [Business](#business) (38) · [Calendar](#calendar) (23) · [Captcha](#captcha) (2) · [Check-In](#check-in) (2) · [Cloud](#cloud) (144) · [Cloud Storage & File Sharing](#cloud-storage--file-sharing) (17) · [Collaboration](#collaboration) (11) · [Commerce](#commerce) (5) · [Communication](#communication) (6) · [Content](#content) (9) · [Continuous Integration](#continuous-integration) (6) · [Cryptocurrency](#cryptocurrency) (67) · [Cryptocurrency/Crypto Wallets](#cryptocurrencycrypto-wallets) (6) · [Currency](#currency) (5) · [Currency Exchange](#currency-exchange) (28) · [Customer_relation](#customer_relation) (4) · [Data Validation](#data-validation) (21) · [Developer_tools](#developer_tools) (108) · [Development](#development) (205) · [Dictionaries](#dictionaries) (9) · [Dictionary](#dictionary) (8) · [Disasters](#disasters) (3) · [Documents & Productivity](#documents--productivity) (48) · [Ecommerce](#ecommerce) (28) · [Education](#education) (5) · [Email](#email) (35) · [Enterprise](#enterprise) (102) · [Entertainment](#entertainment) (65) · [Environment](#environment) (21) · [Events](#events) (3) · [Face Recognition](#face-recognition) (1) · [File Storage and Manipulation](#file-storage-and-manipulation) (8) · [Finance](#finance) (104) · [Financial](#financial) (51) · [Fitness](#fitness) (3) · [Food & Drink](#food--drink) (29) · [Forms](#forms) (2) · [Fraud Prevention](#fraud-prevention) (1) · [Games & Comics](#games--comics) (97) · [Geocoding](#geocoding) (104) · [Google](#google) (12) · [Government](#government) (106) · [Health](#health) (35) · [Hosting](#hosting) (9) · [Identity Verification](#identity-verification) (2) · [IoT](#iot) (8) · [Iot](#iot) (8) · [Jobs](#jobs) (32) · [Location](#location) (25) · [Login Authentication](#login-authentication) (4) · [MCP Servers](#mcp-servers) (10) · [Machine Learning](#machine-learning) (45) · [Machine_learning](#machine_learning) (6) · [Maps](#maps) (7) · [Marketing](#marketing) (3) · [Media](#media) (30) · [Medical](#medical) (1) · [Messaging](#messaging) (11) · [Miscellaneous](#miscellaneous) (20) · [Movies](#movies) (1) · [Music](#music) (26) · [Music Discovery](#music-discovery) (1) · [Music Identification](#music-identification) (2) · [Music Lyrics](#music-lyrics) (1) · [Music Stores](#music-stores) (1) · [Natural Language Processing](#natural-language-processing) (12) · [News](#news) (24) · [News Services](#news-services) (3) · [Open Data](#open-data) (66) · [Open Licenses](#open-licenses) (1) · [Open Source Projects](#open-source-projects) (11) · [Open_data](#open_data) (230) · [Patent](#patent) (4) · [Payment](#payment) (25) · [Personality](#personality) (26) · [Phone](#phone) (6) · [Photography](#photography) (27) · [Placeholder Images](#placeholder-images) (1) · [Places](#places) (5) · [Programming](#programming) (2) · [Quotes](#quotes) (3) · [Resources For Design and Discovery of APIs](#resources-for-design-and-discovery-of-apis) (4) · [Science](#science) (4) · [Science & Math](#science--math) (42) · [Search](#search) (3) · [Security](#security) (57) · [Shopping](#shopping) (23) · [Social](#social) (61) · [Social Media](#social-media) (18) · [Source Control](#source-control) (4) · [Sport](#sport) (4) · [Sports & Fitness](#sports--fitness) (56) · [Support](#support) (1) · [Telecom](#telecom) (12) · [Test Data](#test-data) (31) · [Text](#text) (37) · [Text Analysis](#text-analysis) (17) · [Time_management](#time_management) (1) · [Tools](#tools) (4) · [Tracking](#tracking) (10) · [Transport](#transport) (15) · [Transportation](#transportation) (81) · [URL Shorteners](#url-shorteners) (17) · [Vehicle](#vehicle) (16) · [Video](#video) (47) · [Videogames](#videogames) (4) · [Weather](#weather) (43)
 
 ## 🏆 Most reliable APIs
 
@@ -32,26 +32,26 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 
 | API | Uptime | Checks | Latency |
 |---|---|---|---|
-| [Amazon Relational Database Service](https://docs.aws.amazon.com/rds/) | 100% | 30 | 15ms |
-| [Amazon Simple Storage Service](https://docs.aws.amazon.com/s3/) | 100% | 30 | 18ms |
-| [Exchange Rates](https://exchangeratesapi.io/) | 100% | 30 | 20ms |
-| [AWSMarketplace Metering](https://docs.aws.amazon.com/marketplace/) | 100% | 30 | 22ms |
-| [Amazon DynamoDB Streams](https://docs.aws.amazon.com/dynamodb/) | 100% | 30 | 26ms |
-| [Amazon Connect Participant Service](https://docs.aws.amazon.com/connect/) | 100% | 30 | 33ms |
+| [AWS Marketplace Catalog Service](https://docs.aws.amazon.com/marketplace/) | 100% | 30 | 33ms |
 | [Amazon Lex Runtime Service](https://docs.aws.amazon.com/lex/) | 100% | 30 | 34ms |
-| [Amazon Neptune](https://docs.aws.amazon.com/rds/) | 100% | 30 | 36ms |
-| [Amazon Mobile Analytics](https://docs.aws.amazon.com/mobileanalytics/) | 100% | 30 | 37ms |
-| [AWS Marketplace Catalog Service](https://docs.aws.amazon.com/marketplace/) | 100% | 30 | 38ms |
-| [Policy Analyzer API](https://www.google.com) | 100% | 30 | 40ms |
-| [Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/ec2/) | 100% | 30 | 40ms |
-| [Amazon Kinesis Firehose](https://docs.aws.amazon.com/firehose/) | 100% | 30 | 40ms |
-| [Amazon Simple Queue Service](https://docs.aws.amazon.com/sqs/) | 100% | 30 | 45ms |
-| [Flight Offers Price](https://amadeus.com) | 100% | 30 | 54ms |
-| [AWS DataSync](https://docs.aws.amazon.com/datasync/) | 100% | 30 | 55ms |
-| [AWS Lambda](https://docs.aws.amazon.com/lambda/) | 100% | 30 | 56ms |
-| [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/) | 100% | 30 | 58ms |
-| [AWS Identity and Access Management](https://docs.aws.amazon.com/iam/) | 100% | 30 | 58ms |
-| [EC2 Image Builder](https://docs.aws.amazon.com/imagebuilder/) | 100% | 30 | 59ms |
+| [AWSMarketplace Metering](https://docs.aws.amazon.com/marketplace/) | 100% | 30 | 34ms |
+| [Amazon Forecast Service](https://docs.aws.amazon.com/forecast/) | 100% | 30 | 35ms |
+| [Amazon Pinpoint SMS and Voice Service](https://docs.aws.amazon.com/pinpoint/) | 100% | 30 | 35ms |
+| [Amazon DynamoDB Streams](https://docs.aws.amazon.com/dynamodb/) | 100% | 30 | 36ms |
+| [Amazon Import/Export Snowball](https://docs.aws.amazon.com/snowball/) | 100% | 30 | 36ms |
+| [Amazon Relational Database Service](https://docs.aws.amazon.com/rds/) | 100% | 30 | 44ms |
+| [Browshot API](https://browshot.com/contact) | 100% | 30 | 44ms |
+| [Amazon Pinpoint](https://docs.aws.amazon.com/pinpoint/) | 100% | 30 | 45ms |
+| [Amazon Neptune](https://docs.aws.amazon.com/rds/) | 100% | 30 | 50ms |
+| [Travel Recommendations API](https://amadeus.com) | 100% | 30 | 55ms |
+| [Policy Analyzer API](https://www.google.com) | 100% | 30 | 57ms |
+| [Trip Parser](https://amadeus.com) | 100% | 30 | 58ms |
+| [Amazon SageMaker Feature Store Runtime](https://docs.aws.amazon.com/sagemaker/) | 100% | 30 | 62ms |
+| [Amazon Simple Storage Service](https://docs.aws.amazon.com/s3/) | 100% | 30 | 62ms |
+| [Amazon Sagemaker Edge Manager](https://docs.aws.amazon.com/sagemaker/) | 100% | 30 | 65ms |
+| [Amazon Augmented AI Runtime](https://docs.aws.amazon.com/sagemaker/) | 100% | 30 | 66ms |
+| [Branded Fares Upsell](https://amadeus.com) | 100% | 30 | 73ms |
+| [Tours and Activities](https://amadeus.com) | 100% | 30 | 79ms |
 
 ### APILayer APIs
 
@@ -381,9 +381,10 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Movebank](https://github.com/movebank/movebank-api-doc) | Movement and Migration data of animals | none | Yes | ✅ |
 | [PlaceBear](https://placebear.com/) | Placeholder bear pictures | none | Yes | ✅ |
 | [PlaceDog](https://place.dog) | Placeholder Dog pictures | none | Yes | ✅ |
-| [RandomDog](https://random.dog/woof.json) | Random pictures of dogs | none | Yes | ✅ |
+| [RandomDog](https://random.dog/woof.json) | Random pictures of dogs | none | Yes | ✅ 📦 |
 | [RandomDuck](https://random-d.uk/api) | Random pictures of ducks | none | Yes | ✅ |
-| [RandomFox](https://randomfox.ca/floof/) | Random pictures of foxes | none | Yes | ✅ |
+| [RandomFox](https://randomfox.ca/floof/) | Random pictures of foxes | none | Yes | ✅ 📦 |
+| [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Adoption | none | Yes | ✅ |
 | [The Dog](https://thedogapi.com/) | A public service all about Dogs, free to use when making your fancy new App, Website or Service | apiKey | Yes | ✅ |
 | [xeno-canto](https://xeno-canto.org/explore/api) | Bird recordings | none | Yes | ✅ |
 
@@ -446,7 +447,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Dribbble](https://developer.dribbble.com) | Dribbble is a community of designers answering that question each day. | OAuth | Yes | ✅ |
 | [DummyImage](https://dummyimage.com/) | Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility. | none | Yes | ✅ |
 | [EmojiHub](https://github.com/cheatsnake/emojihub) | Get emojis by categories and groups | none | Yes | ✅ |
-| [Face Shape Guide Lookup](https://myfaceshapechart.com/openapi.json) | Read-only lookup for published face-shape guide records | none | Yes | ✅ |
+| [Face Shape Guide Lookup](https://myfaceshapechart.com/openapi.json) | Read-only lookup for published face-shape guide records | none | Yes | ✅ 📦 |
 | [Harvard Art Museums](https://github.com/harvardartmuseums/api-docs) | Art | apiKey | No | ✅ |
 | [Icon Horse](https://icon.horse) | Get the favicon logo for any web address, customizable and complete with a fallback if it fails. | none | Yes | ✅ |
 | [Iconify](https://iconify.design/docs/api/) | Search and fetch SVG icons from 200+ open source icon sets | none | Yes | ✅ |
@@ -532,7 +533,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Steem](https://developers.steem.io/) | Blockchain-based blogging and social media website | none | No | ✅ |
 | [SwiftNodes](https://swiftnodes.io) | Multi-chain blockchain RPC nodes (Ethereum, Solana and 75+ networks) | apiKey | Yes | ✅ |
 | [The Graph](https://thegraph.com) | Indexing protocol for querying networks like Ethereum with GraphQL | apiKey | Yes | ✅ |
-| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Solana on-chain agent trust scoring via MCP; 4 free tools to score, resolve and verify AI agent wallets | none | Yes | ✅ |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Solana on-chain agent trust scoring via MCP; 4 free tools to score, resolve and verify AI agent wallets | none | Yes | ✅ 📦 |
 | [Watchdata](https://docs.watchdata.io) | Provide simple and reliable API access to Ethereum blockchain | apiKey | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
@@ -543,7 +544,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 |---|---|---|---|---|
 | [Amanah Sunnah](https://sunnah.amanahagent.cloud/developers) | Semantic search across Quran, Hadith, Tafsir & 18K+ Rijal narrators | apiKey | Yes | ✅ |
 | [Bhagavad Gita](https://docs.bhagavadgitaapi.in) | Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi | apiKey | Yes | ✅ |
-| [Bhagavad Gita telugu](https://gita-api.vercel.app) | Bhagavad Gita API in telugu and odia languages | none | Yes | ✅ |
+| [Bhagavad Gita telugu](https://gita-api.vercel.app) | Bhagavad Gita API in telugu and odia languages | none | Yes | ✅ 📦 |
 | [Bible-api](https://bible-api.com/) | Free Bible API with multiple languages | none | Yes | ✅ |
 | [BookRank](https://openbookrank.com/en/open-data) | Book rankings from open reader ratings: books, series, reading orders and authors | none | Yes | ✅ |
 | [Crossref Metadata Search](https://github.com/CrossRef/rest-api-doc) | Books & Articles Metadata | none | Yes | ✅ |
@@ -588,12 +589,14 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Invovate](https://invovate.com/api) | Generate PDF, JSON & UBL invoices in 11 languages from one JSON POST | apiKey | Yes | ✅ |
 | [Katalis UK Company Enrichment](https://meetkatalis.com/apis) | Verified UK company profiles with an AI summary and accuracy score, from Companies House data | apiKey | Yes | ✅ |
 | [KontragentPro](https://kontragentpro.ru/api/v2/docs) | Russian company data from state registers by INN or OGRN: profile, finances, timeline | none | Yes | ✅ |
-| [Legal Sandbox Georgia](https://legal.ge/api/openapi.json) | Find verified legal specialists in Georgia from natural-language queries | none | Yes | ✅ |
+| [Legal Sandbox Georgia](https://legal.ge/api/openapi.json) | Find verified legal specialists in Georgia from natural-language queries | none | Yes | ✅ 📦 |
 | [LogoKit](https://logokit.com) | Logo API for brands, stocks, and cryptocurrencies | apiKey | Yes | ✅ |
 | [Mailchimp](https://mailchimp.com/developer/) | Send marketing campaigns and transactional mails | apiKey | Yes | ✅ |
 | [mailgun](https://www.mailgun.com/) | Transactional Email API Service For Developers. Free first 10000 emails per month. | apiKey | Yes | ✅ |
 | [mailjet](https://www.mailjet.com/) | Marketing email can be sent and mail templates made in MJML or HTML can be sent using API | apiKey | Yes | ✅ |
 | [Markbase](https://markbase.co) | Search 14M+ USPTO trademarks with fuzzy search and autocomplete | none | Yes | ✅ |
+| [markerapi](https://markerapi.com) | Trademark Search | none | No | ✅ |
+| [Meirra](https://meirra.com/api) | SEO monitoring, email verification, lead generation, and marketing analytics | apiKey | Yes | ✅ |
 | [Mydentify](https://mydentify.com/openapi.json) | Discover software by task through structured product directories and weekly leaderboards | none | Yes | ✅ 📦 |
 | [PeopleSearch](https://peoplesearch.im/developers) | People and company search in plain English, with verified work emails and email verification | apiKey | Yes | ✅ |
 | [Pick an Agency](https://www.pickanagency.com/developers) | Search 47,000+ marketing agencies by service, location and rating | none | Yes | ✅ |
@@ -635,7 +638,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Russian Calendar](https://github.com/egno/work-calendar) | Check if a date is a Russian holiday or not | none | Yes | ✅ |
 | [The Calendar](https://the-calendar.net/api/) | Public holidays for US states and 30 countries plus sports and finance calendars as static JSON | none | Yes | ✅ |
 | [TimeZones iCal Library](https://tz.add-to-calendar-technology.com/) | Database of official time zones and corresponding iCal VTIMEZONE blocks | none | Yes | ✅ |
-| [UK Bank Holidays](https://www.gov.uk/bank-holidays.json) | Bank holidays in England and Wales, Scotland and Northern Ireland | none | Yes | ✅ |
+| [UK Bank Holidays](https://www.gov.uk/bank-holidays.json) | Bank holidays in England and Wales, Scotland and Northern Ireland | none | Yes | ✅ 📦 |
 
 [↑ Back to top](#public-apis-live)
 
@@ -910,7 +913,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 |---|---|---|---|---|
 | [1inch](https://business.1inch.com/portal/documentation) | API for querying decentralize exchange | apiKey | Yes | ✅ |
 | [Alpha (Mossland)](https://alpha.moss.land/developers) | Korean crypto channel stance + RAG Q&A + canonical entity/topic/event store | none | Yes | ✅ |
-| [bilbop](https://api.bilbop.org) | Solana USDC x402 pay-per-call tools for agents: SPL mint info, token brief, text summarize, Piper TTS, brand feedback | none | Yes | ✅ |
 | [Binance](https://github.com/binance/binance-spot-api-docs) | Exchange for Trading Cryptocurrencies based in China | apiKey | Yes | ✅ |
 | [Bitcoin Halving](https://why21million.com/halving-api/) | Halving era, block reward, and schedule arithmetic for any Bitcoin block height | none | Yes | ✅ |
 | [BitcoinYield](https://bitcoinyield.co/docs) | Live yields on BTC, ETH and stablecoins across DeFi and CeFi, with an A-D risk grade per offer | none | Yes | ✅ |
@@ -919,8 +921,8 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Bitmex](https://www.bitmex.com/app/apiOverview) | Real-Time Cryptocurrency derivatives trading platform based in Hong Kong | apiKey | Yes | ✅ |
 | [BitPanda](https://developers.bitpanda.com) | Cryptocurrency Information | apiKey | Yes | ✅ |
 | [Bitquery](https://bitquery.io/) | Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool | apiKey | Yes | ✅ |
-| [BlazePhoenix](https://blazephoenix.xyz/api) | On-chain DEX aggregator quotes and route execution data | none | Yes | ✅ |
-| [Block Lottos](https://blocklottos.com/openapi.json) | On-chain lottery, draw history, jackpot and advertising endpoints | none | Yes | ✅ |
+| [BlazePhoenix](https://blazephoenix.xyz/api) | On-chain DEX aggregator quotes and route execution data | none | Yes | ✅ 📦 |
+| [Block Lottos](https://blocklottos.com/openapi.json) | On-chain lottery, draw history, jackpot and advertising endpoints | none | Yes | ✅ 📦 |
 | [Blockchain](https://www.blockchain.com/api) | Bitcoin Payment, Wallet & Transaction Data | apiKey | Yes | ✅ |
 | [Blockchain](https://www.blockchain.info/api) | Bitcoin Payment, Wallet & Transaction Data | none | Yes | ✅ 📦 |
 | [blockfrost Cardano](https://blockfrost.io/) | Interaction with the Cardano mainnet and several testnets | apiKey | Yes | ✅ |
@@ -941,7 +943,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [CoinRanking](https://developers.coinranking.com/api/documentation) | Live Cryptocurrency data | apiKey | Yes | ✅ |
 | [CoinRanking](https://docs.coinranking.com/) | Live Cryptocurrency data | none | Yes | ✅ |
 | [CoinStats](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest) | Crypto Tracker | none | Yes | ✅ |
-| [CorpStacking](https://www.corpstacking.com/feed.json) | Corporate, government and ETF Bitcoin, Ethereum and Solana treasury disclosures | none | Yes | ✅ |
+| [CorpStacking](https://www.corpstacking.com/feed.json) | Corporate, government and ETF Bitcoin, Ethereum and Solana treasury disclosures | none | Yes | ✅ 📦 |
 | [CryptAPI](https://docs.cryptapi.io/) | Cryptocurrency Payment Processor | none | Yes | ✅ |
 | [Crypto Fear & Greed Index (qiaobax)](https://qiaobax.com/en/tools/fear-greed-index/) | Live crypto market sentiment index (0-100) computed hourly from momentum, trend, volatility and volume | none | Yes | ✅ |
 | [CurrencyAPI](https://currencyapi.com) | Currency Conversion API | apiKey | Yes | ✅ |
@@ -1046,6 +1048,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [CompanyAPI](https://roaring.io) |  | unknown | Yes | ✅ |
 | [Developer documentation](https://help.journy.io) | # Welcome Implementing a new tool can be daunting, but it doesn't have to. You can implement journy.io in a few different ways to ensure it fits with the rest o | unknown | Yes | ✅ |
 | [SalesLoft Platform](https://salesloft.com) | SalesLoft helps transform sales teams into modern sales organizations - converting more target accounts into customer accounts | unknown | Yes | ✅ |
+| [Zenoti API](https://zenoti.com) | Our API documentation has been moved to https://docs.zenoti.com. | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -1182,10 +1185,13 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [The Jira Cloud platform REST API](http://www.atlassian.com) | Jira Cloud platform REST API documentation | unknown | Yes | ✅ |
 | [TinyUID.com](https://tinyuid.com/docs) | Paste a Long URL link to shorten it | unknown | Yes | ✅ |
 | [Vault API](https://developers.apideck.com) | Welcome to the Vault API 👋 When you're looking to connect to an API, the first step is authentication. Vault helps you handle OAuth flows, store API keys, and  | unknown | Yes | ✅ |
+| [VictorOps](https://victorops.com) | This API allows you to interact with the VictorOps platform in various ways. Your account may be limited to a total number of API calls per month. Also, some of | unknown | Yes | ✅ |
 | [Video Search Client](https://microsoft.com) | The Video Search API lets you search on Bing for video that are relevant to the user's search query, for insights about a video or for videos that are trending  | unknown | Yes | ✅ |
 | [Visual Search Client](https://microsoft.com) | Visual Search API lets you discover insights about an image such as visually similar images, shopping sources, and related searches. The API can also perform te | unknown | Yes | ✅ |
 | [Web Search Client](https://microsoft.com) | The Web Search API lets you send a search query to Bing and get back search results that include links to webpages, images, and more. | unknown | Yes | ✅ |
 | [Webhook API](https://developers.apideck.com) | Welcome to the Webhook API. You can use this API to access all Webhook API endpoints. ## Base URL The base URL for all API requests is `https://unify.apideck.co | unknown | Yes | ✅ |
+| [WireMock](http://wiremock.org/docs/) |  | unknown | Yes | ✅ |
+| [Zapier Natural Language Actions (NLA) API - Beta](https://zapier.com) | <img src="https://cdn.zappy.app/945f9bf9e44126873952ec5113949c3f.png" width="100" /> ## Hi, there! Welcome to the **Zapier Natural Language Actions API docs**.  | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -1197,7 +1203,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Abacus](https://abacus.jasoncameron.dev) | Free and simple counting service. You can use it to track page hits and specific events | none | Yes | ✅ |
 | [Abstract API](https://www.abstractapi.com/) | Suite of APIs including email validation, IP geolocation, phone validation, exchange rates and more | apiKey | Yes | ✅ |
 | [Aether Bridge](https://a-to-mind.com) | Autonomous agent team management and API workflow orchestration | apiKey | Yes | ✅ |
-| [Agent Nexus](https://agentnexus.app/llms.txt) | Continuously probed registry of APIs, MCP servers and CLIs callable by agents | none | Yes | ✅ |
+| [Agent Nexus](https://agentnexus.app/llms.txt) | Continuously probed registry of APIs, MCP servers and CLIs callable by agents | none | Yes | ✅ 📦 |
 | [AgentDeals](https://agentdeals.dev/api) | Search and compare developer free tiers, startup credits, and pricing changes | none | Yes | ✅ |
 | [AgentPay Domain Lookup](https://agentpay-lookup.agentpay-apis.workers.dev) | DNS records, WHOIS/RDAP, IP ownership and domain reports for AI agents, paid per call via x402 | none | Yes | ✅ |
 | [Agify.io](https://agify.io) | Estimates the age from a first name | none | Yes | ✅ |
@@ -1210,7 +1216,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [ApicAgent](https://www.apicagent.com) | Extract device details from user-agent string | none | Yes | ✅ |
 | [ApiFlash](https://apiflash.com/) | Chrome based screenshot API to convert URLs to images. | apiKey | Yes | ✅ |
 | [APIFreaks](https://apifreaks.com/docs) | API hub with DNS, WHOIS, Screenshot, IP Geolocation, Weather, Commodity & Currency APIs | apiKey | Yes | ✅ |
-| [APIs.guru](https://apis.guru/api-doc/) | Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs | none | Yes | ✅ |
 | [APIzone](https://apizone.io/api-docs) | Independent uptime & status monitoring for 200+ popular APIs | none | Yes | ✅ |
 | [Aquanode](https://docs.aquanode.io/docs/api/marketplace) | Live GPU rental prices and availability across nine cloud providers | none | Yes | ✅ |
 | [ArulJohn.com](https://api.aruljohn.com/ip/json) | A simple IP Address API in JSON | none | Yes | ✅ 📦 |
@@ -1225,7 +1230,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [BrewPage](https://brewpage.app) | Free hosting for HTML, JSON, key-value, files, multi-file sites with short URLs and TTL retention | none | Yes | ✅ |
 | [BrowserCat](https://www.browsercat.com/) | Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. | apiKey | Yes | ✅ |
 | [Browshot](https://browshot.com/api/documentation) | Easily make screenshots of web pages in any screen size, as any device | apiKey | Yes | ✅ |
-| [CDNJS](https://api.cdnjs.com/libraries/jquery) | Library info on CDNJS | none | Yes | ✅ |
+| [CDNJS](https://api.cdnjs.com/libraries/jquery) | Library info on CDNJS | none | Yes | ✅ 📦 |
 | [Ciprand](https://github.com/polarspetroll/ciprand) | Secure random string generator | none | Yes | ✅ |
 | [claudecookie](https://claudecookie.com/api/) | Convert cookie formats, check Claude sessions and generate Claude Code credentials | none | Yes | ✅ |
 | [Cloudflare](https://developers.cloudflare.com/api/) | Manage DNS, CDN, Workers and other services; documented with an official OpenAPI 3.0 spec | apiKey | Yes | ✅ |
@@ -1235,8 +1240,10 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [CueAPI](https://docs.cueapi.ai) | Execution accountability API for AI agents with scheduling, verification, and outcome confirmation | apiKey | Yes | ✅ |
 | [Doczillla](https://www.doczilla.app/) | SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code | apiKey | Yes | ✅ |
 | [ExtendsClass](https://extendsclass.com/json-storage.html) | Collection of free REST APIs designed to help web developers with prototyping. | none | Yes | ✅ |
+| [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | none | Yes | ✅ |
 | [Extracto](https://getextracto.dev) | Web data extraction API returning typed, schema-validated JSON from any URL | apiKey | Yes | ✅ |
 | [Faceplusplus](https://www.faceplusplus.com/) | A tool to detect face | OAuth | Yes | ✅ |
+| [Fair Draw](https://bettip.co.za/fair-draw/api/) | Verifiable random draws bound to the drand public randomness beacon | none | Yes | ✅ |
 | [FontDownloader](https://fontdownloader.org/#API) | A hassle free API for managing web fonts provided by Google Fonts | none | Yes | ✅ |
 | [Framejet](https://framejet.dev/docs) | Website screenshot API with cookie banners and chat widgets removed; free tier | apiKey | Yes | ✅ |
 | [GcrawlAI](https://gcrawlai.com) | Web scraping, SERP API, screenshots, URL to Markdown and prebuilt extractors | apiKey | Yes | ✅ |
@@ -1263,7 +1270,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Hipsum](https://hipsum.co) | Hipster-themed lorem ipsum generator for placeholder text | none | Yes | ✅ |
 | [Homebrew Formulae](https://formulae.brew.sh/api/) | Package and cask data for the Homebrew package manager | none | Yes | ✅ |
 | [Host.io](https://host.io) | Domains Data API for Developers | apiKey | Yes | ✅ |
-| [HostDealRadar](https://hostdealradar.com/ai/) | Source-backed hosting price and provider record lookup | none | Yes | ✅ |
+| [HostDealRadar](https://hostdealradar.com/ai/) | Source-backed hosting price and provider record lookup | none | Yes | ✅ 📦 |
 | [Httpbin](https://httpbin.org/) | A Simple HTTP Request & Response Service. | none | Yes | ✅ |
 | [Hunter](https://hunter.io/api) | API for domain search, professional email finder, author finder and email verifier | apiKey | Yes | ✅ |
 | [IBM Text to Speech](https://cloud.ibm.com/docs/text-to-speech/getting-started.html) | Convert text to speech | apiKey | Yes | ✅ |
@@ -1302,7 +1309,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Logs.to](https://logs.to/) | Generate logs | apiKey | Yes | ✅ |
 | [Micro-SaaS AI Suite](https://microsaas-agent-api.vercel.app/openapi.json) | 8 serverless AI APIs for sentiment analysis, copy generation, email verification, & OCR | apiKey | Yes | ✅ |
 | [MobileAPI](https://mobileapi.dev/docs/) | Smartphone, tablet, and wearable device specifications, images, and pricing | apiKey | Yes | ✅ |
-| [msgboard](https://msgboard.dev) | Public message board for agent-to-agent messaging, no account or key | none | Yes | ✅ |
+| [msgboard](https://msgboard.dev) | Public message board for agent-to-agent messaging, no account or key | none | Yes | ✅ 📦 |
 | [MY IP](https://www.myip.com/api-docs/) | Get IP address information | none | Yes | ✅ |
 | [MyIPRightNow](https://myiprightnow.com) | Public IP address with network, location, and connection details | none | Yes | ✅ |
 | [MyJSON.online](https://myjson.online) | A RESTful API for flexible storage of JSON data | apiKey | Yes | ✅ |
@@ -1345,7 +1352,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [ReqRes](https://reqres.in/) | A hosted REST-API ready to respond to your AJAX requests | none | Yes | ✅ |
 | [RubyGems](https://guides.rubygems.org/rubygems-org-api/) | Ruby gem metadata, versions, dependencies and search | none | Yes | ✅ |
 | [SavePage.io](https://www.savepage.io) | A free, RESTful API used to screenshot any desktop, or mobile website | apiKey | Yes | ✅ |
-| [ScrapeNinja](https://scrapeninja.net) | Scraping API with Chrome fingerprint and residential proxies | apiKey | Yes | ✅ |
 | [ScraperApi](https://www.scraperapi.com) | Easily build scalable web scrapers | apiKey | Yes | ✅ |
 | [scraperBox](https://scraperbox.com/) | Undetectable web scraping API | apiKey | Yes | ✅ |
 | [scrapestack](https://scrapestack.com/) | Real-time, Scalable Proxy & Web Scraping REST API | apiKey | Yes | ✅ |
@@ -1360,7 +1366,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [ScreenshotAPI.net](https://screenshotapi.net/) | Use one simple API call to generate screenshots of any website. | apiKey | Yes | ✅ |
 | [ScreenURL](https://screenurl.com/docs) | Capture screenshots and PDFs of any webpage via REST API | apiKey | Yes | ✅ |
 | [SegmentLite](https://segmentlite-api-dfru.fly.dev) | Lightweight event routing and webhook fan-out API alternative to Segment | apiKey | Yes | ✅ |
-| [Serialif Color](https://color.serialif.com/) | Color conversion, complementary, grayscale and contrasted text | none | Yes | ✅ |
 | [SerpApi](https://serpapi.com/) | Scrape Google and other search engines with a simple API | apiKey | Yes | ✅ |
 | [Serply](https://serply.io/docs) | Google, Bing, News, Scholar and Maps search results and page scraping as JSON | apiKey | Yes | ✅ |
 | [serpstack](https://serpstack.com/) | Real-Time & Accurate Google Search Results API | apiKey | Yes | ✅ |
@@ -1381,13 +1386,12 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Talordata](https://docs.talordata.com/) | SERP data from major search engines with a free trial | apiKey | Yes | ✅ |
 | [TalorData](https://talordata.com/?utm_source=publicapilists&utm_term=publicapilists) | Get structured SERP results from Google, Bing, Yandex, and others via one API | apiKey | Yes | ✅ |
 | [Thunder Client](https://www.thunderclient.com/) | API testing tool | none | Yes | ✅ |
-| [TidyTools](https://tools.yukai.uk/llms.txt) | Web page to clean Markdown and AI crawler robots.txt checks, free without a key (rate limited) | none | Yes | ✅ |
+| [TidyTools](https://tools.yukai.uk/llms.txt) | Web page to clean Markdown and AI crawler robots.txt checks, free without a key (rate limited) | none | Yes | ✅ 📦 |
 | [Timezone WorldTime](https://www.timezone.io/docs/worldtimeapi) | Current time, UTC offset and DST for any time zone or IP, a drop-in WorldTimeAPI replacement | none | Yes | ✅ |
 | [TinyMind Agent Tools](https://tinymind.eu/api/) | Free APIs by an AI agent on a VPS: actor lookup, word-of-the-day, poems, jokes, ping | none | Yes | ✅ |
 | [ToolForte](https://toolforte.com/developers) | Deterministic utilities: IBAN/VAT validation, cron parsing, regex, diffs, Dutch holidays, test data | apiKey | Yes | ✅ |
 | [URLpipe](https://urlpipe.dev/docs) | Turn a URL into Markdown, screenshots, metadata or Lighthouse audits, rendered in real Chrome | apiKey | Yes | ✅ |
 | [Userstack](https://userstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | Secure User-Agent String Lookup JSON API | OAuth | Yes | ✅ |
-| [Utilorax](https://utilorax.com/api) | 203 JSON endpoints: hashing, encoding, unit conversion, text, dates and file conversion | apiKey | Yes | ✅ |
 | [v.recipes DNS Accelerator](https://v.recipes/dns/) | The Accelerator variant can be used to test & accelerate any DoH providers | none | Yes | ✅ |
 | [v.recipes Get IP](https://v.recipes/get-ip) | A simple API to get information such as IP, ISP name, Location, etc. based on user request | none | Yes | ✅ 📦 |
 | [Vornamencheck](https://vornamencheck.de/#api) | Gender probability for a first name, optionally per country; documentation in German | none | Yes | ✅ |
@@ -1511,12 +1515,16 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [DropX](https://dropx.io) | dropX.io API provides programmatic access to the e-commerce intelligence data. | unknown | Yes | ✅ |
 | [FraudLabs Pro Fraud Detection](https://fraudlabspro.com) | Online payment fraud detection service. It helps merchants to minimize chargebacks and therefore maximize the revenue. It can be used to detect fraud for variou | unknown | Yes | ✅ |
 | [Fulfillment.com APIv2](https://fulfillment.com) | Welcome to our current iteration of our REST API. While we encourage you to upgrade to v2.0 we will continue support for our [SOAP API](https://github.com/fulfi | unknown | Yes | ✅ |
+| [Inventory Management](https://walmart.com) | Maintaining up-to-date inventory for your items on Walmart.com ensures a great experience for your customers and greater sales opportunities for you. | unknown | Yes | ✅ |
+| [Item API](https://walmart.com) | Please make sure you use the correct version of the APIs for your use case. To find out the appropriate version, go to the API Docs drop down on the menu. | unknown | Yes | ✅ |
 | [Jumpseller API](https://jumpseller.com) | # Endpoint Structure All URLs are in the format: ```text https://api.jumpseller.com/v1/path.json?login=XXXXXX&authtoken=storetoken ``` The path is prefixed by t | unknown | Yes | ✅ |
 | [obono RKSV API](https://obono.at) | Provides a RESTful API for interacting with virtual cash registers and creating receipts that are conform with the Registrierkassensicherheitsverordnung (RKSV). | unknown | Yes | ✅ |
 | [Open AI Klarna product Api](https://klarna.com) |  | unknown | Yes | ✅ |
+| [Orders API](https://walmart.com) | Please make sure you use the correct version of the APIs for your use case. To find out the appropriate version, go to the API Docs drop down on the menu. | unknown | Yes | ✅ |
 | [papiNet API](https://github.com/papinet/papiNet-API/issues) | papinet API is a global initiative for the Forst and Paper supply chain. | unknown | Yes | ✅ |
 | [Pendo Feedback API](https://pendo.io) | ## Who is this for? This documentation is for developers creating their own integration with [Feedback's](https://www.pendo.io/product/feedback/) API. If you ar | unknown | Yes | ✅ |
 | [Pims](https://pims.io) | Hereafter is the documentation of the private API of [Pims: Pointages Intelligents pour le Monde du Spectacle](https://pims.io). This API is designed for 3rd-pa | unknown | Yes | ✅ |
+| [Price Management](https://walmart.com) | The price is a fundamental building block for your listing on Walmart.com. You can use the price management APIs to set up and manage the price for a given item | unknown | Yes | ✅ |
 | [Product Library API](https://izettle.com) | The Product Library API is used for managing merchant's product information and product images. | unknown | Yes | ✅ |
 | [Qualpay Payment Gateway API](https://qualpay.com) | This document describes the Qualpay Payment Gateway API. | unknown | Yes | ✅ |
 | [shipstation](https://shipstation.com) | Polls is a simple API allowing consumers to view polls and vote in them. | unknown | Yes | ✅ |
@@ -1525,6 +1533,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Sync for Commerce API](https://www.codat.io/) | The API for Sync for Commerce. Sync for Commerce is an API and a set of supporting tools. It has been built to enable e-commerce, point of sale platforms to pro | unknown | Yes | ✅ |
 | [ticketmaster publish api](http://developer.ticketmaster.com/support/contact-us/) | Publish API | unknown | Yes | ✅ |
 | [Velo Payments APIs](https://velopayments.com) | ## Terms and Definitions Throughout this document and the Velo platform the following terms are used: * **Payor.** An entity (typically a corporation) which wis | unknown | Yes | ✅ |
+| [Zalando Shop](https://zalando.com) | The shop API empowers developers to build amazing new apps or websites using Zalando shop data and services. | unknown | Yes | ✅ |
 | [カラーミーショップアプリストア API](https://shop-pro.jp/?mode=inq) | # カラーミーショップアプリストア API [アプリストア](https://app.shop-pro.jp/)にて公開するアプリに対して、一般公開している[カラーミーショップAPI](https://developer.shop-pro.jp/docs/colorme-api)に加えて、カラーミーショップアプリストア | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
@@ -1629,6 +1638,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [GererMesAffaires {REST:API}](https://api.gerermesaffaires.com/) | Sécurisez vos données en interfaçant votre logiciel métier avec le service en ligne GererMesAffaires | unknown | Yes | ✅ |
 | [Go-UPC Barcode-Lookup API](https://go-upc.com) | Find information on products from around the globe. The API supports UPC, EAN, and ISBN barcode numbers, and info returned includes product name, description, b | unknown | Yes | ✅ |
 | [Google Mirror](https://developers.google.com/glass) | Interacts with Glass users via the timeline. | unknown | Yes | ✅ |
+| [Google Pay Passes API](https://developers.google.com/pay/passes) | API for issuers to save and manage Google Wallet Objects. | unknown | Yes | ✅ |
 | [Greip API](https://docs.greip.io) | This documentation shows how to use Greip API, By highlighting the API methods, options and some other features that allow you to get the most of this API. | unknown | Yes | ✅ |
 | [Groundhog Day API](https://groundhog-day.com/api) | This API returns all of North America’s prognosticating animals and their yearly weather predictions. | unknown | Yes | ✅ |
 | [GSMTasks Project API](https://gsmtasks.com) | The GSMtasks API is a RESTful web service for developers to programmatically interact with GSMtasks data, real-time delivery and task management and route optim | unknown | Yes | ✅ |
@@ -1647,6 +1657,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Location Score](https://amadeus.com) | Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for m | unknown | Yes | ✅ |
 | [Locations API](https://mastercard.com) | The Locations API provides access to MasterCard's ATM and Merchant location database | unknown | Yes | ✅ |
 | [Loket.nl API](https://loket.nl) | <span style="color:green">**Is this your first time here? Please check out our [introduction to Loket (API)](./Introduction)**</span> **The initial loading time | unknown | Yes | ✅ |
+| [Lucidtech API](https://webflow.com) |  | unknown | Yes | ✅ |
 | [MasterCard ABU API](https://mastercard.com) | Mastercard ABU API | unknown | Yes | ✅ |
 | [MasterCard Bin Table Listing](https://mastercard.com) | MasterCard Bin Table Listing API | unknown | Yes | ✅ |
 | [MATCH API](https://mastercard.com) | Helps acquirers identify potentially high-risk merchants before entering to a merchant agreement. | unknown | Yes | ✅ |
@@ -1682,7 +1693,11 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Trip Parser](https://amadeus.com) | Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for m | unknown | Yes | ✅ |
 | [Trip Purpose Prediction](https://amadeus.com) | Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for m | unknown | Yes | ✅ |
 | [User API](https://businesssupport.vonage.com/contactus) | The Vonage Business Cloud User API enables you to retrieve information about users. Your application must subscribe to the Provisioning API suite to use this AP | unknown | Yes | ✅ |
+| [Vectara REST API](http://support.vectara.com/) | Vectara is a neural search platform, built for developers to get the most out of their data. You can sign up for an account at [https://vectara.com](https://vec | unknown | Yes | ✅ |
 | [Vonage Integration Suite](https://integrate.vonage.com) | The Vonage Integration Suite API enables call control and webhooks for call events. Your application must subscribe to the VonageIntegrationSuite API suite to u | unknown | Yes | ✅ |
+| [Wealth Reader API](https://docs-es.wealthreader.com/) | Las APIs regulatorias basadas en PSD2 proporcionan acceso a cierta información financiera como saldos de cuentas bancarias y transacciones. Sin embargo, hay otr | unknown | Yes | ✅ |
+| [WikiPathways Webservices](https://wikipathways.org) |  | unknown | Yes | ✅ |
+| [XTRF Home Portal API](https://xtrf.eu) | XTRF Home Portal API enables you to perform operations on Projects, Quotes, Customers, Vendors etc. as a XTRF Home Portal user. <br>The documentation is generat | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -1749,7 +1764,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [PandaScore REST API for All Videogames](https://pandascore.co) | # Introduction Whether you're looking to build an official Pandascore integration for your service, or you just want to build something awesome, [we can help yo | unknown | Yes | ✅ |
 | [PotterDB](https://docs.potterdb.com/) | Harry Potter universe database with characters, spells, potions and more | none | Yes | ✅ |
 | [Random Useless Facts](https://uselessfacts.jsph.pl/) | Get useless, but true facts | none | Yes | ✅ |
-| [RAWG Video Games Database API](https://rawg.io) | The largest open video games database. ### Why build on RAWG - More than 350,000 games for 50 platforms including mobiles. - Rich metadata: tags, genres, develo | unknown | Yes | ✅ |
 | [Soccer v3 Projections](https://sportsdata.io) |  | unknown | Yes | ✅ |
 | [Soccer v3 Scores](https://sportsdata.io) |  | unknown | Yes | ✅ |
 | [Soccer v3 Stats](https://sportsdata.io) |  | unknown | Yes | ✅ |
@@ -1848,14 +1862,13 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [contix](https://contix.es/api/#herramientas) | Spain: IBAN validation with bank and BIC, EU VAT number check (VIES), Modelo 303 VAT sums | none | Yes | ✅ |
 | [Drillr](https://drillr.ai/docs/api) | Fundamentals, filings, earnings, ownership and events for US, China and Japan equities | apiKey | Yes | ✅ |
 | [Earnings Feed](https://earningsfeed.com/api) | Real-time SEC filings, insider trades, and institutional holdings | apiKey | Yes | ✅ |
-| [Econdb](https://www.econdb.com/api/) | Global macroeconomic data | none | Yes | ✅ |
+| [Econdb](https://www.econdb.com/api/) | Global macroeconomic data | none | Yes | ✅ 📦 |
 | [EconPulse](https://econpulse.io) | Live economic data — CPI, PPI, energy, treasury rates, BTC premium | apiKey | Yes | ✅ |
 | [EOD Historical Data](https://eodhd.com/) | Real-time and historical stock market data with 150+ exchanges | apiKey | Yes | ✅ |
 | [EstimateTax](https://estimatetax.net/api/) | US federal, state and local income tax calculation for 2026, with the source of every figure | none | Yes | ✅ |
 | [Exchange Rates](https://exchangeratesapi.io/) | Foreign exchange rates API with currency conversion. [JSON](https://en.wikipedia.org/wiki/JSON) & [CORS](https://en.wikipedia.org/wiki/Cross-originresourcesharing). | unknown | No | ✅ |
 | [FarmDash](https://www.farmdash.one/agents) | DeFi intelligence, protocol risk, yield simulation plus 84 MCP agent tools, free Scout tier | apiKey | Yes | ✅ |
 | [Fed Treasury](https://fiscaldata.treasury.gov/api-documentation/) | U.S. Department of the Treasury Data | none | Yes | ✅ |
-| [FilingFirehose](https://filingfirehose.com) | Structured SEC EDGAR filings with body-text-classified 8-Ks, activist-tagged 13D/G, and ATM-offering detection in S-3 / 424B5 | none | Yes | ✅ |
 | [Filingrail](https://rapidapi.com/hudson-enterprises-llc-hudson-enterprises-llc-default/api/filingrail) | SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings | apiKey | Yes | ✅ |
 | [Filingrail](https://filingrail.hudsonenterprisesllc.com) | SEC EDGAR filings, XBRL financials, Form 4 insider trades, 8-K events and 13F holdings | apiKey | Yes | ✅ |
 | [Finage](https://finage.co.uk) | Finage is a stock, currency, cryptocurrency, indices, and ETFs real-time & historical data provider | apiKey | Yes | ✅ |
@@ -1879,19 +1892,21 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Indian Bank Data API](https://github.com/kaustubhk24/Indian-Banks-Data) | All Banks IFSC Code data,Search by IFSc or other details | none | Yes | ✅ |
 | [Indian Mutual Fund](https://www.mfapi.in/) | Get complete history of India Mutual Funds Data | none | Yes | ✅ |
 | [Intrinio](https://intrinio.com/) | A wide selection of financial data feeds | apiKey | Yes | ✅ |
+| [Ireland](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) | Variety of data mainly in [XLS](https://en.wikipedia.org/wiki/MicrosoftExcel#Fileformats) format. | unknown | No | ✅ |
 | [KeepRule](https://github.com/henu-wang/keeprule-api) | Investment principles and quotes from Buffett, Munger & more | none | Yes | ✅ |
 | [LiquiLens](https://liquilens.in/developers/) | Public-record bank and lender failure-risk evidence | none | Yes | ✅ |
 | [matchwire.win](https://matchwire.win/docs/) | Matched prediction-market games across Kalshi, Polymarket US/Intl and Predict.fun | apiKey | Yes | ✅ |
 | [Mboum API](https://docs.mboum.com) | Real-time Stock market and Options Data | apiKey | Yes | ✅ |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API reference - all the information you need to develop your integrations | apiKey | Yes | ✅ |
 | [Moldova](https://bnm.md/en/content/official-exchange-rates) | Currency exchange rates in [XML](https://en.wikipedia.org/wiki/XML), [JSON](https://en.wikipedia.org/wiki/JSON) and [XLS](https://en.wikipedia.org/wiki/MicrosoftExcel#Fileformats) formats. | unknown | No | ✅ |
-| [Mono](https://mono.co/) | Connect with users’ bank accounts and access transaction data in Africa | apiKey | Yes | ✅ |
 | [Moov](https://docs.moov.io/api/) | The Moov API makes it simple for platforms to send, receive, and store money | apiKey | Yes | ✅ |
+| [Myanmar](http://forex.cbm.gov.mm/api/) | Currency exchange rates in [JSON](https://en.wikipedia.org/wiki/JSON) format. | unknown | No | ✅ |
 | [MyPayslip.lk](https://mypayslip.lk/openapi.json) | Sri Lanka APIT, EPF, ETF, stamp duty and net salary calculations | none | Yes | ✅ 📦 |
 | [Nigeria](https://www.cbn.gov.ng/rates/) | Exchange rates and other info in [CSV](https://en.wikipedia.org/wiki/Comma-separatedvalues) format | unknown | No | ✅ |
 | [NORTH7 Agent](https://north7.ai/v1/docs) | Trading signals, market analysis and geopolitical intelligence | apiKey | Yes | ✅ |
 | [Open Economics](https://open-economics-data.knbf982hkn.chatgpt.site/en/docs) | Normalized Brazilian economic series from BCB and IBGE | none | Yes | ✅ |
 | [OpenFIGI](https://www.openfigi.com/api) | Equity, index, futures, options symbology from Bloomberg LP | apiKey | Yes | ✅ |
+| [Parqet Logo API](https://developers.parqet.com/docs/assets/logos) | Free Company Logo API for 400k+ stocks, ETF, mutual funds, crypto and more in [SVG](https://en.wikipedia.org/wiki/MicrosoftExcel#Fileformats), [PNG](https://de.wikipedia.org/wiki/PortableNetworkGraphics) and [JPG](https://de.wikipedia.org/wiki/JPEG) format. | unknown | No | ✅ |
 | [Peru](https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/api) | Variety of data in [XLSX](https://en.wikipedia.org/wiki/MicrosoftExcel#Fileformats) format. | unknown | No | ✅ |
 | [Pink Agentic AI Payments](https://pinkwallet.com/agentic/developers/) | Approval layer for AI agent payments: per-agent budgets, rules, single-use credentials, sandbox | apiKey | Yes | ✅ |
 | [Plaid](https://www.plaid.com/docs) | Connect with user's bank accounts and access transaction data | apiKey | Yes | ✅ |
@@ -1938,13 +1953,16 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Account and Transaction API Specification](https://openbanking.org.uk) | Swagger for Account and Transaction API Specification | unknown | Yes | ✅ |
 | [Accounting API](https://codat.io) | A flexible API for pulling accounting data, normalized and aggregated from 20 accounting integrations. Standardize how you connect to your customers’ accounting | unknown | Yes | ✅ |
 | [Afterbanks API](https://afterbanks.com) | La estandarización de la conexión con cualquier banco en tiempo real. | unknown | Yes | ✅ |
+| [API Reference: Billing](https://zuora.com) | # Introduction Welcome to the reference for the Zuora Billing REST API! To learn about the common use cases of Zuora Billing REST APIs, check out the [API Guide | unknown | Yes | ✅ |
 | [API v1.0.0](https://envoice.in) | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/80638214aa04722c9203) <span style='margin-left: 0.5em;'>or</span> | unknown | Yes | ✅ |
 | [Assess API](https://www.codat.io/contact/) | Codat's Assess API enable you to make smarter credit decisions on your small business customers. Assess enriches your customer's accounting, commerce and bankin | unknown | Yes | ✅ |
+| [ATM Locator API](https://hsbc.com) |  | unknown | Yes | ✅ |
 | [Bank Feeds API](https://codat.io) | Bank Feeds API enables your SMB users to set up bank feeds from accounts in your application to supported accounting platforms. A bank feed is a connection betw | unknown | Yes | ✅ |
 | [Banking API](https://codat.io) | Codat's Banking API allows you to access standardised data from over bank accounts via third party providers. Standardize how you connect to your customers’ ban | unknown | Yes | ✅ |
 | [Big Red Cloud API](https://bigredcloud.com) | <div style='line-height: 30px;'> <strong>Welcome to the Big Red Cloud API</strong><br/> This API enables programmatic access to Big Red Cloud data.<br/> We have | unknown | Yes | ✅ |
 | [Billingo API v3](https://support.billingo.hu/content/446136358) | This is a Billingo API v3 documentation. Our API based on REST software architectural style. API has resource-oriented URLs, accepts JSON-encoded request bodies | unknown | Yes | ✅ |
 | [BIN Lookup API](https://bintable.com) | BIN lookup API, the free api service from bintable.com to lookup card information using it's BIN. the service maintains updated database based on the comunity a | unknown | Yes | ✅ |
+| [Branch Locator API](https://hsbc.com) |  | unknown | Yes | ✅ |
 | [bunq API](http://bunq.com/developer) | ***UPDATE:*** *We have released a [beta version of the new bunq API documentation.](https://beta.doc.bunq.com)* ***NOTICE:*** *We have updated the sandbox base  | unknown | Yes | ✅ |
 | [Chaingateway.io](https://chaingateway.io) | # Chaingateway.io REST API to build the bridge between Ethereum and the real world Please check out our [website](https://chaingateway.io?utm_source=postman) fo | unknown | Yes | ✅ |
 | [Codat Expense API](https://www.codat.io/) | The API for Sync for Expenses. Sync for Expenses is an API and a set of supporting tools. It has been built to enable corporate card and expense management plat | unknown | Yes | ✅ |
@@ -1964,6 +1982,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [PayRun.IO](https://developer.test.payrun.io/docs) | Open, scableable, transparent payroll API. | unknown | Yes | ✅ |
 | [PocketSmith](https://pocketsmith.com) | The PocketSmith API | unknown | Yes | ✅ |
 | [Portfolio Optimizer](https://docs.portfoliooptimizer.io/) | Portfolio Optimizer is a [Web API](https://en.wikipedia.org/wiki/Web_API) to analyze and optimize investment portfolios (collection of financial assets such as  | unknown | Yes | ✅ |
+| [Product Finder API](https://hsbc.com) |  | unknown | Yes | ✅ |
 | [Reimbursements API](https://linuxfoundation.org) |  | unknown | Yes | ✅ |
 | [Storecove API](https://storecove.com) | Storecove API | unknown | Yes | ✅ |
 | [Stripe API](https://stripe.com) | The Stripe REST API. Please see https://stripe.com/docs/api for more details. | unknown | Yes | ✅ |
@@ -1975,6 +1994,22 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Tradematic Cloud API](https://tradematic.com) | ### Overview Tradematic Cloud is a trading infrastructure for building investment services. It’s a trading engine + API + ready-made adapters to stock and forex | unknown | Yes | ✅ |
 | [Up API](https://github.com/up-banking/api) | The Up API gives you programmatic access to your balances and transaction data. You can request past transactions or set up webhooks to receive real-time events | unknown | Yes | ✅ |
 | [VAT API](https://vatapi.com) | A developer friendly API to help your business achieve VAT compliance | unknown | Yes | ✅ |
+| [Xero Accounting API](https://developer.xero.com) |  | unknown | Yes | ✅ |
+| [Xero Assets API](https://developer.xero.com) | The Assets API exposes fixed asset related functions of the Xero Accounting application and can be used for a variety of purposes such as creating assets, retri | unknown | Yes | ✅ |
+| [Xero Bank Feeds API](https://developer.xero.com) | The Bank Feeds API is a closed API that is only available to financial institutions that have an established financial services partnership with Xero. If you're | unknown | Yes | ✅ |
+| [Xero Files API](https://developer.xero.com) | These endpoints are specific to Xero Files API | unknown | Yes | ✅ |
+| [Xero OAuth 2 Identity Service API](https://developer.xero.com) | These endpoints are related to managing authentication tokens and identity for Xero API | unknown | Yes | ✅ |
+| [Xero Payroll AU API](https://developer.xero.com) | This is the Xero Payroll API for orgs in Australia region. | unknown | Yes | ✅ |
+
+[↑ Back to top](#public-apis-live)
+
+### Fitness
+
+| API | Description | Auth | HTTPS | Status |
+|---|---|---|---|---|
+| [HealthGraph](https://runkeeper.com/developer/healthgraph/registration-authorization) | RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends. | unknown | No | ✅ |
+| [Open Food Facts](https://en.wiki.openfoodfacts.org/API) | Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels. | unknown | No | ✅ |
+| [Withings](http://oauth.withings.com/api) | Access to data from Withings activity trackers and body measures. | unknown | No | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -2081,7 +2116,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [JokeAPI](https://sv443.net/jokeapi/v2/) | Programming, Miscellaneous and Dark Jokes | none | Yes | ✅ |
 | [Jokes](https://github.com/15Dkatz/official_joke_api) | Programming and general jokes | none | Yes | ✅ |
 | [Jokes One](https://jokes.one/api/joke/) | Joke of the day and large category of jokes accessible via REST API | apiKey | Yes | ✅ |
-| [L2 Calendar](https://l2calendar.com/api/servers) | Lineage 2 private servers list with names, websites, chronicles, rates and opening dates | none | Yes | ✅ |
+| [L2 Calendar](https://l2calendar.com/api/servers) | Lineage 2 private servers list with names, websites, chronicles, rates and opening dates | none | Yes | ✅ 📦 |
 | [Lichess](https://lichess.org/api) | Access to all data of users, games, puzzles and etc on Lichess | OAuth | Yes | ✅ |
 | [LotteryData.io](https://lotterydata.io/) | Powerball, MegaMillions, and more results (live + historical) games | apiKey | Yes | ✅ |
 | [Magic The Gathering](http://magicthegathering.io/) | Magic The Gathering Game Information | none | No | ✅ |
@@ -2130,7 +2165,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more | none | Yes | ✅ |
 | [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net info and stats | apiKey | Yes | ✅ |
 | [When is next MCU film](https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md) | Upcoming MCU film information | none | Yes | ✅ |
-| [xkcd](https://xkcd.com/json.html) | Webcomic of romance, sarcasm, math, and language. | none | Yes | ✅ |
+| [xkcd](https://xkcd.com/json.html) | Webcomic of romance, sarcasm, math, and language. | none | Yes | ✅ 📦 |
 | [Yu-Gi-Oh!](https://db.ygoprodeck.com/api-guide/) | Yu-Gi-Oh! TCG Information | none | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
@@ -2190,7 +2225,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [IP99](https://ip99.com/api) | IP geolocation with proxy, VPN and datacenter risk and the age of the evidence | none | Yes | ✅ |
 | [ipapi.co](https://ipapi.co/api/#introduction) | Find IP address location information | none | Yes | ✅ |
 | [ipapi.com](https://ipapi.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | Real-time Geolocation & Reverse IP Lookup REST API | apiKey | Yes | ✅ |
-| [IPGEO](https://api.techniknews.net/ipgeo/) | Unlimited free IP Address API with useful information | none | Yes | ✅ |
+| [IPGEO](https://api.techniknews.net/ipgeo/) | Unlimited free IP Address API with useful information | none | Yes | ✅ 📦 |
 | [ipgeolocation](https://ipgeolocation.io/) | IP Geolocation AP with free plan 30k requests per month | apiKey | Yes | ✅ |
 | [ipgeolocationapi](https://ipgeolocationapi.io/docs) | IP geolocation with ASN, timezone, currency and threat data, 5,000 keyless calls a day | none | Yes | ✅ |
 | [ipwhois](https://ipwhois.io/documentation) | IP geolocation with country, city, coordinates, ISP, timezone and flag data | none | Yes | ✅ |
@@ -2217,11 +2252,11 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [OpenPLZ API](https://www.openplzapi.org/) | A public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland via an open REST API | none | Yes | ✅ |
 | [openrouteservice.org](https://openrouteservice.org/) | Directions, POIs, isochrones, geocoding (+reverse), elevation, and more | apiKey | Yes | ✅ |
 | [OpenStreetMap](http://wiki.openstreetmap.org/wiki/API) | Navigation, geolocation and geographical data | OAuth | No | ✅ |
-| [Pinball Map](https://pinballmap.com/api/v1/docs) | A crowdsourced map of public pinball machines | none | Yes | ✅ |
-| [PontoFato](https://pontofato.com/api/) | Brazilian postal codes (CEP) with IBGE coordinates, addresses and the companies registered there | none | Yes | ✅ |
+| [Pinball Map](https://pinballmap.com/api/v1/docs) | A crowdsourced map of public pinball machines | none | Yes | ✅ 📦 |
+| [PontoFato](https://pontofato.com/api/) | Brazilian postal codes (CEP) with IBGE coordinates, addresses and the companies registered there | none | Yes | ✅ 📦 |
 | [positionstack](https://positionstack.com/) | Forward & Reverse Batch Geocoding REST API | apiKey | Yes | ✅ |
 | [Postali](https://postali.app/api) | Free postal codes API for Mexico, Colombia, and Spain — no API key, no signup, no monthly quota | none | Yes | ✅ |
-| [PostcodeData.nl](http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) | Provide geolocation data based on postcode for Dutch addresses | none | No | ✅ |
+| [PostcodeData.nl](http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) | Provide geolocation data based on postcode for Dutch addresses | none | No | ✅ 📦 |
 | [Postcodes.io](https://postcodes.io) | Postcode lookup & Geolocation for the UK | none | Yes | ✅ |
 | [REST Countries](https://restcountries.com) | Get information about countries via a RESTful API | none | Yes | ✅ |
 | [Rwanda Locations](https://rapidapi.com/victorkarangwa4/api/rwanda) | Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets | none | Yes | ✅ |
@@ -2250,6 +2285,8 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
+| [Gmail API](https://developers.google.com/gmail/api/?hl=en) | The Gmail API lets you view and manage Gmail mailbox data like threads, messages, and labels. | unknown | Yes | ✅ |
+| [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/rest/v2/) | A data platform for customers to create, manage, share and query data. v2 | unknown | No | ✅ |
 | [Google Books API](https://developers.google.com/books/) | Lets you search for books and manage your Google Books library. v1 | unknown | No | ✅ |
 | [Google Calendar API](https://developers.google.com/google-apps/calendar/?hl=en) | Lets you manipulate events and other calendar data. v3 | unknown | No | ✅ |
 | [Google Classroom API](https://developers.google.com/classroom/?hl=en) | Manages classes, rosters, and invitations in Google Classroom. | unknown | Yes | ✅ |
@@ -2283,6 +2320,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [BuildData](https://builddata.ca) | Canadian construction and development data from 17 cities | apiKey | Yes | ✅ |
 | [Census.gov](https://www.census.gov/data/developers/data-sets.html) | The US Census Bureau provides various APIs and data sets on demographics and businesses | none | Yes | ✅ |
 | [City, Analyze Boston](https://data.boston.gov/) | Boston(US) City Open Data | apiKey | Yes | ✅ |
+| [City, Berlin](https://daten.berlin.de/) | Berlin(DE) City Open Data | none | Yes | ✅ |
 | [City, Bologna Opendata](https://dati.comune.bologna.it) | Bologna(IT) City Open Data | none | Yes | ✅ |
 | [City, Gdańsk](https://ckan.multimediagdansk.pl/en) | Gdańsk (PL) City Open Data | none | Yes | ✅ |
 | [City, Gdynia](http://otwartedane.gdynia.pl/en/api_doc.html) | Gdynia (PL) City Open Data | none | No | ✅ |
@@ -2293,7 +2331,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [City, Prague Open Data](http://opendata.praha.eu/en) | Prague(CZ) City Open Data | none | No | ✅ |
 | [City, Toronto Open Data](https://open.toronto.ca/) | Toronto (CA) City Open Data | none | Yes | ✅ |
 | [Colorado Data Engine](http://codataengine.org/) | Formatted and geolocated Colorado public data | none | Yes | ✅ |
-| [Colorado Information Marketplace](https://data.colorado.gov/) | Colorado State Government Open Data | none | Yes | ✅ |
 | [ContaCLT](https://contaclt.com/dados/api/) | Brazilian payroll and labor calculations: net salary, INSS, IRRF, unemployment insurance | none | Yes | ✅ |
 | [CPFHub](https://cpfhub.io) | Brazilian CPF lookup — returns full name, birth date, and gender for any CPF | apiKey | Yes | ✅ |
 | [Crime Brasil](https://crimebrasil.com.br) | Brazilian public-safety data — 3M geocoded crime incidents, PRF highway accidents, DATASUS violence (CC BY 4.0) | none | Yes | ✅ |
@@ -2305,7 +2342,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [District of Columbia Open Data](http://opendata.dc.gov/pages/using-apis) | Contains D.C. government public datasets, including crime, GIS, financial data, and so on | none | Yes | ✅ |
 | [DistrictAPI](https://districtapi.dev/docs) | US school districts and schools by address, with enrollment and boundaries | apiKey | Yes | ✅ |
 | [Edgrapi](https://edgrapi.com/docs) | US government data as JSON: SAM.gov contract opportunities, USAspending awards, Grants.gov grants | apiKey | Yes | ✅ |
-| [EditalMD](https://editalmd.com/api/) | Brazilian public procurement (PNCP) notices as Markdown with deadlines and requirements | none | Yes | ✅ |
+| [EditalMD](https://editalmd.com/api/) | Brazilian public procurement (PNCP) notices as Markdown with deadlines and requirements | none | Yes | ✅ 📦 |
 | [EPA](https://www.epa.gov/developers/data-data-products#apis) | Web services and data sets from the US Environmental Protection Agency | none | Yes | ✅ |
 | [EU VAT Rates by Commodity Code](https://github.com/humora2504/eu-vat-by-commodity-code) | EU VAT rates mapped to CN and CPA commodity codes, all 27 member states | none | Yes | ✅ |
 | [FDA Import Alert Screening](https://aerviklabs.com/apis/fda-import-alerts/) | Screen firm names against FDA Import Alert Red, Yellow and Green Lists | apiKey | Yes | ✅ |
@@ -2322,6 +2359,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Open Government, Argentina](https://datos.gob.ar/) | Argentina Government Open Data | none | Yes | ✅ |
 | [Open Government, Australia](https://www.data.gov.au/) | Australian Government Open Data | none | Yes | ✅ |
 | [Open Government, Austria](https://www.data.gv.at/) | Austria Government Open Data | none | Yes | ✅ |
+| [Open Government, Belgium](https://data.gov.be/) | Belgium Government Open Data | none | Yes | ✅ |
 | [Open Government, Canada](http://open.canada.ca/en) | Canadian Government Open Data | none | No | ✅ |
 | [Open Government, Colombia](https://www.dane.gov.co/) | Colombia Government Open Data | none | No | ✅ |
 | [Open Government, Cyprus](https://data.gov.cy/?language=en) | Cyprus Government Open Data | none | Yes | ✅ |
@@ -2334,11 +2372,13 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Open Government, Indonesia](https://data.go.id/) | Indonesian Government Open Data | none | Yes | ✅ |
 | [Open Government, Ireland](https://data.gov.ie/pages/developers) | Ireland Government Open Data | none | Yes | ✅ |
 | [Open Government, Korea](https://www.data.go.kr/) | Korea Government Open Data | apiKey | Yes | ✅ |
+| [Open Government, Luxembourg](https://data.public.lu) | Luxembourgish Government Open Data | apiKey | Yes | ✅ |
 | [Open Government, Mexico](https://www.inegi.org.mx/datos/) | Mexican Statistical Government Open Data | none | Yes | ✅ |
 | [Open Government, Mexico](https://datos.gob.mx/) | Mexico Government Open Data | none | Yes | ✅ |
 | [Open Government, Netherlands](https://data.overheid.nl/en/ondersteuning/data-publiceren/api) | Netherlands Government Open Data | none | Yes | ✅ |
 | [Open Government, New South Wales](https://api.nsw.gov.au/) | New South Wales Government Open Data | apiKey | Yes | ✅ |
 | [Open Government, New Zealand](https://www.data.govt.nz/) | New Zealand Government Open Data | none | Yes | ✅ |
+| [Open Government, Norway](https://data.norge.no/dataservices) | Norwegian Government Open Data | none | Yes | ✅ |
 | [Open Government, Peru](https://www.datosabiertos.gob.pe/) | Peru Government Open Data | none | Yes | ✅ |
 | [Open Government, Poland](https://dane.gov.pl/en) | Poland Government Open Data | none | Yes | ✅ |
 | [Open Government, Portugal](https://dados.gov.pt/en/recursos/desenvolvimento/referencia-api) | Portugal Government Open Data | none | Yes | ✅ |
@@ -2361,8 +2401,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Represent by Open North](https://represent.opennorth.ca/) | Find Canadian Government Representatives | none | Yes | ✅ |
 | [Right to Disconnect](https://righttodisconnect.jdries.nl/api/) | Right-to-disconnect employment law by EU country: binding status, statute, and sanctions | none | Yes | ✅ |
 | [Spatial India](https://api.spatialindia.com) | District-level data for India: Census, NFHS-5, NCRB, RBI and more, reconciled onto one map | none | Yes | ✅ |
-| [State, New York State Opendata](https://data.ny.gov/) | New York State Open Data | OAuth | Yes | ✅ |
-| [SukuuData](https://sukuudata.com/quickstart) | Ghana's schools, 2026 SHS placement register and CSSPS choice validation | apiKey | Yes | ✅ |
 | [Tollmint](https://api.tollmint.com) | Advertising, subscription, AI-disclosure and accessibility rules across the US, EU and UK | none | Yes | ✅ 📦 |
 | [UK Companies House](https://developer.company-information.service.gov.uk/) | UK Companies House Data from the UK government | OAuth | Yes | ✅ |
 | [UK Legislation Changes](https://uk-legal-changes.pages.dev/docs) | Point-in-time amendment history for UK law | none | Yes | ✅ |
@@ -2383,6 +2421,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Coronavirus](https://pipedream.com/@pravin/http-api-for-latest-wuhan-coronavirus-data-2019-ncov-p_G6CLVM/readme) | HTTP API for Latest Covid-19 Data | none | Yes | ✅ |
 | [Covid-19](https://github.com/M-Media-Group/Covid-19-API) | Covid 19 cases, deaths and recovery per country | none | Yes | ✅ |
 | [Covid-19 Datenhub](https://npgeo-corona-npgeo-de.hub.arcgis.com) | Maps, datasets, applications and more in the context of COVID-19 | none | Yes | ✅ |
+| [Covid-19 Government Response](https://covidtracker.bsg.ox.ac.uk) | Government measures tracker to fight against the Covid-19 pandemic | none | Yes | ✅ |
 | [Covid-19 India](https://data.covid19india.org/) | Covid 19 statistics state and district wise about cases, vaccinations, recovery within India | none | Yes | ✅ |
 | [Covid-19 JHU CSSE](https://nuttaphat.com/covid19-api/) | Open-source API for exploring Covid19 cases based on JHU CSSE | none | Yes | ✅ |
 | [Covid-19 Live Data](https://github.com/mathdroid/covid-19-api) | Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths | none | Yes | ✅ |
@@ -2405,6 +2444,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [MyVaccination](https://documenter.getpostman.com/view/16605343/Tzm8GG7u) | Vaccination data for Malaysia | none | Yes | ✅ |
 | [NPPES](https://npiregistry.cms.hhs.gov/registry/help-api) | National Plan & Provider Enumeration System, info on healthcare providers registered in US | none | Yes | ✅ |
 | [Nutritionix](https://developer.nutritionix.com/) | Worlds largest verified nutrition database | apiKey | Yes | ✅ |
+| [Open Data NHS Scotland](https://www.opendata.nhs.scot) | Medical reference data and statistics by Public Health Scotland | none | Yes | ✅ |
 | [Open Disease](https://disease.sh/) | API for Current cases and more stuff about COVID-19 and Influenza | none | Yes | ✅ |
 | [openFDA](https://open.fda.gov) | Public FDA data about drugs, devices and foods | apiKey | Yes | ✅ |
 | [Orion Health](https://developer.orionhealth.io/) | Medical platform which allows the development of applications for different healthcare scenarios | OAuth | Yes | ✅ |
@@ -2425,6 +2465,9 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Public Api](https://combell.com) | # Introduction This API allows resellers to manage their resources in a simple, programmatic way using HTTP requests. # Conventions ## Requests The API supports | unknown | Yes | ✅ |
 | [redirection.io](https://redirection.io) | API documentation for redirection.io | unknown | Yes | ✅ |
 | [Vercel API](https://vercel.com/support) | Vercel combines the best developer experience with an obsessive focus on end-user performance. Our platform enables frontend teams to do their best work. | unknown | Yes | ✅ |
+| [watchful.li](https://watchful.li/faqs/tools/watchful-rest-api.html) |  | unknown | Yes | ✅ |
+| [Who Hosts This API](https://www.who-hosts-this.com/Documentation) | Discover the hosting provider for any web site | unknown | Yes | ✅ |
+| [ZEIT API](https://zeit.co/docs/api/) |  | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -2516,6 +2559,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Flight Offers Search](https://amadeus.com) | Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization)** for more  | unknown | Yes | ✅ |
 | [Furkot Trips](https://help.furkot.com/widgets/furkot-api.html) | Furkot provides Rest API to access user trip data. Using Furkot API an application can list user trips and display stops for a specific trip. Furkot API uses OA | unknown | Yes | ✅ |
 | [GeoDataSource Location Search](https://geodatasource.com) | GeoDataSource™ Web Service is a REST API enable user to lookup for a city by using latitude and longitude coordinate. It will return the result in either JSON o | unknown | Yes | ✅ |
+| [Georg API](https://nrm.se) |  | unknown | Yes | ✅ |
 | [Gisgraphy webservices](https://gisgraphy.com) | Since 2006, [Gisgraphy](http://www.gisgraphy.com) is a free, open source framework that offers the possibility to do geolocalisation and geocoding via Java APIs | unknown | Yes | ✅ |
 | [GraphHopper Directions API](https://www.graphhopper.com/) | With the [GraphHopper Directions API](https://www.graphhopper.com/products/) you can integrate A-to-B route planning, turn-by-turn navigation, route optimizatio | unknown | Yes | ✅ |
 | [HERE Network Positioning API v2](https://here.com) | Positioning API accepts requests with radio network measurements and replies with corresponding location estimate. For more details and examples, see [Developer | unknown | Yes | ✅ |
@@ -2528,10 +2572,12 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Routing](https://developer.tomtom.com/contact-us) | Routing consists of the following service: <b>Calculate Route</b> Calculates a route between an origin and a destination, passing through waypoints (if specifie | unknown | Yes | ✅ |
 | [Search](https://developer.tomtom.com/contact-us) | Search API is a RESTful API that allows developers to run a single line fuzzy search for addresses and POIs. Search API returns the latitude/longitude of a spec | unknown | Yes | ✅ |
 | [Storm Glass Marine Weather](https://stormglass.io) | Global marine weather data from multiple sources in one single API with hourly resolution. Get your API key by visiting the Storm Glass web site. | unknown | Yes | ✅ |
+| [The Water Linked Underwater GPS API](https://waterlinked.com) | API for the Water Linked Underwater GPS. For more details: http://www.waterlinked.com Recommended approach for connecting to a Underwater GPS via the API is: -  | unknown | Yes | ✅ |
 | [Traccar](https://www.traccar.org/) | Open Source GPS Tracking Platform | unknown | Yes | ✅ |
 | [uebermaps API endpoints](https://uebermaps.com) | Enable people to store spots on public and private maps | unknown | Yes | ✅ |
 | [VA Facilities](https://va.gov) | ## Background This RESTful API provides information about physical VA facilities. Information available includes geographic location, address, phone, hours of o | unknown | Yes | ✅ |
 | [Visual Crossing Weather API](https://www.visualcrossing.com/resources/documentation/weather-api/timeline-weather-api/) | Weather Forecast and Historical Weather Data via RESTful API. | unknown | Yes | ✅ |
+| [Weatherbit - Interactive Swagger UI Documentation](https://weatherbit.io) | This an interactive version of the documentation for the Weatherbit API. The base URL for the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -2656,9 +2702,10 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
+| [Aggregators API Service](https://zeno.fm) | Aggregators API | unknown | Yes | ✅ |
 | [api.video](https://api.video) | api.video is an API that encodes on the go to facilitate immediate playback, enhancing viewer streaming experiences across multiple devices and platforms. You c | unknown | Yes | ✅ |
+| [APOD](https://nasa.gov) | This endpoint structures the APOD imagery and associated metadata so that it can be repurposed for other applications. In addition, if the concept_tags paramete | unknown | Yes | ✅ |
 | [ART19 Content API Documentation](https://art19.com) | The ART19 Content API conforms to the [JSON:API specification](http://jsonapi.org). API requests **MUST** use the HTTP Accept header: `Accept: application/vnd.a | unknown | Yes | ✅ |
-| [BBC iPlayer Business Layer](http://smethur.st/posts/176135860) | The definitive iPlayer API. | unknown | Yes | ✅ |
 | [BizToc](https://biztoc.com) | Get the latest business news articles. | unknown | Yes | ✅ |
 | [Bungie.Net API](https://github.com/Bungie-net/api/wiki/OAuth-Documentation) | These endpoints constitute the functionality exposed by Bungie.net, both for more traditional website functionality and for connectivity to Bungie video games a | unknown | Yes | ✅ |
 | [Deep Art Effects](https://deeparteffects.com) |  | unknown | Yes | ✅ |
@@ -2683,6 +2730,8 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [TheTVDB API v3](https://thetvdb.com) | API v3 targets v2 functionality with a few minor additions. The API is accessible via https://api.thetvdb.com and provides the following REST endpoints in JSON  | unknown | Yes | ✅ |
 | [TVmaze user API](http://www.tvmaze.com) | Access to the user API is only possible for users with a [premium](http://www.tvmaze.com/premium) account. A user can only access their own user data. Authentic | unknown | Yes | ✅ |
 | [VocaDbWeb](https://vocadb.net) |  | unknown | Yes | ✅ |
+| [Wikimedia](http://mediawiki.org/wiki/REST_API) | This API provides cacheable and straightforward access to Wikimedia content and data, in machine-readable formats. ### Global Rules - Limit your clients to no m | unknown | Yes | ✅ |
+| [Wowza Streaming Cloud REST API Reference Documentation](https://www.wowza.com/docs/how-to-broadcast-a-live-stream-by-using-the-wowza-streaming-cloud-rest-api) | # About the REST API The Wowza Streaming Cloud<sup>TM</sup> REST API (application programming interface) offers complete programmatic control over live streams, | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -2707,6 +2756,8 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Telegram Bot API](https://core.telegram.org/bots/api) | Auto-generated OpenAPI schema | unknown | Yes | ✅ |
 | [The Mercure protocol](https://mercure.rocks/spec) | [Mercure](https://mercure.rocks) is a protocol allowing to push data updates to web browsers and other HTTP clients in a convenient, fast, reliable and battery- | unknown | Yes | ✅ |
 | [The SMS Works API](https://thesmsworks.co.uk) | The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for delivered texts, all failed messages are refunded. | unknown | Yes | ✅ |
+| [WINSMS](http://support.winsms.co.za/) | WinSMS RESTful API | unknown | Yes | ✅ |
+| [www.zoomconnect.com](https://zoomconnect.com) | The world's greatest SMS API | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -2890,6 +2941,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [CARTO](https://carto.com/) | Location Information Prediction | apiKey | Yes | ✅ |
 | [CivicFeed](https://developers.civicfeed.com/) | News articles and public datasets | apiKey | Yes | ✅ |
 | [CollegeCalcAI](https://collegecalcai.com/developers) | US college admission chance estimates and admissions data for 1,100+ colleges | none | Yes | ✅ |
+| [CoworkingView](https://coworkingview.com/en/api) | Coworking spaces and offices in 63 European and Gulf cities with operator-published prices | none | Yes | ✅ |
 | [CuttingToolsAI](https://cuttingtoolsai.eu/api) | Cross-brand carbide insert grade equivalents by ISO application class | none | Yes | ✅ |
 | [DevLifeCheck](https://devlifecheck.com/developers) | Security-update end dates, recalls and evidence for 1,300+ phones, tablets, Chromebooks and routers | none | Yes | ✅ |
 | [Edgepedia](https://www.edgechat.ai/developers) | Search and read Edgepedia, a free and growing encyclopedia with citations | none | Yes | ✅ |
@@ -2985,6 +3037,8 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Auckland Museum API](http://www.aucklandmuseum.com) | This is technical documentation for the Auckland Museum API | unknown | Yes | ✅ |
 | [Bajaj Allianz General Insurance Company Ltd. (BAGIC)](https://apisetu.gov.in) | Insurance policies such as health, car, two wheeler, property etc. issued by BAGIC are available to be pulled by citizens. | unknown | Yes | ✅ |
 | [Bajaj Allianz Life Insurance Company Ltd](https://apisetu.gov.in) | Policy Documents issued by Bajaj Allianz Life Insurance Co.Ltd (https://www.bajajallianzlife.com) can be pulled in user's DigiLocker account | unknown | Yes | ✅ |
+| [BC Geographical Names Web Service - REST API](https://www2.gov.bc.ca/gov/content?id=A3C60F17CE934B1ABFA366F28C66E370) | This REST API provides searchable access to information about geographical names in the province of British Columbia, including name status and details about th | unknown | Yes | ✅ |
+| [BC Gov News API Service 1.0](https://gov.bc.ca) | News API | unknown | Yes | ✅ |
 | [BC Route Planner REST API](https://github.com/bcgov/ols-router/blob/gh-pages/router-developer-guide.md) | Finds shortest/fastest route between a start point and one or more stop points on British Columbia's public road network. The BC Route planner [webpage](https:/ | unknown | Yes | ✅ |
 | [Benefits Intake](https://va.gov) | The Benefits Intake API allows authorized third-party systems used by Veteran Service Organizations (VSOs), agencies, and Veterans to digitally submit VA benefi | unknown | Yes | ✅ |
 | [Bharti AXA General Insurance Company Ltd.](https://apisetu.gov.in) | APIs provided by Bharti AXA General Insurance Company Ltd.. | unknown | Yes | ✅ |
@@ -3039,6 +3093,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [eDistrict Uttar Pradesh, Uttar Pradesh](https://apisetu.gov.in) | eDistrict UP (http://edistrict.up.nic.in/) is the online service delivery portal for UP State Govt. Certain documents issued by it (e.g. Birth, Income, Caste Ce | unknown | Yes | ✅ |
 | [eDRV API](https://edrv.io) | edrv.io API Documentation | unknown | Yes | ✅ |
 | [Employees' Provident Fund Organization](https://apisetu.gov.in) | Pension Payment Order and UAN, as provided by EPFO (https://www.epfindia.gov.in), can be downloaded in citizen's DigiLocker account. | unknown | Yes | ✅ |
+| [Enterobase-API](https://warwick.ac.uk) | API for EnteroBase (https://enterobase.warwick.ac.uk) EnteroBase is a user-friendly online resource, where users can upload their own sequencing data for de nov | unknown | Yes | ✅ |
 | [eService (eDistrict), Arunachal Pradesh](https://apisetu.gov.in) | eService (eDistrict), Arunachal Pradesh (http://eservice.arunachal.gov.in/) is the online service delivery portal for Arunachal Pradesh State Govt. Certain docu | unknown | Yes | ✅ |
 | [Figshare API](https://figshare.com) | Figshare apiv2. Using Swagger 2.0 | unknown | Yes | ✅ |
 | [FireBrowse Beta API](https://firebrowse.org) | A simple and elegant way to explore cancer data | unknown | Yes | ✅ |
@@ -3049,11 +3104,14 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Gauhati University](https://apisetu.gov.in) | GAUHATI UNIVERSITY (https://www.gauhati.ac.in/) has made available Registration Certificate in DigiLocker, which can be pulled by students into their accounts. | unknown | Yes | ✅ |
 | [Geetanjali University, Udaipur](https://apisetu.gov.in) | Geetanjali University, Udaipur (http://www.geetanjaliuniversity.com/) is issuing Degree certificates through DigiLocker. These can be pulled by students into th | unknown | Yes | ✅ |
 | [General Administration Department, Bihar](https://apisetu.gov.in) | General Administration Department, Bihar (http://gad.bih.nic.in/) is LIVE with DigiLocker. You can fetch your EWS certificate into your DigiLocker user account. | unknown | Yes | ✅ |
+| [Geocoder REST API](https://www2.gov.bc.ca/gov/content?id=118DD57CD9674D57BDBD511C2E78DC0D) | This API represents address cleaning, correction, completion, geocoding, reverse geocoding, and proximity resources for intersection addresses, physical address | unknown | Yes | ✅ |
+| [GeoMark Web Service REST API](https://www2.gov.bc.ca/gov/content?id=F6BAF45131954020BCFD2EBCC456F084) | The Geomark Web Service allows you to create and share geographic areas of interest over the web in a variety of formats and coordinate systems. This service is | unknown | Yes | ✅ |
 | [GMCH, Chandigarh](https://apisetu.gov.in) | Government Medical College and Hospital (GMCH), Chandigarh provides patient's clinical laboratory reports to DigiLocker. | unknown | Yes | ✅ |
 | [Go Digit General Insurance Ltd.](https://apisetu.gov.in) | Car, Two wheeler and Commercial Vehicle insurance policies issued by GoDigit (https://www.godigit.com), a General Insurance company, can be fetched by Citizens  | unknown | Yes | ✅ |
 | [Goa State Board of Secondary and Higher Secondary Education, Goa](https://apisetu.gov.in) | APIs provided by Goa State Board of Secondary and Higher Secondary Education, Goa. | unknown | Yes | ✅ |
 | [Goa Water Resources Department, Goa](https://apisetu.gov.in) | Goa WRD (https://goawrd.gov.in/) is the official departmental portal of the Water Resources Department, Govt. of Goa, through which citizens can avail time boun | unknown | Yes | ✅ |
 | [Greater Chennai Corporation, Tamil Nadu](https://apisetu.gov.in) | Birth and Death certificates from 1934-till date, as provided by Greater Chennai Corporation (http://www.chennaicorporation.gov.in), can be downloaded in citize | unknown | Yes | ✅ |
+| [Groundwater Wells, Aquifers and Registry API](https://gov.bc.ca) | The groundwater wells, aquifers and registry API contains information related to groundwater wells and aquifers as well as a register of qualified well drillers | unknown | Yes | ✅ |
 | [Gujarat Vidyapith, Ahmedabad](https://apisetu.gov.in) | Gujarat Vidyapith, Ahmedabad (http://www.gujaratvidyapith.org/) is issuing Degree certificates through DigiLocker. These can be pulled by students into their Di | unknown | Yes | ✅ |
 | [Haryana State Board of School Education, Haryana](https://apisetu.gov.in) | Board of School Education, Haryana (http://www.bseh.org.in/home/) has made available 2016-2019 Class XII & Class X results in DigiLocker, which can be pulled by | unknown | Yes | ✅ |
 | [Haryana State Board of Technical Education, Haryana](https://apisetu.gov.in) | HSBTE (http://hsbte.org.in/) is issuing marksheets (of Dec 2017 and June 2018 batches) through DigiLocker. These can be pulled by students into their DigiLocker | unknown | Yes | ✅ |
@@ -3181,14 +3239,8 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Transport Department, Uttarakhand](https://apisetu.gov.in) | Driving License (DL) and Vehicle Registration Certificate (RC) of the State, as available on Parivahan Sewa (http://parivahan.co.in/) of Ministry of Road Transp | unknown | Yes | ✅ |
 | [Transport Department, West Bengal](https://apisetu.gov.in) | Driving License (DL) and Vehicle Registration Certificate (RC) of the State, as available on Parivahan Sewa (http://parivahan.co.in/) of Ministry of Road Transp | unknown | Yes | ✅ |
 | [Tripura State Board of Secondary Education, Tripura](https://apisetu.gov.in) | Tripura Board of Secondary Education, (http://tbse.in) has made available Class X (2017-2019) Marksheets in DigiLocker, which can be pulled by students into the | unknown | Yes | ✅ |
-| [U.S. EPA Enforcement and Compliance History Online (ECHO) - All Data](https://echo.epa.gov/resources/general-info/contact-us) | Enforcement and Compliance History Online (ECHO) is a tool developed and maintained by EPA's Office of Enforcement and Compliance Assurance for public use. ECHO | unknown | Yes | ✅ |
-| [U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Air Act](https://echo.epa.gov/resources/general-info/contact-us) | Enforcement and Compliance History Online (ECHO) is a tool developed and maintained by EPA's Office of Enforcement and Compliance Assurance for public use. ECHO | unknown | Yes | ✅ |
-| [U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Water Act (CWA) Rest Services](https://echo.epa.gov/resources/general-info/contact-us) | Enforcement and Compliance History Online (ECHO) is a tool developed and maintained by EPA's Office of Enforcement and Compliance Assurance for public use. ECHO | unknown | Yes | ✅ |
 | [U.S. EPA Enforcement and Compliance History Online (ECHO) - Detailed Facility Report (DFR)](https://epa.gov) | Enforcement and Compliance History Online (ECHO) is a tool developed and maintained by EPA's Office of Enforcement and Compliance Assurance for public use. ECHO | unknown | Yes | ✅ |
-| [U.S. EPA Enforcement and Compliance History Online (ECHO) - Effluent Charting and Reporting](https://echo.epa.gov/resources/general-info/contact-us) | Enforcement and Compliance History Online (ECHO) is a tool developed and maintained by EPA's Office of Enforcement and Compliance Assurance for public use. ECHO | unknown | Yes | ✅ |
 | [U.S. EPA Enforcement and Compliance History Online (ECHO) - Enforcement Case Search](https://epa.gov) | Enforcement and Compliance History Online (ECHO) is a tool developed and maintained by EPA's Office of Enforcement and Compliance Assurance for public use. ECHO | unknown | Yes | ✅ |
-| [U.S. EPA Enforcement and Compliance History Online (ECHO) - Resource Conservation and Recovery Act](https://echo.epa.gov/resources/general-info/contact-us) | Enforcement and Compliance History Online (ECHO) is a tool developed and maintained by EPA's Office of Enforcement and Compliance Assurance for public use. ECHO | unknown | Yes | ✅ |
-| [U.S. EPA Enforcement and Compliance History Online (ECHO) - Safe Drinking Water Act](https://echo.epa.gov/resources/general-info/contact-us) | Enforcement and Compliance History Online (ECHO) is a tool developed and maintained by EPA's Office of Enforcement and Compliance Assurance for public use. ECHO | unknown | Yes | ✅ |
 | [UCO Bank](https://apisetu.gov.in) | APIs provided by UCO Bank. | unknown | Yes | ✅ |
 | [UK Parliament Search Service](https://github.com/dewitt/opensearch) | Performs search on parliament.uk domain. Implements [OpenSearch specification](https://github.com/dewitt/opensearch). Throttled at 10 requests per second per IP | unknown | Yes | ✅ |
 | [United India Insurance Company Limited](https://apisetu.gov.in) | United India Insurance Co. Ltd. is a Public Sector General Insurance Company incorporated in 1938, having its presence all over India providing risk cover to 1. | unknown | Yes | ✅ |
@@ -3200,6 +3252,9 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Vehicle Enquiry API](https://api.gov.uk) | Interface specification for the DVLA Vehicle Enquiry API | unknown | Yes | ✅ |
 | [Veteran Confirmation](https://va.gov) | The Veteran Confirmation API allows you to confirm Veteran status for a given person. This can be useful for offering Veterans discounts or other benefits. The  | unknown | Yes | ✅ |
 | [vs API](https://aninditabasu.github.io/indica/) | # Introduction This API returns data regarding almost all nouns in vedic literature. The results are JSON objects that contain the word transliterated to the Ro | unknown | Yes | ✅ |
+| [WeGA API](https://weber-gesamtausgabe.de) | ⚠️<b>DEPRECATION WARNING</b>⚠️<br/>This version of the WeGA API specification is outdated and superseded by [version 1.1.0](https://weber-gesamtausgabe.de/api/v | unknown | Yes | ✅ |
+| [Wellknown](https://wellknown.ai) | A registry of AI Plugins. | unknown | Yes | ✅ |
+| [WorkBC Job Posting API](https://gov.bc.ca) | This API allows you to receive a feed of jobs from WorkBC's Job Board. Please see our <a href="https://github.com/bcgov/api-specs/blob/master/COLLECTION_NOTICE. | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -3528,7 +3583,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Octopart](https://octopart.com/api/v4/reference) | Electronic part data for manufacturing, design, and sourcing | apiKey | Yes | ✅ |
 | [OLX Poland](https://developer.olx.pl/api/doc#section/) | Integrate with local sites by posting, managing adverts and communicating with OLX users | apiKey | Yes | ✅ |
 | [OneFindMe](https://onefindme.com/mcp) | Search AliExpress in any language: price, rating and orders for the delivery country | none | Yes | ✅ |
-| [OpenTiendas](https://opentiendas.dev/redocusaurus/plugin-redoc-0.yaml) | Official e-commerce API and webhooks | apiKey | Yes | ✅ |
 | [Pangolinfo Amazon Data](https://docs.pangolinfo.com) | Amazon product, review, search and Best Sellers data across 20+ marketplaces | apiKey | Yes | ✅ |
 | [Profitvana](https://www.profitvana.com/developers) | Seller fees for 31 marketplaces and payment processors, verified monthly | none | Yes | ✅ |
 | [Rappi](https://dev-portal.rappi.com/) | Manage orders from Rappi's app | OAuth | Yes | ✅ |
@@ -3770,6 +3824,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Randommer](https://randommer.io/randommer-api) | Random data generator | apiKey | Yes | ✅ |
 | [RandomUser](https://randomuser.me) | Generates and list user data | none | Yes | ✅ |
 | [restful-api](https://restful-api.dev) | Fake REST API for testing and prototyping with CRUD endpoints | none | Yes | ✅ |
+| [RoboHash](https://robohash.org/) | Generate random robot/alien avatars | none | Yes | ✅ |
 | [Sampuli](https://sampuli.site/api) | Format-true synthetic test data for 90 countries: IDs, IBANs, cards, addresses | none | Yes | ✅ |
 | [Short Id](https://github.com/aguedo/idgen) | Generate unique short Ids | none | Yes | ✅ |
 | [Softwium](https://softwium.com/fake-api/) | Test data for testing and prototyping | none | Yes | ✅ |
@@ -3778,6 +3833,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [TotalShiftLeft Sandbox](https://demo.totalshiftleft.ai/) | Free multi-protocol sandbox: REST, GraphQL & SOAP with OAuth2/JWT auth and OpenAPI 3.0 spec | none | Yes | ✅ |
 | [UI Names](https://github.com/thm/uinames) | Generate random fake names | none | Yes | ✅ |
 | [UUID Generator](https://www.uuidtools.com/docs) | Generate UUIDs | none | Yes | ✅ |
+| [What The Commit](http://whatthecommit.com/index.txt) | Random commit message generator | none | No | ✅ 📦 |
 | [Yes No](https://yesno.wtf/api) | Generate yes or no randomly | none | Yes | ✅ 📦 |
 
 [↑ Back to top](#public-apis-live)
@@ -3822,6 +3878,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Text Analytics & Sentiment Analysis API | api.text2data.com](https://text2data.com/Integration) | <p>The current api version is <b>v3.4</b></p><br><br><p>The api methods listed below can be called directly from this page to test the output. You might set the | unknown | Yes | ✅ |
 | [Tisane API Documentation](https://tisane.ai) | Tisane is a natural language processing library, providing: * standard NLP functionality * special functions for detection of problematic or abusive content * l | unknown | Yes | ✅ |
 | [UUID Generation API](https://fungenerators.com/) | A full featured, REST based UUID generator with json/xml/jsonp result support. You can try them out right here. [Click here to subscribe](http://fungenerators.c | unknown | Yes | ✅ |
+| [VisibleThread API](https://visiblethread.com) | ## Introduction The VisibleThread b API provides services for analyzing/searching documents and web pages. To use the service you need an API key. **Contact us  | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -3832,9 +3889,15 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [apilayer languagelayer](https://languagelayer.com/) | Language Detection JSON API supporting 173 languages | OAuth | Yes | ✅ |
 | [Cloudmersive Natural Language Processing](https://www.cloudmersive.com/nlp-api) | Natural language processing and text analysis | apiKey | Yes | ✅ |
 | [Detect Language](https://detectlanguage.com/) | Detects text language | apiKey | Yes | ✅ |
+| [ELI](https://nlp.insightera.co.th/docs/v1.0) | Natural Language Processing Tools for Thai Language | apiKey | Yes | ✅ |
 | [Gawrshdarn](https://api.gawrshdarn.com) | Profanity detection, filtering, and playful word replacement | none | Yes | ✅ 📦 |
 | [GeoScore](https://geoscoreapi.com) | Score content for AI search citation readiness with a 0-100 GEO score and 8 structural metrics | apiKey | Yes | ✅ |
+| [Google Cloud Natural](https://cloud.google.com/natural-language/docs/) | Natural language understanding technology, including sentiment, entity and syntax analysis | apiKey | Yes | ✅ |
+| [Langbly](https://langbly.com/docs) | Context-aware text translation and language detection for 100+ languages | apiKey | Yes | ✅ |
+| [Lecto Translation](https://rapidapi.com/lecto-lecto-default/api/lecto-translation/) | Translation API with free tier and reasonable prices | apiKey | Yes | ✅ |
+| [LibreTranslate](https://libretranslate.com/docs) | Translation tool with 17 available languages | none | Yes | ✅ |
 | [Semantira](https://semantria.readme.io/docs) | Text Analytics with sentiment analysis, categorization & named entity extraction | OAuth | Yes | ✅ |
+| [Semantria](https://semantria.readme.io/docs) | Text Analytics with sentiment analysis, categorization & named entity extraction | OAuth | Yes | ✅ |
 | [Spam Hunter](https://spam-hunter.ru) | Free service to classify text for spam using ML | apiKey | Yes | ✅ |
 | [Tisane](https://tisane.ai/) | Text Analytics with focus on detection of abusive content and law enforcement applications | OAuth | Yes | ✅ |
 | [ToHuman](https://tohuman.io/ai-humanizer-api) | Rewrite AI-assisted drafts into natural, human-sounding text that reads like you wrote it | apiKey | Yes | ✅ |
@@ -3858,6 +3921,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Browshot API](https://browshot.com/contact) | Take screenshots of any website in real time | unknown | Yes | ✅ |
 | [Chomp Food Database API Documentation](https://chompthis.com) | ## Important An **[API key](https://chompthis.com/api/)** is required for access to this API. Get yours at **[https://chompthis.com/api](https://chompthis.com/a | unknown | Yes | ✅ |
 | [Datto|Autotask PSA Rest API](https://autotask.net) |  | unknown | Yes | ✅ |
+| [Voodoo Manufacturing 3D Print API](https://voodoomfg.com) | Welcome to the Voodoo Manufacturing API docs! Your Voodoo Manufacturing API key must be included with each request to the API. The API will look for the key in  | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -3883,14 +3947,20 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | API | Description | Auth | HTTPS | Status |
 |---|---|---|---|---|
 | [Betriebsstellen](https://deutschebahn.com) | This REST-API enables you to query station and stop infos | unknown | Yes | ✅ |
+| [Bus Route and Stop Methods](https://wmata.com) | Bus stop information, route and schedule data, and bus positions. | unknown | Yes | ✅ |
 | [departureboard.io API](https://departureboard.io) | The departureboard.io is a high performance API written in Golang. Its goal is to provide to main functions:<br><br> (1): A JSON API interface to the legacy Nat | unknown | Yes | ✅ |
 | [Fahrplan-Free](https://developer.deutschebahn.com/store/) | A RESTful webservice to request a railway journey - FREE plan with restricted access (max. 10 requests per minute). Please ignore the message in the API Console | unknown | Yes | ✅ |
 | [FaSta - Station Facilities Status](https://deutschebahn.com) | A RESTful webservice to retrieve data about the operational state of public elevators and escalators in german railway stations. | unknown | Yes | ✅ |
 | [Flinkster_API_NG](https://deutschebahn.com) | This REST-API enables you to query for private transport sharing offers provided by companies and cities in Germany, Netherland and Austria. You can search for  | unknown | Yes | ✅ |
+| [Incidents](https://wmata.com) | Rail, bus, and elevator disruptions/outages. | unknown | Yes | ✅ |
 | [paccurate.io](https://paccurate.io) |  | unknown | Yes | ✅ |
+| [Rail Station Information](https://wmata.com) | Rail line and station information, including locations, fares, times, and parking. | unknown | Yes | ✅ |
+| [Real-Time Bus Predictions](https://wmata.com) | Real-time bus prediction methods. | unknown | Yes | ✅ |
+| [Real-Time Rail Predictions](https://wmata.com) | Real-time rail prediction methods. | unknown | Yes | ✅ |
 | [Reisezentren-API](https://deutschebahn.com) | This REST-API enables you to query information about travel centers in Germany. | unknown | Yes | ✅ |
 | [ShipEngine API](https://www.shipengine.com/docs/) | ShipEngine's easy-to-use REST API lets you manage all of your shipping needs without worrying about the complexities of different carrier APIs and protocols. We | unknown | Yes | ✅ |
 | [Stationsdatenbereitstellung](https://deutschebahn.com) | An API providing master data for German railway stations by DB Station&Service AG. | unknown | Yes | ✅ |
+| [Where to Credit API](https://wheretocredit.com) | The Where to Credit API provides mileage earning calculations for frequent flyer programs around the world. | unknown | Yes | ✅ |
 
 [↑ Back to top](#public-apis-live)
 
@@ -3936,6 +4006,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Navitia](https://api.navitia.io/) | The open API for building cool stuff with transport data | apiKey | Yes | ✅ |
 | [Ola](https://developers.olacabs.com/) | Help your users find, book and track Ola rides with ease. Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India. | unknown | No | ✅ |
 | [On va où ?](https://onvaou.app/developers/routing-api.html) | Bike, scooter, motorcycle, wheelchair and walking routes across Europe, with safety indicators | apiKey | Yes | ✅ |
+| [Open Charge Map](https://openchargemap.org/site/develop/api) | Global public registry of electric vehicle charging locations | apiKey | Yes | ✅ |
 | [OpenVan](https://openvan.camp/docs) | Fuel prices for 121 countries, food cost index & vanlife weather scores for RV travel | none | Yes | ✅ |
 | [Orizn Visa](https://visa.orizn.app) | Visa requirements for 199 countries, 39K+ passport-destination pairs in 15 languages | apiKey | Yes | ✅ |
 | [OVAPI Netherlands Transport](https://github.com/skywave/KV78Turbo-OVAPI/wiki) | OVAPI, country-wide public transport | none | Yes | ✅ |
@@ -3965,6 +4036,7 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Transport for Los Angeles, US](https://developer.metro.net/api/) | Data about positions of Metro vehicles in real time and travel their routes | none | Yes | ✅ |
 | [Transport for Manchester, England](https://developer.tfgm.com/) | TfGM transport network data | apiKey | Yes | ✅ |
 | [Transport for Norway](https://developer.entur.org/) | Transport APIs and dataset for Norway | none | Yes | ✅ |
+| [Transport for Paris, France](http://data.ratp.fr/api/v1/console/datasets/1.0/search/) | RATP Open Data API | none | No | ✅ |
 | [Transport for Sao Paulo, Brazil](http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/) | SPTrans | OAuth | No | ✅ |
 | [Transport for Spain](https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a) | Public trains of Spain | none | Yes | ✅ |
 | [Transport for Sweden](https://www.trafiklab.se/api) | Public Transport consumer | OAuth | Yes | ✅ |
@@ -3986,7 +4058,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 |---|---|---|---|---|
 | [1pt](https://github.com/1pt-co/api/blob/main/README.md) | A simple URL shortener | none | Yes | ✅ |
 | [Bitly](http://dev.bitly.com/get_started.html) | URL shortener and link management | OAuth | Yes | ✅ |
-| [CleanURI](https://cleanuri.com/docs) | URL shortener service | none | Yes | ✅ |
 | [Clico](https://cli.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config) | URL shortener service | apiKey | Yes | ✅ |
 | [Cutt.ly](https://cutt.ly/api-documentation/cuttly-links-api) | URL shortener service | apiKey | Yes | ✅ |
 | [Git.io](https://github.blog/2011-11-10-git-io-github-url-shortener/) | Git.io URL shortener | none | Yes | ✅ |
@@ -4077,7 +4148,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Video to Markdown](https://video-to-markdown.com/api) | Turn a YouTube URL into a markdown thumbnail image link | none | Yes | ✅ |
 | [VidWords](https://vidwords.com/api-docs) | YouTube transcripts and subtitles as TXT, SRT, VTT or DOCX, plus AI video analysis | apiKey | Yes | ✅ |
 | [Vimeo](https://developer.vimeo.com/) | Access to Vimeo’s API. | OAuth | Yes | ✅ |
-| [Watchmode](https://api.watchmode.com/) | API for finding out the streaming availability of movies & shows | apiKey | Yes | ✅ |
 | [Web Series Quotes Generator](https://github.com/yogeshwaran01/web-series-quotes) | API generates various Web Series Quote Images | none | Yes | ✅ |
 | [YouTube](https://developers.google.com/youtube/) | Add YouTube functionality to your sites and apps. | OAuth | Yes | ✅ |
 
@@ -4109,7 +4179,6 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 | [Hail History](https://hail-history-noaa.netlify.app/api-docs.html) | Radar-detected hail history for any US address from NOAA NEXRAD Level-III hail detections, by year | none | Yes | ✅ |
 | [HG Weather](https://hgbrasil.com/status/weather) | Provides weather forecast data for cities in Brazil | apiKey | Yes | ✅ |
 | [Hong Kong Obervatory](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm) | Provide weather information, earthquake information, and climate data | none | Yes | ✅ |
-| [IPMA](https://api.ipma.pt/open-data/) | Portuguese weather and climate data | none | Yes | ✅ |
 | [KNMI](https://developer.dataplatform.knmi.nl/) | Dutch weather, radar and climate data | apiKey | Yes | ✅ |
 | [Météo-France](https://portail-api.meteofrance.fr/) | French weather forecasts and alerts | apiKey | Yes | ✅ |
 | [Meteoblue](https://content.meteoblue.com/en/business-solutions/weather-apis) | Global weather data with 100+ weather variables, 14 days ahead and 4 days of history data | apiKey | Yes | ✅ |
@@ -4145,11 +4214,11 @@ _Highest uptime across at least 7 daily reachability checks (ties broken by resp
 
 [↑ Back to top](#public-apis-live)
 
-## ⚠️ Unverified & unreachable (1549)
+## ⚠️ Unverified & unreachable (1487)
 
 These responded with auth/blocked codes (❔) or failed today (❌). Kept for completeness and re-checked daily.
 
-<details><summary>Show 1549 entries</summary>
+<details><summary>Show 1487 entries</summary>
 
 | API | Category | Auth | Status |
 |---|---|---|---|
@@ -4172,7 +4241,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [agentOS Api V2, Customer Login Call Group](https://letmc.com) | Ecommerce | unknown | ❔ |
 | [agentOS API V3, Diary Call Group](https://letmc.com) | Ecommerce | unknown | ❔ |
 | [agentOS API V3, Maintenance Call Group](https://letmc.com) | Ecommerce | unknown | ❔ |
-| [Aggregators API Service](https://zeno.fm) | Media | unknown | ❔ |
 | [AGPC Domain Check](https://guild.tradeuniquecapital.com/api) | Email | none | ❔ |
 | [Airbyte Configuration API](https://airbyte.io) | Developer_tools | unknown | ❔ |
 | [Airports API v2](https://transavia.com) | Transport | unknown | ❔ |
@@ -4198,7 +4266,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [API Endpoints](https://readme.io) | Developer_tools | unknown | ❔ |
 | [API for the COVID-19 Tracking QR Code Signin Server.](https://c19qrserver.local) | Open_data | unknown | ❔ |
 | [API Grátis](https://apigratis.com.br/) | Development | none | ❔ |
-| [API Reference: Billing](https://zuora.com) | Financial | unknown | ❔ |
 | [API v1](https://formapi.io) | Text | unknown | ❔ |
 | [API V1](https://versioneye.com) | Open_data | unknown | ❔ |
 | [API V1](https://change.local) | Payment | unknown | ❔ |
@@ -4207,8 +4274,8 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [ApiDapp](https://apidapp.com) | Financial | unknown | ❔ |
 | [ApiManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [ApiMedic](https://apimedic.com/) | Sports & Fitness | apiKey | ❔ |
+| [APIs.guru](https://apis.guru/api-doc/) | Development | none | ❔ |
 | [APIXU](https://www.apixu.com/doc/request.aspx) | Weather | apiKey | ❔ |
-| [APOD](https://nasa.gov) | Media | unknown | ❔ |
 | [AppConfigurationManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Application Insights Data Plane](https://dev.applicationinsights.io/support) | Cloud | unknown | ❔ |
 | [ApplicationClient](https://azure.com) | Cloud | unknown | ❔ |
@@ -4221,7 +4288,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Arespass](https://arespass.net) | Enterprise | unknown | ❔ |
 | [Article Search API](http://developer.nytimes.com/) | Media | unknown | ❔ |
 | [Artifact](https://azure.com) | Cloud | unknown | ❔ |
-| [ATM Locator API](https://hsbc.com) | Financial | unknown | ❔ |
 | [Atmosphere API](https://amentum.space) | Location | unknown | ❔ |
 | [Atomic Mail](https://atomic-mail.github.io/atomic-mail-agentic/) | Email | apiKey | ❔ |
 | [AttestationClient](https://azure.com) | Cloud | unknown | ❔ |
@@ -4308,15 +4374,15 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [BatchManagement](https://azure.com) | Cloud | unknown | ❔ |
 | [BatchService](https://azure.com) | Cloud | unknown | ❔ |
 | [BatchService](https://windows.net) | Cloud | unknown | ❔ |
+| [BBC iPlayer Business Layer](http://smethur.st/posts/176135860) | Media | unknown | ❔ |
 | [BBC Nitro API](https://developer.bbc.co.uk/nitro) | Media | unknown | ❔ |
 | [BC Data Catalogue API](http://data.gov.bc.ca/) | Open_data | unknown | ❔ |
-| [BC Geographical Names Web Service - REST API](https://www2.gov.bc.ca/gov/content?id=A3C60F17CE934B1ABFA366F28C66E370) | Open_data | unknown | ❔ |
-| [BC Gov News API Service 1.0](https://gov.bc.ca) | Open_data | unknown | ❔ |
 | [BC Laws](ttp://www.bclaws.ca/civix/template/complete/api/index.html) | Open_data | unknown | ❔ |
 | [Betfair: Exchange Streaming API](https://developer.betfair.com/support/) | Entertainment | unknown | ❔ |
 | [Bets API](http://developer.williamhill.com) | Entertainment | unknown | ❔ |
 | [Bhagavad Gita API](https://bhagavadgita.io) | Open_data | unknown | ❔ |
 | [BikeWise API v2](https://www.bikewise.org/documentation/api_v2) | Open_data | unknown | ❔ |
+| [bilbop](https://api.bilbop.org) | Cryptocurrency | none | ❔ |
 | [BillingManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Bills API](https://www.parliament.uk) | Open_data | unknown | ❔ |
 | [BinaryEdge](https://docs.binaryedge.io/api-v2.html) | Security | apiKey | ❔ |
@@ -4334,14 +4400,13 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Blooms](https://blooms-production.up.railway.app/api) | Security | none | ❔ |
 | [BlueprintClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Bluesky](https://docs.bsky.app/) | Social | none | ❔ |
-| [Blynk-Cloud](https://blynkapi.docs.apiary.io/#) | Development | apiKey | ❔ |
 | [Board Game Geek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) | Games & Comics | none | ❔ |
 | [Books API](http://developer.nytimes.com/) | Media | unknown | ❔ |
+| [BoozeAPI](https://boozeapi.com/) | Food & Drink | apiKey | ❔ |
 | [Bored API](https://www.boredapi.com/documentation) | Miscellaneous | unknown | ❔ |
 | [Brain Web API](https://intellifi.zendesk.com) | Iot | unknown | ❔ |
 | [brainbi](https://brainbi.net) | Ecommerce | unknown | ❔ |
 | [Brainshop.ai](https://brainshop.ai/) | Development | apiKey | ❔ |
-| [Branch Locator API](https://hsbc.com) | Financial | unknown | ❔ |
 | [Breaking Bad](https://breakingbadapi.com/documentation) | Video | none | ❔ |
 | [Breaking Bad & Better Call Saul API](https://breakingbadapi.com/documentation) | Entertainment | unknown | ❔ |
 | [British National Bibliography](http://bnb.data.bl.uk/) | Books | none | ❔ |
@@ -4351,7 +4416,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Bugsnax](https://www.bugsnaxapi.com/) | Games & Comics | none | ❔ |
 | [Bulk WHOIS API](https://apispot.io) | Developer_tools | unknown | ❔ |
 | [Bureau of Labor Statistics](https://www.bls.gov/developers/) | Government | none | ❔ |
-| [Bus Route and Stop Methods](https://wmata.com) | Transport | unknown | ❔ |
 | [Business Registries](https://ato.gov.au) | Financial | unknown | ❔ |
 | [Business Unit](https://hubapi.com) | Enterprise | unknown | ❔ |
 | [caldays](https://caldays.com/api) | Calendar | none | ❔ |
@@ -4386,11 +4450,11 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [City Context](https://citycontext.com) | Open_data | unknown | ❔ |
 | [City of Surrey Open511 API](http://data.surrey.ca) | Open_data | unknown | ❔ |
 | [City of Surrey Traffic Loop Count API.](http://data.surrey.ca) | Open_data | unknown | ❔ |
-| [City, Berlin](https://daten.berlin.de/) | Government | none | ❔ |
 | [City, Helsinki](https://hri.fi/en_gb/) | Government | none | ❔ |
 | [City, Lviv](https://opendata.city-adm.lviv.ua/) | Government | none | ❔ |
 | [CityAlert](https://cityalert.live/developers) | Open Data | none | ❔ |
 | [Clarifai](https://docs.clarifai.com/api-guide/api-overview) | Machine Learning | OAuth | ❔ |
+| [CleanURI](https://cleanuri.com/docs) | URL Shorteners | none | ❔ |
 | [Clever-Cloud API](https://clever-cloud.com) | Cloud | unknown | ❔ |
 | [ClickMeter](https://support.clickmeter.com/hc/en-us/categories/201474986) | URL Shorteners | apiKey | ❔ |
 | [ClickMeter API](http://www.clickmeter.com/api) | Marketing | unknown | ❔ |
@@ -4436,7 +4500,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Covid Tracking Project](https://covidtracking.com/data/api/version-2) | Health | none | ❔ |
 | [Covid-19](https://covid19api.com/) | Health | none | ❔ |
 | [COVID-19 data API](https://covid19-api.com) | Open_data | unknown | ❔ |
-| [Covid-19 Government Response](https://covidtracker.bsg.ox.ac.uk) | Health | none | ❔ |
 | [COVID-19 Tracker Sri Lanka](https://www.hpb.health.gov.lk/en/api-documentation) | Health | none | ❔ |
 | [COVID-ID](https://data.covid19.go.id/public/api/prov.json) | Health | none | ❔ |
 | [crates.io](https://crates.io/data-access) | Development | none | ❔ |
@@ -4525,7 +4588,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [eCourtsIndia](https://ecourtsindia.com/api) | Government | apiKey | ❔ |
 | [ecwid](https://cloud-elements.com) | Ecommerce | unknown | ❔ |
 | [eeemoji](https://eeemoji.com/api) | Art & Design | none | ❔ |
-| [ELI](https://nlp.insightera.co.th/docs/v1.0) | Text Analysis | apiKey | ❔ |
 | [EmailRep](https://docs.emailrep.io/) | Security | none | ❔ |
 | [EmailVerify](https://paypi.dev) | Email | unknown | ❔ |
 | [eNanoMapper database](https://search.data.enanomapper.net) | Open_data | unknown | ❔ |
@@ -4534,7 +4596,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [EngagementFabric](https://azure.com) | Cloud | unknown | ❔ |
 | [Enigma Public](http://docs.enigma.com/public/public_v20_api_about) | Open Data | apiKey | ❔ |
 | [Enode API](https://enode.io) | Location | unknown | ❔ |
-| [Enterobase-API](https://warwick.ac.uk) | Open_data | unknown | ❔ |
 | [Entertainment Express API](https://developer.iva-Entertainment.com/docs/v2/getting-started) | Media | unknown | ❔ |
 | [Erskine May API](https://www.parliament.uk/) | Open_data | unknown | ❔ |
 | [ESG Rating Data](https://esgenterprise.com) | Open_data | unknown | ❔ |
@@ -4550,11 +4611,9 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Evil Insult Generator](https://evilinsult.com/api) | Open Source Projects | none | ❔ |
 | [Execution Service](https://azure.com) | Cloud | unknown | ❔ |
 | [ExpressRouteCrossConnection REST APIs](https://azure.com) | Cloud | unknown | ❔ |
-| [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | Development | none | ❔ |
 | [FabricAdminClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Face Client](https://azure.com) | Cloud | unknown | ❔ |
 | [Factual](https://developer.factual.com/docs/getting-started) | Places | unknown | ❔ |
-| [Fair Draw](https://bettip.co.za/fair-draw/api/) | Development | none | ❔ |
 | [FakeJSON](https://fakejson.com) | Test Data | apiKey | ❔ |
 | [FakeStoreAPI](https://fakestoreapi.com/) | Test Data | none | ❔ |
 | [Faretrotter Travel API](https://faretrotter.com) | Transport | unknown | ❔ |
@@ -4566,6 +4625,7 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Festivo Public Holidays](https://docs.getfestivo.com/docs/products/public-holidays-api/intro) | Calendar | apiKey | ❔ |
 | [FIFA women's world cup 2019](https://worldcup.sfg.io/) | Sport | unknown | ❔ |
 | [Files](https://hubapi.com) | Enterprise | unknown | ❔ |
+| [FilingFirehose](https://filingfirehose.com) | Finance | none | ❔ |
 | [FilterLists](https://filterlists.com) | Security | none | ❔ |
 | [Final Fantasy XIV](https://xivapi.com/) | Games & Comics | none | ❔ |
 | [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs) | Finance | apiKey | ❔ |
@@ -4603,14 +4663,11 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [GBIF](https://www.gbif.org/developer/summary) | Science & Math | none | ❔ |
 | [GeekFlare](https://apidocs.geekflare.com/docs/geekflare-api) | Development | apiKey | ❔ |
 | [Genius](https://docs.genius.com/) | Music | OAuth | ❔ |
-| [Geocoder REST API](https://www2.gov.bc.ca/gov/content?id=118DD57CD9674D57BDBD511C2E78DC0D) | Open_data | unknown | ❔ |
 | [Geodata.gov.gr](https://geodata.gov.gr/en/) | Geocoding | none | ❔ |
 | [GeoDB Cities API](https://mashape.com) | Developer_tools | unknown | ❔ |
 | [geodesystems.com:443](https://geodesystems.com) | Enterprise | unknown | ❔ |
 | [Geographic API](http://developer.nytimes.com/) | Media | unknown | ❔ |
 | [Geomag API](https://amentum.space) | Location | unknown | ❔ |
-| [GeoMark Web Service REST API](https://www2.gov.bc.ca/gov/content?id=F6BAF45131954020BCFD2EBCC456F084) | Open_data | unknown | ❔ |
-| [Georg API](https://nrm.se) | Location | unknown | ❔ |
 | [GETPing](https://www.getping.info) | Development | apiKey | ❔ |
 | [Gfycat](https://developers.gfycat.com/api/) | Photography | OAuth | ❔ |
 | [Giant Bomb](https://www.giantbomb.com/api/documentation) | Games & Comics | apiKey | ❔ |
@@ -4620,12 +4677,8 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Gitea API.](https://gitea.io) | Developer_tools | unknown | ❔ |
 | [Gitlab](https://gitlab.com) | Developer_tools | unknown | ❔ |
 | [Gitter](https://developer.gitter.im/docs/welcome) | Development | OAuth | ❔ |
-| [Gmail API](https://developers.google.com/gmail/api/?hl=en) | Google | unknown | ❔ |
 | [goog.io | Unoffical Google Search API](https://goog.io) | Search | unknown | ❔ |
-| [Google BigQuery API](https://cloud.google.com/bigquery/docs/reference/rest/v2/) | Google | unknown | ❔ |
-| [Google Cloud Natural](https://cloud.google.com/natural-language/docs/) | Text Analysis | apiKey | ❔ |
 | [Google Home](https://google.home) | Enterprise | unknown | ❔ |
-| [Google Pay Passes API](https://developers.google.com/pay/passes) | Enterprise | unknown | ❔ |
 | [GoToMeeting](https://developer.citrixonline.com/) | Collaboration | unknown | ❔ |
 | [GoToTraining](https://goto-developer.logmein.com) | Enterprise | unknown | ❔ |
 | [GoToWebinar](https://goto-developer.logmein.com) | Enterprise | unknown | ❔ |
@@ -4635,7 +4688,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Graphs for Coronavirus](https://corona.dnsforfamily.com/api.txt) | News | none | ❔ |
 | [Gravatar](https://en.gravatar.com/site/implement/) | Social Media | unknown | ❔ |
 | [Gravity API](https://amentum.space) | Location | unknown | ❔ |
-| [Groundwater Wells, Aquifers and Registry API](https://gov.bc.ca) | Open_data | unknown | ❔ |
 | [Growth Services](https://i-cue.solutions) | Analytics | unknown | ❔ |
 | [Guest Diagnostic Settings](https://azure.com) | Cloud | unknown | ❔ |
 | [Guest Diagnostic Settings Association](https://azure.com) | Cloud | unknown | ❔ |
@@ -4654,7 +4706,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Health Repository Provider Specifications for HIP](https://ndhm.gov.in/) | Open_data | unknown | ❔ |
 | [Health Repository Provider Specifications for HIU](https://ndhm.gov.in/) | Open_data | unknown | ❔ |
 | [HealthcareApisClient](https://azure.com) | Cloud | unknown | ❔ |
-| [HealthGraph](https://runkeeper.com/developer/healthgraph/registration-authorization) | Fitness | unknown | ❔ |
 | [hetras Booking API Version 0](https://hetras-certification.net) | Enterprise | unknown | ❔ |
 | [hetras Hotel API Version 0](https://hetras-certification.net) | Enterprise | unknown | ❔ |
 | [HHS Media Services API](https://hhs.gov) | Open_data | unknown | ❔ |
@@ -4677,7 +4728,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [HybridDataManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Hydra Movies](https://hydramovies.com) | Entertainment | unknown | ❔ |
 | [HyperDrive](https://azure.com) | Cloud | unknown | ❔ |
-| [Hytale](https://hytale-api.com/) | Games & Comics | none | ❔ |
 | [IBM Containers API](https://bluemix.net) | Developer_tools | unknown | ❔ |
 | [Iconfinder](https://developer.iconfinder.com) | Art & Design | apiKey | ❔ |
 | [icy.tools](https://developers.icy.tools/) | Cryptocurrency | apiKey | ❔ |
@@ -4692,7 +4742,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Impala Hotel Booking API](https://docs.impala.travel/) | Ecommerce | unknown | ❔ |
 | [Impala Hotel Bookings](https://docs.impala.travel/docs/booking-api/) | Transportation | apiKey | ❔ |
 | [Importer-Exporter Details API](https://www.dgft.gov.in/) | Open_data | unknown | ❔ |
-| [Incidents](https://wmata.com) | Transport | unknown | ❔ |
 | [Indian Pincode](https://indianpincode.com/) | Government | none | ❔ |
 | [INEI](http://iinei.inei.gob.pe/microdatos/) | Government | none | ❔ |
 | [InfrastructureInsightsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
@@ -4702,7 +4751,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Intel Product Catalogue Service](https://intel.com) | Ecommerce | unknown | ❔ |
 | [Intelligent Search API](https://vtex.local) | Enterprise | unknown | ❔ |
 | [IntuneResourceManagementClient](https://azure.com) | Cloud | unknown | ❔ |
-| [Inventory Management](https://walmart.com) | Ecommerce | unknown | ❔ |
 | [IoE² IoT API - to create end-user applications](http://developers.ijenko.com/) | Iot | unknown | ❔ |
 | [IotCentralClient](https://azure.com) | Cloud | unknown | ❔ |
 | [iotDpsClient](https://azure.com) | Cloud | unknown | ❔ |
@@ -4718,13 +4766,12 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [ipgeolocation](https://ipgeolocation.com/) | Geocoding | apiKey | ❔ |
 | [IPGeolocationAPI.com](https://ipgeolocationapi.com/) | Geocoding | none | ❔ |
 | [IPInfoDB](https://www.ipinfodb.com/api) | Geocoding | apiKey | ❔ |
+| [IPMA](https://api.ipma.pt/open-data/) | Weather | none | ❔ |
 | [ipTwist](https://iptwist.com/documentation) | Developer_tools | unknown | ❔ |
 | [IQAir](https://www.iqair.com/air-pollution-data-api) | Environment | apiKey | ❔ |
 | [iQualify Management API](https://iqualify.com) | Education | unknown | ❔ |
-| [Ireland](https://data.gov.ie/data/search?publisher=central-bank-of-ireland) | Finance | unknown | ❔ |
 | [ISBNdb API](https://isbndb.com) | Open_data | unknown | ❔ |
 | [isitdownstatus](https://isitdownstatus.com) | Development | none | ❔ |
-| [Item API](https://walmart.com) | Ecommerce | unknown | ❔ |
 | [iTunes Search](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) | Music | none | ❔ |
 | [IUCN](https://www.iucnredlist.org/en) | Animals | apiKey | ❔ |
 | [Jellyfin API](https://jellyfin.local) | Media | unknown | ❔ |
@@ -4738,7 +4785,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Just Eat UK](https://just-eat.co.uk) | Ecommerce | unknown | ❔ |
 | [KeyVaultClient](https://azure.com) | Cloud | unknown | ❔ |
 | [KeyVaultManagementClient](https://azure.com) | Cloud | unknown | ❔ |
-| [Kiprio Translate](https://kiprio.com/v1/translate) | Text Analysis | apiKey | ❔ |
 | [Kitsu](https://kitsu.docs.apiary.io/) | Anime | OAuth | ❔ |
 | [KmalServico Gold Price Dataset](https://www.kmalservico.com/data) | Finance | none | ❔ |
 | [KONTESTS](https://kontests.net/api) | Programming | none | ❔ |
@@ -4750,7 +4796,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Kutt](https://docs.kutt.it/) | URL Shorteners | apiKey | ❔ |
 | [LambdaTest Screenshots API Documentation](https://lambdatest.com) | Developer_tools | unknown | ❔ |
 | [Land Transport Authority DataMall, Singapore](https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf) | Transportation | apiKey | ❔ |
-| [Langbly](https://langbly.com/docs) | Text Analysis | apiKey | ❔ |
 | [Language Understanding Intelligent Service (LUIS) Endpoint API for running predictions and extracting user intentions and entities from utterances.](https://azure.com) | Cloud | unknown | ❔ |
 | [LAPIS](https://cov-spectrum.ethz.ch/public) | Health | none | ❔ |
 | [Launch Library](https://launchlibrary.net/docs/1.3/api.html) | Science & Math | none | ❔ |
@@ -4758,7 +4803,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [LaunchDarkly REST API](https://support.launchdarkly.com) | Developer_tools | unknown | ❔ |
 | [LaunchLibrary](https://launchlibrary.net/docs/1.3/api.html) | Miscellaneous | unknown | ❔ |
 | [LCBO](https://lcboapi.com/) | Food & Drink | apiKey | ❔ |
-| [Lecto Translation](https://rapidapi.com/lecto-lecto-default/api/lecto-translation/) | Text Analysis | apiKey | ❔ |
 | [Legacy Search API](https://vtex.local) | Enterprise | unknown | ❔ |
 | [Let's Count](https://letscountapi.com) | Tracking | none | ❔ |
 | [LetMC Api V2, Basic (Tier 2)](https://letmc.com) | Ecommerce | unknown | ❔ |
@@ -4767,7 +4811,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [LH Partner API](https://lufthansa.com) | Transport | unknown | ❔ |
 | [LH Public API](https://lufthansa.com) | Transport | unknown | ❔ |
 | [LibreTranslate](https://libretranslate.local) | Text | unknown | ❔ |
-| [LibreTranslate](https://libretranslate.com/docs) | Text Analysis | none | ❔ |
 | [License Manager API](https://vtex.local) | Enterprise | unknown | ❔ |
 | [Lingua Robot](https://www.linguarobot.io) | Dictionaries | apiKey | ❔ |
 | [Lingua Robot API](https://www.linguarobot.io/) | Dictionary | unknown | ❔ |
@@ -4784,7 +4827,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Loripsum](http://loripsum.net/) | Test Data | none | ❔ |
 | [LotaData](https://lotadata.com) | Location | unknown | ❔ |
 | [Lua Decompiler](https://lua-decompiler.ferib.dev/) | Development | none | ❔ |
-| [Lucidtech API](https://webflow.com) | Enterprise | unknown | ❔ |
 | [LUIS Authoring Client](https://azure.com) | Cloud | unknown | ❔ |
 | [LUIS Programmatic](https://azure.com) | Cloud | unknown | ❔ |
 | [Lumminary API](https://lumminary.com) | Open_data | unknown | ❔ |
@@ -4818,7 +4860,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Mastodon API Specification (https://github.com/mastodon/mastodon)](https://mastodon.local) | Social | unknown | ❔ |
 | [MeaningCloud](https://www.meaningcloud.com) | Natural Language Processing | unknown | ❔ |
 | [MediaServicesManagementClient](https://azure.com) | Cloud | unknown | ❔ |
-| [Meirra](https://meirra.com/api) | Business | apiKey | ❔ |
 | [Meltema](https://meltema.com/docs) | Weather | none | ❔ |
 | [Members API](https://www.parliament.uk/) | Open_data | unknown | ❔ |
 | [MercadoBitcoin](https://www.mercadobitcoin.com.br/api-doc/) | Cryptocurrency | none | ❔ |
@@ -4848,10 +4889,10 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Mon-voyage-pas-cher.com Public API](https://mon-voyage-pas-cher.com) | Transport | unknown | ❔ |
 | [Monday](https://api.developer.monday.com/docs) | Documents & Productivity | apiKey | ❔ |
 | [MonitorManagementClient](https://azure.com) | Cloud | unknown | ❔ |
+| [Mono](https://mono.co/) | Finance | apiKey | ❔ |
 | [Moon by Ai Weiwei & Olafur Eliasson](https://moonmoonmoonmoon.com) | Enterprise | unknown | ❔ |
 | [Most Popular API](http://developer.nytimes.com/) | Media | unknown | ❔ |
 | [Movie Reviews API](http://developer.nytimes.com/) | Media | unknown | ❔ |
-| [Myanmar](http://forex.cbm.gov.mm/api/) | Finance | unknown | ❔ |
 | [MySQLManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Nager.Date](https://date.nager.at) | Calendar | none | ❔ |
 | [Napster](https://developer.napster.com/api/v2.2) | Music | apiKey | ❔ |
@@ -4871,7 +4912,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [New York Times](https://developer.nytimes.com/) | News | apiKey | ❔ |
 | [New Zealand](https://www.rbnz.govt.nz/statistics) | Finance | unknown | ❔ |
 | [Newton](https://newton.now.sh/) | Science & Math | none | ❔ |
-| [Nexchange](https://nexchange2.docs.apiary.io/) | Cryptocurrency | none | ❔ |
 | [NLP Cloud](https://nlpcloud.io) | Machine Learning | apiKey | ❔ |
 | [NLPCloud](https://nlpcloud.io) | Text | unknown | ❔ |
 | [Nomics](https://nomics.com/docs/) | Cryptocurrency | apiKey | ❔ |
@@ -4895,16 +4935,10 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [OOXML Automation](https://presalytics.io) | Analytics | unknown | ❔ |
 | [Open Banking - Payments initiation service](https://developer.mastercard.com/product/open-banking-connect-api-product) | Enterprise | unknown | ❔ |
 | [Open Brewery DB](https://www.openbrewerydb.org) | Food & Drink | none | ❔ |
-| [Open Charge Map](https://openchargemap.org/site/develop/api) | Transportation | apiKey | ❔ |
-| [Open Data NHS Scotland](https://www.opendata.nhs.scot) | Health | none | ❔ |
 | [Open Dog Registry](https://registry.dog/) | Animals | OAuth | ❔ |
-| [Open Food Facts](https://en.wiki.openfoodfacts.org/API) | Fitness | unknown | ❔ |
-| [Open Government, Belgium](https://data.gov.be/) | Government | none | ❔ |
 | [Open Government, Finland](https://www.avoindata.fi/en) | Government | none | ❔ |
 | [Open Government, India](https://data.gov.in/) | Government | apiKey | ❔ |
 | [Open Government, Italy](https://www.dati.gov.it/) | Government | none | ❔ |
-| [Open Government, Luxembourg](https://data.public.lu) | Government | apiKey | ❔ |
-| [Open Government, Norway](https://data.norge.no/dataservices) | Government | none | ❔ |
 | [Open Government, Romania](http://data.gov.ro/) | Government | none | ❔ |
 | [Open Government, Saudi Arabia](https://data.gov.sa) | Government | none | ❔ |
 | [Open Government, Slovakia](https://data.gov.sk/en/) | Government | none | ❔ |
@@ -4922,11 +4956,12 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [OpenGraphr](https://opengraphr.com/docs/1.0/overview) | Development | apiKey | ❔ |
 | [OpenRates.io](http://www.openrates.io/) | Currency | unknown | ❔ |
 | [OpenSubtitles](https://www.opensubtitles.com/) | Video | apiKey | ❔ |
+| [OpenTiendas](https://opentiendas.dev/redocusaurus/plugin-redoc-0.yaml) | Shopping | apiKey | ❔ |
 | [OpenTrials API](https://opentrials.local) | Open_data | unknown | ❔ |
 | [OpenUV - Global Real-Time UV Index Forecast API](https://openuv.io) | Enterprise | unknown | ❔ |
 | [OpenVisionAPI](https://openvisionapi.com) | Machine Learning | none | ❔ |
 | [OPTIMADE API](https://optimade.local) | Open_data | unknown | ❔ |
-| [Orders API](https://walmart.com) | Ecommerce | unknown | ❔ |
+| [ORB Intelligence](https://api.orb-intelligence.com/docs/) | Business | apiKey | ❔ |
 | [Orders API](https://vtex.local) | Enterprise | unknown | ❔ |
 | [Orders API (PII version)](https://vtex.local) | Enterprise | unknown | ❔ |
 | [OrgHunter](https://orghunter.com) | Enterprise | unknown | ❔ |
@@ -4936,7 +4971,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [oyyi](https://oyyi.xyz/docs/1.0) | Development | none | ❔ |
 | [Pan Africa Data](https://panafricadata.com) | Open Data | apiKey | ❔ |
 | [ParallelDots](https://www.paralleldots.com/text-analysis-apis) | Natural Language Processing | unknown | ❔ |
-| [Parqet Logo API](https://developers.parqet.com/docs/assets/logos) | Finance | unknown | ❔ |
 | [PasswordUtility.Web](https://passwordutility.net) | Security | unknown | ❔ |
 | [Patchman-engine API](https://redhat.local) | Developer_tools | unknown | ❔ |
 | [Path of Exile](https://www.pathofexile.com/developer/docs) | Games & Comics | OAuth | ❔ |
@@ -4978,14 +5012,12 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [PowerBIDedicated](https://azure.com) | Cloud | unknown | ❔ |
 | [PowerDNS Authoritative HTTP API](https://powerdns.local) | Developer_tools | unknown | ❔ |
 | [PRC Exam Schedule](https://api.whenisthenextboardexam.com/docs/) | Government | none | ❔ |
-| [Price Management](https://walmart.com) | Ecommerce | unknown | ❔ |
 | [Price Simulations API](https://vtex.local) | Enterprise | unknown | ❔ |
 | [Pricing API](https://vtex.local) | Enterprise | unknown | ❔ |
 | [Pricing Hub](https://vtex.local) | Enterprise | unknown | ❔ |
 | [Prime ReportStream](https://reportstream.cdc.gov) | Open_data | unknown | ❔ |
 | [PrivateDnsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Probely Developers](https://probely.com) | Monitoring | unknown | ❔ |
-| [Product Finder API](https://hsbc.com) | Financial | unknown | ❔ |
 | [Profile](https://haloapi.com) | Entertainment | unknown | ❔ |
 | [Profile System](https://vtex.local) | Enterprise | unknown | ❔ |
 | [Programming Quotes](https://programming-quotesapi.vercel.app/) | Personality | none | ❔ |
@@ -5010,14 +5042,12 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Quicksold REST API](https://quicksold.co.uk) | Location | unknown | ❔ |
 | [Quran](https://quran.api-docs.io/) | Books | none | ❔ |
 | [raFont](https://rafont.com/api-docs) | Art & Design | none | ❔ |
-| [Rail Station Information](https://wmata.com) | Transport | unknown | ❔ |
 | [Railway Transport for France](https://www.digital.sncf.com/startup/api) | Transportation | apiKey | ❔ |
 | [Random Data](https://random-data-api.com) | Test Data | none | ❔ |
 | [Random Lexicon](https://randomlexicon.com/api-reference) | Dictionaries | none | ❔ |
 | [Random Stuff](https://api-docs.pgamerx.com/) | Development | apiKey | ❔ |
+| [RAWG Video Games Database API](https://rawg.io) | Entertainment | unknown | ❔ |
 | [Rblxdb](https://rblxdb.com/developers) | Games & Comics | none | ❔ |
-| [Real-Time Bus Predictions](https://wmata.com) | Transport | unknown | ❔ |
-| [Real-Time Rail Predictions](https://wmata.com) | Transport | unknown | ❔ |
 | [Recommendations API Client](https://azure.com) | Cloud | unknown | ❔ |
 | [RecoveryServicesBackupClient](https://azure.com) | Cloud | unknown | ❔ |
 | [RecoveryServicesClient](https://azure.com) | Cloud | unknown | ❔ |
@@ -5030,7 +5060,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [RemediationsClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Remote Diagnostic Support](https://mercedes-benz.com) | Transport | unknown | ❔ |
 | [Repetiti](https://developers.repetiti.com) | Commerce | unknown | ❔ |
-| [RescueGroups](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home) | Animals | none | ❔ |
 | [ResourceHealthMetadata API Client](https://azure.com) | Cloud | unknown | ❔ |
 | [ResourceManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [REST API Version 2](https://circuitsandbox.net) | Messaging | unknown | ❔ |
@@ -5043,7 +5072,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Ritc](https://ritc.io) | Cloud | unknown | ❔ |
 | [RoadGoat Cities](https://www.roadgoat.com/business/cities-api) | Geocoding | apiKey | ❔ |
 | [Roboflow Universe](https://universe.roboflow.com) | Machine Learning | apiKey | ❔ |
-| [RoboHash](https://robohash.org/) | Test Data | none | ❔ |
 | [Rocket Services](https://britbox.co.uk) | Entertainment | unknown | ❔ |
 | [Rotten Tomatoes](http://developer.rottentomatoes.com/io-docs/docs) | Media | unknown | ❔ |
 | [Rumble API (deprecated)](https://rumble.run) | Monitoring | unknown | ❔ |
@@ -5061,6 +5089,7 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [SchoolDigger API V1](https://schooldigger.com) | Open_data | unknown | ❔ |
 | [SCIM](https://developer.citrixonline.com/) | Enterprise | unknown | ❔ |
 | [Scrape Website Email API](https://scrapewebsite.email) | Email | unknown | ❔ |
+| [ScrapeNinja](https://scrapeninja.net) | Development | apiKey | ❔ |
 | [SeaBreezeManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [SearchIndexClient](https://azure.com) | Cloud | unknown | ❔ |
 | [SearchLy API v1](https://searchly.asuarez.dev/) | Media | unknown | ❔ |
@@ -5075,8 +5104,8 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Semantic API](http://developer.nytimes.com/) | Media | unknown | ❔ |
 | [Semantic Scholar](https://api.semanticscholar.org/) | Science & Math | none | ❔ |
 | [Semantria](https://semantria.com/support/developer/) | Social | unknown | ❔ |
-| [Semantria](https://semantria.readme.io/docs) | Text Analysis | OAuth | ❔ |
 | [Sentiment Analysis](https://www.meaningcloud.com/developer/sentiment-analysis) | Text Analysis | apiKey | ❔ |
+| [Serialif Color](https://color.serialif.com/) | Development | none | ❔ |
 | [ServerManagement](https://azure.com) | Cloud | unknown | ❔ |
 | [Service Fabric Client APIs](https://azure.com) | Cloud | unknown | ❔ |
 | [Service Map](https://azure.com) | Cloud | unknown | ❔ |
@@ -5136,7 +5165,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [StorSimpleManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Story](https://presalytics.io) | Analytics | unknown | ❔ |
 | [StreamAnalyticsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
-| [Styvio](https://www.Styvio.com) | Finance | apiKey | ❔ |
 | [Subscription (v1 - deprecated)](https://vtex.local) | Enterprise | unknown | ❔ |
 | [SubscriptionClient](https://azure.com) | Cloud | unknown | ❔ |
 | [SubscriptionDefinitionsClient](https://azure.com) | Cloud | unknown | ❔ |
@@ -5145,6 +5173,7 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Subscriptions API (v3)](https://vtex.local) | Enterprise | unknown | ❔ |
 | [SubscriptionsManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Suggestions](https://vtex.local) | Enterprise | unknown | ❔ |
+| [SukuuData](https://sukuudata.com/quickstart) | Government | apiKey | ❔ |
 | [Superset](https://superset.apache.local) | Enterprise | unknown | ❔ |
 | [Supportivekoala](https://developers.supportivekoala.com/) | Development | apiKey | ❔ |
 | [SuredBits](https://suredbits.com/api/) | Sports & Fitness | none | ❔ |
@@ -5164,7 +5193,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Tenders in Ukraine](https://tenders.guru/ua/api) | Business | none | ❔ |
 | [Text Analytics Client](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | Cloud | unknown | ❔ |
 | [The SureVoIP RESTful API](https://www.surevoip.co.uk/support/wiki/api_documentation) | Telecom | unknown | ❔ |
-| [The Water Linked Underwater GPS API](https://waterlinked.com) | Location | unknown | ❔ |
 | [TheGamestracker](https://thegamestracker.com/server-info-api) | Games & Comics | apiKey | ❔ |
 | [They Said So](http://quotes.rest/qod.json?category=inspire) | Quotes | unknown | ❔ |
 | [They Said So Quotes](https://theysaidso.com/api/) | Personality | none | ❔ |
@@ -5192,7 +5220,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Transport for London Unified API](https://tfl.gov.uk) | Transport | unknown | ❔ |
 | [Transport for London, England](https://api.tfl.gov.uk) | Transportation | apiKey | ❔ |
 | [Transport for Ottawa, Canada](https://www.octranspo.com/en/plan-your-trip/travel-tools/developers) | Transportation | apiKey | ❔ |
-| [Transport for Paris, France](http://data.ratp.fr/api/v1/console/datasets/1.0/search/) | Transportation | none | ❔ |
 | [Transport for Philadelphia, US](http://www3.septa.org/hackathon/) | Transportation | none | ❔ |
 | [Transport for The Netherlands](http://www.ns.nl/reisinformatie/ns-api) | Transportation | apiKey | ❔ |
 | [Transportation Laws and Incentives](https://nrel.gov) | Open_data | unknown | ❔ |
@@ -5240,9 +5267,14 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Twilio - Wireless](https://support.twilio.com) | Telecom | unknown | ❔ |
 | [Twitter API](https://dev.twitter.com) | Social | unknown | ❔ |
 | [Twitter Sign-in]([https://developer.twitter.com/web/sign-in](https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter) | Login Authentication | unknown | ❔ |
+| [U.S. EPA Enforcement and Compliance History Online (ECHO) - All Data](https://echo.epa.gov/resources/general-info/contact-us) | Open_data | unknown | ❔ |
+| [U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Air Act](https://echo.epa.gov/resources/general-info/contact-us) | Open_data | unknown | ❔ |
+| [U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Water Act (CWA) Rest Services](https://echo.epa.gov/resources/general-info/contact-us) | Open_data | unknown | ❔ |
+| [U.S. EPA Enforcement and Compliance History Online (ECHO) - Effluent Charting and Reporting](https://echo.epa.gov/resources/general-info/contact-us) | Open_data | unknown | ❔ |
+| [U.S. EPA Enforcement and Compliance History Online (ECHO) - Resource Conservation and Recovery Act](https://echo.epa.gov/resources/general-info/contact-us) | Open_data | unknown | ❔ |
+| [U.S. EPA Enforcement and Compliance History Online (ECHO) - Safe Drinking Water Act](https://echo.epa.gov/resources/general-info/contact-us) | Open_data | unknown | ❔ |
 | [Udemy(instructor)](https://www.udemy.com/developers/instructor/) | Personality | apiKey | ❔ |
 | [UGC](https://haloapi.com) | Entertainment | unknown | ❔ |
-| [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) | Finance | unknown | ❔ |
 | [Universalis](https://universalis.app/docs/index.html) | Games & Comics | none | ❔ |
 | [Update Management](https://azure.com) | Cloud | unknown | ❔ |
 | [UpdateAdminClient](https://azure.com) | Cloud | unknown | ❔ |
@@ -5254,8 +5286,8 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [UsageManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Use a [New Version](https://icons8.github.io/icons8-docs/) Instead](https://icons8.com) | Media | unknown | ❔ |
 | [Users (Okta API)](https://okta.local) | Security | unknown | ❔ |
+| [Utilorax](https://utilorax.com/api) | Development | apiKey | ❔ |
 | [Vadivelu HTTP Codes](https://vadivelu.anoram.com/) | Personality | none | ❔ |
-| [Vectara REST API](http://support.vectara.com/) | Enterprise | unknown | ❔ |
 | [VeganCheck](https://jokenetwork.de/vegancheck-api) | Fitness | unknown | ❔ |
 | [Vehicle Image](https://mercedes-benz.com) | Transport | unknown | ❔ |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Transportation | none | ❔ |
@@ -5264,18 +5296,15 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Verizon Cloud](http://www.verizon.com/cloudstorageapi) | File Storage and Manipulation | unknown | ❔ |
 | [Vestorly API](https://vestorly.com) | Marketing | unknown | ❔ |
 | [Viator API Documentation &amp; Specification – Merchant Partners](https://docs.viator.com/partner-api/merchant/#support-procedures-merchant/) | Location | unknown | ❔ |
-| [VictorOps](https://victorops.com) | Developer_tools | unknown | ❔ |
 | [VirtualMachineImageTemplate](https://azure.com) | Cloud | unknown | ❔ |
 | [VirtualWANAsAServiceManagementClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Virushee](https://api.virushee.com/) | Security | none | ❔ |
 | [VisageCloud](https://visagecloud.com) | Search | unknown | ❔ |
-| [VisibleThread API](https://visiblethread.com) | Text | unknown | ❔ |
 | [Visitor Identification](https://hubapi.com) | Enterprise | unknown | ❔ |
 | [Visual Studio Projects Resource Provider Client](https://azure.com) | Cloud | unknown | ❔ |
 | [Visual Studio Resource Provider Client](https://azure.com) | Cloud | unknown | ❔ |
 | [VM Insights Onboarding](https://azure.com) | Cloud | unknown | ❔ |
 | [VMwareCloudSimple](https://azure.com) | Cloud | unknown | ❔ |
-| [Voodoo Manufacturing 3D Print API](https://voodoomfg.com) | Tools | unknown | ❔ |
 | [vRealize Network Insight API Reference](https://vmware.local) | Developer_tools | unknown | ❔ |
 | [VSOnline](https://visualstudio.com) | Developer_tools | unknown | ❔ |
 | [VTEX Do API](https://vtex.local) | Enterprise | unknown | ❔ |
@@ -5286,11 +5315,7 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [WallstreetBets](https://dashboard.nbshare.io/apps/reddit/api/) | Finance | none | ❔ |
 | [Walltime](https://walltime.info/api.html) | Blockchain | none | ❔ |
 | [Warface (non-official)](https://api.wfstats.cf) | Games & Comics | none | ❔ |
-| [watchful.li](https://watchful.li/faqs/tools/watchful-rest-api.html) | Hosting | unknown | ❔ |
-| [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | Text Analysis | OAuth | ❔ |
-| [Wealth Reader API](https://docs-es.wealthreader.com/) | Enterprise | unknown | ❔ |
 | [Weather Hacks](http://weather.livedoor.com/weather_hacks/) | Weather | none | ❔ |
-| [Weatherbit - Interactive Swagger UI Documentation](https://weatherbit.io) | Location | unknown | ❔ |
 | [Web of Trust](https://support.mywot.com/hc/en-us/sections/360004477734-API-) | Anti-Malware | apiKey | ❔ |
 | [Web3 Storage](https://web3.storage/) | Cloud Storage & File Sharing | apiKey | ❔ |
 | [WebApplicationFirewallManagement](https://azure.com) | Cloud | unknown | ❔ |
@@ -5300,51 +5325,25 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [WebPurify](https://www.webpurify.com/image-moderation/) | Image Moderation | unknown | ❔ |
 | [Website Carbon](https://api.websitecarbon.com/) | Environment | none | ❔ |
 | [WebSite Management Client](https://azure.com) | Cloud | unknown | ❔ |
-| [WeGA API](https://weber-gesamtausgabe.de) | Open_data | unknown | ❔ |
-| [Wellknown](https://wellknown.ai) | Open_data | unknown | ❔ |
-| [What The Commit](http://whatthecommit.com/index.txt) | Test Data | none | ❔ |
 | [What3Words](https://what3words.com) | Geocoding | apiKey | ❔ |
 | [WhatJobs](https://www.whatjobs.com/affiliates) | Jobs | apiKey | ❔ |
 | [WhatsApp Business API](https://whatsapp.local) | Messaging | unknown | ❔ |
 | [Wheelwise](https://cars.limoja.ai/api/search?q=BMW&limit=1) | Vehicle | none | ❔ |
-| [Where to Credit API](https://wheretocredit.com) | Transport | unknown | ❔ |
 | [Whitepages Pro](https://pro.whitepages.com/) | Identity Verification | unknown | ❔ |
-| [Who Hosts This API](https://www.who-hosts-this.com/Documentation) | Hosting | unknown | ❔ |
-| [Wikimedia](http://mediawiki.org/wiki/REST_API) | Media | unknown | ❔ |
-| [WikiPathways Webservices](https://wikipathways.org) | Enterprise | unknown | ❔ |
 | [windowsesu](https://azure.com) | Cloud | unknown | ❔ |
-| [WINSMS](http://support.winsms.co.za/) | Messaging | unknown | ❔ |
-| [WireMock](http://wiremock.org/docs/) | Developer_tools | unknown | ❔ |
-| [Withings](http://oauth.withings.com/api) | Fitness | unknown | ❔ |
-| [Wolfram](https://wolframalpha.com) | Machine_learning | unknown | ❔ |
 | [Wordpress](https://codex.wordpress.org/WordPress_APIs) | Social Media | unknown | ❔ |
 | [WordSoHard](https://wordsohard.com/api) | Dictionaries | none | ❔ |
-| [WorkBC Job Posting API](https://gov.bc.ca) | Open_data | unknown | ❔ |
 | [WorkbookClient](https://azure.com) | Cloud | unknown | ❔ |
 | [Workload Monitor](https://azure.com) | Cloud | unknown | ❔ |
 | [World Time API](https://worldtimeapi.org) | Location | unknown | ❔ |
 | [World Trading Data](https://www.worldtradingdata.com/) | Finance | apiKey | ❔ |
 | [Worth the Rip](https://worththerip.com/api/) | Games & Comics | none | ❔ |
-| [Wowza Streaming Cloud REST API Reference Documentation](https://www.wowza.com/docs/how-to-broadcast-a-live-stream-by-using-the-wowza-streaming-cloud-rest-api) | Media | unknown | ❔ |
 | [Written Questions Service API](https://www.parliament.uk/) | Open_data | unknown | ❔ |
-| [www.zoomconnect.com](https://zoomconnect.com) | Messaging | unknown | ❔ |
-| [Xero Accounting API](https://developer.xero.com) | Financial | unknown | ❔ |
-| [Xero Assets API](https://developer.xero.com) | Financial | unknown | ❔ |
-| [Xero Bank Feeds API](https://developer.xero.com) | Financial | unknown | ❔ |
-| [Xero Files API](https://developer.xero.com) | Financial | unknown | ❔ |
-| [Xero OAuth 2 Identity Service API](https://developer.xero.com) | Financial | unknown | ❔ |
-| [Xero Payroll AU API](https://developer.xero.com) | Financial | unknown | ❔ |
 | [Xively](https://developer.xively.com/reference) | IoT | unknown | ❔ |
-| [XTRF Home Portal API](https://xtrf.eu) | Enterprise | unknown | ❔ |
 | [Yahoo Finance](https://www.yahoofinanceapi.com/) | Finance | apiKey | ❔ |
 | [YNAB API Endpoints](https://youneedabudget.com) | Financial | unknown | ❔ |
 | [Yodlee Core APIs](https://yodlee.com) | Financial | unknown | ❔ |
-| [Zalando Shop](https://zalando.com) | Ecommerce | unknown | ❔ |
-| [Zapier Natural Language Actions (NLA) API - Beta](https://zapier.com) | Developer_tools | unknown | ❔ |
-| [Zappiti Player API](https://zappiti.com) | Media | unknown | ❔ |
-| [ZEIT API](https://zeit.co/docs/api/) | Hosting | unknown | ❔ |
 | [Zennet](https://zennet.cloud) | Cryptocurrency | none | ❔ |
-| [Zenoti API](https://zenoti.com) | Customer_relation | unknown | ❔ |
 | [Zero Retention PDF](https://xeropdf.com) | Documents & Productivity | apiKey | ❔ |
 | [ZipRecruiter](https://www.ziprecruiter.com/publishers) | Jobs | apiKey | ❔ |
 | [Zoho Books](https://www.zoho.com/books/api/v3/) | Finance | OAuth | ❔ |
@@ -5491,8 +5490,8 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Bittrex](https://bittrex.github.io/api/v3) | Cryptocurrency | apiKey | ❌ |
 | [BlaBlaCar](https://dev.blablacar.com) | Transportation | apiKey | ❌ |
 | [BlueSky API](https://blueskyapi.io/docs/api) | Weather | unknown | ❌ |
+| [Blynk-Cloud](https://blynkapi.docs.apiary.io/#) | Development | apiKey | ❌ |
 | [Bob's Burgers](https://bobs-burgers-api-ui.herokuapp.com) | Video | none | ❌ |
-| [BoozeAPI](https://boozeapi.com/) | Food & Drink | apiKey | ❌ |
 | [Browse API](https://ebay.com) | Ecommerce | unknown | ❌ |
 | [Budgea API Documentation](https://biapi.pro) | Financial | unknown | ❌ |
 | [Buy Marketing API](https://ebay.com) | Ecommerce | unknown | ❌ |
@@ -5517,13 +5516,13 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Code.gov](https://code.gov) | Government | apiKey | ❌ |
 | [Codex](https://github.com/Jaagrav/CodeX) | Development | none | ❌ |
 | [Coinlib](https://coinlib.io/apidocs) | Cryptocurrency | apiKey | ❌ |
+| [Colorado Information Marketplace](https://data.colorado.gov/) | Government | none | ❌ |
 | [Compliance API](https://ebay.com) | Ecommerce | unknown | ❌ |
 | [Congressional Stock Brain](https://congressionalstockbrain.com) | Finance | none | ❌ |
 | [Contact Center AI Insights API](https://cloud.google.com/contact-center/insights/docs) | Analytics | unknown | ❌ |
 | [Contract.fit API](https://contract-p.fit) | Text | unknown | ❌ |
 | [Conversation API](https://developer.nexmo.com/) | Enterprise | unknown | ❌ |
 | [Covalent](https://www.covalenthq.com/docs/api/) | Blockchain | apiKey | ❌ |
-| [CoworkingView](https://coworkingview.com/en/api) | Open Data | none | ❌ |
 | [CryptingUp](https://www.cryptingup.com/apidoc/#introduction) | Cryptocurrency | none | ❌ |
 | [Czech Namedays Calendar](https://svatky.adresa.info) | Calendar | none | ❌ |
 | [Danish data service Energi](https://www.energidataservice.dk/) | Environment | none | ❌ |
@@ -5564,6 +5563,7 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Harry Potter Charactes](https://hp-api.herokuapp.com/) | Video | none | ❌ |
 | [Httpbin Cloudflare](https://cloudflare-quic.com/b/) | Development | none | ❌ |
 | [Humanitarian Data Exchange](https://data.humdata.org/) | Health | none | ❌ |
+| [Hytale](https://hytale-api.com/) | Games & Comics | none | ❌ |
 | [IBM Text to Speech](https://console.bluemix.net/docs/services/text-to-speech/getting-started.html) | Development | apiKey | ❌ |
 | [Identity API](https://apiz.ebay.com) | Ecommerce | unknown | ❌ |
 | [Imsea](https://imsea.herokuapp.com/) | Photography | none | ❌ |
@@ -5576,6 +5576,7 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [KeyServ](https://keyserv.solutions) | Iot | unknown | ❌ |
 | [kimiquotes](https://kimiquotes.herokuapp.com/doc) | Personality | none | ❌ |
 | [Kiprio Email Validate](https://kiprio.com/v1/email-validate) | Email | apiKey | ❌ |
+| [Kiprio Translate](https://kiprio.com/v1/translate) | Text Analysis | apiKey | ❌ |
 | [Kiprio UK Postcode](https://kiprio.com/v1/postcode) | Geocoding | apiKey | ❌ |
 | [Klarna](https://docs.klarna.com/klarna-payments/api/payments-api/) | Finance | apiKey | ❌ |
 | [Kraken](https://docs.kraken.com/rest/) | Cryptocurrency | apiKey | ❌ |
@@ -5586,7 +5587,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Managed Streaming for Kafka](https://docs.aws.amazon.com/kafka/) | Cloud | unknown | ❌ |
 | [MangaDex](https://api.mangadex.org/docs.html) | Anime | apiKey | ❌ |
 | [Mario Kart Tour](https://mario-kart-tour-api.herokuapp.com/) | Games & Comics | OAuth | ❌ |
-| [markerapi](https://markerapi.com) | Business | none | ❌ |
 | [Marketing API](https://ebay.com) | Ecommerce | unknown | ❌ |
 | [Media API](https://developer.nexmo.com/) | Enterprise | unknown | ❌ |
 | [Messages API](https://developer.nexmo.com/) | Enterprise | unknown | ❌ |
@@ -5599,6 +5599,7 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Motivational Quotes](https://nodejs-quoteapp.herokuapp.com/) | Video | none | ❌ |
 | [Nasdaq Data Link](https://docs.data.nasdaq.com/) | Open Data | apiKey | ❌ |
 | [Negotiation API](https://ebay.com) | Ecommerce | unknown | ❌ |
+| [Nexchange](https://nexchange2.docs.apiary.io/) | Cryptocurrency | none | ❌ |
 | [Nexmo](https://developer.nexmo.com) | Communication | unknown | ❌ |
 | [Nexmo Application API](https://developer.nexmo.com/api/developer/application) | Enterprise | unknown | ❌ |
 | [Nexmo Conversion API](https://developer.nexmo.com/api/conversion) | Enterprise | unknown | ❌ |
@@ -5611,7 +5612,6 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Open Government, Singapore](https://data.gov.sg/developer) | Government | none | ❌ |
 | [Open Page Rank](https://www.domcop.com/openpagerank/) | Development | apiKey | ❌ |
 | [OpenSky Network](https://opensky-network.org/apidoc/index.html) | Transportation | none | ❌ |
-| [ORB Intelligence](https://api.orb-intelligence.com/docs/) | Business | apiKey | ❌ |
 | [Orbit API](https://orbit.love) | Customer_relation | unknown | ❌ |
 | [Owen Wilson Wow](https://owen-wilson-wow-api.herokuapp.com) | Video | none | ❌ |
 | [OwlBot](https://owlbot.info/) | Dictionaries | apiKey | ❌ |
@@ -5659,8 +5659,10 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Square](https://developer.squareup.com/reference/square) | Business | OAuth | ❌ |
 | [Square Connect API](https://docs.connect.squareup.com/) | Payment | unknown | ❌ |
 | [Star Wars API (SWAPI)](https://www.swapi.tech/) | Entertainment | unknown | ❌ |
+| [State, New York State Opendata](https://data.ny.gov/) | Government | OAuth | ❌ |
 | [StatSocial Platform API](http://docs.statsocial.com/home/) | Social | unknown | ❌ |
 | [Stream](https://api.stream.cz/graphiql) | Video | none | ❌ |
+| [Styvio](https://www.Styvio.com) | Finance | apiKey | ❌ |
 | [Subaccounts API](https://developer.nexmo.com/) | Enterprise | unknown | ❌ |
 | [SWAPI](https://www.swapi.tech) | Video | none | ❌ |
 | [Switzerland](https://data.snb.ch/en) | Finance | unknown | ❌ |
@@ -5679,6 +5681,7 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [Transport for Vancouver, Canada](https://developer.translink.ca/) | Transportation | OAuth | ❌ |
 | [Tyk](https://tyk.io/open-source/) | Development | apiKey | ❌ |
 | [Uber](https://developer.uber.com/products) | Transportation | OAuth | ❌ |
+| [Ukraine](https://bank.gov.ua/control/en/publish/article?art_id=25365630) | Finance | unknown | ❌ |
 | [UniCourt Enterprise APIs](https://unicourt.com) | Open_data | unknown | ❌ |
 | [US Federal Contracts & Grants](https://government-data-api.onrender.com/docs) | Government | none | ❌ |
 | [US Presidential Election Data by TogaTech](https://uselection.togatech.org/api/) | Government | none | ❌ |
@@ -5692,15 +5695,19 @@ These responded with auth/blocked codes (❔) or failed today (❌). Kept for co
 | [VOLO](https://www.flyvolo.ai/for-agents) | Transportation | apiKey | ❌ |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst) | Development | none | ❌ |
 | [Warnely](https://warnely.com/developers) | Open Data | none | ❌ |
+| [Watchmode](https://api.watchmode.com/) | Video | apiKey | ❌ |
+| [Watson Natural Language Understanding](https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding) | Text Analysis | OAuth | ❌ |
 | [Web Risk API](https://cloud.google.com/web-risk/) | Analytics | unknown | ❌ |
 | [WeTransfer](https://developers.wetransfer.com) | Cloud Storage & File Sharing | apiKey | ❌ |
 | [Wikitude](http://www.wikitude.com/download/) | Augmented Reality | unknown | ❌ |
 | [Windsock](https://windsock.ai/app/docs) | Transportation | apiKey | ❌ |
 | [Wizard World](https://wizard-world-api.herokuapp.com/swagger/index.html) | Books | none | ❌ |
+| [Wolfram](https://wolframalpha.com) | Machine_learning | unknown | ❌ |
 | [WolframAlpha](https://products.wolframalpha.com/api/) | Machine Learning | apiKey | ❌ |
 | [xMath](https://x-math.herokuapp.com/) | Science & Math | none | ❌ |
 | [Yahoo Gemini API](https://developer.yahoo.com/gemini/) | Advertising | unknown | ❌ |
 | [Yelp](https://www.yelp.com/developers/documentation/v3) | Open Data | OAuth | ❌ |
+| [Zappiti Player API](https://zappiti.com) | Media | unknown | ❌ |
 | [Zoho Reports API](https://zohoreportsapi.wiki.zoho.com/) | Analytics | unknown | ❌ |
 
 </details>
