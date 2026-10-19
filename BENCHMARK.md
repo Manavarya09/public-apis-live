@@ -1,6 +1,6 @@
 # Benchmark
 
-_Measured 2026-10-18 from the live, reachability-verified dataset. Regenerated daily._
+_Measured 2026-10-19 from the live, reachability-verified dataset. Regenerated daily._
 
 How the major public-API lists actually hold up once **every link is checked**.
 Working = the server responded; dead = DNS/connection failure, 5xx, or 404; unknown = timeout.
@@ -10,8 +10,8 @@ not hand-curated.
 
 | Source | APIs | ✅ working | ❌ dead | ❔ unknown | working rate | dead rate |
 |---|---|---|---|---|---|---|
-| public-apis-live (merged, deduped) | 4925 | 3465 | 323 | 1137 | 70.4% | 6.6% |
-| APIs.guru | 2069 | 1212 | 196 | 661 | 58.6% | 9.5% |
-| n0shake/Public-APIs | 480 | 355 | 26 | 99 | 74% | 5.4% |
-| public-api-lists/public-api-lists | 837 | 708 | 25 | 104 | 84.6% | 3% |
-| public-apis/public-apis | 2167 | 1720 | 90 | 357 | 79.4% | 4.2% |
+| public-apis-live (merged, deduped) | 4925 | 3452 | 328 | 1145 | 70.1% | 6.7% |
+| APIs.guru | 2069 | 1208 | 197 | 664 | 58.4% | 9.5% |
+| n0shake/Public-APIs | 480 | 352 | 27 | 101 | 73.3% | 5.6% |
+| public-api-lists/public-api-lists | 837 | 710 | 24 | 103 | 84.8% | 2.9% |
+| public-apis/public-apis | 2167 | 1713 | 94 | 360 | 79% | 4.3% |
