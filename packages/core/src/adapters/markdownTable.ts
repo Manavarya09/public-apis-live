@@ -18,25 +18,45 @@ function clean(s: string): string {
 export function parseMarkdownTable(md: string, sourceRepo: string): RawEntry[] {
   const out: RawEntry[] = [];
   let category = "Uncategorized";
+  let columns: Map<string, number> | undefined;
   for (const line of md.split("\n")) {
     const h = line.match(/^#{2,4}\s+(.+?)\s*$/);
     if (h) {
       category = h[1].trim();
+      columns = undefined;
       continue;
     }
-    if (!line.trim().startsWith("|")) continue;
+    if (!line.trim().startsWith("|")) {
+      columns = undefined;
+      continue;
+    }
     const cells = line.split("|").slice(1, -1).map((c) => c.trim());
     if (cells.length < 2) continue;
-    const link = cells[0].match(/\[([^\]]+)\]\(([^)]+)\)/);
+    const headers = cells.map((c) => clean(c).toLowerCase());
+    if (headers.includes("description") && (headers.includes("api") || headers.includes("name"))) {
+      columns = new Map(headers.map((name, index) => [name, index]));
+      continue;
+    }
+    // A transport label is not an HTTPS assertion. This REST model cannot
+    // represent an MCP-only table without inventing HTTPS/CORS metadata.
+    if (columns?.has("transport") && !columns.has("https")) continue;
+    const cell = (name: string, fallback: number): string | undefined => {
+      const index = columns ? columns.get(name) : fallback;
+      return index === undefined ? undefined : cells[index];
+    };
+    const link = (cell(columns?.has("api") ? "api" : "name", 0) ?? "").match(/\[([^\]]+)\]\(([^)]+)\)/);
     if (!link) continue; // skips header + separator rows
+    const auth = cell("auth", 2);
+    const https = cell("https", 3);
+    const cors = cell("cors", 4);
     out.push({
       name: clean(link[1]),
       url: link[2].trim(),
-      description: clean(cells[1] ?? ""),
+      description: clean(cell("description", 1) ?? ""),
       category,
-      auth: cells[2] !== undefined ? normAuth(cells[2]) : "unknown",
-      https: cells[3] !== undefined ? yes(cells[3]) : false,
-      cors: cells[4] !== undefined && yes(cells[4]) ? "yes" : "unknown",
+      auth: auth !== undefined ? normAuth(auth) : "unknown",
+      https: https !== undefined ? yes(https) : false,
+      cors: cors !== undefined && yes(cors) ? "yes" : "unknown",
       sourceRepo,
     });
   }
