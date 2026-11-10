@@ -10,8 +10,8 @@ not hand-curated.
 
 | Source | APIs | ✅ working | ❌ dead | ❔ unknown | working rate | dead rate |
 |---|---|---|---|---|---|---|
-| public-apis-live (merged, deduped) | 5124 | 3648 | 331 | 1145 | 71.2% | 6.5% |
+| public-apis-live (merged, deduped) | 5124 | 3652 | 329 | 1143 | 71.3% | 6.4% |
 | APIs.guru | 2069 | 1213 | 195 | 661 | 58.6% | 9.4% |
-| n0shake/Public-APIs | 480 | 353 | 27 | 100 | 73.5% | 5.6% |
-| public-api-lists/public-api-lists | 837 | 698 | 28 | 111 | 83.4% | 3.3% |
-| public-apis/public-apis | 2367 | 1913 | 96 | 358 | 80.8% | 4.1% |
+| n0shake/Public-APIs | 480 | 352 | 27 | 101 | 73.3% | 5.6% |
+| public-api-lists/public-api-lists | 837 | 701 | 25 | 111 | 83.8% | 3% |
+| public-apis/public-apis | 2367 | 1917 | 95 | 355 | 81% | 4% |
